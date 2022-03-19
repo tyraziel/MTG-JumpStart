@@ -22,7 +22,7 @@ ABOVE THE CLOUDS (1)
 1 Above the Clouds Island
 
 ABOVE THE CLOUDS (2)
- //Creatures (7)
+//Creatures (7)
 1 Serendib Efreet
 1 Inniaz, the Gale Force
 1 Tide Skimmer
@@ -39,7 +39,7 @@ ABOVE THE CLOUDS (2)
 1 Lofty Denial
 //Enchantments (1)
 1 Capture Sphere
-Land (6)
+//Lands (6)
 1 Thriving Isle
 5 Island
 1 Above the Clouds Island
@@ -59,7 +59,7 @@ ABOVE THE CLOUDS (3)
 1 Lofty Denial
 //Enchantments (1)
 1 Capture Sphere
-Land (8)
+//Lands (8)
 1 Thriving Isle
 7 Island
 1 Above the Clouds Island
@@ -484,7 +484,7 @@ DISCARDING 1
 1 Mind Rot
 //Enchantments (1)
 1 Death's Approach
-Land (8)
+//Lands (8)
 1 Thriving Moor
 7 Swamp
 
@@ -503,7 +503,7 @@ DISCARDING 2
 1 Assassin's Strike
 //Enchantments (1)
 1 Death's Approach
-Land (8)
+//Lands (8)
 1 Thriving Moor
 7 Swamp
 
@@ -651,7 +651,7 @@ DRAGONS (1)
 //Instants (2)
 1 Draconic Roar
 1 Thrill of Possibility
-Land (8)
+//Lands (8)
 1 Thriving Bluff
 7 Mountain
 1 Dragons Mountain
@@ -671,7 +671,7 @@ DRAGONS (2)
 //Instants (2)
 1 Draconic Roar
 1 Sarkhan's Rage
-Land (8)
+//Lands (8)
 1 Thriving Bluff
 7 Mountain
 1 Dragons Mountain
@@ -1466,7 +1466,7 @@ PLUS ONE (1)
 1 Invigorating Surge
 //Enchantments (1)
 1 Primeval Bounty
-Land (8)
+//Lands (8)
 1 Thriving Grove
 7 Forest
 1 Plus One Forest
@@ -1487,7 +1487,7 @@ PLUS ONE (2)
 1 Invigorating Surge
 //Enchantments (1)
 1 Branching Evolution
-Land (8)
+//Lands (8)
 1 Thriving Grove
 7 Forest
 1 Plus One Forest
@@ -1507,7 +1507,7 @@ PLUS ONE (3)
 1 Inspiring Call
 1 Arbor Armament
 1 Invigorating Surge
-Land (8)
+//Lands (8)
 1 Thriving Grove
 7 Forest
 1 Plus One Forest
@@ -1528,7 +1528,7 @@ PLUS ONE (4)
 1 Invigorating Surge
 //Enchantments (1)
 1 Branching Evolution
-Land (8)
+//Lands (8)
 1 Thriving Grove
 7 Forest
 1 Plus One Forest
@@ -2224,7 +2224,7 @@ UNDER THE SEA (1)
 //Enchantments (2)
 1 Waterknot
 1 Rousing Read
-Land (8)
+//Lands (8)
 1 Thriving Isle
 7 Island
 1 Under the Sea Island
@@ -2246,7 +2246,7 @@ UNDER THE SEA (2)
 1 Unstable Obelisk
 //Enchantments (1)
 1 Waterknot
-Land (8)
+//Lands (8)
 1 Thriving Isle
 7 Island
 1 Under the Sea Island
