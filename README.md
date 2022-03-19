@@ -1,6 +1,6 @@
 # MTG-JumpStart
 
-JumpStart 2020 List / Link:  https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+JumpStart 2020 Lists Link:  https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
 
 
 
