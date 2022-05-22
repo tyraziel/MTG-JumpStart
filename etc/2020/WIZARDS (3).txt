@@ -1,0 +1,21 @@
+WIZARDS (3)
+//Creatures (5)
+1 Talrand, Sky Summoner
+1 Sage's Row Savant
+1 Shipwreck Dowser
+1 Vodalian Arcanist
+1 Teferi's Protege
+//Sorceries (3)
+1 Talrand's Invocation
+1 Winged Words
+1 Read the Tides
+//Instants (3)
+1 Wizard's Retort
+1 Unsubstantiate
+1 Opt
+//Enchantments (1)
+1 Capture Sphere
+//Lands (8)
+1 Thriving Isle
+6 Island
+1 Wizards Island

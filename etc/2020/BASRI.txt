@@ -1,0 +1,21 @@
+BASRI
+//Planeswalker (1)
+1 Basri Ket
+//Creatures (7)
+1 Concordia Pegasus
+1 Knight of the Tusk
+1 Basri's Lieutenant
+1 Tempered Veteran
+1 Siege Striker
+1 Staunch Shieldmate
+1 Basri's Acolyte
+//Sorceries (2)
+1 Basri's Solidarity
+1 Legion's Judgment
+//Instants (1)
+1 Feat of Resistance
+//Enchantments (1)
+1 Faith's Fetters
+//Lands (8)
+1 Thriving Heath
+7 Plains

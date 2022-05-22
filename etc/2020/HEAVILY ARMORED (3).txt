@@ -1,0 +1,20 @@
+HEAVILY ARMORED (3)
+//Creatures (9)
+1 Mikaeus, the Lunarch
+1 Patron of the Valiant
+1 Supply Runners
+1 Bulwark Giant
+1 Trusty Retriever
+1 Lightwalker
+1 Tempered Veteran
+1 Makeshift Battalion
+1 Basri's Acolyte
+//Sorceries (1)
+1 Basri's Solidarity
+//Instants (2)
+1 Battlefield Promotion
+1 Divine Arrow
+//Lands (8)
+1 Thriving Heath
+6 Plains
+1 Heavily Armed Plains

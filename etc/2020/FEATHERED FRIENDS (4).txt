@@ -1,0 +1,21 @@
+FEATHERED FRIENDS (4)
+//Creatures (8)
+1 Archon of Justice
+1 Archon of Redemption
+1 Healer's Hawk
+1 Falconer Adept
+1 Concordia Pegasus
+1 Warded Battlements
+1 Gale Swooper
+1 Celestial Enforcer
+//Sorceries (1)
+1 Aerial Assault
+//Instants (2)
+1 Aegis of the Heavens
+1 Dauntless Onslaught
+//Enchantments (1)
+1 Sky Tether
+//Lands (8)
+1 Thriving Heath
+6 Plains
+1 Feathered Friends Plains

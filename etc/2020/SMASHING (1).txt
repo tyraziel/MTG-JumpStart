@@ -1,0 +1,21 @@
+SMASHING (1)
+//Creatures (7)
+1 Bloodrage Brawler
+1 Flametongue Kavu
+1 Borderland Marauder
+1 Heartfire Immolator
+1 Onakke Ogre
+1 Turret Ogre
+1 Bone Pit Brute
+//Sorceries (1)
+1 Volcanic Salvo
+//Instants (3)
+1 Fling
+1 Unleash Fury
+1 Shock
+//Enchantments (1)
+1 Furious Rise
+//Lands (8)
+1 Thriving Bluff
+6 Mountain
+1 Smashing Mountain

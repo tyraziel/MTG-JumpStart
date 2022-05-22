@@ -1,0 +1,21 @@
+UNDER THE SEA (2)
+//Creatures (7)
+1 Cryptic Serpent
+1 Sigiled Starfish
+1 Octoprophet
+1 Wishful Merfolk
+1 Aegis Turtle
+1 Pursued Whale
+1 Waker of Waves
+//Sorceries (1)
+1 Whelming Wave
+//Instants (1)
+1 Sweep Away
+//Artifacts (1)
+1 Unstable Obelisk
+//Enchantments (1)
+1 Waterknot
+//Lands (8)
+1 Thriving Isle
+7 Island
+1 Under the Sea Island

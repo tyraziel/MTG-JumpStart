@@ -1,0 +1,20 @@
+SPELLCASTING (3)
+//Creatures (8)
+1 Charmbreaker Devils
+1 Dualcaster Mage
+1 Living Lightning
+1 Lightning Visionary
+1 Thermo-Alchemist
+1 Chandra's Pyreling
+1 Kinetic Augur
+1 Heartfire Immolator
+//Sorceries (1)
+1 Dragon Fodder
+//Instants (3)
+1 Hungry Flames
+1 Shock
+1 Thrill of Possibility
+//Lands (8)
+1 Thriving Bluff
+6 Mountain
+1 Spellcasting Mountain

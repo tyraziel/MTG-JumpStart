@@ -1,0 +1,20 @@
+ARCHAEOLOGY (4)
+//Creatures (9)
+1 Scarecrone
+1 Juggernaut
+1 Meteor Golem
+1 Scuttlemutt
+2 Archaeomender
+1 Lightning-Core Excavator
+1 Jousting Dummy
+1 Signpost Scarecrow
+//Instants (1)
+1 Thirst for Knowledge
+//Artifacts (2)
+1 Aether Spellbomb
+1 Short Sword
+//Lands (8)
+1 Buried Ruin
+1 Thriving Isle
+5 Island
+1 Archaeology Island

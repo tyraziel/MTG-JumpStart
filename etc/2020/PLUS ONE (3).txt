@@ -1,0 +1,19 @@
+PLUS ONE (3)
+//Creatures (7)
+1 Rishkar, Peema Renegade
+1 Nessian Hornbeetle
+1 Fertilid
+1 Scrounging Bandar
+1 Wildwood Scourge
+1 Trufflesnout
+1 Pridemalkin
+//Sorceries (1)
+1 Hunter's Edge
+//Instants (3)
+1 Inspiring Call
+1 Arbor Armament
+1 Invigorating Surge
+//Lands (8)
+1 Thriving Grove
+7 Forest
+1 Plus One Forest

@@ -1,0 +1,20 @@
+SMASHING (3)
+//Creatures (8)
+1 Hamletback Goliath
+1 Bloodrage Brawler
+1 Inferno Hellion
+1 Borderland Marauder
+1 Heartfire Immolator
+1 Onakke Ogre
+1 Turret Ogre
+1 Bone Pit Brute
+//Instants (2)
+1 Fling
+1 Unleash Fury
+//Enchantments (2)
+1 Sarkhan's Unsealing
+1 Furious Rise
+//Lands (8)
+1 Thriving Bluff
+6 Mountain
+1 Smashing Mountain

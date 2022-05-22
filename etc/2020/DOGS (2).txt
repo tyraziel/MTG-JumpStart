@@ -1,0 +1,21 @@
+DOGS (2)
+//Creatures (8)
+1 Isamaru, Hound of Konda
+1 Affa Guard Hound
+1 Supply Runners
+1 Cathar's Companion
+1 Trusty Retriever
+1 Pack Leader
+1 Alpine Watchdog
+1 Rambunctious Mutt
+//Sorceries (2)
+1 Release the Dogs
+1 Secure the Scene
+//Instants (1)
+1 Dauntless Onslaught
+//Enchantments (1)
+1 Pacifism
+//Lands (8)
+1 Thriving Heath
+6 Plains
+1 Dogs Plains

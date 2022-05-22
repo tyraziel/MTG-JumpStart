@@ -1,0 +1,21 @@
+VAMPIRES (4)
+//Creatures (8)
+1 Drana, Liberator of Malakir
+1 Bloodbond Vampire
+1 Falkenrath Noble
+1 Gifted Aetherborn
+1 Child of Night
+1 Nocturnal Feeder
+1 Silversmote Ghoul
+1 Gloom Sower
+//Sorceries (2)
+1 Agonizing Syphon
+1 Sanguine Indulgence
+//Instants (1)
+1 Last Gasp
+//Enchantments (1)
+1 Mark of the Vampire
+//Lands (8)
+1 Thriving Moor
+6 Swamp
+1 Vampires Swamp

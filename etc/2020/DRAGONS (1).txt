@@ -1,0 +1,19 @@
+DRAGONS (1)
+//Creatures (7)
+1 Dragonloft Idol
+1 Rapacious Dragon
+1 Dragonspeaker Shaman
+1 Dragon Hatchling
+1 Lightning Shrieker
+1 Terror of the Peaks
+1 Hellkite Punisher
+//Sorceries (2)
+1 Bathe in Dragonfire
+1 Dragon Fodder
+//Instants (2)
+1 Draconic Roar
+1 Thrill of Possibility
+//Lands (8)
+1 Thriving Bluff
+7 Mountain
+1 Dragons Mountain

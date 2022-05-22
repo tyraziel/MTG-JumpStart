@@ -1,0 +1,20 @@
+PLUS ONE (2)
+//Creatures (7)
+1 Armorcraft Judge
+1 Nessian Hornbeetle
+1 Fertilid
+1 Ironshell Beetle
+1 Wildwood Scourge
+1 Trufflesnout
+1 Pridemalkin
+//Sorceries (1)
+1 Hunter's Edge
+//Instants (2)
+1 Arbor Armament
+1 Invigorating Surge
+//Enchantments (1)
+1 Branching Evolution
+//Lands (8)
+1 Thriving Grove
+7 Forest
+1 Plus One Forest

@@ -1,0 +1,20 @@
+SPELLINGCASTING (1)
+//Creatures (6)
+1 Thermo-Alchemist
+1 Living Lightning
+1 Lightning Visionary
+1 Chandra's Pyreling
+1 Kinetic Augur
+1 Heartfire Immolator
+//Instants (5)
+1 Blindblast
+1 Hungry Flames
+1 Goblin Wizardry
+1 Shock
+1 Thrill of Possibility
+//Enchantments (1)
+1 Double Vision
+//Lands (8)
+1 Thriving Bluff
+6 Mountain
+1 Spellcasting Mountain

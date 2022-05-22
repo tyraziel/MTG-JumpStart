@@ -1,0 +1,21 @@
+PREDATORY (2)
+//Creatures (7)
+1 Gingerbrute
+1 Neyith of the Dire Hunt
+1 Affectionate Indrik
+1 Brindle Shoat
+1 Dawntreader Elk
+1 Trufflesnout
+1 Sabertooth Mauler
+//Sorceries (2)
+1 Irresistible Prey
+1 Time to Feed
+//Instants (2)
+1 Crushing Canopy
+1 Fungal Rebirth
+//Artifacts (1)
+1 Marauder's Axe
+//Lands (8)
+1 Thriving Grove
+6 Forest
+1 Time to Feed Forest

@@ -1,0 +1,21 @@
+ROGUE (2)
+//Creatures (8)
+1 Corpse Traders
+1 Oona's Blackguard
+1 Corpse Hauler
+1 Lawless Broker
+1 Nightshade Stinger
+1 Nocturnal Feeder
+1 Thieves' Guild Enforcer
+1 Masked Blackguard
+//Instants (2)
+1 Last Gasp
+1 Alchemist's Gift
+//Artifacts (1)
+1 Rogue's Gloves
+//Enchantments (1)
+1 Stab Wound
+//Lands (8)
+1 Thriving Moor
+6 Swamp
+1 Rogues Swamp

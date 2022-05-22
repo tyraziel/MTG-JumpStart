@@ -1,0 +1,21 @@
+TREE-HUGGING (4)
+//Creatures (7)
+1 Soul of the Harvest
+1 Wall of Blossoms
+1 Burlfist Oak
+1 Warden of the Woods
+1 Llanowar Visionary
+1 Snarespinner
+1 Gnarled Sage
+//Sorceries (2)
+1 Nature's Way
+1 Explore
+//Instants (2)
+1 Crushing Canopy
+1 Wildsize
+//Enchantments (1)
+1 Verdant Embrace
+//Lands (8)
+1 Thriving Grove
+6 Forest
+1 Tree Hugging Forest

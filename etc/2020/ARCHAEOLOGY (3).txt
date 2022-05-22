@@ -1,0 +1,20 @@
+ARCHAEOLOGY (3)
+//Creatures (9)
+1 Sharding Sphinx
+1 Vedalken Archmage
+1 Juggernaut
+1 Meteor Golem
+1 Ancestral Statue
+2 Archaeomender
+1 Lightning-Core Excavator
+1 Prismite
+//Instants (1)
+1 Thirst for Knowledge
+//Artifacts (2)
+1 Hedron Archive
+1 Aether Spellbomb
+//Lands (8)
+1 Buried Ruin
+1 Thriving Isle
+5 Island
+1 Archaeology Island

@@ -1,0 +1,20 @@
+GOBLINS (2)
+//Creatures (9)
+1 Goblin Instigator
+1 Muxus, Goblin Grandee
+1 Beetleback Chief
+1 Goblin Commando
+1 Boggart Brute
+1 Goblin Shortcutter
+1 Ornery Goblin
+1 Battle-Rattle Shaman
+1 Goblin Arsonist
+//Instants (2)
+1 Outnumber
+1 Burn Bright
+//Enchantments (1)
+1 Makeshift Munitions
+//Lands (8)
+1 Thriving Bluff
+6 Mountain
+1 Goblins Mountain

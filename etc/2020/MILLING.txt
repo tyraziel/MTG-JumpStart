@@ -1,0 +1,20 @@
+MILLING
+//Creatures (7)
+1 Bruvac the Grandiloquent
+1 Belltower Sphinx
+1 Reckless Scholar
+1 Wall of Lost Thoughts
+1 Selhoff Occultist
+1 Vedalken Entrancer
+1 Towering-Wave Mystic
+//Instants (3)
+1 Sweep Away
+1 Thought Collapse
+1 Thought Scour
+//Enchantments (2)
+1 Teferi's Tutelage
+1 Capture Sphere
+//Lands (8)
+1 Thriving Isle
+6 Island
+1 Milling Island
