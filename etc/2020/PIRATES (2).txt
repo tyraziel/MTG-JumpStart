@@ -1,0 +1,21 @@
+PIRATES (2)
+//Creatures (7)
+1 Departed Deckhand
+1 Corsair Captain
+1 Spectral Sailor
+1 Kitesail Corsair
+1 Prosperous Pirates
+1 Rishadan Airship
+1 Sailor of Means
+//Sorceries (2)
+1 Chart a Course
+1 Read the Tides
+//Artifacts (1)
+1 Pirate's Cutlass
+//Enchantments (2)
+1 Curious Obsession
+1 Capture Sphere
+//Lands (8)
+1 Thriving Isle
+6 Island
+1 Pirates Island

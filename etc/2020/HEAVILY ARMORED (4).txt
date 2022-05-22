@@ -1,0 +1,20 @@
+HEAVILY ARMORED (4)
+//Creatures (9)
+1 High Sentinels of Arashin
+1 Supply Runners
+1 Bulwark Giant
+1 Trusty Retriever
+1 Lightwalker
+1 Tempered Veteran
+1 Siege Striker
+1 Makeshift Battalion
+1 Basri's Acolyte
+//Instants (2)
+1 Long Road Home
+1 Swift Response
+//Enchantments (1)
+1 Duelist's Heritage
+//Lands (8)
+1 Thriving Heath
+6 Plains
+1 Heavily Armed Plains

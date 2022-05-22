@@ -1,0 +1,21 @@
+MINOTAURS (1)
+//Creatures (7)
+1 Bloodrage Brawler
+1 Sethron, Hurloon General
+1 Warfire Javelineer
+1 Borderland Minotaur
+1 Lightning Visionary
+1 Minotaur Skullcleaver
+1 Minotaur Sureshot
+//Sorceries (2)
+1 Flurry of Horns
+1 Mugging
+//Instants (2)
+1 Soul Sear
+1 Sure Strike
+//Artifacts (1)
+1 Herald's Horn
+//Lands (8)
+1 Thriving Bluff
+6 Mountain
+1 Minotaurs Mountain

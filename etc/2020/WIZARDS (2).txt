@@ -1,0 +1,21 @@
+WIZARDS (2)
+//Creatures (6)
+1 Exclusion Mage
+1 Crookclaw Transmuter
+1 Sage's Row Savant
+1 Sea Gate Oracle
+1 Shipwreck Dowser
+1 Vodalian Arcanist
+//Sorceries (3)
+1 Talrand's Invocation
+1 Winged Words
+1 Read the Tides
+//Instants (3)
+1 Wizard's Retort
+1 Rookie Mistake
+1 Opt
+//Lands (8)
+1 Riptide Laboratory
+1 Thriving Isle
+5 Island
+1 Wizards Island

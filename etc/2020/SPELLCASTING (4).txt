@@ -1,0 +1,20 @@
+SPELLCASTING (4)
+//Creatures (6)
+1 Kiln Fiend
+1 Lightning Visionary
+1 Thermo-Alchemist
+1 Chandra's Pyreling
+1 Kinetic Augur
+1 Heartfire Immolator
+//Sorceries (3)
+1 Doublecast
+1 Immolating Gyre
+1 Crash Through
+//Instants (3)
+1 Hungry Flames
+1 Shock
+1 Thrill of Possibility
+//Lands (8)
+1 Thriving Bluff
+6 Mountain
+1 Spellcasting Mountain

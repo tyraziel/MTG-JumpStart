@@ -1,0 +1,20 @@
+DEVILISH (1)
+//Creatures (8)
+1 Forge Devil
+1 Zurzoth, Chaos Rider
+1 Chained Brute
+1 Spiteful Prankster
+1 Torch Fiend
+1 Havoc Jester
+1 Hobblefiend
+1 Pitchburn Devils
+//Sorceries (1)
+1 Traitorous Greed
+//Instants (3)
+1 Dance with Devils
+1 Collateral Damage
+1 Heartfire
+//Lands (8)
+1 Thriving Bluff
+6 Mountain
+1 Devilish Mountain

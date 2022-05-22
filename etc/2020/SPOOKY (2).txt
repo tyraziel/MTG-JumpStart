@@ -1,0 +1,21 @@
+SPOOKY (2)
+//Creatures (8)
+1 Harvester of Souls
+1 Bone Picker
+1 Eternal Taskmaster
+1 Gristle Grinner
+1 Dutiful Attendant
+1 Sanitarium Skeleton
+1 Crypt Lurker
+1 Caged Zombie
+//Sorceries (2)
+1 Barter in Blood
+1 Bone Splinters
+//Instants (1)
+1 Finishing Blow
+//Artifacts (1)
+1 Malefic Scythe
+//Lands (8)
+1 Thriving Moor
+6 Swamp
+1 Spooky Swamp

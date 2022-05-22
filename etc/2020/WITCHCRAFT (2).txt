@@ -1,0 +1,20 @@
+WITCHCRAFT (2)
+//Creatures (8)
+1 Tempting Witch
+1 Bogbrew Witch
+1 Witch of the Moors
+1 Swarm of Bloodflies
+1 Black Cat
+1 Bloodhunter Bat
+2 Festering Newt
+//Sorceries (1)
+1 Blood Divination
+//Instants (2)
+1 Bake into a Pie
+1 Last Gasp
+//Artifacts (1)
+1 Bubbling Cauldron
+//Lands (8)
+1 Thriving Moor
+6 Swamp
+1 Witchcraft Swamp

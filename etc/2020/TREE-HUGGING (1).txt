@@ -1,0 +1,20 @@
+TREE-HUGGING (1)
+//Creatures (8)
+1 Primordial Sage
+1 Wall of Blossoms
+1 Ambassador Oak
+1 Burlfist Oak
+1 Warden of the Woods
+1 Llanowar Visionary
+1 Snarespinner
+1 Gnarled Sage
+//Sorceries (2)
+1 Nature's Way
+1 Explore
+//Instants (2)
+1 Aggressive Urge
+1 Crushing Canopy
+//Lands (8)
+1 Thriving Grove
+6 Forest
+1 Tree Hugging Forest

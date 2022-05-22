@@ -1,0 +1,21 @@
+VAMPIRES (2)
+//Creatures (8)
+1 Blood Host
+1 Bloodbond Vampire
+1 Gifted Aetherborn
+1 Child of Night
+1 Nocturnal Feeder
+1 Vito, Thorn of the Dusk Rose
+1 Silversmote Ghoul
+1 Gloom Sower
+//Sorceries (2)
+1 Agonizing Syphon
+1 Sanguine Indulgence
+//Instants (1)
+1 Last Gasp
+//Enchantments (1)
+1 Eternal Thirst
+//Lands (8)
+1 Thriving Moor
+6 Swamp
+1 Vampires Swamp

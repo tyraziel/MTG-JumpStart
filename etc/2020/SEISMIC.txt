@@ -1,0 +1,21 @@
+SEISMIC
+//Creatures (6)
+1 Grim Lavamancer
+1 Cinder Elemental
+1 Seismic Elemental
+1 Ashmouth Hound
+1 Bloodrock Cyclops
+1 Molten Ravager
+//Sorceries (1)
+1 Spitting Earth
+//Instants (4)
+1 Magmaquake
+1 Magma Jet
+1 Volcanic Fallout
+1 Volcanic Geyser
+//Artifacts (1)
+1 Mana Geode
+//Lands (8)
+1 Thriving Bluff
+6 Mountain
+1 Seismic Mountain

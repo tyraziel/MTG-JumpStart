@@ -1,0 +1,21 @@
+GARRUK
+//Planeswalker (1)
+1 Garruk, Unleashed
+//Creatures (7)
+1 Affectionate Indrik
+1 Brushstrider
+1 Rumbling Baloth
+1 Orazca Frillback
+1 Garruk's Harbinger
+1 Garruk's Gorehorn
+1 Drowsing Tyrannodon
+//Sorceries (1)
+1 Hunter's Edge
+//Instants (2)
+1 Hunter's Insight
+1 Ranger's Guile
+//Enchantments (1)
+1 Garruk's Uprising
+//Lands (8)
+1 Thriving Grove
+7 Forest

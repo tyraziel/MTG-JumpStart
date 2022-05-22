@@ -1,0 +1,20 @@
+LIGHTNING (2)
+//Creatures (8)
+1 Ball Lightning
+1 Lightning Phoenix
+1 Living Lightning
+1 Weaver of Lightning
+2 Lightning Visionary
+1 Lightning Elemental
+1 Lightning-Core Excavator
+//Sorceries (1)
+1 Chain Lightning
+//Instants (2)
+1 Lightning Axe
+1 Riddle of Lightning
+//Enchantments (1)
+1 Lightning Diadem
+//Lands (8)
+1 Thriving Bluff
+6 Mountain
+1 Lightning Mountain

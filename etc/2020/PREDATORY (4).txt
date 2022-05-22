@@ -1,0 +1,20 @@
+PREDATORY (4)
+//Creatures (7)
+1 Ravenous Baloth
+1 Affectionate Indrik
+1 Brindle Shoat
+1 Dawntreader Elk
+1 Sylvan Brushstrider
+1 Trufflesnout
+1 Sabertooth Mauler
+//Sorceries (2)
+1 Irresistible Prey
+1 Time to Feed
+//Instants (3)
+1 Momentous Fall
+1 Crushing Canopy
+1 Fungal Rebirth
+//Lands (8)
+1 Thriving Grove
+6 Forest
+1 Time to Feed Forest

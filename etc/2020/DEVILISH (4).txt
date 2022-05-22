@@ -1,0 +1,21 @@
+DEVILISH (4)
+//Creatures (8)
+1 Hellrider
+1 Sin Prodder
+1 Chained Brute
+1 Spiteful Prankster
+1 Lightning-Core Excavator
+1 Havoc Jester
+1 Hobblefiend
+1 Pitchburn Devils
+//Sorceries (2)
+1 Act of Treason
+1 Traitorous Greed
+//Instants (1)
+1 Collateral Damage
+//Enchantments (1)
+1 Barrage of Expendables
+//Lands (8)
+1 Thriving Bluff
+6 Mountain
+1 Devilish Mountain

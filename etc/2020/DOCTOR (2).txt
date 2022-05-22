@@ -1,0 +1,21 @@
+DOCTOR (2)
+//Creatures (6)
+1 Brightmare
+1 Stone Haven Pilgrim
+1 Angel of Mercy
+1 Speaker of the Heavens
+1 Anointed Chorister
+1 Basri's Acolyte
+//Sorceries (1)
+1 Secure the Scene
+//Instants (3)
+1 Revitalize
+1 Moment of Heroism
+1 Swift Response
+//Enchantments (2)
+1 Griffin Aerie
+1 Light of Promise
+//Lands (8)
+1 Thriving Heath
+6 Plains
+1 Doctor Plains

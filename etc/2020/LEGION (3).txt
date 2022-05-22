@@ -1,0 +1,21 @@
+LEGION (3)
+//Creatures (5)
+1 Siege Striker
+1 Valorous Steed
+1 Daybreak Charger
+1 Makeshift Battalion
+1 Staunch Shieldmate
+//Sorceries (3)
+1 Legion's Judgment
+1 Release the Dogs
+1 Basri's Solidarity
+//Instants (2)
+1 Fortify
+1 Raise the Alarm
+//Enchantments (2)
+1 Glorious Anthem
+1 Faith's Fetters
+//Lands (8)
+1 Thriving Heath
+6 Plains
+1 Legion Plains

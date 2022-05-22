@@ -1,0 +1,21 @@
+FEATHERED FRIENDS (1)
+//Creatures (8)
+1 Healer's Hawk
+1 Steel-Plume Marshal
+1 Aven Gagglemaster
+1 Falconer Adept
+1 Concordia Pegasus
+1 Warded Battlements
+1 Gale Swooper
+1 Celestial Enforcer
+//Sorceries (1)
+1 Aerial Assault
+//Instants (2)
+1 Dauntless Onslaught
+1 Moment of Heroism
+//Enchantments (1)
+1 Sky Tether
+//Lands (8)
+1 Thriving Heath
+6 Plains
+1 Feathered Friends Plains

@@ -1,0 +1,20 @@
+DOCTOR (1)
+//Creatures (6)
+1 Brightmare
+1 Bulwark Giant
+1 Mesa Unicorn
+1 Speaker of the Heavens
+1 Anointed Chorister
+1 Basri's Acolyte
+//Instants (3)
+1 Take Heart
+1 Swift Response
+1 Revitalize
+//Enchantments (3)
+1 Faith's Fetters
+1 Griffin Aerie
+1 Light of Promise
+//Lands (8)
+1 Thriving Heath
+6 Plains
+1 Doctor Plains

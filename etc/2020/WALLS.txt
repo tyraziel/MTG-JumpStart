@@ -1,0 +1,21 @@
+WALLS
+//Creatures (9)
+1 Wall of Blossoms
+1 Towering Titan
+1 Carven Caryatid
+1 Gargoyle Sentinel
+1 Overgrown Battlement
+1 Grave Bramble
+1 Wall of Vines
+1 Roving Keep
+1 Portcullis Vine
+//Instants (1)
+1 Crushing Canopy
+//Artifacts (1)
+1 Warmonger's Chariot
+//Enchantments (1)
+1 Assault Formation
+//Lands (8)
+1 Thriving Grove
+6 Forest
+1 Walls Forest

@@ -1,0 +1,21 @@
+ANGELS (2)
+//Creatures (7)
+1 Linvala, Keeper of Silence
+1 Angelic Arbiter
+1 Emancipation Angel
+1 Serra Angel
+1 Angelic Page
+1 Anointed Chorister
+1 Celestial Enforcer
+//Sorceries (1)
+1 Angelic Edict
+//Instants (2)
+1 Take Heart
+1 Angelic Ascension
+//Artifacts (2)
+1 Guardian Idol
+1 Scroll of Avacyn
+//Lands (8)
+1 Thriving Heath
+6 Plains
+1 Angels Plains

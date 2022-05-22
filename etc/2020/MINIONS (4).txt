@@ -1,0 +1,21 @@
+MINIONS (4)
+//Creatures (8)
+1 Ghoulcaller Gisa
+1 Dutiful Attendant
+1 Ghoulcaller's Accomplice
+1 Nocturnal Feeder
+1 Shambling Goblin
+1 Goremand
+1 Liliana's Devotee
+1 Fetid Imp
+//Sorceries (1)
+1 Innocent Blood
+//Instants (2)
+1 Eliminate
+1 Village Rites
+//Artifacts (1)
+1 Witch's Cauldron
+//Lands (8)
+1 Thriving Moor
+6 Swamp
+1 Minions Swamp

@@ -1,0 +1,20 @@
+ARCHAEOLOGY (2)
+//Creatures (8)
+1 Scholar of the Lost Trove
+1 Juggernaut
+1 Meteor Golem
+1 Ancestral Statue
+2 Archaeomender
+1 Erratic Visionary
+1 Lightning-Core Excavator
+//Instants (1)
+1 Thirst for Knowledge
+//Artifacts (3)
+1 Dreamstone Hedron
+1 Aether Spellbomb
+1 Terrarion
+//Lands (8)
+1 Buried Ruin
+1 Thriving Isle
+5 Island
+1 Archaeology Island

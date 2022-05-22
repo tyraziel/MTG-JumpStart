@@ -1,0 +1,20 @@
+LANDS (2)
+//Creatures (9)
+1 Oracle of Mul Daya
+1 Awakener Druid
+1 Feral Hydra
+1 Woodborn Behemoth
+1 Fa'adiyah Seer
+1 Fertilid
+1 Sporemound
+1 Sylvan Ranger
+1 Wildheart Invoker
+//Sorceries (1)
+1 Cultivate
+//Instants (2)
+1 Crushing Canopy
+1 Elemental Uprising
+//Lands (8)
+1 Thriving Grove
+6 Forest
+1 Lands Forest

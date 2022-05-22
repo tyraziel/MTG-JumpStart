@@ -1,0 +1,21 @@
+ELVES (1)
+//Creatures (8)
+1 Craterhoof Behemoth
+1 Elvish Archdruid
+1 Dwynen's Elite
+1 Ghirapur Guide
+1 Silhana Wayfinder
+1 Wildheart Invoker
+1 Skyway Sniper
+1 Llanowar Visionary
+//Sorceries (1)
+1 Hunter's Edge
+//Instants (2)
+1 Crushing Canopy
+1 Titanic Growth
+//Enchantments (1)
+1 Presence of Gond
+//Lands (8)
+1 Thriving Grove
+6 Forest
+1 Elves Forest

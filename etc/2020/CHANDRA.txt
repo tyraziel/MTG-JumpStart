@@ -1,0 +1,19 @@
+CHANDRA
+//Planeswalker (1)
+1 Chandra, Heart of Fire
+//Creatures (7)
+1 Pyroclastic Elemental
+1 Young Pyromancer
+1 Fanatical Firebrand
+1 Chandra's Incinerator
+1 Chandra's Pyreling
+2 Chandra's Magmutt
+//Sorceries (2)
+1 Flames of the Firebrand
+1 Pillar of Flame
+//Instants (2)
+1 Hungry Flames
+1 Thrill of Possibility
+//Lands (8)
+1 Thriving Bluff
+7 Mountain

@@ -1,0 +1,21 @@
+ROGUES (1)
+//Creatures (8)
+1 Gonti, Lord of Luxury
+1 Mausoleum Turnkey
+1 Oona's Blackguard
+1 Lawless Broker
+1 Nightshade Stinger
+1 Nocturnal Feeder
+1 Thieves' Guild Enforcer
+1 Masked Blackguard
+//Instants (2)
+1 Alchemist's Gift
+1 Finishing Blow
+//Artifacts (1)
+1 Rogue's Gloves
+//Enchantments (1)
+1 Stab Wound
+//Lands (8)
+1 Thriving Moor
+6 Swamp
+1 Rogues Swamp

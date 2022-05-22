@@ -1,0 +1,21 @@
+MINIONS (3)
+//Creatures (8)
+1 Dutiful Attendant
+1 Drainpipe Vermin
+1 Ghoulcaller's Accomplice
+1 Nocturnal Feeder
+1 Goremand
+1 Liliana's Devotee
+1 Fetid Imp
+1 Crypt Lurker
+//Instants (3)
+1 Launch Party
+1 Eliminate
+1 Village Rites
+//Artifacts (1)
+1 Witch's Cauldron
+//Lands (8)
+1 Phyrexian Tower
+1 Thriving Moor
+5 Swamp
+1 Minions Swamp

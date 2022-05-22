@@ -1,0 +1,18 @@
+DISCARDING 1
+//Creatures (9)
+1 Fell Specter
+1 Tinybones, Trinket Thief
+1 Ravenous Chupacabra
+1 Entomber Exarch
+1 Burglar Rat
+1 Phyrexian Rager
+1 Slate Street Ruffian
+2 Wight of Precinct Six
+//Sorceries (2)
+1 Assassin's Strike
+1 Mind Rot
+//Enchantments (1)
+1 Death's Approach
+//Lands (8)
+1 Thriving Moor
+7 Swamp
