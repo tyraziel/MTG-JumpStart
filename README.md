@@ -1,6 +1,7 @@
 # MTG-JumpStart
 
 JumpStart 2020 Lists Link:  https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+
 JumpStart Dominaria United Lists Link:  https://magic.wizards.com/en/articles/archive/news/dominaria-united-jumpstart-booster-contents-2022-08-31
 
 ### Resources
