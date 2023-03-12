@@ -1,6 +1,6 @@
 1 Goliath Hatchery
-1 Cankerbloom (ichor treatment)&nbsp;
-1 Random green rare or mythic rare&nbsp;
+1 Cankerbloom (ichor treatment)
+1 Random green rare or mythic rare
 1 Rustvine Cultivator
 1 Branchblight Stalker
 1 Contagious Vorrac
