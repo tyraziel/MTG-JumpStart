@@ -1,1 +1,159 @@
+MITE-Y 1
+1 Mite Overseer
+1 Random rare or mythic rare
+1 Bladed Ambassador
+1 Sinew Dancer
+1 Duelist of Deep Faith
+1 Basilica Shepherd
+1 Planar Disruption
+1 Charge of the Mites
+1 Vanish into Eternity
+1 Annex Sentry
+1 Porcelain Zealot
+1 Infested Fleshcutter
+1 The Fair Basilica
+7 Plains
 
+MITE-Y 2
+1 Mite Overseer
+1 Random rare or mythic rare
+1 Bladed Ambassador
+1 Crawling Chorus
+1 Mandible Justiciar
+1 Duelist of Deep Faith
+1 Zealot's Conviction
+1 Compleat Devotion
+1 Vanish into Eternity
+1 Porcelain Zealot
+1 Apostle of Invasion
+1 Ossification
+1 The Fair Basilica
+7 Plains
+
+PROGRESS 1
+1 Serum Sovereign
+1 Random rare or mythic rare
+1 Thrummingbird
+1 Glistener Seer
+1 Ichor Synthesizer
+1 Chrome Prowler
+1 Meldweb Curator
+1 Quicksilver Fisher
+1 Mesmerizing Dose
+1 Serum Snare
+1 Tamiyo's Immobilizer
+1 Distorted Curiosity
+1 The Surgical Bay
+7 Island
+
+PROGRESS 2
+1 Serum Sovereign
+1 Random rare or mythic rare
+1 Thrummingbird
+1 Chrome Prowler
+1 Experimental Augury
+1 Bring the Ending
+1 Mesmerizing Dose
+1 Atmosphere Surgeon
+1 Trawler Drake
+1 Distorted Curiosity
+1 Myr Custodian
+1 Surgical Skullbomb
+1 The Surgical Bay
+7 Island
+
+CORRUPTION 1
+1 Kinzu of the Bleak Coven
+1 Random rare or mythic rare
+1 Bonepicker Skirge
+1 Pestilent Syphoner
+1 Testament Bearer
+1 Annihilating Glare
+1 Anoint with Affliction
+1 Ambulatory Edifice
+1 Nimraiser Paladin
+1 Drown in Ichor
+1 Feed the Infection
+1 Dross Skullbomb
+1 The Dross Pits
+7 Swamp
+
+CORRUPTION 2
+1 Kinzu of the Bleak Coven
+1 Random rare or mythic rare
+1 Bonepicker Skirge
+1 Stinging Hivemaster
+1 Testament Bearer
+1 Offer Immortality
+1 Infectious Inquiry
+1 Vraska's Fall
+1 Bilious Skulldweller
+1 Chittering Skitterling
+1 Nimraiser Paladin
+1 Necrogen Communion
+1 The Dross Pits
+7 Swamp
+
+REBELLIOUS 1
+1 Rhuk, Hexgold Nabber
+1 Random rare or mythic rare
+1 Furnace Punisher
+1 Barbed Batterfist
+1 Vulshok Splitter
+1 Chimney Rabble
+1 Furnace Strider
+1 Free from Flesh
+1 Volt Charge
+1 Hexgold Halberd
+1 Resistance Skywarden
+1 Rebel Salvo
+1 The Autonomous Furnace
+7 Mountain
+
+REBELLIOUS 2
+1 Rhuk, Hexgold Nabber
+1 Random rare or mythic rare
+1 Furnace Punisher
+1 Barbed Batterfist
+1 Bladegraft Aspirant
+1 Vulshok Splitter
+1 Hexgold Slash
+1 Blazing Crescendo
+1 Molten Rebuke
+1 Hexgold Halberd
+1 Oxidda Finisher
+1 Prosthetic Injector
+1 The Autonomous Furnace
+7 Mountain
+
+TOXIC 1
+1 Goliath Hatchery
+1 Random rare or mythic rare
+1 Cankerbloom
+1 Copper Longlegs
+1 Branchblight Stalker
+1 Contagious Vorrac
+1 Titanic Growth
+1 Venomous Brutalizer
+1 Paladin of Predation
+1 Infectious Bite
+1 Phyrexian Atlas
+1 Ichorspit Basilisk
+1 The Hunter Maze
+7 Forest
+
+TOXIC 2
+1 Goliath Hatchery
+1 Cankerbloom (ichor treatment)
+1 Random green rare or mythic rare
+1 Rustvine Cultivator
+1 Branchblight Stalker
+1 Contagious Vorrac
+1 Ruthless Predation
+1 Viral Spawning
+1 Paladin of Predation
+1 Tyvar's Stand
+1 Lattice-Blade Mantis
+1 Maze's Mantle
+1 The Hunter Maze
+7 Forest
