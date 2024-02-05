@@ -1,10 +1,11 @@
 ABOVE THE CLOUDS (3)
-//Creatures (6)
+//Creatures (7)
 1 Windreader Sphinx
 1 Warden of Evos Isle
 1 Tide Skimmer
 1 Keen Glidemaster
 1 Roaming Ghostlight
+1 Serendib Efreet
 1 Wall of Runes
 //Instants (4)
 1 Rain of Revelation
@@ -15,5 +16,5 @@ ABOVE THE CLOUDS (3)
 1 Capture Sphere
 //Lands (8)
 1 Thriving Isle
-7 Island
+6 Island
 1 Above the Clouds Island
