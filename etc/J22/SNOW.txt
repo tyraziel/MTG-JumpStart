@@ -1,15 +1,20 @@
+SNOW
+//Creatures (7)
 1 Isu the Abominable
-1 Marit Lage's Slumber
-1 Coldsteel Heart
 1 Avalanche Caller
 1 Phyrexian Ironfoot
-1 Icebind Pillar
 1 Pilfering Hawk
 1 Frostpeak Yeti
 1 Chillerpillar
 1 Berg Strider
-1 Winter's Rest
+//Instants (1)
 1 Crippling Chill
+//Artifacts (2)
+1 Coldsteel Heart
+1 Icebind Pillar
+//Enchantments (2)
+1 Marit Lage's Slumber
+1 Winter's Rest
+//Lands (8)
 1 Shimmerdrift Vale
 7 Snow-Covered Island
-
