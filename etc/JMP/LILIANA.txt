@@ -1,5 +1,5 @@
 LILIANA
-//Planeswalker (1)
+//Planeswalkers (1)
 1 Liliana, Waker of the Dead
 //Creatures (8)
 1 Liliana's Elite
