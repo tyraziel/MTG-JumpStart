@@ -1,17 +1,22 @@
+ELDRAZI
+//Creatures (7)
 1 World Breaker
 1 Endbringer
 1 Brood Monitor
-1 Ruin in Their Wake
-1 Planar Atlas
-1 Titan's Presence
 1 Blisterpod
 1 Stalking Drone
 1 Scion Summoner
 1 Warden of Geometries
+//Sorceries (2)
+1 Ruin in Their Wake
 1 Ancient Stirrings
+//Instants (2)
+1 Titan's Presence
 1 Unnatural Aggression
+//Artifacts (1)
+1 Planar Atlas
+//Lands (8)
 1 Warped Landscape
 1 Ash Barrens
 1 Wastes
 5 Forest
-
