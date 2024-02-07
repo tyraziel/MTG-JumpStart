@@ -1,5 +1,5 @@
 BASRI
-//Planeswalker (1)
+//Planeswalkers (1)
 1 Basri Ket
 //Creatures (7)
 1 Concordia Pegasus
