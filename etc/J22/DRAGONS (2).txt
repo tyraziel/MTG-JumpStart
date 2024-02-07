@@ -1,5 +1,6 @@
+DRAGONS (2)
+//Creatures (8)
 1 Lathliss, Dragon Queen
-1 Dragon's Hoard
 1 Dragonlord's Servant
 1 Dragonspeaker Shaman
 1 Furnace Whelp
@@ -7,9 +8,13 @@
 1 Kargan Dragonrider
 1 Plundering Predator
 1 Sparktongue Dragon
-1 Scorching Dragonfire
+//Sorceries (1)
 1 Tormenting Voice
+//Instants (2)
+1 Scorching Dragonfire
 1 Sarkhan's Rage
+//Artifacts (1)
+1 Dragon's Hoard
+//Lands (8)
 1 Thriving Bluff
 7 Mountain
-
