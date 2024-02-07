@@ -1,5 +1,5 @@
 TEFERI
-//Planeswalker (1)
+//Planeswalkers (1)
 1 Teferi, Master of Time
 //Creatures (5)
 1 Prescient Chimera
