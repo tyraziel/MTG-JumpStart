@@ -1,5 +1,4 @@
 BLINK (1)
-
 //Creatures (8)
 1 Preston, the Vanisher
 1 Distinguished Conjurer
