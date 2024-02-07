@@ -1,5 +1,5 @@
 GARRUK
-//Planeswalker (1)
+//Planeswalkers (1)
 1 Garruk, Unleashed
 //Creatures (7)
 1 Affectionate Indrik
