@@ -1,5 +1,5 @@
 CHANDRA
-//Planeswalker (1)
+//Planeswalkers (1)
 1 Chandra, Heart of Fire
 //Creatures (7)
 1 Pyroclastic Elemental
