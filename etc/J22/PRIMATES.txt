@@ -1,16 +1,21 @@
+PRIMATES
+//Creatures (8)
 1 Kibo, Uktabi Prince
-1 Monkey Cage
 1 Uktabi Orangutan
 1 Towering Gibbon
-1 Declare Dominance
-1 Treetop Village
 1 Wily Bandar
 1 Scrounging Bandar
 1 Silverback Shaman
 1 Hooting Mandrills
-1 Ram Through
-1 Cultivate
 1 Simian Brawler
+//Sorceries (2)
+1 Declare Dominance
+1 Cultivate
+//Instants (1)
+1 Ram Through
+//Artifacts (1)
+1 Monkey Cage
+//Lands (8)
+1 Treetop Village
 1 Thriving Grove
 6 Forest
-
