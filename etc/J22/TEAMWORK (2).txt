@@ -1,6 +1,7 @@
+TEAMWORK (2)
+//Creatures (9)
 1 Agrus Kos, Eternal Soldier
 1 Angelic Cub
-1 Valorous Stance
 1 Tempered Veteran
 1 Angelic Protector
 1 Task Force
@@ -8,9 +9,12 @@
 1 Cavalry Drillmaster
 1 Iron Bully
 1 Combat Professor
+//Instants (1)
+1 Valorous Stance
 1 Light of Hope
+//Artifacts (`)
 1 Weapon Rack
+//Lands (8)
 1 Sandstone Bridge
 1 Thriving Heath
 6 Plains
-
