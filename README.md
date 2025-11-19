@@ -16,6 +16,12 @@ JumpStart March of the Machine:  https://magic.wizards.com/en/news/announcements
 
 JumpStart Lord of the Rings Volume 1 and Volume 2:  https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-jumpstart-booster-contents
 
+Ravnica: Clue Edition:  https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+
+JumpStart Foundations:  https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+
+JumpStart Avatar: The Last Airbender:  https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+
 ### Resources
 
 https://www.reddit.com/r/magicTCG/comments/hsy47b/jumpstart_packet_checklist/
