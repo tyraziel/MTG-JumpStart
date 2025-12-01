@@ -4,6 +4,44 @@ This directory contains Python scripts for parsing official Wizards of the Coast
 
 ## Scripts
 
+### `reformat_deck.py` - Reformat Deck Lists to Standard Format
+Reformats unformatted deck lists to the standard JMP/J22 format with card type organization.
+
+**Usage:**
+```bash
+python reformat_deck.py input_deck.txt [output_deck.txt]
+# If output file not specified, prints to stdout
+```
+
+**Features:**
+- Queries Scryfall API for card type information
+- Organizes cards by type (Creatures, Sorceries, Instants, etc.)
+- Preserves card quantities and special notations
+- Handles multi-type cards correctly (Artifact Creature → Creatures)
+- Caches card lookups to minimize API calls
+- Respects Scryfall rate limiting (75ms between requests)
+
+**Output Format:**
+```
+DECK NAME
+//Creatures (X)
+1 Card Name
+2 Another Card
+//Sorceries (X)
+1 Sorcery Name
+//Lands (X)
+7 Island
+```
+
+**Requirements:**
+- Python 3.6+
+- `requests` library (see requirements.txt)
+
+**Installation:**
+```bash
+pip install -r requirements.txt
+```
+
 ### `parse_tla.py` - Avatar: The Last Airbender
 Parses TLA (Avatar: The Last Airbender) JumpStart deck lists.
 
@@ -90,7 +128,8 @@ After running the parsers:
 ## Requirements
 
 - Python 3.6+
-- No external dependencies (uses only stdlib: `re`, `os`, `sys`)
+- For `parse_tla.py` and `parse_j25.py`: No external dependencies (uses only stdlib: `re`, `os`, `sys`)
+- For `reformat_deck.py`: `requests` library (install with `pip install -r requirements.txt`)
 
 ## Attribution
 
