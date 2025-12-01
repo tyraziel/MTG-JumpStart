@@ -1,15 +1,19 @@
 ELVES (2)
-Elvish Archdruid
-Razorgrass Invoker
-Dionus, Elvish Archdruid
-Elvish Visionary
-Llanowar Elves
-Bounty of Skemfar
-Dwynen's Elite
-High-Rise Sawjack
-Hunter's Edge
-Kujar Seedsculptor
-Might of the Masses
-Overcome
-Thriving Grove
+//Creatures (8)
+1 Elvish Archdruid
+1 Razorgrass Invoker
+1 Dionus, Elvish Archdruid
+1 Elvish Visionary
+1 Llanowar Elves
+1 Dwynen's Elite
+1 High-Rise Sawjack
+1 Kujar Seedsculptor
+//Sorceries (3)
+1 Bounty of Skemfar
+1 Hunter's Edge
+1 Overcome
+//Instants (1)
+1 Might of the Masses
+//Lands (2)
+1 Thriving Grove
 7 Forest

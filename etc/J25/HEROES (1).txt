@@ -1,15 +1,19 @@
 HEROES (1)
-Brigone, Soldier of Meletis
-Faithful Pikemaster
-Dauntless Onslaught
-Akroan Skyguard
-Chains of Custody
-Defiant Strike
-Favored Hoplite
-Fencing Ace
-Moment of Heroism
-Tethmos High Priest
-Valorous Stance
-Wingsteed Rider
-Thriving Heath
+//Creatures (7)
+1 Brigone, Soldier of Meletis
+1 Faithful Pikemaster
+1 Akroan Skyguard
+1 Favored Hoplite
+1 Fencing Ace
+1 Tethmos High Priest
+1 Wingsteed Rider
+//Instants (4)
+1 Dauntless Onslaught
+1 Defiant Strike
+1 Moment of Heroism
+1 Valorous Stance
+//Enchantments (1)
+1 Chains of Custody
+//Lands (2)
+1 Thriving Heath
 7 Plains

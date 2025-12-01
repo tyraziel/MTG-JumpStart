@@ -1,15 +1,21 @@
 ANGELS (2)
-Giada, Font of Hope
-Herald of War
-Faithful Pikemaster
-Starnheim Memento
-Angelic Edict
-Herald of the Sun
-Inspiring Overseer
-Pacifism
-Rally of Wings
-Stalwart Valkyrie
-Youthful Valkyrie
-Secluded Steppe
-Thriving Heath
+//Creatures (7)
+1 Giada, Font of Hope
+1 Herald of War
+1 Faithful Pikemaster
+1 Herald of the Sun
+1 Inspiring Overseer
+1 Stalwart Valkyrie
+1 Youthful Valkyrie
+//Sorceries (1)
+1 Angelic Edict
+//Instants (1)
+1 Rally of Wings
+//Artifacts (1)
+1 Starnheim Memento
+//Enchantments (1)
+1 Pacifism
+//Lands (3)
+1 Secluded Steppe
+1 Thriving Heath
 7 Plains

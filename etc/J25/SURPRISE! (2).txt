@@ -1,15 +1,19 @@
 SURPRISE! (2)
-Thryx, the Sudden Storm
-Voracious Greatshark
-Delightful Discovery
-Brineborn Cutthroat
-Capture Sphere
-Naiad of Hidden Coves
-Opt
-Pestermite
-Spectral Sailor
-Starlit Mantle
-Stinging Lionfish
-Undersea Invader
-Thriving Isle
+//Creatures (8)
+1 Thryx, the Sudden Storm
+1 Voracious Greatshark
+1 Brineborn Cutthroat
+1 Naiad of Hidden Coves
+1 Pestermite
+1 Spectral Sailor
+1 Stinging Lionfish
+1 Undersea Invader
+//Instants (2)
+1 Delightful Discovery
+1 Opt
+//Enchantments (2)
+1 Capture Sphere
+1 Starlit Mantle
+//Lands (2)
+1 Thriving Isle
 7 Island

@@ -1,15 +1,19 @@
 ELVES (1)
-Leaf-Crowned Visionary
-Razorgrass Invoker
-Dionus, Elvish Archdruid
-Elvish Visionary
-Llanowar Elves
-Arbor Armament
-Band Together
-Bounty of Skemfar
-Ghirapur Guide
-Overcome
-Tajuru Pathwarden
-Thornweald Archer
-Thriving Grove
+//Creatures (8)
+1 Leaf-Crowned Visionary
+1 Razorgrass Invoker
+1 Dionus, Elvish Archdruid
+1 Elvish Visionary
+1 Llanowar Elves
+1 Ghirapur Guide
+1 Tajuru Pathwarden
+1 Thornweald Archer
+//Sorceries (2)
+1 Bounty of Skemfar
+1 Overcome
+//Instants (2)
+1 Arbor Armament
+1 Band Together
+//Lands (2)
+1 Thriving Grove
 7 Forest

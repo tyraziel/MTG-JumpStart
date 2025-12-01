@@ -1,16 +1,21 @@
 WARRIORS (1)
-Gornog, the Red Reaper
-Ghitu Encampment
-Boggart Brute
-Boldwyr Intimidator
-Expedition Champion
-Goma Fada Vanguard
-Keldon Raider
-Kindled Fury
-Kruin Striker
-Pyrophobia
-Soul Sear
-Wrecking Crew
-Relic Axe
-Thriving Bluff
+//Creatures (8)
+1 Gornog, the Red Reaper
+1 Boggart Brute
+1 Boldwyr Intimidator
+1 Expedition Champion
+1 Goma Fada Vanguard
+1 Keldon Raider
+1 Kruin Striker
+1 Wrecking Crew
+//Sorceries (1)
+1 Pyrophobia
+//Instants (2)
+1 Kindled Fury
+1 Soul Sear
+//Artifacts (1)
+1 Relic Axe
+//Lands (3)
+1 Ghitu Encampment
+1 Thriving Bluff
 6 Mountain

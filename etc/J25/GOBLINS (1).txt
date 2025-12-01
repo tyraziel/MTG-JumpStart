@@ -1,15 +1,19 @@
 GOBLINS (1)
-Dropkick Bomber
-Goblin Surprise
-General Kreat, the Boltbringer
-Battle Cry Goblin
-Krenko's Command
-Volley Veteran
-Brute Strength
-Fissure Wizard
-Goblin Researcher
-Open Fire
-Shock
-Weaselback Redcap
-Thriving Bluff
+//Creatures (7)
+1 Dropkick Bomber
+1 General Kreat, the Boltbringer
+1 Battle Cry Goblin
+1 Volley Veteran
+1 Fissure Wizard
+1 Goblin Researcher
+1 Weaselback Redcap
+//Sorceries (1)
+1 Krenko's Command
+//Instants (4)
+1 Goblin Surprise
+1 Brute Strength
+1 Open Fire
+1 Shock
+//Lands (2)
+1 Thriving Bluff
 7 Mountain

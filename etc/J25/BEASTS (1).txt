@@ -1,15 +1,19 @@
 BEASTS (1)
-Slinza, the Spiked Stampede
-Hungry Megasloth
-Spined Tyrranax
-Woodland Liege
-Explore
-Gift of the Gargantuan
-Advocate of the Beast
-Brushstrider
-Gnarlid Colony
-Obstinate Baloth
-Predator's Strike
-Time to Feed
-Thriving Grove
+//Creatures (8)
+1 Slinza, the Spiked Stampede
+1 Hungry Megasloth
+1 Spined Tyrranax
+1 Woodland Liege
+1 Advocate of the Beast
+1 Brushstrider
+1 Gnarlid Colony
+1 Obstinate Baloth
+//Sorceries (3)
+1 Explore
+1 Gift of the Gargantuan
+1 Time to Feed
+//Instants (1)
+1 Predator's Strike
+//Lands (2)
+1 Thriving Grove
 6 Forest

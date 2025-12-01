@@ -1,15 +1,19 @@
 GOBLINS (2)
-Dropkick Bomber
-Goblin Goliath
-Goblin Surprise
-General Kreat, the Boltbringer
-Battle Cry Goblin
-Krenko's Command
-Volley Veteran
-Goblin Arsonist
-Kindled Fury
-Mogg Flunkies
-Open Fire
-Shock
-Thriving Bluff
+//Creatures (7)
+1 Dropkick Bomber
+1 Goblin Goliath
+1 General Kreat, the Boltbringer
+1 Battle Cry Goblin
+1 Volley Veteran
+1 Goblin Arsonist
+1 Mogg Flunkies
+//Sorceries (1)
+1 Krenko's Command
+//Instants (4)
+1 Goblin Surprise
+1 Kindled Fury
+1 Open Fire
+1 Shock
+//Lands (2)
+1 Thriving Bluff
 7 Mountain

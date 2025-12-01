@@ -1,15 +1,20 @@
 VAMPIRES (3)
-Necropolis Regent
-Scourge of the Undercity
-Nazar, the Velvet Fang
-Skymarch Bloodletter
-Bleed Dry
-Blood Fountain
-Creeping Bloodsucker
-Gift of Fangs
-Gluttonous Guest
-Go for the Throat
-Thirsting Bloodlord
-Vicious Conquistador
-Thriving Moor
+//Creatures (8)
+1 Necropolis Regent
+1 Scourge of the Undercity
+1 Nazar, the Velvet Fang
+1 Skymarch Bloodletter
+1 Creeping Bloodsucker
+1 Gluttonous Guest
+1 Thirsting Bloodlord
+1 Vicious Conquistador
+//Instants (2)
+1 Bleed Dry
+1 Go for the Throat
+//Artifacts (1)
+1 Blood Fountain
+//Enchantments (1)
+1 Gift of Fangs
+//Lands (2)
+1 Thriving Moor
 7 Swamp

@@ -1,15 +1,19 @@
 EXPLORERS (4)
-Jadelight Ranger
-Go Forth
-Razorgrass Invoker
-Slimy Piper
-Shardless Outlander
-Braulios of Pheres Band
-Explore
-Adventurous Impulse
-Clear Shot
-Ixalli's Diviner
-Merfolk Branchwalker
-Primeval Herald
-Thriving Grove
+//Creatures (8)
+1 Jadelight Ranger
+1 Razorgrass Invoker
+1 Slimy Piper
+1 Shardless Outlander
+1 Braulios of Pheres Band
+1 Ixalli's Diviner
+1 Merfolk Branchwalker
+1 Primeval Herald
+//Sorceries (2)
+1 Explore
+1 Adventurous Impulse
+//Instants (2)
+1 Go Forth
+1 Clear Shot
+//Lands (2)
+1 Thriving Grove
 7 Forest

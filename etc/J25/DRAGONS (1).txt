@@ -1,15 +1,20 @@
 DRAGONS (1)
-Lathliss, Dragon Queen
-Firespitter Whelp
-Carnelian Orb of Dragonkind
-Dragon's Fire
-Seize the Spoils
-Bathe in Dragonfire
-Dragon Hatchling
-Dragon Whelp
-Dragonlord's Servant
-Rapacious Dragon
-Sparktongue Dragon
-Forgotten Cave
-Thriving Bluff
+//Creatures (7)
+1 Lathliss, Dragon Queen
+1 Firespitter Whelp
+1 Dragon Hatchling
+1 Dragon Whelp
+1 Dragonlord's Servant
+1 Rapacious Dragon
+1 Sparktongue Dragon
+//Sorceries (2)
+1 Seize the Spoils
+1 Bathe in Dragonfire
+//Instants (1)
+1 Dragon's Fire
+//Artifacts (1)
+1 Carnelian Orb of Dragonkind
+//Lands (3)
+1 Forgotten Cave
+1 Thriving Bluff
 7 Mountain

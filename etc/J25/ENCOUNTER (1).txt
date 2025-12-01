@@ -1,15 +1,20 @@
 ENCOUNTER (1)
-Forgotten Ancient
-Spined Tyrranax
-Mowu, Loyal Companion
-Biogenic Upgrade
-Aggressive Instinct
-Ainok Artillerist
-Deepwood Denizen
-Duskshell Crawler
-Greenwood Sentinel
-Jiang Yanggu, Wildcrafter
-Servant of the Scale
-Snakeskin Veil
-Thriving Grove
+//Creatures (8)
+1 Forgotten Ancient
+1 Spined Tyrranax
+1 Mowu, Loyal Companion
+1 Ainok Artillerist
+1 Deepwood Denizen
+1 Duskshell Crawler
+1 Greenwood Sentinel
+1 Servant of the Scale
+//Sorceries (2)
+1 Biogenic Upgrade
+1 Aggressive Instinct
+//Instants (1)
+1 Snakeskin Veil
+//Planeswalkers (1)
+1 Jiang Yanggu, Wildcrafter
+//Lands (2)
+1 Thriving Grove
 7 Forest

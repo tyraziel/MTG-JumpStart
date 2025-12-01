@@ -1,15 +1,20 @@
 ELVES (4)
-Tyvar Kell
-Voice of the Woods
-Dionus, Elvish Archdruid
-Llanowar Elves
-Arbor Armament
-Ghirapur Guide
-High-Rise Sawjack
-Hunter's Edge
-Ivy Lane Denizen
-Overcome
-Paradise Druid
-Reckless Amplimancer
-Thriving Grove
+//Creatures (8)
+1 Voice of the Woods
+1 Dionus, Elvish Archdruid
+1 Llanowar Elves
+1 Ghirapur Guide
+1 High-Rise Sawjack
+1 Ivy Lane Denizen
+1 Paradise Druid
+1 Reckless Amplimancer
+//Sorceries (2)
+1 Hunter's Edge
+1 Overcome
+//Instants (1)
+1 Arbor Armament
+//Planeswalkers (1)
+1 Tyvar Kell
+//Lands (2)
+1 Thriving Grove
 7 Forest

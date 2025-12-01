@@ -1,15 +1,19 @@
 ILLUSIONS
-Pol Jamaar, Illusionist
-Lord of the Unreal
-Phantasmal Shieldback
-Starlight Snare
-Murmuring Mystic
-Haunting Figment
-Krovikan Mist
-Oneirophage
-Opt
-Phantasmal Form
-Phantom Ninja
-Supreme Will
-Thriving Isle
+//Creatures (8)
+1 Pol Jamaar, Illusionist
+1 Lord of the Unreal
+1 Phantasmal Shieldback
+1 Murmuring Mystic
+1 Haunting Figment
+1 Krovikan Mist
+1 Oneirophage
+1 Phantom Ninja
+//Instants (3)
+1 Opt
+1 Phantasmal Form
+1 Supreme Will
+//Enchantments (1)
+1 Starlight Snare
+//Lands (2)
+1 Thriving Isle
 7 Island

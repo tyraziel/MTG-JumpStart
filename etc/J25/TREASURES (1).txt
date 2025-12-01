@@ -1,15 +1,20 @@
 TREASURES (1)
-Evereth, Viceroy of Plunder
-Ruthless Technomancer
-Deadly Dispute
-Grim Bounty
-Shambling Ghast
-Bastion of Remembrance
-Dire Fleet Hoarder
-Fake Your Own Death
-Pitiless Plunderer
-Reassembling Skeleton
-Ruthless Knave
-Undercity Scrounger
-Thriving Moor
+//Creatures (8)
+1 Evereth, Viceroy of Plunder
+1 Ruthless Technomancer
+1 Shambling Ghast
+1 Dire Fleet Hoarder
+1 Pitiless Plunderer
+1 Reassembling Skeleton
+1 Ruthless Knave
+1 Undercity Scrounger
+//Sorceries (1)
+1 Grim Bounty
+//Instants (2)
+1 Deadly Dispute
+1 Fake Your Own Death
+//Enchantments (1)
+1 Bastion of Remembrance
+//Lands (2)
+1 Thriving Moor
 7 Swamp

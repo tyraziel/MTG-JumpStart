@@ -1,15 +1,20 @@
 NER-DO-WELLS (2)
-Rev, Tithe Extractor
-Thieves' Guild Enforcer
-Grim Bounty
-Thieves' Tools
-Audacious Thief
-Balustrade Spy
-Bloodtithe Collector
-Expedition Skulker
-Fake Your Own Death
-Foul Play
-Masked Blackguard
-Morbid Opportunist
-Thriving Moor
+//Creatures (8)
+1 Rev, Tithe Extractor
+1 Thieves' Guild Enforcer
+1 Audacious Thief
+1 Balustrade Spy
+1 Bloodtithe Collector
+1 Expedition Skulker
+1 Masked Blackguard
+1 Morbid Opportunist
+//Sorceries (2)
+1 Grim Bounty
+1 Foul Play
+//Instants (1)
+1 Fake Your Own Death
+//Artifacts (1)
+1 Thieves' Tools
+//Lands (2)
+1 Thriving Moor
 7 Swamp

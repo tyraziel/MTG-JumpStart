@@ -1,15 +1,19 @@
 BLOODY (4)
-Falkenrath Marauders
-Ivora, Insatiable Heir
-Blood Feud
-Belligerent Guest
-Blood Petal Celebrant
-Falkenrath Celebrants
-Neonate's Rush
-Soul Sear
-Stolen Vitality
-Voldaren Ambusher
-Voldaren Duelist
-Voldaren Epicure
-Thriving Bluff
+//Creatures (8)
+1 Falkenrath Marauders
+1 Ivora, Insatiable Heir
+1 Belligerent Guest
+1 Blood Petal Celebrant
+1 Falkenrath Celebrants
+1 Voldaren Ambusher
+1 Voldaren Duelist
+1 Voldaren Epicure
+//Sorceries (1)
+1 Blood Feud
+//Instants (3)
+1 Neonate's Rush
+1 Soul Sear
+1 Stolen Vitality
+//Lands (2)
+1 Thriving Bluff
 7 Mountain

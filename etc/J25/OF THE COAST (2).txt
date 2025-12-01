@@ -1,16 +1,20 @@
 OF THE COAST (2)
-Plagon, Lord of the Beach
-Delightful Discovery
-Gilded Scuttler
-Starlight Snare
-Run Ashore
-Azure Drake
-Glimmerbell
-Opt
-Shipwreck Dowser
-Shorecomber Crab
-Sigiled Starfish
-Tidepool Turtle
-Lonely Sandbar
-Thriving Isle
+//Creatures (8)
+1 Plagon, Lord of the Beach
+1 Gilded Scuttler
+1 Azure Drake
+1 Glimmerbell
+1 Shipwreck Dowser
+1 Shorecomber Crab
+1 Sigiled Starfish
+1 Tidepool Turtle
+//Instants (3)
+1 Delightful Discovery
+1 Run Ashore
+1 Opt
+//Enchantments (1)
+1 Starlight Snare
+//Lands (3)
+1 Lonely Sandbar
+1 Thriving Isle
 6 Island

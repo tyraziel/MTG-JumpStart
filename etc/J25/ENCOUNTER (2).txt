@@ -1,15 +1,20 @@
 ENCOUNTER (2)
-Oran-Rief Ooze
-Saurian Symbiote
-Spined Tyrranax
-Mowu, Loyal Companion
-Aggressive Instinct
-Deepwood Denizen
-Duskshell Crawler
-Greenwood Sentinel
-Invigorating Surge
-Jiang Yanggu, Wildcrafter
-Jungle Delver
-Stony Strength
-Thriving Grove
+//Creatures (8)
+1 Oran-Rief Ooze
+1 Saurian Symbiote
+1 Spined Tyrranax
+1 Mowu, Loyal Companion
+1 Deepwood Denizen
+1 Duskshell Crawler
+1 Greenwood Sentinel
+1 Jungle Delver
+//Sorceries (1)
+1 Aggressive Instinct
+//Instants (2)
+1 Invigorating Surge
+1 Stony Strength
+//Planeswalkers (1)
+1 Jiang Yanggu, Wildcrafter
+//Lands (2)
+1 Thriving Grove
 7 Forest

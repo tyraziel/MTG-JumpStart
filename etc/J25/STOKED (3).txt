@@ -1,15 +1,20 @@
 STOKED (3)
-Frontline Heroism
-Mirrorwing Dragon
-Hearts on Fire
-Scholar of Combustion
-Cleon, Merry Champion
-Akroan Crusader
-Arena Athlete
-Roil Eruption
-Titan's Strength
-Twinferno
-Unleash Fury
-Young Pyromancer
-Thriving Bluff
+//Creatures (6)
+1 Mirrorwing Dragon
+1 Scholar of Combustion
+1 Cleon, Merry Champion
+1 Akroan Crusader
+1 Arena Athlete
+1 Young Pyromancer
+//Sorceries (1)
+1 Roil Eruption
+//Instants (4)
+1 Hearts on Fire
+1 Titan's Strength
+1 Twinferno
+1 Unleash Fury
+//Enchantments (1)
+1 Frontline Heroism
+//Lands (2)
+1 Thriving Bluff
 7 Mountain

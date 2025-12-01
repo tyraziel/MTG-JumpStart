@@ -1,15 +1,20 @@
 VAMPIRES (1)
-Sangromancer
-Scourge of the Undercity
-Nazar, the Velvet Fang
-Skymarch Bloodletter
-Bleed Dry
-Blood Burglar
-Blood Fountain
-Bloodtithe Collector
-Gift of Fangs
-Gluttonous Guest
-Urge to Feed
-Vampire of the Dire Moon
-Thriving Moor
+//Creatures (8)
+1 Sangromancer
+1 Scourge of the Undercity
+1 Nazar, the Velvet Fang
+1 Skymarch Bloodletter
+1 Blood Burglar
+1 Bloodtithe Collector
+1 Gluttonous Guest
+1 Vampire of the Dire Moon
+//Instants (2)
+1 Bleed Dry
+1 Urge to Feed
+//Artifacts (1)
+1 Blood Fountain
+//Enchantments (1)
+1 Gift of Fangs
+//Lands (2)
+1 Thriving Moor
 7 Swamp

@@ -1,16 +1,22 @@
 BOOKWORMS (2)
-Teferi's Ageless Insight
-Phantasmal Shieldback
-Starlight Snare
-Syr Elenora, the Discerning
-Drag Under
-Uncomfortable Chill
-Faerie Vandal
-Muse Drake
-Mystic Skyfish
-Reckless Scholar
-Sky-Eel School
-Witching Well
-Memorial to Genius
-Thriving Isle
+//Creatures (7)
+1 Phantasmal Shieldback
+1 Syr Elenora, the Discerning
+1 Faerie Vandal
+1 Muse Drake
+1 Mystic Skyfish
+1 Reckless Scholar
+1 Sky-Eel School
+//Sorceries (1)
+1 Drag Under
+//Instants (1)
+1 Uncomfortable Chill
+//Artifacts (1)
+1 Witching Well
+//Enchantments (2)
+1 Teferi's Ageless Insight
+1 Starlight Snare
+//Lands (3)
+1 Memorial to Genius
+1 Thriving Isle
 6 Island

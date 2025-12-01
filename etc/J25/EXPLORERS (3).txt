@@ -1,15 +1,20 @@
 EXPLORERS (3)
-Briarbridge Tracker
-Somberwald Beastmaster
-Go Forth
-Slimy Piper
-Shardless Outlander
-Braulios of Pheres Band
-Explore
-Ambassador Oak
-Byway Courier
-Clear Shot
-Ulvenwald Mysteries
-Woodland Champion
-Thriving Grove
+//Creatures (8)
+1 Briarbridge Tracker
+1 Somberwald Beastmaster
+1 Slimy Piper
+1 Shardless Outlander
+1 Braulios of Pheres Band
+1 Ambassador Oak
+1 Byway Courier
+1 Woodland Champion
+//Sorceries (1)
+1 Explore
+//Instants (2)
+1 Go Forth
+1 Clear Shot
+//Enchantments (1)
+1 Ulvenwald Mysteries
+//Lands (2)
+1 Thriving Grove
 7 Forest

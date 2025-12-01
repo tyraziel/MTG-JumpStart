@@ -1,15 +1,20 @@
 ARMED (1)
-Mace of the Valiant
-Faithful Pikemaster
-Starnheim Memento
-Danitha Capashen, Paragon
-Ancestral Blade
-Divine Arrow
-Fencing Ace
-Mirran Bardiche
-Pacifism
-Starnheim Courser
-Sunspear Shikari
-Valkyrie's Sword
-Thriving Heath
+//Creatures (5)
+1 Faithful Pikemaster
+1 Danitha Capashen, Paragon
+1 Fencing Ace
+1 Starnheim Courser
+1 Sunspear Shikari
+//Instants (1)
+1 Divine Arrow
+//Artifacts (5)
+1 Mace of the Valiant
+1 Starnheim Memento
+1 Ancestral Blade
+1 Mirran Bardiche
+1 Valkyrie's Sword
+//Enchantments (1)
+1 Pacifism
+//Lands (2)
+1 Thriving Heath
 7 Plains

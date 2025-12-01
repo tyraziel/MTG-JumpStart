@@ -1,15 +1,18 @@
 ENCHANTED (1)
-Eidolon of Astral Winds
-Psemilla, Meletian Poet
-Banishing Light
-Archon of Falling Stars
-Captivating Unicorn
-Chosen by Heliod
-Dreadful Apathy
-Favored of Iroas
-Flutterfox
-Glory Bearers
-Indomitable Will
-Spirited Companion
-Thriving Heath
+//Creatures (8)
+1 Eidolon of Astral Winds
+1 Psemilla, Meletian Poet
+1 Archon of Falling Stars
+1 Captivating Unicorn
+1 Favored of Iroas
+1 Flutterfox
+1 Glory Bearers
+1 Spirited Companion
+//Enchantments (4)
+1 Banishing Light
+1 Chosen by Heliod
+1 Dreadful Apathy
+1 Indomitable Will
+//Lands (2)
+1 Thriving Heath
 7 Plains

@@ -1,15 +1,19 @@
 BOOKWORMS (3)
-Sphinx of Enlightenment
-Starlight Snare
-Syr Elenora, the Discerning
-Drag Under
-Cartouche of Knowledge
-Lat-Nam Adept
-Mystic Skyfish
-Omen of the Sea
-Reckless Scholar
-Shore Keeper
-Thopter Mechanic
-Trial of Knowledge
-Thriving Isle
+//Creatures (7)
+1 Sphinx of Enlightenment
+1 Syr Elenora, the Discerning
+1 Lat-Nam Adept
+1 Mystic Skyfish
+1 Reckless Scholar
+1 Shore Keeper
+1 Thopter Mechanic
+//Sorceries (1)
+1 Drag Under
+//Enchantments (4)
+1 Starlight Snare
+1 Cartouche of Knowledge
+1 Omen of the Sea
+1 Trial of Knowledge
+//Lands (2)
+1 Thriving Isle
 7 Island

@@ -1,15 +1,20 @@
 BOOKWORMS (1)
-Overflowing Insight
-Starlight Snare
-Syr Elenora, the Discerning
-Blink of an Eye
-Cartouche of Knowledge
-Faerie Vandal
-Lat-Nam Adept
-Mystic Skyfish
-Reckless Scholar
-Shore Keeper
-Sky-Eel School
-Trial of Knowledge
-Thriving Isle
+//Creatures (7)
+1 Syr Elenora, the Discerning
+1 Faerie Vandal
+1 Lat-Nam Adept
+1 Mystic Skyfish
+1 Reckless Scholar
+1 Shore Keeper
+1 Sky-Eel School
+//Sorceries (1)
+1 Overflowing Insight
+//Instants (1)
+1 Blink of an Eye
+//Enchantments (3)
+1 Starlight Snare
+1 Cartouche of Knowledge
+1 Trial of Knowledge
+//Lands (2)
+1 Thriving Isle
 7 Island

@@ -1,15 +1,19 @@
 GHASTLY (2)
-Bloodgift Demon
-Ozox, the Clattering King
-Blood Beckoning
-Defenestrate
-Doomed Dissenter
-Falkenrath Noble
-Gnawing Zombie
-Moan of the Unhallowed
-Morbid Opportunist
-Tragic Slip
-Typhoid Rats
-Village Rites
-Thriving Moor
+//Creatures (7)
+1 Bloodgift Demon
+1 Ozox, the Clattering King
+1 Doomed Dissenter
+1 Falkenrath Noble
+1 Gnawing Zombie
+1 Morbid Opportunist
+1 Typhoid Rats
+//Sorceries (2)
+1 Blood Beckoning
+1 Moan of the Unhallowed
+//Instants (3)
+1 Defenestrate
+1 Tragic Slip
+1 Village Rites
+//Lands (2)
+1 Thriving Moor
 7 Swamp

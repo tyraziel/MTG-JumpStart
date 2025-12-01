@@ -1,15 +1,20 @@
 ARMED (3)
-Maul of the Skyclaves
-Faithful Pikemaster
-Danitha Capashen, Paragon
-Ancestral Blade
-Fencing Ace
-Flutterfox
-Militant Inquisitor
-Mirran Bardiche
-Pacifism
-Resistance Reunited
-Trusty Retriever
-Valkyrie's Sword
-Thriving Heath
+//Creatures (6)
+1 Faithful Pikemaster
+1 Danitha Capashen, Paragon
+1 Fencing Ace
+1 Flutterfox
+1 Militant Inquisitor
+1 Trusty Retriever
+//Instants (1)
+1 Resistance Reunited
+//Artifacts (4)
+1 Maul of the Skyclaves
+1 Ancestral Blade
+1 Mirran Bardiche
+1 Valkyrie's Sword
+//Enchantments (1)
+1 Pacifism
+//Lands (2)
+1 Thriving Heath
 7 Plains

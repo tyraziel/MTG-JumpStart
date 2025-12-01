@@ -1,15 +1,20 @@
 SNAKES
-Aphelia, Viper Whisperer
-Hooded Blightfang
-Scourge of the Undercity
-Killing Glare
-Serpent Assassin
-Coat with Venom
-Night's Whisper
-Pharika's Chosen
-Ukud Cobra
-Venomous Hierophant
-Vraska's Finisher
-Gorgon Flail
-Thriving Moor
+//Creatures (8)
+1 Aphelia, Viper Whisperer
+1 Hooded Blightfang
+1 Scourge of the Undercity
+1 Serpent Assassin
+1 Pharika's Chosen
+1 Ukud Cobra
+1 Venomous Hierophant
+1 Vraska's Finisher
+//Sorceries (1)
+1 Night's Whisper
+//Instants (2)
+1 Killing Glare
+1 Coat with Venom
+//Artifacts (1)
+1 Gorgon Flail
+//Lands (2)
+1 Thriving Moor
 7 Swamp

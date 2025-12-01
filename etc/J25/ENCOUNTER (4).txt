@@ -1,15 +1,21 @@
 ENCOUNTER (4)
-Primeval Bounty
-Quirion Beastcaller
-Hungry Megasloth
-Mowu, Loyal Companion
-Aggressive Instinct
-Armorcraft Judge
-Big Play
-Deepwood Denizen
-Gnarlid Colony
-Jiang Yanggu, Wildcrafter
-Moldgraf Millipede
-Pridemalkin
-Thriving Grove
+//Creatures (8)
+1 Quirion Beastcaller
+1 Hungry Megasloth
+1 Mowu, Loyal Companion
+1 Armorcraft Judge
+1 Deepwood Denizen
+1 Gnarlid Colony
+1 Moldgraf Millipede
+1 Pridemalkin
+//Sorceries (1)
+1 Aggressive Instinct
+//Instants (1)
+1 Big Play
+//Enchantments (1)
+1 Primeval Bounty
+//Planeswalkers (1)
+1 Jiang Yanggu, Wildcrafter
+//Lands (2)
+1 Thriving Grove
 7 Forest

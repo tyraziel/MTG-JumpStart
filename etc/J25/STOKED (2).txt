@@ -1,15 +1,19 @@
 STOKED (2)
-Dreadhorde Arcanist
-Hearts on Fire
-Cleon, Merry Champion
-Kiln Fiend
-Arena Athlete
-Coordinated Assault
-Hero of the Games
-Resistance Skywarden
-Roil Eruption
-Satyr Hoplite
-Titan's Strength
-Unleash Fury
-Thriving Bluff
+//Creatures (7)
+1 Dreadhorde Arcanist
+1 Cleon, Merry Champion
+1 Kiln Fiend
+1 Arena Athlete
+1 Hero of the Games
+1 Resistance Skywarden
+1 Satyr Hoplite
+//Sorceries (1)
+1 Roil Eruption
+//Instants (4)
+1 Hearts on Fire
+1 Coordinated Assault
+1 Titan's Strength
+1 Unleash Fury
+//Lands (2)
+1 Thriving Bluff
 7 Mountain

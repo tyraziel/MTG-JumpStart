@@ -1,15 +1,19 @@
 GRAVE ROBBERS (2)
-Gorex, the Tombshell
-Doomed Necromancer
-Revoke Demise
-Eternal Taskmaster
-Deal Gone Bad
-Dusk Mangler
-Eye Collector
-Fake Your Own Death
-Gorging Vulture
-Moodmark Painter
-Necrotic Wound
-Undead Butler
-Thriving Moor
+//Creatures (8)
+1 Gorex, the Tombshell
+1 Doomed Necromancer
+1 Eternal Taskmaster
+1 Dusk Mangler
+1 Eye Collector
+1 Gorging Vulture
+1 Moodmark Painter
+1 Undead Butler
+//Sorceries (1)
+1 Revoke Demise
+//Instants (3)
+1 Deal Gone Bad
+1 Fake Your Own Death
+1 Necrotic Wound
+//Lands (2)
+1 Thriving Moor
 7 Swamp

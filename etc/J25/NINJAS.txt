@@ -1,15 +1,19 @@
 NINJAS
-Taeko, the Patient Avalanche
-Starlight Snare
-Ninja of the Deep Hours
-Fading Hope
-Moon-Circuit Hacker
-Moonsnare Specialist
-Network Disruptor
-Nightveil Sprite
-Phantom Ninja
-Prosperous Thief
-Smoke Shroud
-Whirlwind Denial
-Thriving Isle
+//Creatures (8)
+1 Taeko, the Patient Avalanche
+1 Ninja of the Deep Hours
+1 Moon-Circuit Hacker
+1 Moonsnare Specialist
+1 Network Disruptor
+1 Nightveil Sprite
+1 Phantom Ninja
+1 Prosperous Thief
+//Instants (2)
+1 Fading Hope
+1 Whirlwind Denial
+//Enchantments (2)
+1 Starlight Snare
+1 Smoke Shroud
+//Lands (2)
+1 Thriving Isle
 7 Island

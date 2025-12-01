@@ -1,15 +1,19 @@
 STOKED (4)
-Goblin Dark-Dwellers
-Hearts on Fire
-Cleon, Merry Champion
-Akroan Crusader
-Arena Athlete
-Crimson Wisps
-Hero of the Games
-Infuriate
-Roil Eruption
-Uncaged Fury
-Weaver of Lightning
-Young Pyromancer
-Thriving Bluff
+//Creatures (7)
+1 Goblin Dark-Dwellers
+1 Cleon, Merry Champion
+1 Akroan Crusader
+1 Arena Athlete
+1 Hero of the Games
+1 Weaver of Lightning
+1 Young Pyromancer
+//Sorceries (1)
+1 Roil Eruption
+//Instants (4)
+1 Hearts on Fire
+1 Crimson Wisps
+1 Infuriate
+1 Uncaged Fury
+//Lands (2)
+1 Thriving Bluff
 7 Mountain

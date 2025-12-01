@@ -1,15 +1,20 @@
 STOKED (1)
-Frontline Heroism
-Hearts on Fire
-Scholar of Combustion
-Cleon, Merry Champion
-Kiln Fiend
-Arena Athlete
-Resistance Skywarden
-Roil Eruption
-Satyr Hoplite
-Titan's Strength
-Twinferno
-Uncaged Fury
-Thriving Bluff
+//Creatures (6)
+1 Scholar of Combustion
+1 Cleon, Merry Champion
+1 Kiln Fiend
+1 Arena Athlete
+1 Resistance Skywarden
+1 Satyr Hoplite
+//Sorceries (1)
+1 Roil Eruption
+//Instants (4)
+1 Hearts on Fire
+1 Titan's Strength
+1 Twinferno
+1 Uncaged Fury
+//Enchantments (1)
+1 Frontline Heroism
+//Lands (2)
+1 Thriving Bluff
 7 Mountain

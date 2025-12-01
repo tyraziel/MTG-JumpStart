@@ -1,15 +1,19 @@
 GHASTLY (4)
-Army of the Damned
-Ozox, the Clattering King
-Deadly Dispute
-Shambling Ghast
-Crawl from the Cellar
-Defenestrate
-Doomed Dissenter
-Falkenrath Noble
-Moan of the Unhallowed
-Morbid Opportunist
-Tragic Slip
-Wakedancer
-Thriving Moor
+//Creatures (6)
+1 Ozox, the Clattering King
+1 Shambling Ghast
+1 Doomed Dissenter
+1 Falkenrath Noble
+1 Morbid Opportunist
+1 Wakedancer
+//Sorceries (3)
+1 Army of the Damned
+1 Crawl from the Cellar
+1 Moan of the Unhallowed
+//Instants (3)
+1 Deadly Dispute
+1 Defenestrate
+1 Tragic Slip
+//Lands (2)
+1 Thriving Moor
 7 Swamp

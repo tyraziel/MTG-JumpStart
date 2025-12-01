@@ -1,15 +1,20 @@
 DROWNED (2)
-Neerdiv, Devious Diver
-Cackling Counterpart
-Sudden Insight
-Cruel Witness
-Deep Analysis
-Draugr Thought-Thief
-Expendable Lackey
-Locked in the Cemetery
-Screaming Swarm
-Towering-Wave Mystic
-Waker of Waves
-Wall of Lost Thoughts
-Thriving Isle
+//Creatures (8)
+1 Neerdiv, Devious Diver
+1 Cruel Witness
+1 Draugr Thought-Thief
+1 Expendable Lackey
+1 Screaming Swarm
+1 Towering-Wave Mystic
+1 Waker of Waves
+1 Wall of Lost Thoughts
+//Sorceries (1)
+1 Deep Analysis
+//Instants (2)
+1 Cackling Counterpart
+1 Sudden Insight
+//Enchantments (1)
+1 Locked in the Cemetery
+//Lands (2)
+1 Thriving Isle
 7 Island

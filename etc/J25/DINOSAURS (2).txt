@@ -1,15 +1,19 @@
 DINOSAURS (2)
-Ghalta, Primal Hunger
-Topiary Stomper
-Saurian Symbiote
-Cherished Hatchling
-Colossal Dreadmaw
-Commune with Dinosaurs
-Drowsing Tyrannodon
-Predator's Strike
-Rampant Growth
-Tail Swipe
-Thrashing Brontodon
-Thundering Spineback
-Thriving Grove
+//Creatures (8)
+1 Ghalta, Primal Hunger
+1 Topiary Stomper
+1 Saurian Symbiote
+1 Cherished Hatchling
+1 Colossal Dreadmaw
+1 Drowsing Tyrannodon
+1 Thrashing Brontodon
+1 Thundering Spineback
+//Sorceries (2)
+1 Commune with Dinosaurs
+1 Rampant Growth
+//Instants (2)
+1 Predator's Strike
+1 Tail Swipe
+//Lands (2)
+1 Thriving Grove
 7 Forest

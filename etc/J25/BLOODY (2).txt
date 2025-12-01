@@ -1,15 +1,19 @@
 BLOODY (2)
-Markov Blademaster
-Markov Enforcer
-Ivora, Insatiable Heir
-Blood Hypnotist
-Blood Petal Celebrant
-Falkenrath Celebrants
-Flame-Blessed Bolt
-Insolent Neonate
-Markov Retribution
-Soul Sear
-Stolen Vitality
-Voldaren Duelist
-Thriving Bluff
+//Creatures (8)
+1 Markov Blademaster
+1 Markov Enforcer
+1 Ivora, Insatiable Heir
+1 Blood Hypnotist
+1 Blood Petal Celebrant
+1 Falkenrath Celebrants
+1 Insolent Neonate
+1 Voldaren Duelist
+//Sorceries (1)
+1 Markov Retribution
+//Instants (3)
+1 Flame-Blessed Bolt
+1 Soul Sear
+1 Stolen Vitality
+//Lands (2)
+1 Thriving Bluff
 7 Mountain

@@ -1,15 +1,19 @@
 BURNING
-Rionya, Fire Dancer
-Firespitter Whelp
-Hearts on Fire
-Fathom Fleet Firebrand
-Goblin Fireslinger
-Bloodfire Expert
-Chandra's Spitfire
-Firebrand Archer
-Flames of the Firebrand
-Jaya's Firenado
-Play with Fire
-Wildfire Elemental
-Thriving Bluff
+//Creatures (8)
+1 Rionya, Fire Dancer
+1 Firespitter Whelp
+1 Fathom Fleet Firebrand
+1 Goblin Fireslinger
+1 Bloodfire Expert
+1 Chandra's Spitfire
+1 Firebrand Archer
+1 Wildfire Elemental
+//Sorceries (2)
+1 Flames of the Firebrand
+1 Jaya's Firenado
+//Instants (2)
+1 Hearts on Fire
+1 Play with Fire
+//Lands (2)
+1 Thriving Bluff
 7 Mountain

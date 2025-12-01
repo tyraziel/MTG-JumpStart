@@ -1,15 +1,19 @@
 LANDFALL (4)
-Scythecat Cub
-Sutina, Speaker of the Tajuru
-Baloth Woodcrasher
-Bite Down
-Canopy Baloth
-Grazing Gladehart
-Groundswell
-Harrow
-Skyclave Pick-Axe
-Snapping Gnarlid
-Sporemound
-Evolving Wilds
-Thriving Grove
+//Creatures (7)
+1 Scythecat Cub
+1 Sutina, Speaker of the Tajuru
+1 Baloth Woodcrasher
+1 Canopy Baloth
+1 Grazing Gladehart
+1 Snapping Gnarlid
+1 Sporemound
+//Instants (3)
+1 Bite Down
+1 Groundswell
+1 Harrow
+//Artifacts (1)
+1 Skyclave Pick-Axe
+//Lands (3)
+1 Evolving Wilds
+1 Thriving Grove
 7 Forest

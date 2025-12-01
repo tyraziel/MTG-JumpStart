@@ -1,16 +1,20 @@
 ZEALOTS (3)
-Combat Celebrant
-Hearts on Fire
-Anep, Vizier of Hazoret
-Battlefield Scavenger
-Bloodlust Inciter
-Cartouche of Zeal
-Emberhorn Minotaur
-Fling
-Nef-Crop Entangler
-Shock
-Trial of Zeal
-Trueheart Twins
-Desert of the Fervent
-Thriving Bluff
+//Creatures (7)
+1 Combat Celebrant
+1 Anep, Vizier of Hazoret
+1 Battlefield Scavenger
+1 Bloodlust Inciter
+1 Emberhorn Minotaur
+1 Nef-Crop Entangler
+1 Trueheart Twins
+//Instants (3)
+1 Hearts on Fire
+1 Fling
+1 Shock
+//Enchantments (2)
+1 Cartouche of Zeal
+1 Trial of Zeal
+//Lands (3)
+1 Desert of the Fervent
+1 Thriving Bluff
 6 Mountain

@@ -1,15 +1,20 @@
 SOARING (2)
-Cavalier of Gales
-Starlight Snare
-Cynette, Jelly Drover
-Aerial Guide
-Cartouche of Knowledge
-Gust of Wind
-Majestic Metamorphosis
-Owl Familiar
-Shorecomber Crab
-Tide Skimmer
-Trial of Knowledge
-Warden of Evos Isle
-Thriving Isle
+//Creatures (7)
+1 Cavalier of Gales
+1 Cynette, Jelly Drover
+1 Aerial Guide
+1 Owl Familiar
+1 Shorecomber Crab
+1 Tide Skimmer
+1 Warden of Evos Isle
+//Sorceries (1)
+1 Gust of Wind
+//Instants (1)
+1 Majestic Metamorphosis
+//Enchantments (3)
+1 Starlight Snare
+1 Cartouche of Knowledge
+1 Trial of Knowledge
+//Lands (2)
+1 Thriving Isle
 7 Island

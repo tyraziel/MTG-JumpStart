@@ -1,15 +1,20 @@
 ANGELS (1)
-Giada, Font of Hope
-Faithful Pikemaster
-Starnheim Memento
-Celestial Enforcer
-Destroy Evil
-Herald of the Sun
-Inspiring Overseer
-Light of Hope
-Pacifism
-Serra Angel
-Youthful Valkyrie
-Secluded Steppe
-Thriving Heath
+//Creatures (7)
+1 Giada, Font of Hope
+1 Faithful Pikemaster
+1 Celestial Enforcer
+1 Herald of the Sun
+1 Inspiring Overseer
+1 Serra Angel
+1 Youthful Valkyrie
+//Instants (2)
+1 Destroy Evil
+1 Light of Hope
+//Artifacts (1)
+1 Starnheim Memento
+//Enchantments (1)
+1 Pacifism
+//Lands (3)
+1 Secluded Steppe
+1 Thriving Heath
 7 Plains

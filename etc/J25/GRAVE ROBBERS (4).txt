@@ -1,15 +1,20 @@
 GRAVE ROBBERS (4)
-Isareth the Awakener
-Liliana, Death's Majesty
-Revoke Demise
-Shardless Outlander
-Eternal Taskmaster
-Deal Gone Bad
-Goremand
-Gorging Vulture
-Gravedigger
-Murder
-Persistent Specimen
-Undead Butler
-Thriving Moor
+//Creatures (8)
+1 Isareth the Awakener
+1 Shardless Outlander
+1 Eternal Taskmaster
+1 Goremand
+1 Gorging Vulture
+1 Gravedigger
+1 Persistent Specimen
+1 Undead Butler
+//Sorceries (1)
+1 Revoke Demise
+//Instants (2)
+1 Deal Gone Bad
+1 Murder
+//Planeswalkers (1)
+1 Liliana, Death's Majesty
+//Lands (2)
+1 Thriving Moor
 7 Swamp

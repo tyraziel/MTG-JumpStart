@@ -1,16 +1,21 @@
 DROWNED (1)
-Neerdiv, Devious Diver
-Sudden Insight
-Deep Analysis
-Expendable Lackey
-Locked in the Cemetery
-Merfolk Pupil
-Organ Hoarder
-Screaming Swarm
-Shipwreck Dowser
-Silent Departure
-Stitched Drake
-Wall of Lost Thoughts
-Ipnu Rivulet
-Thriving Isle
+//Creatures (8)
+1 Neerdiv, Devious Diver
+1 Expendable Lackey
+1 Merfolk Pupil
+1 Organ Hoarder
+1 Screaming Swarm
+1 Shipwreck Dowser
+1 Stitched Drake
+1 Wall of Lost Thoughts
+//Sorceries (2)
+1 Deep Analysis
+1 Silent Departure
+//Instants (1)
+1 Sudden Insight
+//Enchantments (1)
+1 Locked in the Cemetery
+//Lands (3)
+1 Ipnu Rivulet
+1 Thriving Isle
 6 Island

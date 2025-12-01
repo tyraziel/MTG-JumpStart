@@ -1,15 +1,20 @@
 BEASTS (2)
-Slinza, the Spiked Stampede
-Garruk, Caller of Beasts
-Hungry Megasloth
-Woodland Liege
-Advocate of the Beast
-Baloth Gorger
-Brushstrider
-Bushwhack
-Garruk's Packleader
-Gnarlid Colony
-Predator's Strike
-Time to Feed
-Thriving Grove
+//Creatures (8)
+1 Slinza, the Spiked Stampede
+1 Hungry Megasloth
+1 Woodland Liege
+1 Advocate of the Beast
+1 Baloth Gorger
+1 Brushstrider
+1 Garruk's Packleader
+1 Gnarlid Colony
+//Sorceries (2)
+1 Bushwhack
+1 Time to Feed
+//Instants (1)
+1 Predator's Strike
+//Planeswalkers (1)
+1 Garruk, Caller of Beasts
+//Lands (2)
+1 Thriving Grove
 7 Forest

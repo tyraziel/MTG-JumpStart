@@ -1,15 +1,20 @@
 STALWART (1)
-Generous Pup
-Ajani, Adversary of Tyrants
-Urdnan, Dromoka Warrior
-Banishing Light
-Angelic Cub
-Gavony Silversmith
-Patron of the Valiant
-Sandsteppe Outcast
-Squad Captain
-Steadfast Sentry
-Swift Response
-Take Up the Shield
-Thriving Heath
+//Creatures (8)
+1 Generous Pup
+1 Urdnan, Dromoka Warrior
+1 Angelic Cub
+1 Gavony Silversmith
+1 Patron of the Valiant
+1 Sandsteppe Outcast
+1 Squad Captain
+1 Steadfast Sentry
+//Instants (2)
+1 Swift Response
+1 Take Up the Shield
+//Enchantments (1)
+1 Banishing Light
+//Planeswalkers (1)
+1 Ajani, Adversary of Tyrants
+//Lands (2)
+1 Thriving Heath
 7 Plains

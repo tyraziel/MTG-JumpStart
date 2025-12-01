@@ -1,16 +1,21 @@
 TREASURES (2)
-Evereth, Viceroy of Plunder
-Deadly Dispute
-Shambling Ghast
-Contract Killing
-Dire Fleet Hoarder
-Dusk Mangler
-Fake Your Own Death
-Pitiless Plunderer
-Powerstone Fracture
-Reassembling Skeleton
-Ruthless Knave
-Undercity Scrounger
-Thriving Moor
-Vault of Whispers
+//Creatures (8)
+1 Evereth, Viceroy of Plunder
+1 Shambling Ghast
+1 Dire Fleet Hoarder
+1 Dusk Mangler
+1 Pitiless Plunderer
+1 Reassembling Skeleton
+1 Ruthless Knave
+1 Undercity Scrounger
+//Sorceries (2)
+1 Contract Killing
+1 Powerstone Fracture
+//Instants (2)
+1 Deadly Dispute
+1 Fake Your Own Death
+//Artifacts (1)
+1 Vault of Whispers
+//Lands (2)
+1 Thriving Moor
 6 Swamp

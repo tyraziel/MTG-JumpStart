@@ -1,15 +1,20 @@
 NER-DO-WELLS (1)
-Rev, Tithe Extractor
-Serpent Assassin
-Thieves' Tools
-Audacious Thief
-Crooked Custodian
-Fake Your Own Death
-Foul Play
-Masked Blackguard
-Midnight Assassin
-Morbid Opportunist
-Murder
-Pilfering Imp
-Thriving Moor
+//Creatures (8)
+1 Rev, Tithe Extractor
+1 Serpent Assassin
+1 Audacious Thief
+1 Crooked Custodian
+1 Masked Blackguard
+1 Midnight Assassin
+1 Morbid Opportunist
+1 Pilfering Imp
+//Sorceries (1)
+1 Foul Play
+//Instants (2)
+1 Fake Your Own Death
+1 Murder
+//Artifacts (1)
+1 Thieves' Tools
+//Lands (2)
+1 Thriving Moor
 7 Swamp

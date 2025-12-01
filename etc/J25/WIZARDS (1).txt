@@ -1,15 +1,20 @@
 WIZARDS (1)
-Naban, Dean of Iteration
-Starlight Snare
-Faerie Seer
-Academy Journeymage
-Archaeomancer
-Augur of Bolas
-Choking Tethers
-Cloudkin Seer
-Concentrate
-Exclusion Mage
-Remand
-Windcaller Aven
-Thriving Isle
+//Creatures (8)
+1 Naban, Dean of Iteration
+1 Faerie Seer
+1 Academy Journeymage
+1 Archaeomancer
+1 Augur of Bolas
+1 Cloudkin Seer
+1 Exclusion Mage
+1 Windcaller Aven
+//Sorceries (1)
+1 Concentrate
+//Instants (2)
+1 Choking Tethers
+1 Remand
+//Enchantments (1)
+1 Starlight Snare
+//Lands (2)
+1 Thriving Isle
 7 Island

@@ -1,15 +1,19 @@
 GOBLINS (4)
-Goblin Rabblemaster
-Goblin Surprise
-General Kreat, the Boltbringer
-Battle Cry Goblin
-Destructive Digger
-Krenko's Command
-Volley Veteran
-Brute Strength
-Fanatical Firebrand
-Fire Prophecy
-Fissure Wizard
-Shock
-Thriving Bluff
+//Creatures (7)
+1 Goblin Rabblemaster
+1 General Kreat, the Boltbringer
+1 Battle Cry Goblin
+1 Destructive Digger
+1 Volley Veteran
+1 Fanatical Firebrand
+1 Fissure Wizard
+//Sorceries (1)
+1 Krenko's Command
+//Instants (4)
+1 Goblin Surprise
+1 Brute Strength
+1 Fire Prophecy
+1 Shock
+//Lands (2)
+1 Thriving Bluff
 7 Mountain

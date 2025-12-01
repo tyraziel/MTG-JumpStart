@@ -1,15 +1,19 @@
 CLERICS (4)
-Vito, Thorn of the Dusk Rose
-Priest of Forgotten Gods
-Revoke Demise
-Bonecaller Cleric
-Dark Bargain
-Priest of Gix
-Alchemist's Gift
-Archfiend's Vessel
-Extinguish the Light
-Scion of the Swarm
-Skemfar Shadowsage
-Stronghold Confessor
-Thriving Moor
+//Creatures (8)
+1 Vito, Thorn of the Dusk Rose
+1 Priest of Forgotten Gods
+1 Bonecaller Cleric
+1 Priest of Gix
+1 Archfiend's Vessel
+1 Scion of the Swarm
+1 Skemfar Shadowsage
+1 Stronghold Confessor
+//Sorceries (1)
+1 Revoke Demise
+//Instants (3)
+1 Dark Bargain
+1 Alchemist's Gift
+1 Extinguish the Light
+//Lands (2)
+1 Thriving Moor
 7 Swamp

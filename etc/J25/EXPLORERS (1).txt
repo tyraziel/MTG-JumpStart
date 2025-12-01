@@ -1,15 +1,19 @@
 EXPLORERS (1)
-Realm Seekers
-Go Forth
-Razorgrass Invoker
-Slimy Piper
-Shardless Outlander
-Braulios of Pheres Band
-Explore
-Adventurous Impulse
-Ainok Guide
-Clear Shot
-Ghirapur Guide
-Tireless Provisioner
-Thriving Grove
+//Creatures (8)
+1 Realm Seekers
+1 Razorgrass Invoker
+1 Slimy Piper
+1 Shardless Outlander
+1 Braulios of Pheres Band
+1 Ainok Guide
+1 Ghirapur Guide
+1 Tireless Provisioner
+//Sorceries (2)
+1 Explore
+1 Adventurous Impulse
+//Instants (2)
+1 Go Forth
+1 Clear Shot
+//Lands (2)
+1 Thriving Grove
 7 Forest

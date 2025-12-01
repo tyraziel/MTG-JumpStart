@@ -1,15 +1,20 @@
 ARMED (2)
-Stone Haven Outfitter
-Faithful Pikemaster
-Danitha Capashen, Paragon
-Plate Armor
-Ancestral Blade
-Divine Arrow
-Fencing Ace
-Hexgold Hoverwings
-Light the Way
-Militant Inquisitor
-Mirran Bardiche
-Pacifism
-Thriving Heath
+//Creatures (5)
+1 Stone Haven Outfitter
+1 Faithful Pikemaster
+1 Danitha Capashen, Paragon
+1 Fencing Ace
+1 Militant Inquisitor
+//Instants (2)
+1 Divine Arrow
+1 Light the Way
+//Artifacts (4)
+1 Plate Armor
+1 Ancestral Blade
+1 Hexgold Hoverwings
+1 Mirran Bardiche
+//Enchantments (1)
+1 Pacifism
+//Lands (2)
+1 Thriving Heath
 7 Plains

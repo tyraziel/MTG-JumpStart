@@ -1,15 +1,20 @@
 LANDFALL (3)
-Scythecat Cub
-Sutina, Speaker of the Tajuru
-Bite Down
-Canopy Baloth
-Harrow
-Kazandu Stomper
-Murasa Ranger
-Retreat to Kazandu
-Snapping Gnarlid
-Territorial Scythecat
-Cliffhaven Kitesail
-Evolving Wilds
-Thriving Grove
+//Creatures (7)
+1 Scythecat Cub
+1 Sutina, Speaker of the Tajuru
+1 Canopy Baloth
+1 Kazandu Stomper
+1 Murasa Ranger
+1 Snapping Gnarlid
+1 Territorial Scythecat
+//Instants (2)
+1 Bite Down
+1 Harrow
+//Artifacts (1)
+1 Cliffhaven Kitesail
+//Enchantments (1)
+1 Retreat to Kazandu
+//Lands (3)
+1 Evolving Wilds
+1 Thriving Grove
 7 Forest

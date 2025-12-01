@@ -1,15 +1,18 @@
 ENCHANTED (4)
-Archon of Sun's Grace
-Psemilla, Meletian Poet
-Banishing Light
-Angelic Gift
-Archon of Falling Stars
-Dreadful Apathy
-Favored of Iroas
-Flutterfox
-Golden-Tail Disciple
-Indomitable Will
-Spirited Companion
-Sunblade Samurai
-Thriving Heath
+//Creatures (8)
+1 Archon of Sun's Grace
+1 Psemilla, Meletian Poet
+1 Archon of Falling Stars
+1 Favored of Iroas
+1 Flutterfox
+1 Golden-Tail Disciple
+1 Spirited Companion
+1 Sunblade Samurai
+//Enchantments (4)
+1 Banishing Light
+1 Angelic Gift
+1 Dreadful Apathy
+1 Indomitable Will
+//Lands (2)
+1 Thriving Heath
 7 Plains

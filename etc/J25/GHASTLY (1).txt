@@ -1,15 +1,19 @@
 GHASTLY (1)
-Harvester of Souls
-Ozox, the Clattering King
-Blood Beckoning
-Doomed Dissenter
-Dross Hopper
-Falkenrath Noble
-Moan of the Unhallowed
-Morbid Opportunist
-Murder
-Tragic Slip
-Village Rites
-Wakedancer
-Thriving Moor
+//Creatures (7)
+1 Harvester of Souls
+1 Ozox, the Clattering King
+1 Doomed Dissenter
+1 Dross Hopper
+1 Falkenrath Noble
+1 Morbid Opportunist
+1 Wakedancer
+//Sorceries (2)
+1 Blood Beckoning
+1 Moan of the Unhallowed
+//Instants (3)
+1 Murder
+1 Tragic Slip
+1 Village Rites
+//Lands (2)
+1 Thriving Moor
 7 Swamp

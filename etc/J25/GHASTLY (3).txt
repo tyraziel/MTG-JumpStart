@@ -1,15 +1,19 @@
 GHASTLY (3)
-Reaper from the Abyss
-Wriggling Grub
-Ozox, the Clattering King
-Deadly Dispute
-Blood Beckoning
-Boneclad Necromancer
-Dross Hopper
-Falkenrath Noble
-Morbid Opportunist
-Morkrut Behemoth
-Murder
-Tragic Slip
-Thriving Moor
+//Creatures (8)
+1 Reaper from the Abyss
+1 Wriggling Grub
+1 Ozox, the Clattering King
+1 Boneclad Necromancer
+1 Dross Hopper
+1 Falkenrath Noble
+1 Morbid Opportunist
+1 Morkrut Behemoth
+//Sorceries (1)
+1 Blood Beckoning
+//Instants (3)
+1 Deadly Dispute
+1 Murder
+1 Tragic Slip
+//Lands (2)
+1 Thriving Moor
 7 Swamp

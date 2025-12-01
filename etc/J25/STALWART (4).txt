@@ -1,15 +1,20 @@
 STALWART (4)
-Light of the Legion
-Mikaeus, the Lunarch
-Urdnan, Dromoka Warrior
-Banishing Light
-Battlefield Promotion
-Gavony Silversmith
-Gird for Battle
-Parhelion Patrol
-Sandsteppe Outcast
-Steadfast Sentry
-Sunhome Stalwart
-Swift Response
-Thriving Heath
+//Creatures (8)
+1 Light of the Legion
+1 Mikaeus, the Lunarch
+1 Urdnan, Dromoka Warrior
+1 Gavony Silversmith
+1 Parhelion Patrol
+1 Sandsteppe Outcast
+1 Steadfast Sentry
+1 Sunhome Stalwart
+//Sorceries (1)
+1 Gird for Battle
+//Instants (2)
+1 Battlefield Promotion
+1 Swift Response
+//Enchantments (1)
+1 Banishing Light
+//Lands (2)
+1 Thriving Heath
 7 Plains

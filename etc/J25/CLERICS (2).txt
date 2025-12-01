@@ -1,15 +1,19 @@
 CLERICS (2)
-Taborax, Hope's Demise
-Revoke Demise
-Bonecaller Cleric
-Dark Bargain
-Priest of Gix
-Archfiend's Vessel
-Disfigure
-Elderfang Disciple
-Entomber Exarch
-Koma's Faithful
-Scion of the Swarm
-Severed Strands
-Thriving Moor
+//Creatures (8)
+1 Taborax, Hope's Demise
+1 Bonecaller Cleric
+1 Priest of Gix
+1 Archfiend's Vessel
+1 Elderfang Disciple
+1 Entomber Exarch
+1 Koma's Faithful
+1 Scion of the Swarm
+//Sorceries (2)
+1 Revoke Demise
+1 Severed Strands
+//Instants (2)
+1 Dark Bargain
+1 Disfigure
+//Lands (2)
+1 Thriving Moor
 7 Swamp

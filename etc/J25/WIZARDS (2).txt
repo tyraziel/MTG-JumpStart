@@ -1,15 +1,19 @@
 WIZARDS (2)
-Naban, Dean of Iteration
-Aether Channeler
-Starlight Snare
-Faerie Seer
-Academy Journeymage
-Augur of Bolas
-Chilling Trap
-Expedition Diviner
-Frost Trickster
-Opportunity
-Remand
-Shipwreck Dowser
-Thriving Isle
+//Creatures (8)
+1 Naban, Dean of Iteration
+1 Aether Channeler
+1 Faerie Seer
+1 Academy Journeymage
+1 Augur of Bolas
+1 Expedition Diviner
+1 Frost Trickster
+1 Shipwreck Dowser
+//Instants (3)
+1 Chilling Trap
+1 Opportunity
+1 Remand
+//Enchantments (1)
+1 Starlight Snare
+//Lands (2)
+1 Thriving Isle
 7 Island

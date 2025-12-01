@@ -1,16 +1,22 @@
 LEGION (2)
-Adeline, Resplendent Cathar
-Venerated Loxodon
-Dawnwing Marshal
-Hinterland Sanctifier
-Mentor of the Meek
-Raise the Alarm
-Ancestral Blade
-Conclave Tribunal
-Dauntless Unity
-Defend the Campus
-Recruitment Officer
-Triplicate Spirits
-Memorial to Glory
-Thriving Heath
+//Creatures (6)
+1 Adeline, Resplendent Cathar
+1 Venerated Loxodon
+1 Dawnwing Marshal
+1 Hinterland Sanctifier
+1 Mentor of the Meek
+1 Recruitment Officer
+//Sorceries (1)
+1 Triplicate Spirits
+//Instants (3)
+1 Raise the Alarm
+1 Dauntless Unity
+1 Defend the Campus
+//Artifacts (1)
+1 Ancestral Blade
+//Enchantments (1)
+1 Conclave Tribunal
+//Lands (3)
+1 Memorial to Glory
+1 Thriving Heath
 6 Plains

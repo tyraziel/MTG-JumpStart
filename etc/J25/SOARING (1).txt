@@ -1,15 +1,20 @@
 SOARING (1)
-Windreader Sphinx
-Starlight Snare
-Cynette, Jelly Drover
-Uncomfortable Chill
-Aerial Guide
-Gust of Wind
-Nightveil Sprite
-Serpentine Ambush
-Tide Skimmer
-Warden of Evos Isle
-Waterkin Shaman
-Winged Words
-Thriving Isle
+//Creatures (7)
+1 Windreader Sphinx
+1 Cynette, Jelly Drover
+1 Aerial Guide
+1 Nightveil Sprite
+1 Tide Skimmer
+1 Warden of Evos Isle
+1 Waterkin Shaman
+//Sorceries (2)
+1 Gust of Wind
+1 Winged Words
+//Instants (2)
+1 Uncomfortable Chill
+1 Serpentine Ambush
+//Enchantments (1)
+1 Starlight Snare
+//Lands (2)
+1 Thriving Isle
 7 Island

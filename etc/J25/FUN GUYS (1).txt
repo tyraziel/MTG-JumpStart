@@ -1,15 +1,20 @@
 FUN GUYS (1)
-Shroofus Sproutsire
-Saurian Symbiote
-Slimy Piper
-Band Together
-Fungal Plots
-Might of the Masses
-Overwhelm
-Saproling Migration
-Spore Crawler
-Spore Swarm
-Sporecrown Thallid
-Tukatongue Thallid
-Thriving Grove
+//Creatures (6)
+1 Shroofus Sproutsire
+1 Saurian Symbiote
+1 Slimy Piper
+1 Spore Crawler
+1 Sporecrown Thallid
+1 Tukatongue Thallid
+//Sorceries (2)
+1 Overwhelm
+1 Saproling Migration
+//Instants (3)
+1 Band Together
+1 Might of the Masses
+1 Spore Swarm
+//Enchantments (1)
+1 Fungal Plots
+//Lands (2)
+1 Thriving Grove
 7 Forest

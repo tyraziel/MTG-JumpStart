@@ -1,15 +1,20 @@
 EXPLORERS (2)
-Tireless Tracker
-Go Forth
-Razorgrass Invoker
-Slimy Piper
-Shardless Outlander
-Braulios of Pheres Band
-Explore
-Ainok Guide
-Byway Courier
-Clear Shot
-Primeval Herald
-Ulvenwald Mysteries
-Thriving Grove
+//Creatures (8)
+1 Tireless Tracker
+1 Razorgrass Invoker
+1 Slimy Piper
+1 Shardless Outlander
+1 Braulios of Pheres Band
+1 Ainok Guide
+1 Byway Courier
+1 Primeval Herald
+//Sorceries (1)
+1 Explore
+//Instants (2)
+1 Go Forth
+1 Clear Shot
+//Enchantments (1)
+1 Ulvenwald Mysteries
+//Lands (2)
+1 Thriving Grove
 7 Forest

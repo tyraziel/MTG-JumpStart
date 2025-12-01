@@ -1,16 +1,20 @@
 HEALERS (3)
-Righteous Valkyrie
-Hinterland Sanctifier
-Qala, Ajani's Pridemate
-Ajani's Pridemate
-Angel of Mercy
-Angel of Vitality
-Banisher Priest
-Daybreak Chaplain
-Deadly Riposte
-Moment of Heroism
-Recumbent Bliss
-Revitalize
-Kabira Crossroads
-Thriving Heath
+//Creatures (8)
+1 Righteous Valkyrie
+1 Hinterland Sanctifier
+1 Qala, Ajani's Pridemate
+1 Ajani's Pridemate
+1 Angel of Mercy
+1 Angel of Vitality
+1 Banisher Priest
+1 Daybreak Chaplain
+//Instants (3)
+1 Deadly Riposte
+1 Moment of Heroism
+1 Revitalize
+//Enchantments (1)
+1 Recumbent Bliss
+//Lands (3)
+1 Kabira Crossroads
+1 Thriving Heath
 6 Plains

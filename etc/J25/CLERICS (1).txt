@@ -1,15 +1,19 @@
 CLERICS (1)
-Taborax, Hope's Demise
-Nullpriest of Oblivion
-Revoke Demise
-Bonecaller Cleric
-Dark Bargain
-Agonizing Syphon
-Archfiend's Vessel
-Disfigure
-Eerie Soultender
-Koma's Faithful
-Scion of the Swarm
-Skemfar Shadowsage
-Thriving Moor
+//Creatures (8)
+1 Taborax, Hope's Demise
+1 Nullpriest of Oblivion
+1 Bonecaller Cleric
+1 Archfiend's Vessel
+1 Eerie Soultender
+1 Koma's Faithful
+1 Scion of the Swarm
+1 Skemfar Shadowsage
+//Sorceries (2)
+1 Revoke Demise
+1 Agonizing Syphon
+//Instants (2)
+1 Dark Bargain
+1 Disfigure
+//Lands (2)
+1 Thriving Moor
 7 Swamp

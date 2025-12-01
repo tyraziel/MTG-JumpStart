@@ -1,15 +1,20 @@
 LANDFALL (2)
-Ancient Greenwarden
-Sutina, Speaker of the Tajuru
-Bite Down
-Bond of Flourishing
-Canopy Baloth
-Kazandu Nectarpot
-Kazandu Stomper
-Krosan Tusker
-Retreat to Kazandu
-Snapping Gnarlid
-Territorial Scythecat
-Evolving Wilds
-Thriving Grove
+//Creatures (8)
+1 Ancient Greenwarden
+1 Sutina, Speaker of the Tajuru
+1 Canopy Baloth
+1 Kazandu Nectarpot
+1 Kazandu Stomper
+1 Krosan Tusker
+1 Snapping Gnarlid
+1 Territorial Scythecat
+//Sorceries (1)
+1 Bond of Flourishing
+//Instants (1)
+1 Bite Down
+//Enchantments (1)
+1 Retreat to Kazandu
+//Lands (3)
+1 Evolving Wilds
+1 Thriving Grove
 7 Forest

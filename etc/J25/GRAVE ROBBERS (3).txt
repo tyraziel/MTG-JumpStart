@@ -1,16 +1,20 @@
 GRAVE ROBBERS (3)
-Isareth the Awakener
-Revoke Demise
-Eternal Taskmaster
-Boneclad Necromancer
-Deal Gone Bad
-Dreadhound
-Gorging Vulture
-Grave Strength
-Gravedigger
-Murder
-Persistent Specimen
-Wailing Ghoul
-Memorial to Folly
-Thriving Moor
+//Creatures (8)
+1 Isareth the Awakener
+1 Eternal Taskmaster
+1 Boneclad Necromancer
+1 Dreadhound
+1 Gorging Vulture
+1 Gravedigger
+1 Persistent Specimen
+1 Wailing Ghoul
+//Sorceries (2)
+1 Revoke Demise
+1 Grave Strength
+//Instants (2)
+1 Deal Gone Bad
+1 Murder
+//Lands (3)
+1 Memorial to Folly
+1 Thriving Moor
 6 Swamp

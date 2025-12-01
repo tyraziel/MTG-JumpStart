@@ -1,15 +1,19 @@
 COPIED (1)
-Zada, Hedron Grinder
-Scholar of Combustion
-Guttersnipe
-Kiln Fiend
-Crimson Wisps
-Cyclops Electromancer
-Fire Prophecy
-Fists of Flame
-Invigorated Rampage
-Renegade Tactics
-Spellgorger Weird
-Young Pyromancer
-Thriving Bluff
+//Creatures (7)
+1 Zada, Hedron Grinder
+1 Scholar of Combustion
+1 Guttersnipe
+1 Kiln Fiend
+1 Cyclops Electromancer
+1 Spellgorger Weird
+1 Young Pyromancer
+//Sorceries (1)
+1 Renegade Tactics
+//Instants (4)
+1 Crimson Wisps
+1 Fire Prophecy
+1 Fists of Flame
+1 Invigorated Rampage
+//Lands (2)
+1 Thriving Bluff
 7 Mountain

@@ -1,15 +1,19 @@
 CLERICS (3)
-Vito, Thorn of the Dusk Rose
-Revoke Demise
-Bonecaller Cleric
-Dark Bargain
-Agonizing Syphon
-Dark Supplicant
-Eerie Soultender
-Elderfang Disciple
-Koma's Faithful
-Moment of Craving
-Scion of Darkness
-Skemfar Shadowsage
-Thriving Moor
+//Creatures (8)
+1 Vito, Thorn of the Dusk Rose
+1 Bonecaller Cleric
+1 Dark Supplicant
+1 Eerie Soultender
+1 Elderfang Disciple
+1 Koma's Faithful
+1 Scion of Darkness
+1 Skemfar Shadowsage
+//Sorceries (2)
+1 Revoke Demise
+1 Agonizing Syphon
+//Instants (2)
+1 Dark Bargain
+1 Moment of Craving
+//Lands (2)
+1 Thriving Moor
 7 Swamp

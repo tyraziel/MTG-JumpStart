@@ -1,15 +1,19 @@
 SURPRISE! (4)
-Venser, Shaper Savant
-Wavebreak Hippocamp
-Starlight Snare
-Uncomfortable Chill
-Aven Reedstalker
-Brineborn Cutthroat
-Fading Hope
-Soul Read
-Spectral Sailor
-Stinging Lionfish
-Vexing Gull
-Wind Strider
-Thriving Isle
+//Creatures (8)
+1 Venser, Shaper Savant
+1 Wavebreak Hippocamp
+1 Aven Reedstalker
+1 Brineborn Cutthroat
+1 Spectral Sailor
+1 Stinging Lionfish
+1 Vexing Gull
+1 Wind Strider
+//Instants (3)
+1 Uncomfortable Chill
+1 Fading Hope
+1 Soul Read
+//Enchantments (1)
+1 Starlight Snare
+//Lands (2)
+1 Thriving Isle
 7 Island

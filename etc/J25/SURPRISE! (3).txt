@@ -1,15 +1,19 @@
 SURPRISE! (3)
-Venser, Shaper Savant
-Starlight Snare
-Breaching Hippocamp
-Brineborn Cutthroat
-Naiad of Hidden Coves
-Opt
-Pestermite
-Spectral Sailor
-Starlit Mantle
-Stinging Lionfish
-Supreme Will
-Wind Strider
-Thriving Isle
+//Creatures (8)
+1 Venser, Shaper Savant
+1 Breaching Hippocamp
+1 Brineborn Cutthroat
+1 Naiad of Hidden Coves
+1 Pestermite
+1 Spectral Sailor
+1 Stinging Lionfish
+1 Wind Strider
+//Instants (2)
+1 Opt
+1 Supreme Will
+//Enchantments (2)
+1 Starlight Snare
+1 Starlit Mantle
+//Lands (2)
+1 Thriving Isle
 7 Island

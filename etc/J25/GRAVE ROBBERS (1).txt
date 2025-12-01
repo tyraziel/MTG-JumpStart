@@ -1,15 +1,19 @@
 GRAVE ROBBERS (1)
-Gorex, the Tombshell
-Revoke Demise
-Eternal Taskmaster
-Deal Gone Bad
-Diregraf Scavenger
-Eye Collector
-Gorging Vulture
-Grave Strength
-Graveblade Marauder
-Gravedigger
-Murder
-Wailing Ghoul
-Thriving Moor
+//Creatures (8)
+1 Gorex, the Tombshell
+1 Eternal Taskmaster
+1 Diregraf Scavenger
+1 Eye Collector
+1 Gorging Vulture
+1 Graveblade Marauder
+1 Gravedigger
+1 Wailing Ghoul
+//Sorceries (2)
+1 Revoke Demise
+1 Grave Strength
+//Instants (2)
+1 Deal Gone Bad
+1 Murder
+//Lands (2)
+1 Thriving Moor
 7 Swamp

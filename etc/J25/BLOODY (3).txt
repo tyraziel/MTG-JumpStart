@@ -1,15 +1,19 @@
 BLOODY (3)
-Scion of Opulence
-Ivora, Insatiable Heir
-Blood Feud
-Belligerent Guest
-Blood Petal Celebrant
-Falkenrath Celebrants
-Flame-Blessed Bolt
-Insolent Neonate
-Markov Warlord
-Soul Sear
-Vampiric Fury
-Voldaren Duelist
-Thriving Bluff
+//Creatures (8)
+1 Scion of Opulence
+1 Ivora, Insatiable Heir
+1 Belligerent Guest
+1 Blood Petal Celebrant
+1 Falkenrath Celebrants
+1 Insolent Neonate
+1 Markov Warlord
+1 Voldaren Duelist
+//Sorceries (1)
+1 Blood Feud
+//Instants (3)
+1 Flame-Blessed Bolt
+1 Soul Sear
+1 Vampiric Fury
+//Lands (2)
+1 Thriving Bluff
 7 Mountain

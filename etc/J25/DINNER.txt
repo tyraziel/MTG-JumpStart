@@ -1,15 +1,20 @@
 DINNER
-Hurska Sweet-Tooth
-Saurian Symbiote
-Bite Down
-Fierce Witchstalker
-Giant Opportunity
-Insatiable Appetite
-Maraleaf Rider
-Orchard Strider
-Tireless Provisioner
-Tough Cookie
-Trail of Crumbs
-Gingerbrute
-Thriving Grove
+//Creatures (8)
+1 Hurska Sweet-Tooth
+1 Saurian Symbiote
+1 Fierce Witchstalker
+1 Maraleaf Rider
+1 Orchard Strider
+1 Tireless Provisioner
+1 Tough Cookie
+1 Gingerbrute
+//Sorceries (1)
+1 Giant Opportunity
+//Instants (2)
+1 Bite Down
+1 Insatiable Appetite
+//Enchantments (1)
+1 Trail of Crumbs
+//Lands (2)
+1 Thriving Grove
 7 Forest

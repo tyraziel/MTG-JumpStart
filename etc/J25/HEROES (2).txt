@@ -1,15 +1,20 @@
 HEROES (2)
-Brigone, Soldier of Meletis
-Ojutai Exemplars
-Faithful Pikemaster
-Chains of Custody
-Defiant Strike
-Elite Skirmisher
-Favored Hoplite
-Fencing Ace
-Gird for Battle
-Repel the Darkness
-Valorous Stance
-Wingsteed Rider
-Thriving Heath
+//Creatures (7)
+1 Brigone, Soldier of Meletis
+1 Ojutai Exemplars
+1 Faithful Pikemaster
+1 Elite Skirmisher
+1 Favored Hoplite
+1 Fencing Ace
+1 Wingsteed Rider
+//Sorceries (1)
+1 Gird for Battle
+//Instants (3)
+1 Defiant Strike
+1 Repel the Darkness
+1 Valorous Stance
+//Enchantments (1)
+1 Chains of Custody
+//Lands (2)
+1 Thriving Heath
 7 Plains

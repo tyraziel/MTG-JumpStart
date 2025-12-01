@@ -1,15 +1,20 @@
 PRIDEFUL
-Brimaz, King of Oreskos
-Dawnwing Marshal
-Leonin Scimitar
-Basri's Acolyte
-Impeccable Timing
-Ingenious Leonin
-King of the Pride
-Leonin of the Lost Pride
-Leonin Vanguard
-Pacifism
-Savannah Lions
-Take Up the Shield
-Thriving Heath
+//Creatures (8)
+1 Brimaz, King of Oreskos
+1 Dawnwing Marshal
+1 Basri's Acolyte
+1 Ingenious Leonin
+1 King of the Pride
+1 Leonin of the Lost Pride
+1 Leonin Vanguard
+1 Savannah Lions
+//Instants (2)
+1 Impeccable Timing
+1 Take Up the Shield
+//Artifacts (1)
+1 Leonin Scimitar
+//Enchantments (1)
+1 Pacifism
+//Lands (2)
+1 Thriving Heath
 7 Plains

@@ -1,15 +1,19 @@
 HEALERS (4)
-Felidar Sovereign
-Rhox Faithmender
-Hinterland Sanctifier
-Qala, Ajani's Pridemate
-Ajani's Pridemate
-Angel of Vitality
-Battlefield Promotion
-Brightmare
-Divine Arrow
-Faith's Fetters
-Mesa Unicorn
-Revitalize
-Thriving Heath
+//Creatures (8)
+1 Felidar Sovereign
+1 Rhox Faithmender
+1 Hinterland Sanctifier
+1 Qala, Ajani's Pridemate
+1 Ajani's Pridemate
+1 Angel of Vitality
+1 Brightmare
+1 Mesa Unicorn
+//Instants (3)
+1 Battlefield Promotion
+1 Divine Arrow
+1 Revitalize
+//Enchantments (1)
+1 Faith's Fetters
+//Lands (2)
+1 Thriving Heath
 7 Plains

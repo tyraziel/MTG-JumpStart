@@ -1,16 +1,21 @@
 WARRIORS (2)
-Gornog, the Red Reaper
-Kargan Intimidator
-Ghitu Encampment
-Boldwyr Intimidator
-Daybreak Combatants
-Goma Fada Vanguard
-Infuriate
-Keldon Raider
-Pyrophobia
-Soul Sear
-Unstoppable Ogre
-Wrecking Crew
-Relic Axe
-Thriving Bluff
+//Creatures (8)
+1 Gornog, the Red Reaper
+1 Kargan Intimidator
+1 Boldwyr Intimidator
+1 Daybreak Combatants
+1 Goma Fada Vanguard
+1 Keldon Raider
+1 Unstoppable Ogre
+1 Wrecking Crew
+//Sorceries (1)
+1 Pyrophobia
+//Instants (2)
+1 Infuriate
+1 Soul Sear
+//Artifacts (1)
+1 Relic Axe
+//Lands (3)
+1 Ghitu Encampment
+1 Thriving Bluff
 6 Mountain

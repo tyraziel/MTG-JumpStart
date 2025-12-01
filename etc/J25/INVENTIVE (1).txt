@@ -1,16 +1,20 @@
 INVENTIVE (1)
-Sai, Master Thopterist
-Gilded Scuttler
-Ornithopter of Paradise
-Blink of an Eye
-Bury in Books
-Experimental Aviator
-Filigree Attendant
-Gearseeker Serpent
-Chief of the Foundry
-Eager Construct
-Prophetic Prism
-Whirlermaker
-Seat of the Synod
-Thriving Isle
+//Creatures (8)
+1 Sai, Master Thopterist
+1 Gilded Scuttler
+1 Ornithopter of Paradise
+1 Experimental Aviator
+1 Filigree Attendant
+1 Gearseeker Serpent
+1 Chief of the Foundry
+1 Eager Construct
+//Instants (2)
+1 Blink of an Eye
+1 Bury in Books
+//Artifacts (3)
+1 Prophetic Prism
+1 Whirlermaker
+1 Seat of the Synod
+//Lands (2)
+1 Thriving Isle
 6 Island

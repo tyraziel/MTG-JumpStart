@@ -1,15 +1,20 @@
 SOARING (4)
-Sprite Noble
-Stolen by the Fae
-Starlight Snare
-Cynette, Jelly Drover
-Faerie Seer
-Aerial Guide
-Air Elemental
-Majestic Metamorphosis
-Nightveil Sprite
-Opt
-Tide Skimmer
-Winged Words
-Thriving Isle
+//Creatures (7)
+1 Sprite Noble
+1 Cynette, Jelly Drover
+1 Faerie Seer
+1 Aerial Guide
+1 Air Elemental
+1 Nightveil Sprite
+1 Tide Skimmer
+//Sorceries (2)
+1 Stolen by the Fae
+1 Winged Words
+//Instants (2)
+1 Majestic Metamorphosis
+1 Opt
+//Enchantments (1)
+1 Starlight Snare
+//Lands (2)
+1 Thriving Isle
 7 Island

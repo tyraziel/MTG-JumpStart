@@ -1,16 +1,21 @@
 BOOKWORMS (4)
-Nadir Kraken
-Phantasmal Shieldback
-Starlight Snare
-Syr Elenora, the Discerning
-Drag Under
-Faerie Vandal
-Lat-Nam Adept
-Opt
-Reckless Scholar
-Sky-Eel School
-Soul Read
-Tolarian Kraken
-Memorial to Genius
-Thriving Isle
+//Creatures (8)
+1 Nadir Kraken
+1 Phantasmal Shieldback
+1 Syr Elenora, the Discerning
+1 Faerie Vandal
+1 Lat-Nam Adept
+1 Reckless Scholar
+1 Sky-Eel School
+1 Tolarian Kraken
+//Sorceries (1)
+1 Drag Under
+//Instants (2)
+1 Opt
+1 Soul Read
+//Enchantments (1)
+1 Starlight Snare
+//Lands (3)
+1 Memorial to Genius
+1 Thriving Isle
 6 Island

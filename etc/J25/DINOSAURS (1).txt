@@ -1,15 +1,19 @@
 DINOSAURS (1)
-Ghalta, Primal Hunger
-Saurian Symbiote
-Armored Kincaller
-Colossal Dreadmaw
-Commune with Dinosaurs
-Drover of the Mighty
-Drowsing Tyrannodon
-Giant Growth
-Rampant Growth
-Savage Stomp
-Thrashing Brontodon
-Thundering Spineback
-Thriving Grove
+//Creatures (8)
+1 Ghalta, Primal Hunger
+1 Saurian Symbiote
+1 Armored Kincaller
+1 Colossal Dreadmaw
+1 Drover of the Mighty
+1 Drowsing Tyrannodon
+1 Thrashing Brontodon
+1 Thundering Spineback
+//Sorceries (3)
+1 Commune with Dinosaurs
+1 Rampant Growth
+1 Savage Stomp
+//Instants (1)
+1 Giant Growth
+//Lands (2)
+1 Thriving Grove
 7 Forest

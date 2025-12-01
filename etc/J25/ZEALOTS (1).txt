@@ -1,16 +1,20 @@
 ZEALOTS (1)
-Zealous Conscripts
-Anep, Vizier of Hazoret
-Ahn-Crop Crasher
-Battlefield Scavenger
-Bloodlust Inciter
-Brute Strength
-Cartouche of Zeal
-Emberhorn Minotaur
-Flame-Blessed Bolt
-Fling
-Nef-Crop Entangler
-Trial of Zeal
-Desert of the Fervent
-Thriving Bluff
+//Creatures (7)
+1 Zealous Conscripts
+1 Anep, Vizier of Hazoret
+1 Ahn-Crop Crasher
+1 Battlefield Scavenger
+1 Bloodlust Inciter
+1 Emberhorn Minotaur
+1 Nef-Crop Entangler
+//Instants (3)
+1 Brute Strength
+1 Flame-Blessed Bolt
+1 Fling
+//Enchantments (2)
+1 Cartouche of Zeal
+1 Trial of Zeal
+//Lands (3)
+1 Desert of the Fervent
+1 Thriving Bluff
 6 Mountain

@@ -1,15 +1,20 @@
 ICKY (2)
-Fumulus, the Infestation
-Endless Cockroaches
-Wriggling Grub
-Eaten Alive
-Devouring Swarm
-Go for the Throat
-Heartstabber Mosquito
-Morkrut Necropod
-Nantuko Husk
-Subtle Strike
-Torment of Scarabs
-Virus Beetle
-Thriving Moor
+//Creatures (8)
+1 Fumulus, the Infestation
+1 Endless Cockroaches
+1 Wriggling Grub
+1 Devouring Swarm
+1 Heartstabber Mosquito
+1 Morkrut Necropod
+1 Nantuko Husk
+1 Virus Beetle
+//Sorceries (1)
+1 Eaten Alive
+//Instants (2)
+1 Go for the Throat
+1 Subtle Strike
+//Enchantments (1)
+1 Torment of Scarabs
+//Lands (2)
+1 Thriving Moor
 7 Swamp
