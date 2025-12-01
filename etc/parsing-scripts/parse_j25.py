@@ -61,12 +61,14 @@ for deck_title, deck_content in decks:
     # Clean up the deck list
     lines = [line.strip() for line in main_deck.split('\n') if line.strip()]
 
-    # Create filename (uppercase, replace spaces with dashes, handle apostrophes and variations)
-    # Replace N'er-do-wells with NER-DO-WELLS to match jumpstartdata.py
-    filename = deck_title.upper().replace(' ', '-').replace("'", '')
+    # Create filename using standard format:
+    # - Single variant: "THEME NAME.txt"
+    # - Multiple variants: "THEME NAME (1).txt" (space before parens)
+    # Remove apostrophes (N'er-do-wells → NER-DO-WELLS)
+    filename = deck_title.upper().replace("'", '')
 
     # Track base theme (without variation numbers)
-    base_theme = re.sub(r'-\(\d+\)$', '', deck_title.upper().replace("'", ''))
+    base_theme = re.sub(r' \(\d+\)$', '', filename)
     unique_themes.add(base_theme)
 
     # Write deck list file
