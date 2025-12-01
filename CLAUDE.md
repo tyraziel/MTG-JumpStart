@@ -77,6 +77,11 @@ Standard categories in order:
   - Has template file: `AAA_TEMPLATE`
 
 ### Needs Reformatting (No Card Type Organization)
+- **J25** - JumpStart 2025 / Foundations (121 deck variants)
+  - ✅ File names match standard format
+  - ✅ Source HTML stored in `raw/J25-HTML-DECKLISTS.txt`
+  - Current format: Simple card list, one card per line
+  - Missing: Card type organization
 - **TLA** - Avatar: The Last Airbender (68 deck variants)
   - ✅ File names now match standard format
   - ✅ Special basic land IDs removed
