@@ -6,12 +6,37 @@ This repository contains structured JumpStart deck lists for various MTG JumpSta
 ## Deck List Format Standard
 
 ### File Naming Convention
-- Files named as: `THEME-NAME (variant#).txt`
-- Example: `FAERIES (1).txt`, `DISCARDING (2).txt`
+
+**Format:**
+- **Single variant themes**: `THEME NAME.txt` (no parentheses, no number)
+  - Example: `BASRI.txt`, `LILIANA.txt`, `CHANDRA.txt`
+- **Multiple variant themes**: `THEME NAME (#).txt` (space, then parentheses with number)
+  - Example: `FAERIES (1).txt`, `FAERIES (2).txt`, `ABOVE THE CLOUDS (1).txt`, `ABOVE THE CLOUDS (2).txt`
+
+**Rules:**
+- Theme names are UPPERCASE
+- Spaces between words (not hyphens or underscores)
+- Variant numbers in parentheses with space before: ` (1)`, ` (2)`, etc.
+- If a theme has only one variant, NO parentheses or number
+
+**Examples:**
+```
+✓ CORRECT:
+  ANGELS (1).txt          # Multiple variants
+  ANGELS (2).txt
+  BASRI.txt               # Single variant
+  ABOVE THE CLOUDS (1).txt
+
+✗ INCORRECT:
+  ANGELS-1.txt            # Wrong: hyphen instead of space+parens
+  ANGELS(1).txt           # Wrong: no space before parens
+  BASRI (1).txt           # Wrong: single variant shouldn't have number
+  above-the-clouds-1.txt  # Wrong: lowercase and hyphens
+```
 
 ### File Structure
 ```
-THEME-NAME (variant#)
+THEME NAME (#)
 //Creatures (X)
 [quantity] [card name]
 [quantity] [card name]
@@ -53,6 +78,7 @@ Standard categories in order:
 
 ### Needs Reformatting (No Card Type Organization)
 - **TLA** - Avatar: The Last Airbender (68 deck variants)
+  - ✅ File names now match standard format
   - Current format: Simple card list, one card per line
   - Missing: Card type organization, quantity prefixes
   - Has: Special basic land IDs (e.g., `[2t8d3N5Gn1ecBNsDqjQuJe]`)

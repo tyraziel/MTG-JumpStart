@@ -4,6 +4,22 @@ This directory contains Python scripts for parsing official Wizards of the Coast
 
 ## Scripts
 
+### `rename_tla_files.py` - Rename TLA Files to Standard Format
+Renames TLA deck list files from hyphen format to parentheses format.
+
+**Usage:**
+```bash
+python rename_tla_files.py [--dry-run]
+# Use --dry-run to preview changes without renaming
+```
+
+**Changes:**
+- `ADEPT-1.txt` → `ADEPT (1).txt`
+- `ADEPT-2.txt` → `ADEPT (2).txt`
+- `AANG.txt` → `AANG.txt` (no change, already correct)
+
+**Note:** This script has already been run on the TLA files. Only needed if importing new TLA files with hyphen format.
+
 ### `reformat_deck.py` - Reformat Deck Lists to Standard Format
 Reformats unformatted deck lists to the standard JMP/J22 format with card type organization.
 
