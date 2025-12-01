@@ -187,6 +187,10 @@ def reformat_deck(input_file: Path, dry_run: bool = False) -> bool:
         start_line = 1
 
     for line in lines[start_line:]:
+        # Skip comment lines (card type headers like //Creatures (X))
+        if line.strip().startswith('//'):
+            continue
+
         quantity, card_name, suffix = parse_card_line(line)
 
         if not card_name:
