@@ -36,8 +36,29 @@ python remove_land_ids.py [--dry-run]
 
 **Note:** This script has already been run on the TLA files. Only needed if importing new TLA files with land IDs.
 
-### `reformat_deck.py` - Reformat Deck Lists to Standard Format
-Reformats unformatted deck lists to the standard JMP/J22 format with card type organization.
+### `batch_reformat.py` - Batch Reformat Deck Lists (Recommended)
+Reformats multiple deck lists to standard format in one run with shared caching.
+
+**Usage:**
+```bash
+python batch_reformat.py etc/J25/ [--dry-run] [--save-cache] [--load-cache]
+python batch_reformat.py etc/J25/ etc/TLA/ --load-cache --save-cache
+```
+
+**Features:**
+- **Shared cache across all decks** - Process 189 decks with ~85% fewer API calls
+- **Persistent cache** - Save to `card_type_cache.json` for future runs
+- Queries Scryfall API for card type information
+- Organizes cards by type (Creatures, Sorceries, Instants, etc.)
+- Processes entire directories efficiently
+- Respects Scryfall rate limiting (100ms between requests)
+
+**Efficiency:**
+- Without cache: ~2,835 API calls for 189 decks
+- With cache: ~400-500 API calls (85% reduction!)
+
+### `reformat_deck.py` - Single Deck Reformatter
+Reformats one deck list at a time. **Use `batch_reformat.py` instead for multiple decks.**
 
 **Usage:**
 ```bash
@@ -50,8 +71,7 @@ python reformat_deck.py input_deck.txt [output_deck.txt]
 - Organizes cards by type (Creatures, Sorceries, Instants, etc.)
 - Preserves card quantities and special notations
 - Handles multi-type cards correctly (Artifact Creature → Creatures)
-- Caches card lookups to minimize API calls
-- Respects Scryfall rate limiting (100ms between requests, matching Discord bot)
+- Respects Scryfall rate limiting (100ms between requests)
 
 **Output Format:**
 ```
