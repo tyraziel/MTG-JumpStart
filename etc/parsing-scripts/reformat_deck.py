@@ -25,7 +25,8 @@ from typing import Dict, List, Tuple
 SCRYFALL_API = "https://api.scryfall.com/cards/named"
 
 # Rate limiting: Scryfall requests 50-100ms between requests
-REQUEST_DELAY = 0.075  # 75ms between requests
+# Match Discord bot's rate limiting: 100ms
+REQUEST_DELAY = 100 / 1000  # 100ms between requests
 
 # Card type categories in order
 TYPE_ORDER = [

@@ -19,7 +19,7 @@ python reformat_deck.py input_deck.txt [output_deck.txt]
 - Preserves card quantities and special notations
 - Handles multi-type cards correctly (Artifact Creature → Creatures)
 - Caches card lookups to minimize API calls
-- Respects Scryfall rate limiting (75ms between requests)
+- Respects Scryfall rate limiting (100ms between requests, matching Discord bot)
 
 **Output Format:**
 ```
