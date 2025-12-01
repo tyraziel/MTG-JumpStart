@@ -181,7 +181,12 @@ def reformat_deck(input_file: Path, dry_run: bool = False) -> bool:
     # Parse cards
     cards_by_type = defaultdict(list)
 
-    for line in lines:
+    # Skip first line if it matches the deck name (already formatted files)
+    start_line = 0
+    if lines and lines[0].strip() == deck_name:
+        start_line = 1
+
+    for line in lines[start_line:]:
         quantity, card_name, suffix = parse_card_line(line)
 
         if not card_name:
