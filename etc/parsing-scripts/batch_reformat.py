@@ -199,22 +199,25 @@ def reformat_deck(input_file: Path, dry_run: bool = False) -> bool:
         if suffix:
             card_line += f" {suffix}"
 
-        cards_by_type[card_type].append(card_line)
+        # Store as tuple: (quantity, card_line)
+        cards_by_type[card_type].append((quantity, card_line))
 
     # Build output
     output_lines = [deck_name]
 
     for type_name in TYPE_ORDER:
         if type_name in cards_by_type and cards_by_type[type_name]:
-            count = len(cards_by_type[type_name])
-            output_lines.append(f"//{type_name} ({count})")
-            output_lines.extend(cards_by_type[type_name])
+            # Calculate total quantity (sum of all card quantities in this type)
+            total_quantity = sum(qty for qty, _ in cards_by_type[type_name])
+            output_lines.append(f"//{type_name} ({total_quantity})")
+            # Add just the card lines (without quantity from tuple)
+            output_lines.extend(card_line for _, card_line in cards_by_type[type_name])
 
     # Add any unknown or special cards at the end
     for type_name in ["Special", "Unknown"]:
         if type_name in cards_by_type and cards_by_type[type_name]:
             output_lines.append(f"//{type_name}")
-            output_lines.extend(cards_by_type[type_name])
+            output_lines.extend(card_line for _, card_line in cards_by_type[type_name])
 
     # Check if file would change
     output_text = "\n".join(output_lines) + "\n"
