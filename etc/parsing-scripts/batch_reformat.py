@@ -188,23 +188,18 @@ def reformat_deck(input_file: Path, dry_run: bool = False) -> bool:
 
     for line in lines[start_line:]:
         # Skip comment lines (card type headers like //Creatures (X))
-        if line.strip().startswith('//'):
-            continue
+        if not line.strip().startswith('//'):
+            quantity, card_name, suffix = parse_card_line(line)
 
-        quantity, card_name, suffix = parse_card_line(line)
+            if card_name:
+                card_type = get_card_type(card_name)
+                # Format card line
+                card_line = f"{quantity} {card_name}"
+                if suffix:
+                    card_line += f" {suffix}"
 
-        if not card_name:
-            continue
-
-        card_type = get_card_type(card_name)
-
-        # Format card line
-        card_line = f"{quantity} {card_name}"
-        if suffix:
-            card_line += f" {suffix}"
-
-        # Store as tuple: (quantity, card_line)
-        cards_by_type[card_type].append((quantity, card_line))
+                # Store as tuple: (quantity, card_line)
+                cards_by_type[card_type].append((quantity, card_line))
 
     # Build output
     output_lines = [deck_name]
