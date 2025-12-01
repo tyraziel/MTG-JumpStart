@@ -74,6 +74,9 @@ for deck_title, deck_content in decks:
     # Write deck list file
     filepath = os.path.join(output_dir, f'{filename}.txt')
     with open(filepath, 'w') as f:
+        # First line: deck name (matches filename)
+        f.write(filename + '\n')
+        # Then the card list
         for line in lines:
             f.write(line + '\n')
 
