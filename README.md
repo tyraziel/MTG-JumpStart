@@ -29,7 +29,14 @@ https://www.reddit.com/r/magicTCG/comments/kicijs/printable_jumpstart_deck_lists
 
 
 
-## Fan Content Declaration
-tyraziel/MTG-JumpStart is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
+## License
+
+This repository uses a dual licensing approach:
+
+### Source Code - MIT License
+All **source code** (Python scripts, tools, etc.) is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+### Deck List Data - Fan Content Policy
+All **MTG deck list data** (card names, deck compositions, etc.) is unofficial Fan Content permitted under the Wizards of the Coast Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
 
 https://company.wizards.com/en/legal/fancontentpolicy
