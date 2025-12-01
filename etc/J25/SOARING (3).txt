@@ -16,6 +16,6 @@ SOARING (3)
 1 Starlight Snare
 //Planeswalkers (1)
 1 Mu Yanling, Sky Dancer
-//Lands (2)
+//Lands (8)
 1 Thriving Isle
 7 Island

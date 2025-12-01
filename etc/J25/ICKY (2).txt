@@ -15,6 +15,6 @@ ICKY (2)
 1 Subtle Strike
 //Enchantments (1)
 1 Torment of Scarabs
-//Lands (2)
+//Lands (8)
 1 Thriving Moor
 7 Swamp

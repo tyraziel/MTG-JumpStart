@@ -15,6 +15,6 @@ INVENTIVE (4)
 1 Guardian Idol
 1 Prophetic Prism
 1 Seat of the Synod
-//Lands (2)
+//Lands (7)
 1 Thriving Isle
 6 Island

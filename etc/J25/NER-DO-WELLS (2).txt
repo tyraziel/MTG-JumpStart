@@ -15,6 +15,6 @@ NER-DO-WELLS (2)
 1 Fake Your Own Death
 //Artifacts (1)
 1 Thieves' Tools
-//Lands (2)
+//Lands (8)
 1 Thriving Moor
 7 Swamp

@@ -14,6 +14,6 @@ BEASTS (1)
 1 Time to Feed
 //Instants (1)
 1 Predator's Strike
-//Lands (2)
+//Lands (7)
 1 Thriving Grove
 6 Forest

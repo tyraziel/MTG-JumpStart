@@ -15,6 +15,6 @@ LEGION (1)
 1 Ancestral Blade
 //Enchantments (1)
 1 Pacifism
-//Lands (2)
+//Lands (8)
 1 Thriving Heath
 7 Plains

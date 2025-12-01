@@ -14,6 +14,6 @@ ICKY (1)
 1 Go for the Throat
 1 Subtle Strike
 1 Village Rites
-//Lands (2)
+//Lands (8)
 1 Thriving Moor
 7 Swamp

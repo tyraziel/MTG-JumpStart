@@ -14,6 +14,6 @@ SURPRISE! (3)
 //Enchantments (2)
 1 Starlight Snare
 1 Starlit Mantle
-//Lands (2)
+//Lands (8)
 1 Thriving Isle
 7 Island

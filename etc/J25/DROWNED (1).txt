@@ -15,7 +15,7 @@ DROWNED (1)
 1 Sudden Insight
 //Enchantments (1)
 1 Locked in the Cemetery
-//Lands (3)
+//Lands (8)
 1 Ipnu Rivulet
 1 Thriving Isle
 6 Island

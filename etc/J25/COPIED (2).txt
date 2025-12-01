@@ -14,6 +14,6 @@ COPIED (2)
 1 Hearts on Fire
 1 Fire Prophecy
 1 Uncaged Fury
-//Lands (2)
+//Lands (8)
 1 Thriving Bluff
 7 Mountain

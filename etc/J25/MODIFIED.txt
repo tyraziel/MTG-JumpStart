@@ -15,7 +15,7 @@ MODIFIED
 //Enchantments (2)
 1 Audacity
 1 Warbriar Blessing
-//Lands (3)
+//Lands (8)
 1 Cave of Temptation
 1 Thriving Grove
 6 Forest

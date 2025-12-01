@@ -15,6 +15,6 @@ DINNER
 1 Insatiable Appetite
 //Enchantments (1)
 1 Trail of Crumbs
-//Lands (2)
+//Lands (8)
 1 Thriving Grove
 7 Forest

@@ -14,6 +14,6 @@ GOBLINS (2)
 1 Kindled Fury
 1 Open Fire
 1 Shock
-//Lands (2)
+//Lands (8)
 1 Thriving Bluff
 7 Mountain

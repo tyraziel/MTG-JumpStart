@@ -15,6 +15,6 @@ GRAVE ROBBERS (4)
 1 Murder
 //Planeswalkers (1)
 1 Liliana, Death's Majesty
-//Lands (2)
+//Lands (8)
 1 Thriving Moor
 7 Swamp

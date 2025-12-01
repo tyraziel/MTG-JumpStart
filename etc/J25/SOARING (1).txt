@@ -15,6 +15,6 @@ SOARING (1)
 1 Serpentine Ambush
 //Enchantments (1)
 1 Starlight Snare
-//Lands (2)
+//Lands (8)
 1 Thriving Isle
 7 Island

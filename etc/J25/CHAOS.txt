@@ -13,7 +13,7 @@ CHAOS
 1 Violent Outburst
 //Artifacts (1)
 1 Chromatic Lantern
-//Lands (7)
+//Lands (9)
 1 Ash Barrens
 1 Terramorphic Expanse
 1 Plains

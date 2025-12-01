@@ -15,6 +15,6 @@ NER-DO-WELLS (1)
 1 Murder
 //Artifacts (1)
 1 Thieves' Tools
-//Lands (2)
+//Lands (8)
 1 Thriving Moor
 7 Swamp

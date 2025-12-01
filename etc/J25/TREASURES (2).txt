@@ -16,6 +16,6 @@ TREASURES (2)
 1 Fake Your Own Death
 //Artifacts (1)
 1 Vault of Whispers
-//Lands (2)
+//Lands (7)
 1 Thriving Moor
 6 Swamp

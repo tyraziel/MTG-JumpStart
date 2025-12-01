@@ -14,7 +14,7 @@ OF THE COAST (1)
 //Enchantments (2)
 1 Starlight Snare
 1 Omen of the Sea
-//Lands (3)
+//Lands (8)
 1 Lonely Sandbar
 1 Thriving Isle
 6 Island

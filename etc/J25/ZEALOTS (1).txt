@@ -14,7 +14,7 @@ ZEALOTS (1)
 //Enchantments (2)
 1 Cartouche of Zeal
 1 Trial of Zeal
-//Lands (3)
+//Lands (8)
 1 Desert of the Fervent
 1 Thriving Bluff
 6 Mountain

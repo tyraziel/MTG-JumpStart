@@ -14,6 +14,6 @@ COPIED (1)
 1 Fire Prophecy
 1 Fists of Flame
 1 Invigorated Rampage
-//Lands (2)
+//Lands (8)
 1 Thriving Bluff
 7 Mountain

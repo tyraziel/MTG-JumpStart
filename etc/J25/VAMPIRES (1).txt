@@ -15,6 +15,6 @@ VAMPIRES (1)
 1 Blood Fountain
 //Enchantments (1)
 1 Gift of Fangs
-//Lands (2)
+//Lands (8)
 1 Thriving Moor
 7 Swamp

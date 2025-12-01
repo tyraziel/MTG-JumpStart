@@ -14,6 +14,6 @@ GRAVE ROBBERS (2)
 1 Deal Gone Bad
 1 Fake Your Own Death
 1 Necrotic Wound
-//Lands (2)
+//Lands (8)
 1 Thriving Moor
 7 Swamp

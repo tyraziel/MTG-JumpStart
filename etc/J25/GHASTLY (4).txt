@@ -14,6 +14,6 @@ GHASTLY (4)
 1 Deadly Dispute
 1 Defenestrate
 1 Tragic Slip
-//Lands (2)
+//Lands (8)
 1 Thriving Moor
 7 Swamp

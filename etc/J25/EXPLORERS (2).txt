@@ -15,6 +15,6 @@ EXPLORERS (2)
 1 Clear Shot
 //Enchantments (1)
 1 Ulvenwald Mysteries
-//Lands (2)
+//Lands (8)
 1 Thriving Grove
 7 Forest

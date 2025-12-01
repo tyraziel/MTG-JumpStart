@@ -15,6 +15,6 @@ TREASURES (1)
 1 Fake Your Own Death
 //Enchantments (1)
 1 Bastion of Remembrance
-//Lands (2)
+//Lands (8)
 1 Thriving Moor
 7 Swamp

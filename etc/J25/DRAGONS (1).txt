@@ -14,7 +14,7 @@ DRAGONS (1)
 1 Dragon's Fire
 //Artifacts (1)
 1 Carnelian Orb of Dragonkind
-//Lands (3)
+//Lands (9)
 1 Forgotten Cave
 1 Thriving Bluff
 7 Mountain

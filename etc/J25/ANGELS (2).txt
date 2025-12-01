@@ -15,7 +15,7 @@ ANGELS (2)
 1 Starnheim Memento
 //Enchantments (1)
 1 Pacifism
-//Lands (3)
+//Lands (9)
 1 Secluded Steppe
 1 Thriving Heath
 7 Plains

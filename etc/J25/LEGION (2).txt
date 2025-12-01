@@ -16,7 +16,7 @@ LEGION (2)
 1 Ancestral Blade
 //Enchantments (1)
 1 Conclave Tribunal
-//Lands (3)
+//Lands (8)
 1 Memorial to Glory
 1 Thriving Heath
 6 Plains

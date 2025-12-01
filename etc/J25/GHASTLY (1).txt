@@ -14,6 +14,6 @@ GHASTLY (1)
 1 Murder
 1 Tragic Slip
 1 Village Rites
-//Lands (2)
+//Lands (8)
 1 Thriving Moor
 7 Swamp

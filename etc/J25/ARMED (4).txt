@@ -15,6 +15,6 @@ ARMED (4)
 1 Mirran Bardiche
 //Enchantments (1)
 1 Pacifism
-//Lands (2)
+//Lands (8)
 1 Thriving Heath
 7 Plains

@@ -14,7 +14,7 @@ HEALERS (3)
 1 Revitalize
 //Enchantments (1)
 1 Recumbent Bliss
-//Lands (3)
+//Lands (8)
 1 Kabira Crossroads
 1 Thriving Heath
 6 Plains

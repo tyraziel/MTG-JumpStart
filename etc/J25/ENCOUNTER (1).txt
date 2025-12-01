@@ -15,6 +15,6 @@ ENCOUNTER (1)
 1 Snakeskin Veil
 //Planeswalkers (1)
 1 Jiang Yanggu, Wildcrafter
-//Lands (2)
+//Lands (8)
 1 Thriving Grove
 7 Forest

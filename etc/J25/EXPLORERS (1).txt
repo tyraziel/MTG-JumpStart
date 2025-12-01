@@ -14,6 +14,6 @@ EXPLORERS (1)
 //Instants (2)
 1 Go Forth
 1 Clear Shot
-//Lands (2)
+//Lands (8)
 1 Thriving Grove
 7 Forest

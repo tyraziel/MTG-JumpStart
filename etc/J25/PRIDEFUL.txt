@@ -15,6 +15,6 @@ PRIDEFUL
 1 Leonin Scimitar
 //Enchantments (1)
 1 Pacifism
-//Lands (2)
+//Lands (8)
 1 Thriving Heath
 7 Plains

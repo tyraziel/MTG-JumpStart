@@ -14,6 +14,6 @@ SURPRISE! (2)
 //Enchantments (2)
 1 Capture Sphere
 1 Starlit Mantle
-//Lands (2)
+//Lands (8)
 1 Thriving Isle
 7 Island

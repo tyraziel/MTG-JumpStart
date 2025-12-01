@@ -15,6 +15,6 @@ ELVES (4)
 1 Arbor Armament
 //Planeswalkers (1)
 1 Tyvar Kell
-//Lands (2)
+//Lands (8)
 1 Thriving Grove
 7 Forest

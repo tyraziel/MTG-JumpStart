@@ -13,6 +13,6 @@ ENCHANTED (4)
 1 Angelic Gift
 1 Dreadful Apathy
 1 Indomitable Will
-//Lands (2)
+//Lands (8)
 1 Thriving Heath
 7 Plains

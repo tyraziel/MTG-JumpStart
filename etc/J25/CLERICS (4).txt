@@ -14,6 +14,6 @@ CLERICS (4)
 1 Dark Bargain
 1 Alchemist's Gift
 1 Extinguish the Light
-//Lands (2)
+//Lands (8)
 1 Thriving Moor
 7 Swamp

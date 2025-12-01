@@ -14,7 +14,7 @@ GRAVE ROBBERS (3)
 //Instants (2)
 1 Deal Gone Bad
 1 Murder
-//Lands (3)
+//Lands (8)
 1 Memorial to Folly
 1 Thriving Moor
 6 Swamp

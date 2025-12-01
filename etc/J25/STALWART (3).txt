@@ -15,6 +15,6 @@ STALWART (3)
 1 Take Up the Shield
 //Enchantments (1)
 1 Banishing Light
-//Lands (2)
+//Lands (8)
 1 Thriving Heath
 7 Plains

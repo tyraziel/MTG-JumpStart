@@ -14,7 +14,7 @@ HEALERS (1)
 1 Revitalize
 //Enchantments (1)
 1 Faith's Fetters
-//Lands (3)
+//Lands (8)
 1 Kabira Crossroads
 1 Thriving Heath
 6 Plains

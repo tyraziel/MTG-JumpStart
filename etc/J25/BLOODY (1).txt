@@ -13,6 +13,6 @@ BLOODY (1)
 1 Flame-Blessed Bolt
 1 Soul Sear
 1 Stolen Vitality
-//Lands (2)
+//Lands (8)
 1 Thriving Bluff
 7 Mountain

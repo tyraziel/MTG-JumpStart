@@ -16,7 +16,7 @@ BOOKWORMS (2)
 //Enchantments (2)
 1 Teferi's Ageless Insight
 1 Starlight Snare
-//Lands (3)
+//Lands (8)
 1 Memorial to Genius
 1 Thriving Isle
 6 Island

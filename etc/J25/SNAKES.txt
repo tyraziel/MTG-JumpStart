@@ -15,6 +15,6 @@ SNAKES
 1 Coat with Venom
 //Artifacts (1)
 1 Gorgon Flail
-//Lands (2)
+//Lands (8)
 1 Thriving Moor
 7 Swamp

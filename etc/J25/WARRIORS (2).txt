@@ -15,7 +15,7 @@ WARRIORS (2)
 1 Soul Sear
 //Artifacts (1)
 1 Relic Axe
-//Lands (3)
+//Lands (8)
 1 Ghitu Encampment
 1 Thriving Bluff
 6 Mountain

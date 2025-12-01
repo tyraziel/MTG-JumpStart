@@ -15,6 +15,6 @@ INVENTIVE (2)
 1 Seat of the Synod
 //Enchantments (1)
 1 Malfunction
-//Lands (2)
+//Lands (7)
 1 Thriving Isle
 6 Island

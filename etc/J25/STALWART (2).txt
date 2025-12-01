@@ -15,7 +15,7 @@ STALWART (2)
 1 Swift Response
 //Enchantments (1)
 1 Banishing Light
-//Lands (3)
+//Lands (8)
 1 Cave of Temptation
 1 Thriving Heath
 6 Plains

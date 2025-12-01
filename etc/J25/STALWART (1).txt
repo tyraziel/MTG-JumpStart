@@ -15,6 +15,6 @@ STALWART (1)
 1 Banishing Light
 //Planeswalkers (1)
 1 Ajani, Adversary of Tyrants
-//Lands (2)
+//Lands (8)
 1 Thriving Heath
 7 Plains

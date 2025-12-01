@@ -14,7 +14,7 @@ DRAGONS (2)
 1 Sarkhan's Rage
 //Planeswalkers (1)
 1 Sarkhan, Fireblood
-//Lands (3)
+//Lands (9)
 1 Forgotten Cave
 1 Thriving Bluff
 7 Mountain

@@ -15,6 +15,6 @@ STOKED (1)
 1 Uncaged Fury
 //Enchantments (1)
 1 Frontline Heroism
-//Lands (2)
+//Lands (8)
 1 Thriving Bluff
 7 Mountain

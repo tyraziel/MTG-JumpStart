@@ -15,7 +15,7 @@ BOOKWORMS (4)
 1 Soul Read
 //Enchantments (1)
 1 Starlight Snare
-//Lands (3)
+//Lands (8)
 1 Memorial to Genius
 1 Thriving Isle
 6 Island

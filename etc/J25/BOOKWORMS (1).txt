@@ -15,6 +15,6 @@ BOOKWORMS (1)
 1 Starlight Snare
 1 Cartouche of Knowledge
 1 Trial of Knowledge
-//Lands (2)
+//Lands (8)
 1 Thriving Isle
 7 Island

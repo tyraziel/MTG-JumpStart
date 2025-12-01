@@ -1,5 +1,5 @@
 TOO MANY
-//Creatures (5)
+//Creatures (6)
 1 Fiendish Duo
 2 Brothers Yamazaki
 1 Battle-Rattle Shaman
@@ -13,6 +13,6 @@ TOO MANY
 //Instants (2)
 1 Goblin Surprise
 1 Twinferno
-//Lands (2)
+//Lands (7)
 1 Thriving Bluff
 6 Mountain

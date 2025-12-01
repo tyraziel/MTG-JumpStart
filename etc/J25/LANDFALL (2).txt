@@ -14,7 +14,7 @@ LANDFALL (2)
 1 Bite Down
 //Enchantments (1)
 1 Retreat to Kazandu
-//Lands (3)
+//Lands (9)
 1 Evolving Wilds
 1 Thriving Grove
 7 Forest

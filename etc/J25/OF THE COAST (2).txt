@@ -14,7 +14,7 @@ OF THE COAST (2)
 1 Opt
 //Enchantments (1)
 1 Starlight Snare
-//Lands (3)
+//Lands (8)
 1 Lonely Sandbar
 1 Thriving Isle
 6 Island

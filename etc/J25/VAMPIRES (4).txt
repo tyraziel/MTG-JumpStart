@@ -15,6 +15,6 @@ VAMPIRES (4)
 1 Moment of Craving
 //Artifacts (1)
 1 Blood Fountain
-//Lands (2)
+//Lands (8)
 1 Thriving Moor
 7 Swamp

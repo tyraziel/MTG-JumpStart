@@ -15,6 +15,6 @@ BEASTS (2)
 1 Predator's Strike
 //Planeswalkers (1)
 1 Garruk, Caller of Beasts
-//Lands (2)
+//Lands (8)
 1 Thriving Grove
 7 Forest

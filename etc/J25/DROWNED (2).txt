@@ -15,6 +15,6 @@ DROWNED (2)
 1 Sudden Insight
 //Enchantments (1)
 1 Locked in the Cemetery
-//Lands (2)
+//Lands (8)
 1 Thriving Isle
 7 Island
