@@ -79,9 +79,9 @@ Standard categories in order:
 ### Needs Reformatting (No Card Type Organization)
 - **TLA** - Avatar: The Last Airbender (68 deck variants)
   - ✅ File names now match standard format
+  - ✅ Special basic land IDs removed
   - Current format: Simple card list, one card per line
-  - Missing: Card type organization, quantity prefixes
-  - Has: Special basic land IDs (e.g., `[2t8d3N5Gn1ecBNsDqjQuJe]`)
+  - Missing: Card type organization
 
 - **ONE** - Phyrexia: All Will Be One (10 individual deck files)
   - Current format: Simple card list with quantities

@@ -20,6 +20,22 @@ python rename_tla_files.py [--dry-run]
 
 **Note:** This script has already been run on the TLA files. Only needed if importing new TLA files with hyphen format.
 
+### `remove_land_ids.py` - Remove Special Basic Land IDs
+Removes special bracketed IDs from basic land entries in TLA deck lists.
+
+**Usage:**
+```bash
+python remove_land_ids.py [--dry-run]
+# Use --dry-run to preview changes without modifying files
+```
+
+**Changes:**
+- `6 Plains [2t8d3N5Gn1ecBNsDqjQuJe]` → `6 Plains`
+- `1 Plains Appa [6rlws0Y9bsjCxQpb7zzpYk]` → `1 Plains Appa`
+- Removes all bracketed alphanumeric IDs from land entries
+
+**Note:** This script has already been run on the TLA files. Only needed if importing new TLA files with land IDs.
+
 ### `reformat_deck.py` - Reformat Deck Lists to Standard Format
 Reformats unformatted deck lists to the standard JMP/J22 format with card type organization.
 
