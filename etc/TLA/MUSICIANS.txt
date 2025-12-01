@@ -1,16 +1,23 @@
-Freedom Fighter Recruit
-Moku, Meandering Drummer
-Ty Lee, Artful Acrobat
-Founding of Omashu
-Wandering Musicians
-Chong and Lily, Nomads
-Rough Rhino Cavalry
-Mongoose Lizard
-Explosive Shot
-Cunning Maneuver
-Bumi Bash
-The Cave of Two Lovers
-Thriving Bluff
-Secret Tunnel
+MUSICIANS
+//Creatures (7)
+1 Freedom Fighter Recruit
+1 Moku, Meandering Drummer
+1 Ty Lee, Artful Acrobat
+1 Wandering Musicians
+1 Chong and Lily, Nomads
+1 Rough Rhino Cavalry
+1 Mongoose Lizard
+//Sorceries (2)
+1 Explosive Shot
+1 Bumi Bash
+//Instants (1)
+1 Cunning Maneuver
+//Enchantments (2)
+1 Founding of Omashu
+1 The Cave of Two Lovers
+//Lands (7)
+1 Thriving Bluff
+1 Secret Tunnel
 5 Mountain
-Mountain Appa
+//Unknown
+1 Mountain Appa

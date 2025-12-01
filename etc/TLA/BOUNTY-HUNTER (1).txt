@@ -1,15 +1,22 @@
-Purple Pentapus
-Pretending Poxbearers
-June, Bounty Hunter
-Pirate Peddlers
-Giant Fly
-Azula, On the Hunt
-Beetle-Headed Merchants
-Nyla, Shirshu Sleuth
-Sold Out
-Zuko's Conviction
-Bastion of Remembrance
-Deadly Precision
-Thriving Moor
+BOUNTY-HUNTER (1)
+//Creatures (8)
+1 Purple Pentapus
+1 Pretending Poxbearers
+1 June, Bounty Hunter
+1 Pirate Peddlers
+1 Giant Fly
+1 Azula, On the Hunt
+1 Beetle-Headed Merchants
+1 Nyla, Shirshu Sleuth
+//Sorceries (1)
+1 Deadly Precision
+//Instants (2)
+1 Sold Out
+1 Zuko's Conviction
+//Enchantments (1)
+1 Bastion of Remembrance
+//Lands (7)
+1 Thriving Moor
 6 Swamp
-Swamp Appa
+//Unknown
+1 Swamp Appa

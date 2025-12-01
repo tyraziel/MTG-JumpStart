@@ -1,15 +1,22 @@
-Glider Kids
-Kyoshi Battle Fan
-Rowdy Snowballers
-Katara, Bending Prodigy
-Princess Yue
-The Blue Spirit
-Teo, Spirited Glider
-Giant Koi
-Boomerang Basics
-Frantic Search
-Lost in the Spirit World
-Waterbending Lesson
-Thriving Isle
+ADAPTIVE
+//Creatures (7)
+1 Glider Kids
+1 Rowdy Snowballers
+1 Katara, Bending Prodigy
+1 Princess Yue
+1 The Blue Spirit
+1 Teo, Spirited Glider
+1 Giant Koi
+//Sorceries (3)
+1 Boomerang Basics
+1 Lost in the Spirit World
+1 Waterbending Lesson
+//Instants (1)
+1 Frantic Search
+//Artifacts (1)
+1 Kyoshi Battle Fan
+//Lands (7)
+1 Thriving Isle
 6 Island
-Island Appa
+//Unknown
+1 Island Appa

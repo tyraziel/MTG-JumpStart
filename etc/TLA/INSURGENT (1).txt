@@ -1,15 +1,21 @@
-Momo, Rambunctious Rascal
-Inspired Insurgent
-Jeong Jeong's Deserters
-Invasion Reinforcements
-Glider Kids
-Kyoshi Warriors
-Aang, the Last Airbender
-Appa, Loyal Sky Bison
-Razor Rings
-Stand United
-Airbender's Reversal
-Tale of Momo
-Thriving Heath
+INSURGENT (1)
+//Creatures (8)
+1 Momo, Rambunctious Rascal
+1 Inspired Insurgent
+1 Jeong Jeong's Deserters
+1 Invasion Reinforcements
+1 Glider Kids
+1 Kyoshi Warriors
+1 Aang, the Last Airbender
+1 Appa, Loyal Sky Bison
+//Sorceries (1)
+1 Tale of Momo
+//Instants (3)
+1 Razor Rings
+1 Stand United
+1 Airbender's Reversal
+//Lands (7)
+1 Thriving Heath
 6 Plains
+//Unknown
 1 Plains Appa

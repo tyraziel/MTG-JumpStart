@@ -1,15 +1,20 @@
-Purple Pentapus
-Elephant-Rat
-June, Bounty Hunter
-Raven Eagle
-Messenger Hawk
-Katara, Seeking Revenge
-Foggy Swamp Hunters
-Beetle-Headed Merchants
-Desperate Plea
-Epic Downfall
-Diresight
-Deadly Precision
-Thriving Moor
+HUNTING (1)
+//Creatures (8)
+1 Purple Pentapus
+1 Elephant-Rat
+1 June, Bounty Hunter
+1 Raven Eagle
+1 Messenger Hawk
+1 Katara, Seeking Revenge
+1 Foggy Swamp Hunters
+1 Beetle-Headed Merchants
+//Sorceries (4)
+1 Desperate Plea
+1 Epic Downfall
+1 Diresight
+1 Deadly Precision
+//Lands (7)
+1 Thriving Moor
 6 Swamp
-Swamp Appa
+//Unknown
+1 Swamp Appa

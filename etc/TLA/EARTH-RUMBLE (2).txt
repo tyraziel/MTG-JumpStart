@@ -1,15 +1,22 @@
-Frog-Squirrels
-Raucous Audience
-Kyoshi Battle Fan
-Uncle Iroh
-The Earth King
-The Boulder, Ready to Rumble
-Earth Rumble Wrestlers
-Bosco, Just a Bear
-Origin of Metalbending
-Hog-Monkey Rampage
-Allies at Last
-Master's Guidance
-Thriving Grove
+EARTH-RUMBLE (2)
+//Creatures (7)
+1 Frog-Squirrels
+1 Raucous Audience
+1 Uncle Iroh
+1 The Earth King
+1 The Boulder, Ready to Rumble
+1 Earth Rumble Wrestlers
+1 Bosco, Just a Bear
+//Instants (3)
+1 Origin of Metalbending
+1 Hog-Monkey Rampage
+1 Allies at Last
+//Artifacts (1)
+1 Kyoshi Battle Fan
+//Enchantments (1)
+1 Master's Guidance
+//Lands (7)
+1 Thriving Grove
 6 Forest
+//Unknown
 1 Forest Appa

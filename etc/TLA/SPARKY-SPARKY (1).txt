@@ -1,15 +1,22 @@
-Fire Nation Cadets
-Fire Sages
-Deer-Dog
-War Balloon
-Zuko, Exiled Prince
-Earth Rumble Wrestlers
-Combustion Man
-Ran and Shaw
-Iroh's Demonstration
-Combustion Technique
-How to Start a Riot
-Bumi Bash
-Thriving Bluff
+SPARKY-SPARKY (1)
+//Creatures (7)
+1 Fire Nation Cadets
+1 Fire Sages
+1 Deer-Dog
+1 Zuko, Exiled Prince
+1 Earth Rumble Wrestlers
+1 Combustion Man
+1 Ran and Shaw
+//Sorceries (2)
+1 Iroh's Demonstration
+1 Bumi Bash
+//Instants (2)
+1 Combustion Technique
+1 How to Start a Riot
+//Artifacts (1)
+1 War Balloon
+//Lands (7)
+1 Thriving Bluff
 6 Mountain
-Mountain Appa
+//Unknown
+1 Mountain Appa

@@ -1,15 +1,20 @@
-Tiger-Seal
-Otter-Penguin
-Knowledge Seeker
-Sokka, Lateral Strategist
-Rowdy Snowballers
-Messenger Hawk
-Turtle-Seals
-The Blue Spirit
-Consider
-It'll Quench Ya!
-Sokka's Haiku
-Whirlwind Technique
-Thriving Isle
+WISE (2)
+//Creatures (8)
+1 Tiger-Seal
+1 Otter-Penguin
+1 Knowledge Seeker
+1 Sokka, Lateral Strategist
+1 Rowdy Snowballers
+1 Messenger Hawk
+1 Turtle-Seals
+1 The Blue Spirit
+//Instants (4)
+1 Consider
+1 It'll Quench Ya!
+1 Sokka's Haiku
+1 Whirlwind Technique
+//Lands (7)
+1 Thriving Isle
 6 Island
-Island Appa
+//Unknown
+1 Island Appa

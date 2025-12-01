@@ -1,15 +1,21 @@
-Momo, Rambunctious Rascal
-Kindly Customer
-Invasion Reinforcements
-Water Tribe Captain
-Koala-Sheep
-Kyoshi Warriors
-Aang, Airbending Master
-Appa, Loyal Sky Bison
-Cloudshift
-Enter the Avatar State
-Path to Redemption
-Airbending Lesson
-Thriving Heath
+AANG
+//Creatures (8)
+1 Momo, Rambunctious Rascal
+1 Kindly Customer
+1 Invasion Reinforcements
+1 Water Tribe Captain
+1 Koala-Sheep
+1 Kyoshi Warriors
+1 Aang, Airbending Master
+1 Appa, Loyal Sky Bison
+//Instants (3)
+1 Cloudshift
+1 Enter the Avatar State
+1 Airbending Lesson
+//Enchantments (1)
+1 Path to Redemption
+//Lands (7)
+1 Thriving Heath
 6 Plains
+//Unknown
 1 Plains Appa

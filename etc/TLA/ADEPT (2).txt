@@ -1,15 +1,22 @@
-Professor Zei, Anthropologist
-Master Pakku
-Katara, Bending Prodigy
-Iguana Parrot
-Teo, Spirited Glider
-Geyser Leaper
-Serpent of the Pass
-Octopus Form
-Consider
-Nightmares and Daydreams
-Waterbending Lesson
-Lost Days
-Thriving Isle
+ADEPT (2)
+//Creatures (7)
+1 Professor Zei, Anthropologist
+1 Master Pakku
+1 Katara, Bending Prodigy
+1 Iguana Parrot
+1 Teo, Spirited Glider
+1 Geyser Leaper
+1 Serpent of the Pass
+//Sorceries (1)
+1 Waterbending Lesson
+//Instants (3)
+1 Octopus Form
+1 Consider
+1 Lost Days
+//Enchantments (1)
+1 Nightmares and Daydreams
+//Lands (7)
+1 Thriving Isle
 6 Island
-Island Appa
+//Unknown
+1 Island Appa

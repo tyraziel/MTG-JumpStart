@@ -1,15 +1,22 @@
-The Duke, Rebel Sentry
-South Pole Voyager
-Kyoshi Warrior Guard
-Glider Kids
-Sokka, Lateral Strategist
-Kyoshi Warriors
-Suki, Kyoshi Warrior
-Jet, Freedom Fighter
-Mechanical Glider
-Sokka's Sword Training
-Path to Redemption
-Fancy Footwork
-Thriving Heath
+ALLIANCE (1)
+//Creatures (8)
+1 The Duke, Rebel Sentry
+1 South Pole Voyager
+1 Kyoshi Warrior Guard
+1 Glider Kids
+1 Sokka, Lateral Strategist
+1 Kyoshi Warriors
+1 Suki, Kyoshi Warrior
+1 Jet, Freedom Fighter
+//Instants (2)
+1 Sokka's Sword Training
+1 Fancy Footwork
+//Artifacts (1)
+1 Mechanical Glider
+//Enchantments (1)
+1 Path to Redemption
+//Lands (7)
+1 Thriving Heath
 6 Plains
+//Unknown
 1 Plains Appa

@@ -1,15 +1,21 @@
-Rebellious Captives
-Frog-Squirrels
-Toph, Earthbending Master
-Earth Kingdom Soldier
-Kyoshi Warrior Exemplars
-Earth Kingdom General
-Badgermole
-Saber-Tooth Moose-Lion
-Rocky Rebuke
-Origin of Metalbending
-Tale of Katara and Toph
-Solid Ground
-Thriving Grove
+TOPH
+//Creatures (8)
+1 Rebellious Captives
+1 Frog-Squirrels
+1 Toph, Earthbending Master
+1 Earth Kingdom Soldier
+1 Kyoshi Warrior Exemplars
+1 Earth Kingdom General
+1 Badgermole
+1 Saber-Tooth Moose-Lion
+//Instants (2)
+1 Rocky Rebuke
+1 Origin of Metalbending
+//Enchantments (2)
+1 Tale of Katara and Toph
+1 Solid Ground
+//Lands (7)
+1 Thriving Grove
 6 Forest
+//Unknown
 1 Forest Appa

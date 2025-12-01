@@ -1,15 +1,21 @@
-Purple Pentapus
-Pretending Poxbearers
-Joo Dee, One of Many
-Pirate Peddlers
-Azula, On the Hunt
-Hei Bai, Spirit of Balance
-Canyon Crawler
-Koh, the Face Stealer
-Zuko's Conviction
-Desperate Plea
-Ruinous Waterbending
-Deadly Precision
-Thriving Moor
+NIGHTMARES
+//Creatures (8)
+1 Purple Pentapus
+1 Pretending Poxbearers
+1 Joo Dee, One of Many
+1 Pirate Peddlers
+1 Azula, On the Hunt
+1 Hei Bai, Spirit of Balance
+1 Canyon Crawler
+1 Koh, the Face Stealer
+//Sorceries (3)
+1 Desperate Plea
+1 Ruinous Waterbending
+1 Deadly Precision
+//Instants (1)
+1 Zuko's Conviction
+//Lands (7)
+1 Thriving Moor
 6 Swamp
-Swamp Appa
+//Unknown
+1 Swamp Appa

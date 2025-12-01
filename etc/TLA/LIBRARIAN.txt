@@ -1,15 +1,21 @@
-Professor Zei, Anthropologist
-Suspicious Bookcase
-Knowledge Seeker
-Dutiful Knowledge Seeker
-Wan Shi Tong, All-Knowing
-Giant Koi
-Brainstorm
-Octopus Form
-Accumulate Wisdom
-Lost in the Spirit World
-Waterbending Lesson
-Zuko's Exile
-Thriving Isle
+LIBRARIAN
+//Creatures (6)
+1 Professor Zei, Anthropologist
+1 Suspicious Bookcase
+1 Knowledge Seeker
+1 Dutiful Knowledge Seeker
+1 Wan Shi Tong, All-Knowing
+1 Giant Koi
+//Sorceries (2)
+1 Lost in the Spirit World
+1 Waterbending Lesson
+//Instants (4)
+1 Brainstorm
+1 Octopus Form
+1 Accumulate Wisdom
+1 Zuko's Exile
+//Lands (7)
+1 Thriving Isle
 6 Island
-Island Appa
+//Unknown
+1 Island Appa

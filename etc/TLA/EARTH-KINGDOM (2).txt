@@ -1,15 +1,22 @@
-Haru, Hidden Talent
-Great Divide Guide
-Toph, the Blind Bandit
-Walltop Sentries
-Suki, Kyoshi Warrior
-Earth Kingdom General
-Earth Kingdom Soldier
-Hippo-Cows
-Mechanical Glider
-Origin of Metalbending
-Descendants' Path
-Allies at Last
-Thriving Grove
+EARTH-KINGDOM (2)
+//Creatures (8)
+1 Haru, Hidden Talent
+1 Great Divide Guide
+1 Toph, the Blind Bandit
+1 Walltop Sentries
+1 Suki, Kyoshi Warrior
+1 Earth Kingdom General
+1 Earth Kingdom Soldier
+1 Hippo-Cows
+//Instants (2)
+1 Origin of Metalbending
+1 Allies at Last
+//Artifacts (1)
+1 Mechanical Glider
+//Enchantments (1)
+1 Descendants' Path
+//Lands (7)
+1 Thriving Grove
 6 Forest
+//Unknown
 1 Forest Appa

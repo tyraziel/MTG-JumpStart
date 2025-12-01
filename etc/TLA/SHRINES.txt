@@ -1,20 +1,27 @@
-Raucous Audience
-Walltop Sentries
-Hei Bai, Forest Guardian
-Guru Pathik
-Saber-Tooth Moose-Lion
-Barrels of Blasting Jelly
-Northern Air Temple
-Aang's Journey
-The Spirit Oasis
-Kyoshi Island Plaza
-Southern Air Temple
-Crescent Island Temple
-Thriving Grove
-White Lotus Hideout
-Plains
-Island
-Swamp
-Mountain
-Forest
-Forest Appa
+SHRINES
+//Creatures (5)
+1 Raucous Audience
+1 Walltop Sentries
+1 Hei Bai, Forest Guardian
+1 Guru Pathik
+1 Saber-Tooth Moose-Lion
+//Sorceries (1)
+1 Aang's Journey
+//Artifacts (1)
+1 Barrels of Blasting Jelly
+//Enchantments (5)
+1 Northern Air Temple
+1 The Spirit Oasis
+1 Kyoshi Island Plaza
+1 Southern Air Temple
+1 Crescent Island Temple
+//Lands (7)
+1 Thriving Grove
+1 White Lotus Hideout
+1 Plains
+1 Island
+1 Swamp
+1 Mountain
+1 Forest
+//Unknown
+1 Forest Appa

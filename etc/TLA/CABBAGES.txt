@@ -1,15 +1,22 @@
-Unlucky Cabbage Merchant
-Bumi's Feast Lecture
-Elephant-Mandrill
-The Cabbage Merchant
-Foggy Swamp Vinebender
-Bosco, Just a Bear
-Hippo-Cows
-Saber-Tooth Moose-Lion
-Many Partings
-Leaves from the Vine
-The Art of Tea
-Rocky Rebuke
-Thriving Grove
+CABBAGES
+//Creatures (7)
+1 Unlucky Cabbage Merchant
+1 Elephant-Mandrill
+1 The Cabbage Merchant
+1 Foggy Swamp Vinebender
+1 Bosco, Just a Bear
+1 Hippo-Cows
+1 Saber-Tooth Moose-Lion
+//Sorceries (2)
+1 Bumi's Feast Lecture
+1 Many Partings
+//Instants (2)
+1 The Art of Tea
+1 Rocky Rebuke
+//Enchantments (1)
+1 Leaves from the Vine
+//Lands (7)
+1 Thriving Grove
 6 Forest
+//Unknown
 1 Forest Appa

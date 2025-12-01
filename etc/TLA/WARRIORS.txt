@@ -1,15 +1,22 @@
-Kyoshi Warrior Guard
-Invasion Reinforcements
-Kyoshi Battle Fan
-Toucan-Puffin
-Sokka, Lateral Strategist
-Suki, Kyoshi Captain
-Kyoshi Warriors
-Rabaroo Troop
-Path to Redemption
-Sokka's Sword Training
-Valorous Stance
-Team Avatar
-Thriving Heath
+WARRIORS
+//Creatures (7)
+1 Kyoshi Warrior Guard
+1 Invasion Reinforcements
+1 Toucan-Puffin
+1 Sokka, Lateral Strategist
+1 Suki, Kyoshi Captain
+1 Kyoshi Warriors
+1 Rabaroo Troop
+//Instants (2)
+1 Sokka's Sword Training
+1 Valorous Stance
+//Artifacts (1)
+1 Kyoshi Battle Fan
+//Enchantments (2)
+1 Path to Redemption
+1 Team Avatar
+//Lands (7)
+1 Thriving Heath
 6 Plains
+//Unknown
 1 Plains Appa

@@ -1,15 +1,23 @@
-Haru, Hidden Talent
-Kyoshi Battle Fan
-Toph, the Blind Bandit
-Match the Odds
-Suki, Kyoshi Warrior
-Foggy Swamp Vinebender
-Earth Kingdom Soldier
-Hippo-Cows
-Mechanical Glider
-Stand United
-Descendants' Path
-Allies at Last
-Thriving Grove
+EARTH-KINGDOM (1)
+//Creatures (6)
+1 Haru, Hidden Talent
+1 Toph, the Blind Bandit
+1 Suki, Kyoshi Warrior
+1 Foggy Swamp Vinebender
+1 Earth Kingdom Soldier
+1 Hippo-Cows
+//Sorceries (1)
+1 Match the Odds
+//Instants (2)
+1 Stand United
+1 Allies at Last
+//Artifacts (2)
+1 Kyoshi Battle Fan
+1 Mechanical Glider
+//Enchantments (1)
+1 Descendants' Path
+//Lands (7)
+1 Thriving Grove
 6 Forest
+//Unknown
 1 Forest Appa

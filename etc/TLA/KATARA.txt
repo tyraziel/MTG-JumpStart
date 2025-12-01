@@ -1,15 +1,21 @@
-Gran-Gran
-Master Pakku
-Katara, Waterbending Master
-Rowdy Snowballers
-Sokka, Lateral Strategist
-Turtle-Seals
-Geyser Leaper
-Consider
-Watery Grasp
-Octopus Form
-It'll Quench Ya!
-Sokka's Haiku
-Thriving Isle
+KATARA
+//Creatures (7)
+1 Gran-Gran
+1 Master Pakku
+1 Katara, Waterbending Master
+1 Rowdy Snowballers
+1 Sokka, Lateral Strategist
+1 Turtle-Seals
+1 Geyser Leaper
+//Instants (4)
+1 Consider
+1 Octopus Form
+1 It'll Quench Ya!
+1 Sokka's Haiku
+//Enchantments (1)
+1 Watery Grasp
+//Lands (7)
+1 Thriving Isle
 6 Island
-Island Appa
+//Unknown
+1 Island Appa

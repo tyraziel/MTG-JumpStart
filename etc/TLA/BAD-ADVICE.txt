@@ -1,15 +1,21 @@
-Gilacorn
-Dai Li Censor
-Corrupt Court Official
-Joo Dee, One of Many
-Long Feng, Grand Secretariat
-Fire Nation Ambushers
-Lo and Li, Royal Advisors
-Hama, the Bloodbender
-Sold Out
-Dai Li Indoctrination
-Ozai's Cruelty
-Deadly Precision
-Thriving Moor
+BAD-ADVICE
+//Creatures (8)
+1 Gilacorn
+1 Dai Li Censor
+1 Corrupt Court Official
+1 Joo Dee, One of Many
+1 Long Feng, Grand Secretariat
+1 Fire Nation Ambushers
+1 Lo and Li, Royal Advisors
+1 Hama, the Bloodbender
+//Sorceries (3)
+1 Dai Li Indoctrination
+1 Ozai's Cruelty
+1 Deadly Precision
+//Instants (1)
+1 Sold Out
+//Lands (7)
+1 Thriving Moor
 6 Swamp
-Swamp Appa
+//Unknown
+1 Swamp Appa

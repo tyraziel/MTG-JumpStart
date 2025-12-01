@@ -1,15 +1,22 @@
-Fire Nation Cadets
-Fire Sages
-Firebender Ascension
-Loyal Fire Sage
-Jeong Jeong, the Deserter
-Zuko, Exiled Prince
-Dragon Moose
-Firebending Lesson
-Roku's Mastery
-Cunning Maneuver
-Lightning Strike
-Reckless Blaze
-Thriving Bluff
+FIREBENDING (1)
+//Creatures (6)
+1 Fire Nation Cadets
+1 Fire Sages
+1 Loyal Fire Sage
+1 Jeong Jeong, the Deserter
+1 Zuko, Exiled Prince
+1 Dragon Moose
+//Sorceries (1)
+1 Reckless Blaze
+//Instants (4)
+1 Firebending Lesson
+1 Roku's Mastery
+1 Cunning Maneuver
+1 Lightning Strike
+//Enchantments (1)
+1 Firebender Ascension
+//Lands (7)
+1 Thriving Bluff
 6 Mountain
-Mountain Appa
+//Unknown
+1 Mountain Appa

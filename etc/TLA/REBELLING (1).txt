@@ -1,15 +1,21 @@
-Freedom Fighter Recruit
-Yuyan Archers
-Treetop Freedom Fighters
-Zuko, Seeking Honor
-Longshot, Rebel Bowman
-Smellerbee, Rebel Fighter
-Jet, Freedom Fighter
-Fire Nation Attacks
-Explosive Shot
-Cunning Maneuver
-How to Start a Riot
-Bumi Bash
-Thriving Bluff
+REBELLING (1)
+//Creatures (7)
+1 Freedom Fighter Recruit
+1 Yuyan Archers
+1 Treetop Freedom Fighters
+1 Zuko, Seeking Honor
+1 Longshot, Rebel Bowman
+1 Smellerbee, Rebel Fighter
+1 Jet, Freedom Fighter
+//Sorceries (2)
+1 Explosive Shot
+1 Bumi Bash
+//Instants (3)
+1 Fire Nation Attacks
+1 Cunning Maneuver
+1 How to Start a Riot
+//Lands (7)
+1 Thriving Bluff
 6 Mountain
-Mountain Appa
+//Unknown
+1 Mountain Appa

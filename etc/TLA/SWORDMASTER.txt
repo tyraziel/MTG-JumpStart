@@ -1,15 +1,22 @@
-Earth Kingdom Protectors
-Kyoshi Battle Fan
-Inspired Insurgent
-Sokka, Swordmaster
-Glider Kids
-Aardvark Sloth
-Master Piandao
-Trusty Boomerang
-Sokka's Sword Training
-Razor Rings
-Duelist's Heritage
-Meteor Sword
-Thriving Heath
+SWORDMASTER
+//Creatures (6)
+1 Earth Kingdom Protectors
+1 Inspired Insurgent
+1 Sokka, Swordmaster
+1 Glider Kids
+1 Aardvark Sloth
+1 Master Piandao
+//Instants (2)
+1 Sokka's Sword Training
+1 Razor Rings
+//Artifacts (3)
+1 Kyoshi Battle Fan
+1 Trusty Boomerang
+1 Meteor Sword
+//Enchantments (1)
+1 Duelist's Heritage
+//Lands (7)
+1 Thriving Heath
 6 Plains
+//Unknown
 1 Plains Appa

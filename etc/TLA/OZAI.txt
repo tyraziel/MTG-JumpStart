@@ -1,15 +1,21 @@
-Callous Inspector
-Corrupt Court Official
-Fire Nation Ambushers
-Fire Navy Trebuchet
-Fire Lord Ozai
-Zhao, Ruthless Admiral
-Beetle-Headed Merchants
-Canyon Crawler
-Heartless Act
-Ozai's Cruelty
-Scarring Memories
-Deadly Precision
-Thriving Moor
+OZAI
+//Creatures (8)
+1 Callous Inspector
+1 Corrupt Court Official
+1 Fire Nation Ambushers
+1 Fire Navy Trebuchet
+1 Fire Lord Ozai
+1 Zhao, Ruthless Admiral
+1 Beetle-Headed Merchants
+1 Canyon Crawler
+//Sorceries (3)
+1 Ozai's Cruelty
+1 Scarring Memories
+1 Deadly Precision
+//Instants (1)
+1 Heartless Act
+//Lands (7)
+1 Thriving Moor
 6 Swamp
-Swamp Appa
+//Unknown
+1 Swamp Appa

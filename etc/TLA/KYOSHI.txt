@@ -1,15 +1,23 @@
-Kyoshi Battle Fan
-Raucous Audience
-Elephant-Mandrill
-Kyoshi Warrior Exemplars
-Suki, Kyoshi Warrior
-Earth Kingdom Soldier
-Avatar Kyoshi, Earthbender
-Rocky Rebuke
-Cycle of Renewal
-Allies at Last
-Cracked Earth Technique
-Tectonic Split
-Thriving Grove
+KYOSHI
+//Creatures (6)
+1 Raucous Audience
+1 Elephant-Mandrill
+1 Kyoshi Warrior Exemplars
+1 Suki, Kyoshi Warrior
+1 Earth Kingdom Soldier
+1 Avatar Kyoshi, Earthbender
+//Sorceries (1)
+1 Cracked Earth Technique
+//Instants (3)
+1 Rocky Rebuke
+1 Cycle of Renewal
+1 Allies at Last
+//Artifacts (1)
+1 Kyoshi Battle Fan
+//Enchantments (1)
+1 Tectonic Split
+//Lands (7)
+1 Thriving Grove
 6 Forest
+//Unknown
 1 Forest Appa

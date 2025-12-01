@@ -1,15 +1,21 @@
-Purple Pentapus
-Merchant of Many Hats
-Ruthless Waterbender
-Pirate Peddlers
-Fire Nation Ambushers
-Azula, On the Hunt
-Buzzard-Wasp Colony
-Canyon Crawler
-Sold Out
-Azula Always Lies
-Heartless Act
-Fire Nation Occupation
-Thriving Moor
+RELENTLESS (1)
+//Creatures (8)
+1 Purple Pentapus
+1 Merchant of Many Hats
+1 Ruthless Waterbender
+1 Pirate Peddlers
+1 Fire Nation Ambushers
+1 Azula, On the Hunt
+1 Buzzard-Wasp Colony
+1 Canyon Crawler
+//Instants (3)
+1 Sold Out
+1 Azula Always Lies
+1 Heartless Act
+//Enchantments (1)
+1 Fire Nation Occupation
+//Lands (7)
+1 Thriving Moor
 6 Swamp
-Swamp Appa
+//Unknown
+1 Swamp Appa

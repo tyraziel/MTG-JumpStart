@@ -1,15 +1,22 @@
-Freedom Fighter Recruit
-Deserter's Disciple
-Treetop Freedom Fighters
-Zuko, Seeking Honor
-Hook Swords
-Longshot, Rebel Bowman
-Smellerbee, Rebel Fighter
-Jet, Freedom Fighter
-Explosive Shot
-Run Amok
-How to Start a Riot
-Overwhelming Victory
-Thriving Bluff
+REBELLING (2)
+//Creatures (7)
+1 Freedom Fighter Recruit
+1 Deserter's Disciple
+1 Treetop Freedom Fighters
+1 Zuko, Seeking Honor
+1 Longshot, Rebel Bowman
+1 Smellerbee, Rebel Fighter
+1 Jet, Freedom Fighter
+//Sorceries (1)
+1 Explosive Shot
+//Instants (3)
+1 Run Amok
+1 How to Start a Riot
+1 Overwhelming Victory
+//Artifacts (1)
+1 Hook Swords
+//Lands (7)
+1 Thriving Bluff
 6 Mountain
-Mountain Appa
+//Unknown
+1 Mountain Appa

@@ -1,15 +1,22 @@
-Callous Inspector
-Pretending Poxbearers
-June, Bounty Hunter
-Pirate Peddlers
-Fire Navy Trebuchet
-Azula, On the Hunt
-Zhao, Ruthless Admiral
-Nyla, Shirshu Sleuth
-Sold Out
-Obsessive Pursuit
-Bastion of Remembrance
-Deadly Precision
-Thriving Moor
+BOUNTY-HUNTER (2)
+//Creatures (8)
+1 Callous Inspector
+1 Pretending Poxbearers
+1 June, Bounty Hunter
+1 Pirate Peddlers
+1 Fire Navy Trebuchet
+1 Azula, On the Hunt
+1 Zhao, Ruthless Admiral
+1 Nyla, Shirshu Sleuth
+//Sorceries (1)
+1 Deadly Precision
+//Instants (1)
+1 Sold Out
+//Enchantments (2)
+1 Obsessive Pursuit
+1 Bastion of Remembrance
+//Lands (7)
+1 Thriving Moor
 6 Swamp
-Swamp Appa
+//Unknown
+1 Swamp Appa

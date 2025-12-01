@@ -1,15 +1,22 @@
-Rebellious Captives
-Sparring Dummy
-Walltop Sentries
-Aang, A Lot to Learn
-Guru Pathik
-Saber-Tooth Moose-Lion
-Origin of Metalbending
-Shared Roots
-Rocky Rebuke
-Crystalline Armor
-Cracked Earth Technique
-Zuko's Exile
-Thriving Grove
+LEARNING (1)
+//Creatures (6)
+1 Rebellious Captives
+1 Sparring Dummy
+1 Walltop Sentries
+1 Aang, A Lot to Learn
+1 Guru Pathik
+1 Saber-Tooth Moose-Lion
+//Sorceries (2)
+1 Shared Roots
+1 Cracked Earth Technique
+//Instants (3)
+1 Origin of Metalbending
+1 Rocky Rebuke
+1 Zuko's Exile
+//Enchantments (1)
+1 Crystalline Armor
+//Lands (7)
+1 Thriving Grove
 6 Forest
+//Unknown
 1 Forest Appa

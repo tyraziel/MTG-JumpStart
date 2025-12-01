@@ -1,15 +1,22 @@
-Gran-Gran
-Glider Kids
-Platypus-Bear
-Iguana Parrot
-Katara, Seeking Revenge
-Giant Koi
-Octopus Form
-Boomerang Basics
-Accumulate Wisdom
-It'll Quench Ya!
-Chakra Meditation
-Whirlwind Technique
-Thriving Isle
+LESSONS (1)
+//Creatures (6)
+1 Gran-Gran
+1 Glider Kids
+1 Platypus-Bear
+1 Iguana Parrot
+1 Katara, Seeking Revenge
+1 Giant Koi
+//Sorceries (1)
+1 Boomerang Basics
+//Instants (4)
+1 Octopus Form
+1 Accumulate Wisdom
+1 It'll Quench Ya!
+1 Whirlwind Technique
+//Enchantments (1)
+1 Chakra Meditation
+//Lands (7)
+1 Thriving Isle
 6 Island
-Island Appa
+//Unknown
+1 Island Appa

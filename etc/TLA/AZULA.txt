@@ -1,15 +1,21 @@
-Dai Li Censor
-Corrupt Court Official
-Fire Nation Ambushers
-Fire Navy Trebuchet
-Azula, Ruthless Firebender
-Lo and Li, Twin Tutors
-Canyon Crawler
-Sold Out
-Azula Always Lies
-Dai Li Indoctrination
-Epic Downfall
-Dark Deal
-Thriving Moor
+AZULA
+//Creatures (7)
+1 Dai Li Censor
+1 Corrupt Court Official
+1 Fire Nation Ambushers
+1 Fire Navy Trebuchet
+1 Azula, Ruthless Firebender
+1 Lo and Li, Twin Tutors
+1 Canyon Crawler
+//Sorceries (3)
+1 Dai Li Indoctrination
+1 Epic Downfall
+1 Dark Deal
+//Instants (2)
+1 Sold Out
+1 Azula Always Lies
+//Lands (7)
+1 Thriving Moor
 6 Swamp
-Swamp Appa
+//Unknown
+1 Swamp Appa

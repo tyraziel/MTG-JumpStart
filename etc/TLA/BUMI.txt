@@ -1,15 +1,22 @@
-Raucous Audience
-Bumi's Feast Lecture
-Aang, A Lot to Learn
-Walltop Sentries
-Earthbending Lesson
-Badgermole
-Bumi, King of Three Trials
-Flopsie, Bumi's Buddy
-Origin of Metalbending
-Rocky Rebuke
-Creeping Crystal Coating
-Crystalline Armor
-Thriving Grove
+BUMI
+//Creatures (6)
+1 Raucous Audience
+1 Aang, A Lot to Learn
+1 Walltop Sentries
+1 Badgermole
+1 Bumi, King of Three Trials
+1 Flopsie, Bumi's Buddy
+//Sorceries (2)
+1 Bumi's Feast Lecture
+1 Earthbending Lesson
+//Instants (2)
+1 Origin of Metalbending
+1 Rocky Rebuke
+//Enchantments (2)
+1 Creeping Crystal Coating
+1 Crystalline Armor
+//Lands (7)
+1 Thriving Grove
 6 Forest
+//Unknown
 1 Forest Appa

@@ -1,15 +1,23 @@
-Rebellious Captives
-Raucous Audience
-Kyoshi Battle Fan
-Uncle Iroh
-Toph, the Blind Bandit
-The Boulder, Ready to Rumble
-Earth Rumble Wrestlers
-Hippo-Cows
-Pillar Launch
-Hog-Monkey Rampage
-Master's Guidance
-Earth Rumble
-Thriving Grove
+EARTH-RUMBLE (1)
+//Creatures (7)
+1 Rebellious Captives
+1 Raucous Audience
+1 Uncle Iroh
+1 Toph, the Blind Bandit
+1 The Boulder, Ready to Rumble
+1 Earth Rumble Wrestlers
+1 Hippo-Cows
+//Sorceries (1)
+1 Earth Rumble
+//Instants (2)
+1 Pillar Launch
+1 Hog-Monkey Rampage
+//Artifacts (1)
+1 Kyoshi Battle Fan
+//Enchantments (1)
+1 Master's Guidance
+//Lands (7)
+1 Thriving Grove
 6 Forest
+//Unknown
 1 Forest Appa

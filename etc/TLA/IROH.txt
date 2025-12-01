@@ -1,15 +1,21 @@
-Deserter's Disciple
-Tiger-Dillo
-Boar-q-pine
-Zuko, Seeking Honor
-Jeong Jeong, the Deserter
-Iroh, Dragon of the West
-Mongoose Lizard
-Firebending Lesson
-Iroh's Demonstration
-Cathartic Reunion
-Bolt Bend
-Fiery Confluence
-Thriving Bluff
+IROH
+//Creatures (7)
+1 Deserter's Disciple
+1 Tiger-Dillo
+1 Boar-q-pine
+1 Zuko, Seeking Honor
+1 Jeong Jeong, the Deserter
+1 Iroh, Dragon of the West
+1 Mongoose Lizard
+//Sorceries (3)
+1 Iroh's Demonstration
+1 Cathartic Reunion
+1 Fiery Confluence
+//Instants (2)
+1 Firebending Lesson
+1 Bolt Bend
+//Lands (7)
+1 Thriving Bluff
 6 Mountain
-Mountain Appa
+//Unknown
+1 Mountain Appa

@@ -1,15 +1,21 @@
-Fire Nation Cadets
-Moku, Meandering Drummer
-Yuyan Archers
-Loyal Fire Sage
-Jeong Jeong, the Deserter
-Zuko, Exiled Prince
-Rough Rhino Cavalry
-Fire Nation Attacks
-Firebending Lesson
-Cunning Maneuver
-Combustion Technique
-Reckless Blaze
-Thriving Bluff
+FIREBENDING (2)
+//Creatures (7)
+1 Fire Nation Cadets
+1 Moku, Meandering Drummer
+1 Yuyan Archers
+1 Loyal Fire Sage
+1 Jeong Jeong, the Deserter
+1 Zuko, Exiled Prince
+1 Rough Rhino Cavalry
+//Sorceries (1)
+1 Reckless Blaze
+//Instants (4)
+1 Fire Nation Attacks
+1 Firebending Lesson
+1 Cunning Maneuver
+1 Combustion Technique
+//Lands (7)
+1 Thriving Bluff
 6 Mountain
-Mountain Appa
+//Unknown
+1 Mountain Appa

@@ -1,15 +1,21 @@
-Yuyan Archers
-Fire Sages
-Boar-q-pine
-Loyal Fire Sage
-Jeong Jeong, the Deserter
-Fang, Roku's Companion
-Avatar Roku, Firebender
-Firebending Lesson
-Frantic Confrontation
-Roku's Mastery
-Crescent Island Temple
-White Lotus Hideout
-Thriving Bluff
+ROKU
+//Creatures (7)
+1 Yuyan Archers
+1 Fire Sages
+1 Boar-q-pine
+1 Loyal Fire Sage
+1 Jeong Jeong, the Deserter
+1 Fang, Roku's Companion
+1 Avatar Roku, Firebender
+//Instants (3)
+1 Firebending Lesson
+1 Frantic Confrontation
+1 Roku's Mastery
+//Enchantments (1)
+1 Crescent Island Temple
+//Lands (8)
+1 White Lotus Hideout
+1 Thriving Bluff
 6 Mountain
-Mountain Appa
+//Unknown
+1 Mountain Appa

@@ -1,15 +1,22 @@
-Callous Inspector
-Merchant of Many Hats
-Pretending Poxbearers
-Fire Nation Engineer
-Fire Navy Trebuchet
-Fire Nation Warship
-Tundra Tank
-The Fire Nation Drill
-Beetle-Headed Merchants
-Canyon Crawler
-Heartless Act
-Deadly Precision
-Thriving Moor
+SIEGE-ENGINES
+//Creatures (7)
+1 Callous Inspector
+1 Merchant of Many Hats
+1 Pretending Poxbearers
+1 Fire Nation Engineer
+1 Fire Navy Trebuchet
+1 Beetle-Headed Merchants
+1 Canyon Crawler
+//Sorceries (1)
+1 Deadly Precision
+//Instants (1)
+1 Heartless Act
+//Artifacts (3)
+1 Fire Nation Warship
+1 Tundra Tank
+1 The Fire Nation Drill
+//Lands (7)
+1 Thriving Moor
 6 Swamp
-Swamp Appa
+//Unknown
+1 Swamp Appa

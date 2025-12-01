@@ -1,15 +1,23 @@
-Flying Dolphin-Fish
-Forecasting Fortune Teller
-Messenger Hawk
-Sokka, Lateral Strategist
-The Mechanist, Aerial Artisan
-Teo, Spirited Glider
-Cat-Owl
-Giant Koi
-Watery Grasp
-Mechanical Glider
-Boomerang Basics
-Sokka's Haiku
-Thriving Isle
+SOARING (1)
+//Creatures (8)
+1 Flying Dolphin-Fish
+1 Forecasting Fortune Teller
+1 Messenger Hawk
+1 Sokka, Lateral Strategist
+1 The Mechanist, Aerial Artisan
+1 Teo, Spirited Glider
+1 Cat-Owl
+1 Giant Koi
+//Sorceries (1)
+1 Boomerang Basics
+//Instants (1)
+1 Sokka's Haiku
+//Artifacts (1)
+1 Mechanical Glider
+//Enchantments (1)
+1 Watery Grasp
+//Lands (7)
+1 Thriving Isle
 6 Island
-Island Appa
+//Unknown
+1 Island Appa

@@ -1,15 +1,22 @@
-Callous Inspector
-Merchant of Many Hats
-Joo Dee, One of Many
-Fire Nation Ambushers
-Azula, On the Hunt
-Zhao, Ruthless Admiral
-Beetle-Headed Merchants
-Canyon Crawler
-Azula Always Lies
-Heartless Act
-Fire Nation Occupation
-Deadly Precision
-Thriving Moor
+RELENTLESS (2)
+//Creatures (8)
+1 Callous Inspector
+1 Merchant of Many Hats
+1 Joo Dee, One of Many
+1 Fire Nation Ambushers
+1 Azula, On the Hunt
+1 Zhao, Ruthless Admiral
+1 Beetle-Headed Merchants
+1 Canyon Crawler
+//Sorceries (1)
+1 Deadly Precision
+//Instants (2)
+1 Azula Always Lies
+1 Heartless Act
+//Enchantments (1)
+1 Fire Nation Occupation
+//Lands (7)
+1 Thriving Moor
 6 Swamp
-Swamp Appa
+//Unknown
+1 Swamp Appa

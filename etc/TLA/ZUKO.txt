@@ -1,15 +1,22 @@
-Yuyan Archers
-Zuko, Firebending Master
-Mai, Jaded Edge
-War Balloon
-Dragon Moose
-Fire Nation Attacks
-Mongoose Lizard
-Frantic Confrontation
-Firebending Lesson
-Fists of Flame
-Lightning Strike
-Lost in Memories
-Thriving Bluff
+ZUKO
+//Creatures (5)
+1 Yuyan Archers
+1 Zuko, Firebending Master
+1 Mai, Jaded Edge
+1 Dragon Moose
+1 Mongoose Lizard
+//Instants (5)
+1 Fire Nation Attacks
+1 Frantic Confrontation
+1 Firebending Lesson
+1 Fists of Flame
+1 Lightning Strike
+//Artifacts (1)
+1 War Balloon
+//Enchantments (1)
+1 Lost in Memories
+//Lands (7)
+1 Thriving Bluff
 6 Mountain
-Mountain Appa
+//Unknown
+1 Mountain Appa

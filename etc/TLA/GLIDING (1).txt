@@ -1,15 +1,22 @@
-Momo, Friendly Flier
-Kindly Customer
-Toucan-Puffin
-Koala-Sheep
-Air Nomad Student
-Aang, the Last Airbender
-Rabaroo Troop
-Appa, Loyal Sky Bison
-Yip Yip!
-Path to Redemption
-Airbending Lesson
-Glider Staff
-Thriving Heath
+GLIDING (1)
+//Creatures (8)
+1 Momo, Friendly Flier
+1 Kindly Customer
+1 Toucan-Puffin
+1 Koala-Sheep
+1 Air Nomad Student
+1 Aang, the Last Airbender
+1 Rabaroo Troop
+1 Appa, Loyal Sky Bison
+//Instants (2)
+1 Yip Yip!
+1 Airbending Lesson
+//Artifacts (1)
+1 Glider Staff
+//Enchantments (1)
+1 Path to Redemption
+//Lands (7)
+1 Thriving Heath
 6 Plains
+//Unknown
 1 Plains Appa

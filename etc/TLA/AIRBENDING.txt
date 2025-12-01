@@ -1,15 +1,21 @@
-Jeong Jeong's Deserters
-Invasion Reinforcements
-Glider Kids
-Koala-Sheep
-Monk Gyatso
-Aang, the Last Airbender
-Rabaroo Troop
-Appa, Loyal Sky Bison
-Airbender Ascension
-Path to Redemption
-Airbending Lesson
-Airbender's Reversal
-Thriving Heath
+AIRBENDING
+//Creatures (8)
+1 Jeong Jeong's Deserters
+1 Invasion Reinforcements
+1 Glider Kids
+1 Koala-Sheep
+1 Monk Gyatso
+1 Aang, the Last Airbender
+1 Rabaroo Troop
+1 Appa, Loyal Sky Bison
+//Instants (2)
+1 Airbending Lesson
+1 Airbender's Reversal
+//Enchantments (2)
+1 Airbender Ascension
+1 Path to Redemption
+//Lands (7)
+1 Thriving Heath
 6 Plains
+//Unknown
 1 Plains Appa

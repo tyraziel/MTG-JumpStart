@@ -1,15 +1,22 @@
-Gilacorn
-Ruthless Waterbender
-June, Bounty Hunter
-Raven Eagle
-Messenger Hawk
-Katara, Seeking Revenge
-Foggy Swamp Hunters
-Beetle-Headed Merchants
-Azula Always Lies
-Swampsnare Trap
-Diresight
-Deadly Precision
-Thriving Moor
+HUNTING (2)
+//Creatures (8)
+1 Gilacorn
+1 Ruthless Waterbender
+1 June, Bounty Hunter
+1 Raven Eagle
+1 Messenger Hawk
+1 Katara, Seeking Revenge
+1 Foggy Swamp Hunters
+1 Beetle-Headed Merchants
+//Sorceries (2)
+1 Diresight
+1 Deadly Precision
+//Instants (1)
+1 Azula Always Lies
+//Enchantments (1)
+1 Swampsnare Trap
+//Lands (7)
+1 Thriving Moor
 6 Swamp
-Swamp Appa
+//Unknown
+1 Swamp Appa

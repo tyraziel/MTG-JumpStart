@@ -1,15 +1,22 @@
-Flying Dolphin-Fish
-Benevolent River Spirit
-Knowledge Seeker
-Dutiful Knowledge Seeker
-Baboon Spirit
-Flexible Waterbender
-Giant Koi
-Octopus Form
-Dramatic Reversal
-It'll Quench Ya!
-Lost in the Spirit World
-The Spirit Oasis
-Thriving Isle
+SPIRIT
+//Creatures (7)
+1 Flying Dolphin-Fish
+1 Benevolent River Spirit
+1 Knowledge Seeker
+1 Dutiful Knowledge Seeker
+1 Baboon Spirit
+1 Flexible Waterbender
+1 Giant Koi
+//Sorceries (1)
+1 Lost in the Spirit World
+//Instants (3)
+1 Octopus Form
+1 Dramatic Reversal
+1 It'll Quench Ya!
+//Enchantments (1)
+1 The Spirit Oasis
+//Lands (7)
+1 Thriving Isle
 6 Island
-Island Appa
+//Unknown
+1 Island Appa

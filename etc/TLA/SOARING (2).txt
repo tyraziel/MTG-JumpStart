@@ -1,15 +1,22 @@
-Flying Dolphin-Fish
-Benevolent River Spirit
-Messenger Hawk
-Sokka, Lateral Strategist
-Teo, Spirited Glider
-Cat-Owl
-Yue, the Moon Spirit
-Giant Koi
-Watery Grasp
-Octopus Form
-Boomerang Basics
-Frantic Search
-Thriving Isle
+SOARING (2)
+//Creatures (8)
+1 Flying Dolphin-Fish
+1 Benevolent River Spirit
+1 Messenger Hawk
+1 Sokka, Lateral Strategist
+1 Teo, Spirited Glider
+1 Cat-Owl
+1 Yue, the Moon Spirit
+1 Giant Koi
+//Sorceries (1)
+1 Boomerang Basics
+//Instants (2)
+1 Octopus Form
+1 Frantic Search
+//Enchantments (1)
+1 Watery Grasp
+//Lands (7)
+1 Thriving Isle
 6 Island
-Island Appa
+//Unknown
+1 Island Appa

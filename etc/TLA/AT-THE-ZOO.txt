@@ -1,15 +1,21 @@
-Turtle-Duck
-Animal Attendant
-Frog-Squirrels
-Ostrich-Horse
-Elephant-Mandrill
-Eel-Hounds
-Diligent Zookeeper
-Saber-Tooth Moose-Lion
-Pillar Launch
-Origin of Metalbending
-Bison Whistle
-Hog-Monkey Rampage
-Thriving Grove
+AT-THE-ZOO
+//Creatures (8)
+1 Turtle-Duck
+1 Animal Attendant
+1 Frog-Squirrels
+1 Ostrich-Horse
+1 Elephant-Mandrill
+1 Eel-Hounds
+1 Diligent Zookeeper
+1 Saber-Tooth Moose-Lion
+//Instants (3)
+1 Pillar Launch
+1 Origin of Metalbending
+1 Hog-Monkey Rampage
+//Artifacts (1)
+1 Bison Whistle
+//Lands (7)
+1 Thriving Grove
 6 Forest
+//Unknown
 1 Forest Appa

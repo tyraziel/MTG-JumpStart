@@ -1,15 +1,22 @@
-Rebellious Captives
-Frog-Squirrels
-Earth Kingdom Soldier
-Toph, the Blind Bandit
-Earthbending Lesson
-Earth Kingdom General
-Badgermole
-Explore
-Rocky Rebuke
-Tale of Katara and Toph
-Solid Ground
-Rumble Arena
-Thriving Grove
+EARTHBENDING (2)
+//Creatures (6)
+1 Rebellious Captives
+1 Frog-Squirrels
+1 Earth Kingdom Soldier
+1 Toph, the Blind Bandit
+1 Earth Kingdom General
+1 Badgermole
+//Sorceries (2)
+1 Earthbending Lesson
+1 Explore
+//Instants (1)
+1 Rocky Rebuke
+//Enchantments (2)
+1 Tale of Katara and Toph
+1 Solid Ground
+//Lands (8)
+1 Rumble Arena
+1 Thriving Grove
 6 Forest
+//Unknown
 1 Forest Appa

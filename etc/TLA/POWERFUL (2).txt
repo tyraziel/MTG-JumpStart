@@ -1,15 +1,21 @@
-Freedom Fighter Recruit
-Tiger-Dillo
-Uncle Iroh
-Komodo Rhino
-Fire Nation Raider
-Fang, Roku's Companion
-Combustion Man
-Mongoose Lizard
-Firebending Lesson
-Hog-Monkey Rampage
-Cathartic Reunion
-How to Start a Riot
-Thriving Bluff
+POWERFUL (2)
+//Creatures (8)
+1 Freedom Fighter Recruit
+1 Tiger-Dillo
+1 Uncle Iroh
+1 Komodo Rhino
+1 Fire Nation Raider
+1 Fang, Roku's Companion
+1 Combustion Man
+1 Mongoose Lizard
+//Sorceries (1)
+1 Cathartic Reunion
+//Instants (3)
+1 Firebending Lesson
+1 Hog-Monkey Rampage
+1 How to Start a Riot
+//Lands (7)
+1 Thriving Bluff
 6 Mountain
-Mountain Appa
+//Unknown
+1 Mountain Appa

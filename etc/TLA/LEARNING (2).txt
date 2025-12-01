@@ -1,15 +1,22 @@
-Platypus-Bear
-Sparring Dummy
-Walltop Sentries
-Aang, A Lot to Learn
-Uncle Iroh
-Saber-Tooth Moose-Lion
-The Art of Tea
-True Ancestry
-Rocky Rebuke
-Master's Guidance
-Cracked Earth Technique
-Zuko's Exile
-Thriving Grove
+LEARNING (2)
+//Creatures (6)
+1 Platypus-Bear
+1 Sparring Dummy
+1 Walltop Sentries
+1 Aang, A Lot to Learn
+1 Uncle Iroh
+1 Saber-Tooth Moose-Lion
+//Sorceries (2)
+1 True Ancestry
+1 Cracked Earth Technique
+//Instants (3)
+1 The Art of Tea
+1 Rocky Rebuke
+1 Zuko's Exile
+//Enchantments (1)
+1 Master's Guidance
+//Lands (7)
+1 Thriving Grove
 6 Forest
+//Unknown
 1 Forest Appa

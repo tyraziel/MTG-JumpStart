@@ -1,15 +1,22 @@
-Deserter's Disciple
-Tiger-Dillo
-Uncle Iroh
-Earth Rumble Wrestlers
-Fire Nation Raider
-Fang, Roku's Companion
-Rough Rhino Cavalry
-Mongoose Lizard
-Firebending Lesson
-Iroh's Demonstration
-Cathartic Reunion
-Twin Blades
-Thriving Bluff
+POWERFUL (1)
+//Creatures (8)
+1 Deserter's Disciple
+1 Tiger-Dillo
+1 Uncle Iroh
+1 Earth Rumble Wrestlers
+1 Fire Nation Raider
+1 Fang, Roku's Companion
+1 Rough Rhino Cavalry
+1 Mongoose Lizard
+//Sorceries (2)
+1 Iroh's Demonstration
+1 Cathartic Reunion
+//Instants (1)
+1 Firebending Lesson
+//Artifacts (1)
+1 Twin Blades
+//Lands (7)
+1 Thriving Bluff
 6 Mountain
-Mountain Appa
+//Unknown
+1 Mountain Appa

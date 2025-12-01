@@ -1,15 +1,22 @@
-Gran-Gran
-Forecasting Fortune Teller
-Otter-Penguin
-Katara, Bending Prodigy
-Rowdy Snowballers
-Messenger Hawk
-Turtle-Seals
-Consider
-Waterbender's Restoration
-Waterbending Lesson
-Coastal Piracy
-Whirlwind Technique
-Thriving Isle
+WISE (1)
+//Creatures (7)
+1 Gran-Gran
+1 Forecasting Fortune Teller
+1 Otter-Penguin
+1 Katara, Bending Prodigy
+1 Rowdy Snowballers
+1 Messenger Hawk
+1 Turtle-Seals
+//Sorceries (1)
+1 Waterbending Lesson
+//Instants (3)
+1 Consider
+1 Waterbender's Restoration
+1 Whirlwind Technique
+//Enchantments (1)
+1 Coastal Piracy
+//Lands (7)
+1 Thriving Isle
 6 Island
-Island Appa
+//Unknown
+1 Island Appa
