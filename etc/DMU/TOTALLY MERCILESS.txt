@@ -1,6 +1,6 @@
 TOTALLY MERCILESS
 1 Tyrannical Pitlord (Jumpstart Booster rare)
-1 Random black rare or mythic rare
+1 Random black rare or mythic rare, or Weatherlight Compleated
 1 Knight of Dusk's Shadow
 1 Phyrexian Vivisector
 1 Eerie Soultender
@@ -12,6 +12,5 @@ TOTALLY MERCILESS
 1 Braids's Frightful Return
 1 Extinguish the Light
 5 Swamp
-1 Full-art stained-glass Swamp
-2 Traditional foil Swamp
-1 Theme description card
+1 Swamp
+2 Swamp
