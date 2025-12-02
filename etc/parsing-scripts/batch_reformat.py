@@ -62,6 +62,56 @@ def save_cache_to_disk():
     print(f"\nSaved {len(card_cache)} cards to cache file: {cache_file}", file=sys.stderr)
 
 
+def normalize_basic_land(card_name: str) -> str:
+    """
+    Normalize special basic land variants to standard names.
+
+    Examples:
+        "Above the Clouds Island" -> "Island"
+        "Full-art stained-glass Plains" -> "Plains"
+        "Traditional foil Mountain" -> "Mountain"
+        "Thriving Isle" -> "Thriving Isle" (not a basic land)
+        "Tropical Island" -> "Tropical Island" (dual land, keep as-is)
+    """
+    basic_lands = ['Plains', 'Island', 'Swamp', 'Mountain', 'Forest']
+
+    # Exact match - already a basic land
+    if card_name in basic_lands:
+        return card_name
+
+    # Known dual lands and special lands (NOT basic land variants)
+    dual_lands = {
+        'Tropical Island', 'Volcanic Island', 'Underground Sea', 'Badlands', 'Bayou',
+        'Plateau', 'Savannah', 'Scrubland', 'Taiga', 'Tundra',
+        'Thriving Isle', 'Thriving Heath', 'Thriving Bluff', 'Thriving Moor', 'Thriving Grove'
+    }
+
+    if card_name in dual_lands:
+        return card_name
+
+    # Known prefixes for special basic land variants
+    special_prefixes = [
+        'Full-art stained-glass',
+        'Traditional foil',
+        'Snow-Covered'
+    ]
+
+    # Check for known special prefixes
+    for prefix in special_prefixes:
+        for basic in basic_lands:
+            if card_name == f"{prefix} {basic}":
+                return basic
+
+    # Check if it matches pattern "[Theme Name] [Basic Land]"
+    # This handles JumpStart special basics like "Above the Clouds Island"
+    for basic in basic_lands:
+        if card_name.endswith(f" {basic}"):
+            # It's a JumpStart theme basic land variant
+            return basic
+
+    return card_name
+
+
 def parse_card_line(line: str) -> Tuple[int, str, str]:
     """
     Parse a card line to extract quantity, card name, and any suffix (like IDs).
@@ -70,6 +120,7 @@ def parse_card_line(line: str) -> Tuple[int, str, str]:
         "1 Vendilion Clique" -> (1, "Vendilion Clique", "")
         "Aang, Airbending Master" -> (1, "Aang, Airbending Master", "")
         "6 Plains [abc123]" -> (6, "Plains", "[abc123]")
+        "1 Above the Clouds Island" -> (1, "Island", "")
 
     Returns:
         (quantity, card_name, suffix)
@@ -94,6 +145,9 @@ def parse_card_line(line: str) -> Tuple[int, str, str]:
     else:
         quantity = 1
         card_name = line.strip()
+
+    # Normalize basic land variants
+    card_name = normalize_basic_land(card_name)
 
     return (quantity, card_name, suffix)
 
