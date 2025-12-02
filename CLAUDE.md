@@ -69,40 +69,83 @@ Standard categories in order:
 ## Current Repository Status
 
 ### Fully Formatted Sets (Following Standard)
+Sets with complete card type organization (`//Creatures`, `//Lands`, etc.):
+
 - **JMP** - JumpStart 2020 (121 deck variants)
-  - Individual files with card type organization
-  - Format: `//Creatures (X)` style headers
-- **J22** - JumpStart 2022 (121 deck variants)
-  - Individual files with card type organization
-  - Has template file: `AAA_TEMPLATE`
+  - ✅ Card type organization with headers
+  - ✅ Standard file naming
+  - Source: `raw/JMP-HTML-DECKLISTS.txt`
 
-### Needs Reformatting (No Card Type Organization)
+- **J22** - JumpStart 2022 (122 files including AAA_TEMPLATE)
+  - ✅ Card type organization with headers
+  - ✅ Standard file naming
+  - ✅ Has template file: `AAA_TEMPLATE`
+  - Source: `raw/J22-HTML-DECKLISTS.txt`
+
 - **J25** - JumpStart 2025 / Foundations (121 deck variants)
-  - ✅ File names match standard format
-  - ✅ Source HTML stored in `raw/J25-HTML-DECKLISTS.txt`
-  - Current format: Simple card list, one card per line
-  - Missing: Card type organization
-- **TLA** - Avatar: The Last Airbender (68 deck variants)
-  - ✅ File names now match standard format
+  - ✅ Card type organization with headers
+  - ✅ Standard file naming
+  - Source: `raw/J25-HTML-DECKLISTS.txt`
+
+- **TLA** - Avatar: The Last Airbender (66 deck variants)
+  - ✅ Card type organization with headers
+  - ✅ Standard file naming (space + parentheses)
   - ✅ Special basic land IDs removed
-  - Current format: Simple card list, one card per line
-  - Missing: Card type organization
+  - Note: Parsed from discord-bot repo, not from HTML
 
-- **ONE** - Phyrexia: All Will Be One (10 individual deck files)
-  - Current format: Simple card list with quantities
-  - Missing: Card type organization
-  - Has: "Random rare or mythic rare" placeholder cards
+### Raw Format (Needs Reformatting)
+Sets with individual deck files but no card type organization:
 
-- **DMU** - Dominaria United JumpStart (10 individual deck files)
-  - Current format: Simple card list with quantities
-  - Missing: Card type organization
-  - Includes: Special foil and promo notations
+- **ONE** - Phyrexia: All Will Be One (10 decks)
+  - ✅ Individual files created
+  - ⏳ Needs: Card type organization via `batch_reformat.py`
+  - Source: `raw/ONE-HTML-DECKLISTS.txt`
 
-- **BRO** - Brothers' War JumpStart
-  - **Only has consolidated file**: `JumpStart BRO Paper Deck Lists All.txt`
-  - No individual deck files yet
-  - Missing: Card type organization
-  - Needs: Splitting into individual files + reformatting
+- **DMU** - Dominaria United (10 decks)
+  - ✅ Individual files created
+  - ⏳ Needs: Card type organization via `batch_reformat.py`
+  - Source: `raw/DMU-HTML-DECKLISTS.txt`
+
+- **BRO** - Brothers' War (10 decks)
+  - ✅ Individual files created
+  - ⏳ Needs: Card type organization via `batch_reformat.py`
+  - Source: `raw/BRO-HTML-DECKLISTS.txt`
+
+- **MOM** - March of the Machine (10 decks)
+  - ✅ Individual files created
+  - ⏳ Needs: Card type organization via `batch_reformat.py`
+  - Source: `raw/MOM-HTML-DECKLISTS.txt`
+
+- **LTR** - Lord of the Rings (20 decks)
+  - ✅ Individual files created
+  - ⏳ Needs: Card type organization via `batch_reformat.py`
+  - Source: `raw/LTR-HTML-DECKLISTS.txt`
+
+- **CLU** - Ravnica: Clue Edition (20 decks)
+  - ✅ Individual files created
+  - ⏳ Needs: Card type organization via `batch_reformat.py`
+  - Source: `raw/CLU-HTML-DECKLISTS.txt`
+
+- **FND** - Foundations Beginner Box (8 decks)
+  - ✅ Individual files created
+  - ⏳ Needs: Card type organization via `batch_reformat.py`
+  - Source: `raw/FND-HTML-DECKLISTS.txt`
+
+- **TLB** - Avatar TLA Beginner Box (10 decks)
+  - ✅ Individual files created
+  - ⏳ Needs: Card type organization via `batch_reformat.py`
+  - Source: `raw/TLB-HTML-DECKLISTS.txt`
+
+### Comparison Directories (Can be removed)
+- **J22-new** - Regenerated J22 files from HTML (for comparison with existing)
+- **JMP-new** - Regenerated JMP files from HTML (for comparison with existing)
+
+### Consolidated Files
+Legacy single-file deck lists in `etc/`:
+- `JumpStart 2020 Paper Deck Lists All.txt`
+- `JumpStart 2022 Deck Lists All.txt`
+- `JumpStart DMU Paper Deck Lists All.txt`
+- `JumpStart ONE Paper Deck Lists All.txt`
 
 ## Card Type Identification Strategy
 
@@ -158,24 +201,35 @@ A Python script `etc/parsing-scripts/reformat_deck.py` can be created to:
 
 ## Parsing Scripts
 
-Located in `etc/parsing-scripts/`:
-- `parse_j25.py` - Parser for Foundations JumpStart (J25)
-- `parse_tla.py` - Parser for Avatar: The Last Airbender (TLA)
-- `README.md` - Documentation for parsing scripts
+Located in `etc/parsing-scripts/` - See `etc/parsing-scripts/README.md` for detailed documentation.
 
-## Tasks TODO
+### Core Scripts
+- **`batch_reformat.py`** - ⭐ Primary tool for formatting deck lists with Scryfall API
+  - Shared cache across decks (85% fewer API calls)
+  - Normalizes basic land variants
+  - Organizes cards by type with headers
 
-### Immediate
-- [ ] Verify DMU, BRO, ONE deck lists follow standard format
-- [ ] Reformat TLA deck lists to match JMP/J22 standard
-- [ ] Determine strategy for card type identification (API vs manual)
-- [ ] Handle special basic land IDs in TLA properly
+- **`parse_deck_list_format.py`** - Generic parser for `<deck-list>` HTML format
+  - Used for: J25, ONE, MOM, LTR, J22, CLU, TLB, FND
 
-### Future
-- [ ] Add missing sets: FDN (Foundations), MOM (March of the Machine), LTR (Lord of the Rings)
-- [ ] Create consolidated deck list files for all sets
-- [ ] Add parsing/formatting scripts for future sets
-- [ ] Create validation script to check deck format consistency
+- **`parse_h2_ul_format.py`** - Generic parser for `<h2><ul>` HTML format
+  - Used for: BRO, DMU
+
+- **`parse_legacy_format.py`** - Generic parser for `<legacy>` HTML format
+  - Used for: JMP
+
+### Utility Scripts (Historical)
+- `parse_j25.py` - Set-specific parser (replaced by generic parser)
+- `parse_tla.py` - Set-specific parser (replaced by generic parser)
+- `reformat_deck.py` - Single-file reformatter (replaced by batch_reformat.py)
+- `rename_tla_files.py` - One-time renaming script (already run)
+- `remove_land_ids.py` - One-time cleanup script (already run)
+
+### Workflow
+See `etc/parsing-scripts/README.md` for complete walkthrough:
+1. Get HTML from Wizards pages → save to `raw/`
+2. Parse HTML → extract deck lists to `etc/SET/`
+3. Reformat → organize by card type with `batch_reformat.py`
 
 ## Notes for AI Development
 
