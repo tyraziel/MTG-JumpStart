@@ -12,6 +12,5 @@ MYSTIC MISCHIEF
 1 Ertai's Scorn
 1 Founding the Third Path
 5 Island
-1 Full-art stained-glass Island
-2 Traditional foil Island
-1 Theme description card
+1 Island
+2 Island

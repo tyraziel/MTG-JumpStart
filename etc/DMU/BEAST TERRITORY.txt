@@ -16,6 +16,5 @@ BEAST TERRITORY
 1 Haunted Mire
 1 Tangled Islet
 1 Forest
-1 Full-art stained-glass Forest
-2 Traditional foil Forest
-1 Theme description card
+1 Forest
+2 Forest
