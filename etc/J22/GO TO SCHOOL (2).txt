@@ -1,6 +1,4 @@
 GO TO SCHOOL (2)
-//Planeswalkers (1)
-1 Kasmina, Enigmatic Mentor
 //Creatures (7)
 1 Biblioplex Kraken
 1 Overwhelmed Apprentice
@@ -16,6 +14,8 @@ GO TO SCHOOL (2)
 1 Bury in Books
 //Enchantments (1)
 1 Rhystic Study
+//Planeswalkers (1)
+1 Kasmina, Enigmatic Mentor
 //Lands (8)
 1 Thriving Isle
 7 Island

@@ -1,15 +1,21 @@
+WOLVES (2)
+//Creatures (8)
 1 Master of the Wild Hunt
 1 Mild-Mannered Librarian
 1 Howlgeist
-1 Moonlight Hunt
-1 Arlinn, Voice of the Pack
 1 Young Wolf
 1 Pestilent Wolf
 1 Bounding Wolf
 1 Ferocious Pup
 1 Spectral Hunt-Caller
+//Sorceries (1)
 1 Prey Upon
+//Instants (1)
+1 Moonlight Hunt
+//Enchantments (1)
 1 Howl of the Hunt
+//Planeswalkers (1)
+1 Arlinn, Voice of the Pack
+//Lands (8)
 1 Thriving Grove
 7 Forest
-

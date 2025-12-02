@@ -1,15 +1,19 @@
+GOBLINS (1)
+//Creatures (7)
 1 Krenko, Mob Boss
-1 Hordeling Outburst
 1 Volley Veteran
 1 Battle Squadron
-1 Goblin Grenade
 1 Weaselback Redcap
-1 Dragon Fodder
 1 Subterranean Scout
 1 Rummaging Goblin
 1 Goblin Researcher
+//Sorceries (3)
+1 Hordeling Outburst
+1 Goblin Grenade
+1 Dragon Fodder
+//Instants (2)
 1 Burn Bright
 1 Flame Lash
+//Lands (8)
 1 Thriving Bluff
 7 Mountain
-

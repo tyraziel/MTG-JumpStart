@@ -1,15 +1,19 @@
+LAW (1)
+//Creatures (8)
 1 Archon of Justice
 1 Magnanimous Magistrate
-1 Arrest
-1 Righteousness
-1 Valorous Stance
 1 Gideon's Lawkeeper
 1 Ninth Bridge Patrol
 1 Kami of Ancient Law
 1 Midnight Guard
 1 Nightguard Patrol
 1 Skyhunter Patrol
+//Instants (3)
+1 Righteousness
+1 Valorous Stance
 1 Divine Verdict
+//Enchantments (1)
+1 Arrest
+//Lands (8)
 1 Thriving Heath
 7 Plains
-

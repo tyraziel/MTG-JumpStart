@@ -1,15 +1,20 @@
+INSECTS (4)
+//Creatures (8)
 1 Zask, Skittering Swarmlord
 1 Nantuko Cultivator
 1 Quarry Beetle
-1 Crawling Sensation
-1 Rampaging Growth
 1 Caustic Caterpillar
 1 Ironshell Beetle
 1 Kraul Warrior
 1 Giant Ladybug
 1 Giant Caterpillar
+//Sorceries (2)
 1 Relentless Pursuit
 1 Hunter's Edge
+//Instants (1)
+1 Rampaging Growth
+//Enchantments (1)
+1 Crawling Sensation
+//Lands (8)
 1 Thriving Grove
 7 Forest
-

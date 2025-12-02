@@ -1,5 +1,6 @@
+INVENTIVE (2)
+//Creatures (8)
 1 Hangarback Walker
-1 Launch Mishap
 1 Whirler Rogue
 1 Renowned Weaponsmith
 1 Juggernaut
@@ -7,10 +8,13 @@
 1 Aeronaut Tinkerer
 1 Aviation Pioneer
 1 Gearseeker Serpent
+//Instants (2)
+1 Launch Mishap
+1 Artificer's Epiphany
+//Artifacts (3)
 1 Heart-Piercer Bow
 1 Vial of Dragonfire
-1 Artificer's Epiphany
-1 Thriving Isle
 1 Seat of the Synod
+//Lands (7)
+1 Thriving Isle
 6 Island
-

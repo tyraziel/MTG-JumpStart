@@ -1,15 +1,20 @@
+FEROCIOUS (1)
+//Creatures (8)
 1 Rhonas the Indomitable
 1 Challenger Troll
-1 Roar of Challenge
-1 Colossal Majesty
-1 Rampaging Growth
 1 Ilysian Caryatid
 1 Drowsing Tyrannodon
 1 Giant Ladybug
 1 Gaea's Protector
 1 Ornery Dilophosaur
 1 Spectral Hunt-Caller
+//Sorceries (2)
+1 Roar of Challenge
 1 Savage Punch
+//Instants (1)
+1 Rampaging Growth
+//Enchantments (1)
+1 Colossal Majesty
+//Lands (8)
 1 Thriving Grove
 7 Forest
-

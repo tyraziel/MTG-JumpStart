@@ -1,6 +1,4 @@
-NAME
-//Planeswalkers (1)
-1 Karn Liberated
+URZA'S
 //Creatures (7)
 1 Walking Ballista
 1 Golem Artisan
@@ -14,8 +12,12 @@ NAME
 1 Universal Solvent
 1 Alchemist's Vial
 1 Expedition Map
+//Planeswalkers (1)
+1 Karn Liberated
 //Lands (8)
 1 Urza's Factory
 3 Urza's Tower
 2 Urza's Power Plant
 2 Urza's Mine
+//Unknown
+1 NAME

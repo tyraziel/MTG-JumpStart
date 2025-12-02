@@ -9,10 +9,10 @@ TEAMWORK (2)
 1 Cavalry Drillmaster
 1 Iron Bully
 1 Combat Professor
-//Instants (1)
+//Instants (2)
 1 Valorous Stance
 1 Light of Hope
-//Artifacts (`)
+//Artifacts (1)
 1 Weapon Rack
 //Lands (8)
 1 Sandstone Bridge

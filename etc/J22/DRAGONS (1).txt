@@ -1,6 +1,4 @@
 DRAGONS (1)
-//Planeswalkers (1)
-1 Sarkhan, the Dragonspeaker
 //Creatures (7)
 1 Sarkhan's Whelp
 1 Dragon Egg
@@ -15,6 +13,8 @@ DRAGONS (1)
 //Instants (2)
 1 Scorching Dragonfire
 1 Sarkhan's Rage
+//Planeswalkers (1)
+1 Sarkhan, the Dragonspeaker
 //Lands (8)
 1 Thriving Bluff
 7 Mountain

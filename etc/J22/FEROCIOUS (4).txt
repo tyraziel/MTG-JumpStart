@@ -1,16 +1,21 @@
+FEROCIOUS (4)
+//Creatures (8)
 1 Creeperhulk
-1 Bonders' Enclave
 1 Towering Gibbon
 1 Challenger Troll
-1 Roar of Challenge
-1 Colossal Majesty
 1 Ilysian Caryatid
 1 Drowsing Tyrannodon
 1 Frontier Mastodon
 1 Giant Ladybug
 1 Spectral Hunt-Caller
+//Sorceries (2)
+1 Roar of Challenge
 1 Savage Punch
+//Artifacts (1)
 1 Kitesail
+//Enchantments (1)
+1 Colossal Majesty
+//Lands (8)
+1 Bonders' Enclave
 1 Thriving Grove
 6 Forest
-

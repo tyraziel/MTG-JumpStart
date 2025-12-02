@@ -17,4 +17,4 @@ SNOW
 1 Winter's Rest
 //Lands (8)
 1 Shimmerdrift Vale
-7 Snow-Covered Island
+7 Island

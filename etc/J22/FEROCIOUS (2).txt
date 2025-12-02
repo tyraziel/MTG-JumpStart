@@ -1,15 +1,20 @@
+FEROCIOUS (2)
+//Creatures (8)
 1 Goreclaw, Terror of Qal Sisma
 1 Nessian Hornbeetle
 1 Challenger Troll
-1 Roar of Challenge
-1 Colossal Majesty
 1 Ilysian Caryatid
 1 Drowsing Tyrannodon
 1 Giant Ladybug
 1 Gaea's Protector
 1 Spectral Hunt-Caller
-1 Rosethorn Halberd
+//Sorceries (2)
+1 Roar of Challenge
 1 Savage Punch
+//Artifacts (1)
+1 Rosethorn Halberd
+//Enchantments (1)
+1 Colossal Majesty
+//Lands (8)
 1 Thriving Grove
 7 Forest
-

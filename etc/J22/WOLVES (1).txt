@@ -1,15 +1,20 @@
+WOLVES (1)
+//Creatures (7)
 1 Wicked Wolf
 1 Mild-Mannered Librarian
 1 Packsong Pup
-1 Wolfwillow Haven
-1 Arlinn, Voice of the Pack
 1 Ferocious Pup
 1 Bounding Wolf
 1 Fierce Witchstalker
 1 Spectral Hunt-Caller
+//Sorceries (2)
 1 Wolf's Quarry
 1 Prey Upon
+//Enchantments (2)
+1 Wolfwillow Haven
 1 Wolfkin Bond
+//Planeswalkers (1)
+1 Arlinn, Voice of the Pack
+//Lands (8)
 1 Thriving Grove
 7 Forest
-

@@ -1,6 +1,4 @@
 GO TO SCHOOL (1)
-//Planeswalkers (1)
-1 Kasmina, Enigmatic Mentor
 //Creatures (8)
 1 Barrin, Tolarian Archmage
 1 Biblioplex Kraken
@@ -14,6 +12,8 @@ GO TO SCHOOL (1)
 1 Dismiss
 1 Tragic Lesson
 1 Bury in Books
+//Planeswalkers (1)
+1 Kasmina, Enigmatic Mentor
 //Lands (8)
 1 Thriving Isle
 7 Island

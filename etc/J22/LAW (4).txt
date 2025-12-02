@@ -1,15 +1,20 @@
+LAW (4)
+//Creatures (8)
 1 Isamaru, Hound of Konda
 1 Michiko Konda, Truth Seeker
 1 Magnanimous Magistrate
-1 Arrest
-1 Murder Investigation
-1 Edifice of Authority
 1 Ninth Bridge Patrol
 1 Kami of Ancient Law
 1 Midnight Guard
 1 Nightguard Patrol
 1 Skyhunter Patrol
+//Sorceries (1)
 1 Bring to Trial
+//Artifacts (1)
+1 Edifice of Authority
+//Enchantments (2)
+1 Arrest
+1 Murder Investigation
+//Lands (8)
 1 Thriving Heath
 7 Plains
-
