@@ -14,7 +14,7 @@ import os
 import sys
 
 def clean_card_line(line):
-    """Clean up card lines, removing special land notations and theme cards."""
+    """Clean up card lines, removing special land notations, bracketed IDs, and theme cards."""
     line = line.strip()
 
     # Skip theme description cards
@@ -25,6 +25,9 @@ def clean_card_line(line):
     # But preserve actual quantities
     line = re.sub(r'^<li>\s*', '', line)
     line = re.sub(r'\s*</li>$', '', line)
+
+    # Remove bracketed IDs (e.g., "6 Plains [2t8d3N5Gn1ecBNsDqjQuJe]" -> "6 Plains")
+    line = re.sub(r'\s+\[[a-zA-Z0-9]+\]', '', line)
 
     # Handle special land notations
     # "2 Traditional foil Plains" -> "2 Plains"

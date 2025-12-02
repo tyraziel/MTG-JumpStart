@@ -14,12 +14,15 @@ import os
 import sys
 
 def clean_card_line(line):
-    """Clean up card lines, handling special Island/land names."""
+    """Clean up card lines, handling special Island/land names and removing bracketed IDs."""
     line = line.strip()
 
     # Skip empty lines and format lines
     if not line or line.startswith('Title:') or line.startswith('Format:'):
         return None
+
+    # Remove bracketed IDs (e.g., "6 Plains [2t8d3N5Gn1ecBNsDqjQuJe]" -> "6 Plains")
+    line = re.sub(r'\s+\[[a-zA-Z0-9]+\]', '', line)
 
     # Handle special basic land names like "Above the Clouds Island"
     # These are actual card names, keep them as-is
