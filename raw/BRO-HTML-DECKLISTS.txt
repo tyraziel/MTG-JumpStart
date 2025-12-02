@@ -1,0 +1,191 @@
+<p>Ready to play? Here's what you'll find in all <em>The Brothers' War</em> Jumpstart Boosters:</p>
+
+<h2>Infantry 1</h2>
+
+<ul>
+	<li>1 Rescue Retriever (Jumpstart Booster rare)</li>
+	<li>1 Random white rare or mythic rare</li>
+	<li>1 Aeronaut Cavalry</li>
+	<li>1 Airlift Chaplain</li>
+	<li>1 Lay Down Arms</li>
+	<li>1 Phalanx Vanguard</li>
+	<li>1 Recommission</li>
+	<li>1 Recruitment Officer</li>
+	<li>1 Static Net</li>
+	<li>1 Warlord's Elite</li>
+	<li>1 Veteran's Powerblade</li>
+	<li>1 Reconstructed Thopter</li>
+	<li>6 Plains</li>
+	<li>2 Traditional foil Plains</li>
+</ul>
+
+<h2>Infantry 2</h2>
+
+<ul>
+	<li>1 Rescue Retriever (Jumpstart Booster rare)</li>
+	<li>1 Random white rare or mythic rare</li>
+	<li>1 Aeronaut Cavalry</li>
+	<li>1 Ambush Paratrooper</li>
+	<li>1 Lay Down Arms</li>
+	<li>1 Phalanx Vanguard</li>
+	<li>1 Static Net</li>
+	<li>1 Thopter Architect</li>
+	<li>1 Warlord's Elite</li>
+	<li>1 Scrapwork Cohort</li>
+	<li>1 Veteran's Powerblade</li>
+	<li>1 Yotian Frontliner</li>
+	<li>6 Plains</li>
+	<li>2 Traditional foil Plains</li>
+</ul>
+
+<h2>Powerstones 1</h2>
+
+<ul>
+	<li>1 Geology Enthusiast (Jumpstart Booster rare)</li>
+	<li>1 Random blue rare or mythic rare; or Liberator, Urza's Battlethopter; or Thran Spider</li>
+	<li>1 Koilos Roc</li>
+	<li>1 Stern Lesson</li>
+	<li>1 Take Flight</li>
+	<li>1 Third Path Savant</li>
+	<li>1 Thopter Mechanic</li>
+	<li>1 Urza, Powerstone Prodigy</li>
+	<li>1 Urza's Rebuff</li>
+	<li>1 Weakstone's Subjugation</li>
+	<li>1 Combat Courier</li>
+	<li>1 Spotter Thopter</li>
+	<li>6 Island</li>
+	<li>2 Traditional foil Island</li>
+</ul>
+
+<h2>Powerstones 2</h2>
+
+<ul>
+	<li>1 Geology Enthusiast (Jumpstart Booster rare)</li>
+	<li>1 Random blue rare or mythic rare; or Liberator, Urza's Battlethopter; or Thran Spider</li>
+	<li>1 Involuntary Cooldown</li>
+	<li>1 Koilos Roc</li>
+	<li>1 Lat-Nam Adept</li>
+	<li>1 Mightstone's Animation</li>
+	<li>1 Stern Lesson</li>
+	<li>1 Thopter Mechanic</li>
+	<li>1 Urza, Powerstone Prodigy</li>
+	<li>1 Weakstone's Subjugation</li>
+	<li>1 Combat Courier</li>
+	<li>1 Hulking Metamorph</li>
+	<li>6 Island</li>
+	<li>2 Traditional foil Island</li>
+</ul>
+
+<h2>Unearthed 1</h2>
+
+<ul>
+	<li>1 Terror Ballista (Jumpstart Booster rare)</li>
+	<li>1 Random black rare or mythic rare</li>
+	<li>1 Ashnod's Intervention</li>
+	<li>1 Go for the Throat</li>
+	<li>1 Gruesome Realization</li>
+	<li>1 Kill-Zone Acrobat</li>
+	<li>1 No One Left Behind</li>
+	<li>1 Ravenous Gigamole</li>
+	<li>1 Thraxodemon</li>
+	<li>1 Ashnod's Harvester</li>
+	<li>1 Clay Revenant</li>
+	<li>1 Scrapwork Rager</li>
+	<li>6 Swamp</li>
+	<li>2 Traditional foil Swamp</li>
+</ul>
+
+<h2>Unearthed 2</h2>
+
+<ul>
+	<li>1 Terror Ballista (Jumpstart Booster rare)</li>
+	<li>1 Random black rare or mythic rare</li>
+	<li>1 Gixian Skullflayer</li>
+	<li>1 Gnawing Vermin</li>
+	<li>1 Gruesome Realization</li>
+	<li>1 Overwhelming Remorse</li>
+	<li>1 Ravenous Gigamole</li>
+	<li>1 Thraxodemon</li>
+	<li>1 Ashnod's Harvester</li>
+	<li>1 Dredging Claw</li>
+	<li>1 Scrapwork Rager</li>
+	<li>1 Transmogrant Altar</li>
+	<li>6 Swamp</li>
+	<li>2 Traditional foil Swamp</li>
+</ul>
+
+<h2>Welded 1</h2>
+
+<ul>
+	<li>1 Artificer's Dragon (Jumpstart Booster rare)</li>
+	<li>1 Random red rare or mythic rare</li>
+	<li>1 Bitter Reunion</li>
+	<li>1 Fallaji Chaindancer</li>
+	<li>1 Horned Stoneseeker</li>
+	<li>1 Mishra, Excavation Prodigy</li>
+	<li>1 Obliterating Bolt</li>
+	<li>1 Unleash Shell</li>
+	<li>1 Whirling Strike</li>
+	<li>1 Fallaji Dragon Engine</li>
+	<li>1 Mishra's Juggernaut</li>
+	<li>1 Scrapwork Mutt</li>
+	<li>6 Mountain</li>
+	<li>2 Traditional foil Mountain</li>
+</ul>
+
+<h2>Welded 2</h2>
+
+<ul>
+	<li>1 Artificer's Dragon (Jumpstart Booster rare)</li>
+	<li>1 Random red rare or mythic rare</li>
+	<li>1 Excavation Explosion</li>
+	<li>1 Horned Stoneseeker</li>
+	<li>1 Mishra, Excavation Prodigy</li>
+	<li>1 Mishra's Onslaught</li>
+	<li>1 Tomakul Scrapsmith</li>
+	<li>1 Unleash Shell</li>
+	<li>1 Fallaji Dragon Engine</li>
+	<li>1 Mishra's Juggernaut</li>
+	<li>1 Mishra's Research Desk</li>
+	<li>1 Scrapwork Mutt</li>
+	<li>6 Mountain</li>
+	<li>2 Traditional foil Mountain</li>
+</ul>
+
+<h2>Titanic 1</h2>
+
+<ul>
+	<li>1 Woodcaller Automaton (Jumpstart Booster rare)</li>
+	<li>1 Random green rare or mythic rare</li>
+	<li>1 Argothian Opportunist</li>
+	<li>1 Blanchwood Prowler</li>
+	<li>1 Bushwhack</li>
+	<li>1 Gaea's Gift</li>
+	<li>1 Giant Growth</li>
+	<li>1 Sarinth Steelseeker</li>
+	<li>1 Shoot Down</li>
+	<li>1 Cradle Clearcutter</li>
+	<li>1 Iron-Craw Crusher</li>
+	<li>1 Rust Goliath</li>
+	<li>6 Forest</li>
+	<li>2 Traditional foil Forest</li>
+</ul>
+
+<h2>Titanic 2</h2>
+
+<ul>
+	<li>1 Woodcaller Automaton (Jumpstart Booster rare)</li>
+	<li>1 Random green rare or mythic rare</li>
+	<li>1 Argothian Sprite</li>
+	<li>1 Bushwhack</li>
+	<li>1 Epic Confrontation</li>
+	<li>1 Perimeter Patrol</li>
+	<li>1 Sarinth Steelseeker</li>
+	<li>1 Shoot Down</li>
+	<li>1 Tawnos's Tinkering</li>
+	<li>1 Cradle Clearcutter</li>
+	<li>1 Iron-Craw Crusher</li>
+	<li>1 Rust Goliath</li>
+	<li>6 Forest</li>
+	<li>2 Traditional foil Forest</li>
+</ul></div>
