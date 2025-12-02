@@ -162,27 +162,25 @@ python parse_legacy_format.py ../../raw/JMP-HTML-DECKLISTS.txt ../../etc/JMP
 - Preserves special basic land names (e.g., "Above the Clouds Island")
 - Skips "Format: Legacy" metadata lines
 
-## Utility Scripts (Optional/Historical)
+### `parse_fnd_tutorial.py`
+Extracts tutorial decks from FND Beginner Box HTML tables.
 
-### `reformat_deck.py`
-Single-file reformatter. **Use `batch_reformat.py` instead.**
+**Used for:** FND (Cats and Vampires tutorial decks)
 
-Kept for reference or one-off formatting tasks.
+**Usage:**
+```bash
+python parse_fnd_tutorial.py <html_file> <output_dir>
+```
 
-### `parse_j25.py`, `parse_tla.py`
-Set-specific parsers. **Use generic parsers above instead.**
+**Example:**
+```bash
+python parse_fnd_tutorial.py ../../raw/FND-HTML-DECKLISTS.txt ../../etc/FND
+```
 
-Kept for historical reference.
-
-### `rename_tla_files.py`
-One-time script to rename TLA files from hyphen format to parentheses format.
-
-**Already run.** Only needed if importing new TLA files with old naming.
-
-### `remove_land_ids.py`
-One-time script to remove special land IDs from TLA files.
-
-**Already run.** Only needed if importing new TLA files with bracketed land IDs.
+**Features:**
+- Parses ordered HTML tables (tutorial draw order)
+- Counts card quantities automatically
+- Outputs standard deck list format
 
 ## File Naming Convention
 
