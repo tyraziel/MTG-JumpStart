@@ -123,10 +123,11 @@ Sets with individual deck files but no card type organization:
   - ⏳ Needs: Card type organization via `batch_reformat.py`
   - Source: `raw/CLU-HTML-DECKLISTS.txt`
 
-- **FND** - Foundations Beginner Box (8 decks)
-  - ✅ Individual files created
+- **FND** - Foundations Beginner Box (10 decks)
+  - ✅ Individual files created (8 regular + 2 tutorial)
   - ⏳ Needs: Card type organization via `batch_reformat.py`
   - Source: `raw/FND-HTML-DECKLISTS.txt`
+  - Note: Tutorial decks (Cats, Vampires) parsed from HTML tables
 
 - **TLB** - Avatar TLA Beginner Box (10 decks)
   - ✅ Individual files created
