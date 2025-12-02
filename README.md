@@ -20,6 +20,8 @@ Ravnica: Clue Edition:  https://magic.wizards.com/en/news/announcements/ravnica-
 
 JumpStart Foundations:  https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
 
+JumpStart Foundations Beginner Box:  https://magic.wizards.com/en/news/feature/foundations-beginner-box-contents
+
 JumpStart Avatar: The Last Airbender:  https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
 
 ### Resources
