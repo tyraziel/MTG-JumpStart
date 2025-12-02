@@ -1,0 +1,553 @@
+<h2><em>Ravnica: Clue Edition</em> (<em>Ravnica: Cluedo Edition</em>) Booster Card Lists</h2>
+
+<p><em>(Editor's note: The card lists below automatically pull the newest printing of each card from our database, including printings that are not in this product. Card lists are not card-for-card product displays but rather interactive lists of the cards included in each booster.)</em></p>
+
+<!-- Azorius Senate 1 Plains -->
+<div id="Azorius Senate 1" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Azorius Senate 1 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_363c564002.png" />&nbsp;
+        <img style="width: 265px;" alt="Azorius Senate 1 Plains card"
+        src="https://media.wizards.com/2024/mkm/en_94806b6b12.png" />
+</div>
+<deck-list deck-title="Azorius Senate 1" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Law-Rune Enforcer
+    1 Azorius Arrester
+    1 War Screecher
+    1 Trusted Pegasus
+    1 Portal Manipulator
+    1 Azorius Justiciar
+    1 Enforcer Griffin
+    1 Oust
+    1 Curse of Chains
+    1 Rally to Battle
+    1 Thriving Heath
+    1 Azorius Guildgate
+    1 Azorius Chancery
+    1 Lavinia, Foil to Conspiracy
+    1 Supreme Verdict
+        5 Plains
+    </main-deck>
+</deck-list>
+
+<!-- Azorius Senate 2 Island -->
+<div id="Azorius Senate 2" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Azorius Senate 2 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_363c564002.png" />&nbsp;
+        <img style="width: 265px;" alt="Azorius Senate 2 Island card"
+        src="https://media.wizards.com/2024/mkm/en_0a742306ac.png" />
+</div>
+<deck-list deck-title="Azorius Senate 2" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Owl Familiar
+    1 Jeering Homunculus
+    1 Cloudkin Seer
+    1 Rescuer Sphinx
+    1 Portal Manipulator
+    1 Depose
+    1 Azorius Signet
+    1 Curse of Chains
+    1 Turn to Mist
+    1 Code of Constraint
+    1 Thriving Isle
+    1 Azorius Guildgate
+    1 Azorius Chancery
+    1 Suppressor Skyguard
+    1 Lavinia of the Tenth
+    5 Island
+    </main-deck>
+</deck-list>
+<hr />
+
+<!-- Orzhov Syndicate 1 Plains -->
+<div id="Orzhov Syndicate 1" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Orzhov Syndicate 1 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_dc13f86df2.png" />&nbsp;
+        <img style="width: 265px;" alt="Orzhov Syndicate 1 Plains card"
+        src="https://media.wizards.com/2024/mkm/en_b07e6ebde7.png" />
+</div>
+<deck-list deck-title="Orzhov Syndicate 1" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Twilight Panther
+    1 Syndic of Tithes
+    1 Ajani's Pridemate
+    1 Vizkopa Vampire
+    1 Angel of Vitality
+    1 Syndicate Messenger
+    1 Glorifier of Dusk
+    1 Deadly Riposte
+    1 Afterlife Insurance
+    1 Tandem Tactics
+    1 Thriving Heath
+    1 Orzhov Guildgate
+    1 Orzhov Basilica
+    1 Syndicate Heavy
+    1 Council's Judgment
+    5 Plains
+    </main-deck>
+</deck-list>
+
+<!-- Orzhov Syndicate 2 Swamp -->
+<div id="Orzhov Syndicate 2" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Orzhov Syndicate 2 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_dc13f86df2.png" />&nbsp;
+        <img style="width: 265px;" alt="Orzhov Syndicate 2 Swamp card"
+        src="https://media.wizards.com/2024/mkm/en_a624069c0e.png" />
+</div>
+<deck-list deck-title="Orzhov Syndicate 2" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Basilica Screecher
+    1 Orzhov Guildmage
+    1 Leering Onlooker
+    1 Fleshbag Marauder
+    1 Syndicate Enforcer
+    1 Orzhov Racketeers
+    1 Orzhov Signet
+    1 Afterlife Insurance
+    1 Murder
+    1 Parasitic Impetus
+    1 Thriving Moor
+    1 Orzhov Guildgate
+    1 Orzhov Basilica
+    1 Covetous Elegy
+    1 Seraph of the Scales
+    5 Swamp
+    </main-deck>
+</deck-list>
+<hr />
+
+<!-- House Dimir 1 Island -->
+<div id="House Dimir 1" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="House Dimir 1 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_5211991120.png" />&nbsp;
+        <img style="width: 265px;" alt="House Dimir 1 Island card"
+        src="https://media.wizards.com/2024/mkm/en_44ec7db3bd.png" />
+</div>
+<deck-list deck-title="House Dimir 1" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Erratic Visionary
+    1 Dimir Guildmage
+    1 Whisper Agent
+    1 Undercover Butler
+    1 Watcher in the Mist
+    1 Discovery
+    1 Dimir Signet
+    1 Dramatic Accusation
+    1 Forbidden Alchemy
+    1 Psychic Impetus
+    1 Thriving Isle
+    1 Dimir Guildgate
+    1 Dimir Aqueduct
+    1 Memory Vampire
+    1 Duskmantle Seer
+    5 Island
+    </main-deck>
+</deck-list>
+
+<!-- House Dimir 2 Swamp -->
+<div id="House Dimir 2" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="House Dimir 2 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_5211991120.png" />&nbsp;
+        <img style="width: 265px;" alt="House Dimir 2 Swamp card"
+        src="https://media.wizards.com/2024/mkm/en_66dd6533a2.png" />
+</div>
+<deck-list deck-title="House Dimir 2" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Roofstalker Wight
+    1 Masked Blackguard
+    1 Whisper Agent
+    1 Undercover Butler
+    1 Mausoleum Turnkey
+    1 Tithebearer Giant
+    1 Discovery
+    1 Murder
+    1 Infest
+    1 Ribbons of Night
+    1 Thriving Moor
+    1 Dimir Guildgate
+    1 Dimir Aqueduct
+    1 Dimir Strandcatcher 
+    1 Thief of Sanity
+    5 Swamp
+    </main-deck>
+</deck-list>
+<hr />
+
+<!-- Izzet League 1 Island -->
+<div id="Izzet League 1" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Izzet League 1 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_5db66346dd.png" />&nbsp;
+        <img style="width: 265px;" alt="Izzet League 1 Island card"
+        src="https://media.wizards.com/2024/mkm/en_e84a1cdb51.png" />
+</div>
+<deck-list deck-title="Izzet League 1" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Erratic Visionary
+    1 Frostburn Weird
+    1 Ecstatic Electromancer
+    1 Leapfrog
+    1 Thunder Drake
+    1 Consider
+    1 Repeal
+    1 Turn to Frog
+    1 Chemister's Insight
+    1 Snow Day
+    1 Thriving Isle
+    1 Izzet Guildgate
+    1 Izzet Boilerworks
+    1 Resonance Technician
+    1 Stunt Double
+    5 Island
+    </main-deck>
+</deck-list>
+
+<!-- Izzet League 2 Mountain -->
+<div id="Izzet League 2" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Izzet League 2 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_5db66346dd.png" />&nbsp;
+    <img style="width: 265px;" alt="Izzet League 2 Mountain card"
+        src="https://media.wizards.com/2024/mkm/en_13bad3438b.png" />
+</div>
+<deck-list deck-title="Izzet League 2" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Fire Urchin
+    1 Frostburn Weird
+    1 Spellgorger Weird
+    1 Ecstatic Electromancer
+    1 Goblin Wizardry
+    1 Living Lightning
+    1 Lightning Bolt
+    1 Street Spasm
+    1 Izzet Signet
+    1 Direct Current
+    1 Thriving Bluff
+    1 Izzet Guildgate
+    1 Izzet Boilerworks
+    1 Corporeal Projection
+    1 Hypersonic Dragon
+    5 Mountain
+    </main-deck>
+</deck-list>
+<hr />
+
+<!-- Cult of Rakdos 1 Swamp -->
+<div id="Cult of Rakdos 1" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Cult of Rakdos 1 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_5f18462b9f.png" />&nbsp;
+    <img style="width: 265px;" alt="Cult of Rakdos 1 Swamp card"
+        src="https://media.wizards.com/2024/mkm/en_de836dd73a.png" />
+</div>
+<deck-list deck-title="Cult of Rakdos 1" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Footlight Fiend
+    1 Rakdos Trumpeter
+    1 Gurmag Swiftwing
+    1 Daggerclaw Imp
+    1 Vindictive Vampire
+    1 Blade Juggler
+    1 Rakdos Signet
+    1 Deadly Dispute
+    1 Murder
+    1 Incriminating Impetus
+    1 Thriving Moor
+    1 Rakdos Guildgate
+    1 Rakdos Carnarium
+    1 Frenzied Gorespawn
+    1 Spawn of Mayhem
+    5 Swamp
+    </main-deck>
+</deck-list>
+
+<!-- Cult of Rakdos 2 Mountain -->
+<div id="Cult of Rakdos 2" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Cult of Rakdos 2 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_5f18462b9f.png" />&nbsp;
+    <img style="width: 265px;" alt="Cult of Rakdos 2 Mountain card"
+        src="https://media.wizards.com/2024/mkm/en_193a4fb608.png" />
+</div>
+<deck-list deck-title="Cult of Rakdos 2" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Footlight Fiend
+    1 Ornery Goblin
+    1 Rakdos Shred-Freak
+    1 Deputized Protester
+    1 Dagger Caster
+    1 Havoc Jester
+    1 Coordinated Assault
+    1 Light Up the Stage
+    1 Incriminating Impetus
+    1 Reduce to Ashes
+    1 Thriving Bluff
+    1 Rakdos Guildgate
+    1 Rakdos Carnarium
+    1 Carnage Interpreter
+    1 Rakdos, the Showstopper
+    5 Mountain
+    </main-deck>
+</deck-list>
+<hr />
+
+<!-- Golgari Swarm 1 Swamp -->
+<div id="Golgari Swarm 1" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Golgari Swarm 1 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_7608bda7dd.png" />&nbsp;
+    <img style="width: 265px;" alt="Golgari Swarm 1 Swamp card"
+        src="https://media.wizards.com/2024/mkm/en_4e4467ad14.png" />
+</div>
+<deck-list deck-title="Golgari Swarm 1" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Golgari Guildmage
+    1 Leering Onlooker
+    1 Gorging Vulture
+    1 Tribune of Rot
+    1 Pitiless Gorgon
+    1 Venomous Hierophant
+    1 Status
+    1 Golgari Signet
+    1 Corpse Churn
+    1 Deal Gone Bad
+    1 Thriving Moor
+    1 Golgari Guildgate
+    1 Golgari Rot Farm
+    1 Amzu, Swarm's Hunger
+    1 Deadbridge Chant
+    5 Swamp
+    </main-deck>
+</deck-list>
+
+<!-- Golgari Swarm 2 Forest -->
+<div id="Golgari Swarm 2" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Golgari Swarm 2 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_7608bda7dd.png" />&nbsp;
+    <img style="width: 265px;" alt="Golgari Swarm 2 Forest card"
+        src="https://media.wizards.com/2024/mkm/en_b530833a34.png" />
+</div>
+<deck-list deck-title="Golgari Swarm 2" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Rubblebelt Maverick
+    1 Kraul Warrior
+    1 Kraul Harpooner
+    1 Pitiless Gorgon
+    1 Tribune of Rot
+    1 Thrashing Mossdog
+    1 Status
+    1 Wildsize
+    1 Fungal Rebirth
+    1 Predatory Impetus
+    1 Thriving Grove
+    1 Golgari Guildgate
+    1 Golgari Rot Farm
+    1 Sludge Titan
+    1 Underrealm Lich
+    5 Forest
+    </main-deck>
+</deck-list>
+<hr />
+
+<!-- Gruul Clans 1 Mountain -->
+<div id="Gruul Clans 1" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Gruul Clans 1 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_59576f40a3.png" />&nbsp;
+    <img style="width: 265px;" alt="Gruul Clans 1 Mountain theme card"
+        src="https://media.wizards.com/2024/mkm/en_22487ac4bd.png" />
+</div>
+<deck-list deck-title="Gruul Clans 1" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Gravel-Hide Goblin
+    1 Stormblood Berserker
+    1 Pyrewild Shaman
+    1 Turret Ogre
+    1 Furious Spinesplitter
+    1 Chainwhip Cyclops
+    1 Ripscale Predator
+    1 Gruul Signet
+    1 Shiny Impetus
+    1 Firespout
+    1 Thriving Bluff
+    1 Gruul Guildgate
+    1 Gruul Turf
+    1 Herald of Ilharg
+    1 Clan Defiance
+    5 Mountain
+    </main-deck>
+</deck-list>
+
+<!-- Gruul Clans 2 Forest -->
+<div id="Gruul Clans 2" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Gruul Clans 2 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_59576f40a3.png" />&nbsp;
+    <img style="width: 265px;" alt="Gruul Clans 2 Forest card"
+        src="https://media.wizards.com/2024/mkm/en_9697f7e9bf.png" />
+</div>
+<deck-list deck-title="Gruul Clans 2" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Territorial Boar
+    1 Kronch Wrangler
+    1 Wildwood Patrol
+    1 Enraged Ceratok
+    1 Furious Spinesplitter
+    1 Challenger Troll
+    1 Gift of Strength
+    1 Pit Fight
+    1 Band Together
+    1 Colossal Majesty
+    1 Thriving Grove
+    1 Gruul Guildgate
+    1 Gruul Turf
+    1 Stampede Surfer
+    1 Giant Adephage
+    5 Forest
+    </main-deck>
+</deck-list>
+<hr />
+
+<!-- Boros Legion 1 Plains -->
+<div id="Boros Legion 1" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Boros Legion 1 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_ecfc36db25.png" />&nbsp;
+    <img style="width: 265px;" alt="Boros Legion 1 Plains card"
+        src="https://media.wizards.com/2024/mkm/en_0f47903c99.png" />
+</div>
+<deck-list deck-title="Boros Legion 1" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Novice Inspector
+    1 Fresh-Faced Recruit
+    1 Sunhome Stalwart
+    1 Roc Charger
+    1 Parhelion Patrol
+    1 Ordruun Mentor
+    1 Integrity
+    1 Mighty Leap
+    1 Boros Signet
+    1 Martial Impetus
+    1 Thriving Heath
+    1 Boros Guildgate
+    1 Boros Garrison
+    1 Aegis of the Legion
+    1 Finale of Glory
+    5 Plains
+    </main-deck>
+</deck-list>
+
+<!-- Boros Legion 2 Mountain -->
+<div id="Boros Legion 2" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Boros Legion 2 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_ecfc36db25.png" />&nbsp;
+    <img style="width: 265px;" alt="Boros Legion 2 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_c35278994b.png" />
+</div>
+<deck-list deck-title="Boros Legion 2" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Frenzied Goblin
+    1 Utvara Scalper
+    1 Krenko's Command
+    1 Firefist Striker
+    1 Wojek Bodyguard
+    1 Ordruun Mentor
+    1 Towering Thunderfist
+    1 Integrity
+    1 Shiny Impetus
+    1 Cosmotronic Wave
+    1 Thriving Bluff
+    1 Boros Guildgate
+    1 Boros Garrison
+    1 Boros Strike-Captain
+    1 Firemane Avenger
+    5 Mountain
+    </main-deck>
+</deck-list>
+<hr />
+
+<!-- Selesnya Conclave 1 Plains -->
+<div id="Selesnya Conclave 1" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Selesnya Conclave 1 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_1e7f4648eb.png" />&nbsp;
+    <img style="width: 265px;" alt="Selesnya Conclave 1 Plains card"
+        src="https://media.wizards.com/2024/mkm/en_13ba4d9031.png" />
+</div>
+<deck-list deck-title="Selesnya Conclave 1" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+1 Doomed Traveler
+1 War Screecher
+1 Selesnya Guildmage
+1 Seller of Songbirds
+1 Sumala Rumblers
+1 Urbis Protector
+1 Gods Willing
+1 Rootborn Defenses
+1 Martial Impetus
+1 Conclave Tribunal
+1 Thriving Heath
+1 Selesnya Guildgate
+1 Selesnya Sanctuary
+1 Conclave Evangelist
+1 Trostani Discordant
+5 Plains
+    </main-deck>
+</deck-list>
+
+<!-- Selesnya Conclave 2 Forest -->
+<div id="Selesnya Conclave 2" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Selesnya Conclave 2 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_1e7f4648eb.png" />&nbsp;
+    <img style="width: 265px;" alt="Selesnya Conclave 2 Forest card"
+        src="https://media.wizards.com/2024/mkm/en_d40f95432c.png" />
+</div>
+<deck-list deck-title="Selesnya Conclave 2" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Transluminant
+    1 Vernadi Shieldmate
+    1 Selesnya Guildmage
+    1 Yeva's Forcemage
+    1 Sumala Rumblers
+    1 Affectionate Indrik
+    1 Vines of the Recluse
+    1 Selesnya Signet
+    1 Band Together
+    1 Overcome
+    1 Thriving Grove
+    1 Selesnya Guildgate
+    1 Selesnya Sanctuary
+    1 Vernal Sovereign
+    1 Beast Whisperer
+    5 Forest
+    </main-deck>
+</deck-list>
+<hr />
+
+<!-- Simic Combine 1 Island -->
+<div id="Simic Combine 1" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Simic Combine 1 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_563af91fcc.png" />&nbsp;
+    <img style="width: 265px;" alt="Simic Combine 1 Island card"
+        src="https://media.wizards.com/2024/mkm/en_e0e28c8060.png" />
+</div>
+<deck-list deck-title="Simic Combine 1" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Sage's Row Savant
+    1 Passwall Adept
+    1 Scuttling Sentinel
+    1 Skitter Eel
+    1 Roaming Ghostlight
+    1 Helium Squirter
+    1 Slip Out the Back
+    1 Rapid Hybridization
+    1 Simic Signet
+    1 Psychic Impetus
+    1 Thriving Isle
+    1 Simic Guildgate
+    1 Simic Growth Chamber
+    1 Unruly Krasis
+    1 Master Biomancer
+    5 Island
+    </main-deck>
+</deck-list>
+
+<!-- Simic Combine 2 Forest -->
+<div id="Simic Combine 2" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Simic Combine 2 Ravnica Booster theme card"
+        src="https://media.wizards.com/2024/mkm/en_563af91fcc.png" />&nbsp;
+    <img style="width: 265px;" alt="Simic Combine 2 Forest card"
+        src="https://media.wizards.com/2024/mkm/en_ad2be0fc9a.png" />
+</div>
+<deck-list deck-title="Simic Combine 2" format="Ravnica: Clue Edition (Ravnica: Cluedo Edition)"><main-deck>
+    1 Sauroform Hybrid
+    1 Duskshell Crawler
+    1 Steeple Creeper
+    1 Scuttling Sentinel
+    1 Ivy Lane Denizen
+    1 Battlefront Krushok
+    1 Scuttlegator
+    1 Incubation
+    1 Snakeform
+    1 Nissa's Judgment
+    1 Thriving Grove
+    1 Simic Guildgate
+    1 Simic Growth Chamber
+    1 Lonis, Genetics Expert
+    1 Hydroid Krasis
+    5 Forest
+    </main-deck>
+</deck-list>
+<hr />
