@@ -52,8 +52,6 @@ THEME NAME (#)
 [quantity] [card name]
 ```
 
-### Template File
-See `etc/J22/AAA_TEMPLATE` for the standard template structure.
 
 ### Card Type Categories
 Standard categories in order:
@@ -76,10 +74,9 @@ Sets with complete card type organization (`//Creatures`, `//Lands`, etc.):
   - ✅ Standard file naming
   - Source: `raw/JMP-HTML-DECKLISTS.txt`
 
-- **J22** - JumpStart 2022 (122 files including AAA_TEMPLATE)
+- **J22** - JumpStart 2022 (121 deck variants)
   - ✅ Card type organization with headers
   - ✅ Standard file naming
-  - ✅ Has template file: `AAA_TEMPLATE`
   - Source: `raw/J22-HTML-DECKLISTS.txt`
 
 - **J25** - JumpStart 2025 / Foundations (121 deck variants)
