@@ -1,15 +1,19 @@
 WIZARDS
-Mystic Archaeologist
-Arcane Epiphany
-Clinquant Skymage
-Erudite Wizard
-Icewind Elemental
-Mischievous Mystic
-Fleeting Distraction
-Burrog Befuddler
-Exclusion Mage
-Into the Roil
-Quick Study
-Starlight Snare
-Uncharted Haven
+//Creatures (7)
+1 Mystic Archaeologist
+1 Clinquant Skymage
+1 Erudite Wizard
+1 Icewind Elemental
+1 Mischievous Mystic
+1 Burrog Befuddler
+1 Exclusion Mage
+//Instants (4)
+1 Arcane Epiphany
+1 Fleeting Distraction
+1 Into the Roil
+1 Quick Study
+//Enchantments (1)
+1 Starlight Snare
+//Lands (8)
+1 Uncharted Haven
 7 Island

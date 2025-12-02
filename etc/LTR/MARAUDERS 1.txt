@@ -1,14 +1,19 @@
 MARAUDERS 1
-1 Assault on Osgiliath
-1 Rare or mythic rare
+//Creatures (5)
 1 Erebor Flamesmith
 1 Battle-Scarred Goblin
-1 Swarming of Moria
 1 Grishnákh, Brash Instigator
 1 Gimli, Counter of Kills
 1 Olog-hai Crusher
+//Sorceries (5)
+1 Assault on Osgiliath
+1 Swarming of Moria
 1 Foray of Orcs
 1 Fear, Fire, Foes!
-1 Gimli's Fury
 1 Quarrel's End
+//Instants (1)
+1 Gimli's Fury
+//Lands (8)
 8 Mountain
+//Unknown
+1 Rare or mythic rare

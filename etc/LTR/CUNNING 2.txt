@@ -1,14 +1,21 @@
 CUNNING 2
-1 Rare or mythic rare
+//Creatures (6)
 1 Minas Tirith Garrison
 1 Pelargir Survivor
 1 Captain of Umbar
 1 Knights of Dol Amroth
-1 Bewitching Leechcraft
-1 Isolation at Orthanc
-1 Lórien Revealed
 1 Bill Ferny, Bree Swindler
 1 Elrond, Lord of Rivendell
+//Sorceries (2)
+1 Lórien Revealed
 1 Horses of the Bruinen
+//Instants (1)
+1 Isolation at Orthanc
+//Artifacts (1)
 1 Mirror of Galadriel
+//Enchantments (1)
+1 Bewitching Leechcraft
+//Lands (8)
 8 Island
+//Unknown
+1 Rare or mythic rare

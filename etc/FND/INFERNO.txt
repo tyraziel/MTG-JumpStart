@@ -1,14 +1,19 @@
 INFERNO
-Terror of Mount Velus
-Fiery Annihilation
-Firespitter Whelp
-Carnelian Orb of Dragonkind
-Dragonlord's Servant
-Fire Elemental
-Kargan Dragonrider
-Rapacious Dragon
-Scorching Dragonfire
-Seize the Spoils
-Skyraker Giant
-Uncharted Haven
+//Creatures (7)
+1 Terror of Mount Velus
+1 Firespitter Whelp
+1 Dragonlord's Servant
+1 Fire Elemental
+1 Kargan Dragonrider
+1 Rapacious Dragon
+1 Skyraker Giant
+//Sorceries (1)
+1 Seize the Spoils
+//Instants (2)
+1 Fiery Annihilation
+1 Scorching Dragonfire
+//Artifacts (1)
+1 Carnelian Orb of Dragonkind
+//Lands (9)
+1 Uncharted Haven
 8 Mountain

@@ -1,17 +1,22 @@
 BOROS LEGION 2
+//Creatures (8)
 1 Frenzied Goblin
 1 Utvara Scalper
-1 Krenko's Command
 1 Firefist Striker
 1 Wojek Bodyguard
 1 Ordruun Mentor
 1 Towering Thunderfist
-1 Integrity
-1 Shiny Impetus
+1 Boros Strike-Captain
+1 Firemane Avenger
+//Sorceries (2)
+1 Krenko's Command
 1 Cosmotronic Wave
+//Instants (1)
+1 Integrity
+//Enchantments (1)
+1 Shiny Impetus
+//Lands (8)
 1 Thriving Bluff
 1 Boros Guildgate
 1 Boros Garrison
-1 Boros Strike-Captain
-1 Firemane Avenger
 5 Mountain

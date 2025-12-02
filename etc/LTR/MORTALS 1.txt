@@ -1,14 +1,21 @@
 MORTALS 1
-1 Rare or mythic rare
+//Creatures (7)
 1 Eagle of Deliverance
 1 Took Reaper
 1 Eastfarthing Farmer
 1 Soldier of the Grey Host
-1 Second Breakfast
-1 Fog on the Barrow-Downs
-1 Banish from Edoras
 1 Shire Shirriff
 1 Éowyn, Lady of Rohan
 1 Faramir, Field Commander
+//Sorceries (1)
+1 Banish from Edoras
+//Instants (1)
+1 Second Breakfast
+//Artifacts (1)
 1 Barrow-Blade
+//Enchantments (1)
+1 Fog on the Barrow-Downs
+//Lands (8)
 8 Plains
+//Unknown
+1 Rare or mythic rare

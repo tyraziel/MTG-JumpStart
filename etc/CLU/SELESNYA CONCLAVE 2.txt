@@ -1,17 +1,22 @@
 SELESNYA CONCLAVE 2
+//Creatures (8)
 1 Transluminant
 1 Vernadi Shieldmate
 1 Selesnya Guildmage
 1 Yeva's Forcemage
 1 Sumala Rumblers
 1 Affectionate Indrik
-1 Vines of the Recluse
-1 Selesnya Signet
-1 Band Together
+1 Vernal Sovereign
+1 Beast Whisperer
+//Sorceries (1)
 1 Overcome
+//Instants (2)
+1 Vines of the Recluse
+1 Band Together
+//Artifacts (1)
+1 Selesnya Signet
+//Lands (8)
 1 Thriving Grove
 1 Selesnya Guildgate
 1 Selesnya Sanctuary
-1 Vernal Sovereign
-1 Beast Whisperer
 5 Forest

@@ -1,15 +1,19 @@
 ATTACKING
-Purple Pentapus
-Corrupt Court Official
-Merchant of Many Hats
-Pretending Poxbearers
-Fire Nation Ambushers
-Hei Bai, Spirit of Balance
-Lion Vulture
-Beetle-Headed Merchants
-Cat-gator
-Heartless Act
-Epic Downfall
-Dai Li Indoctrination
-Thriving Moor
+//Creatures (9)
+1 Purple Pentapus
+1 Corrupt Court Official
+1 Merchant of Many Hats
+1 Pretending Poxbearers
+1 Fire Nation Ambushers
+1 Hei Bai, Spirit of Balance
+1 Lion Vulture
+1 Beetle-Headed Merchants
+1 Cat-gator
+//Sorceries (2)
+1 Epic Downfall
+1 Dai Li Indoctrination
+//Instants (1)
+1 Heartless Act
+//Lands (8)
+1 Thriving Moor
 7 Swamp

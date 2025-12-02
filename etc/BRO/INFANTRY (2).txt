@@ -1,15 +1,22 @@
 INFANTRY (2)
-1 Rescue Retriever (Jumpstart Booster rare)
-1 Random white rare or mythic rare
+//Creatures (7)
 1 Aeronaut Cavalry
 1 Ambush Paratrooper
-1 Lay Down Arms
 1 Phalanx Vanguard
-1 Static Net
 1 Thopter Architect
 1 Warlord's Elite
 1 Scrapwork Cohort
-1 Veteran's Powerblade
 1 Yotian Frontliner
+//Sorceries (1)
+1 Lay Down Arms
+//Artifacts (1)
+1 Veteran's Powerblade
+//Enchantments (1)
+1 Static Net
+//Lands (8)
 6 Plains
 2 Plains
+//Special
+1 Random white rare or mythic rare
+//Unknown
+1 Rescue Retriever (Jumpstart Booster rare)

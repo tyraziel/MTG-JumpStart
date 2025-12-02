@@ -1,4 +1,5 @@
 ORZHOV SYNDICATE 1
+//Creatures (8)
 1 Twilight Panther
 1 Syndic of Tithes
 1 Ajani's Pridemate
@@ -6,12 +7,15 @@ ORZHOV SYNDICATE 1
 1 Angel of Vitality
 1 Syndicate Messenger
 1 Glorifier of Dusk
+1 Syndicate Heavy
+//Sorceries (1)
+1 Council's Judgment
+//Instants (3)
 1 Deadly Riposte
 1 Afterlife Insurance
 1 Tandem Tactics
+//Lands (8)
 1 Thriving Heath
 1 Orzhov Guildgate
 1 Orzhov Basilica
-1 Syndicate Heavy
-1 Council's Judgment
 5 Plains

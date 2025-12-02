@@ -1,16 +1,22 @@
 READY TO CHARGE
-1 Ragefire Hellkite (Jumpstart Booster rare)
-1 Random red rare or mythic rare
+//Creatures (6)
 1 Electrostatic Infantry
 1 Yavimaya Steelcrusher
 1 Balduvian Berserker
 1 Dragon Whelp
 1 Coalition Warbrute
 1 Molten Monstrosity
+//Sorceries (1)
+1 Jaya's Firenado
+//Instants (3)
 1 Flowstone Infusion
 1 Twinferno
-1 Jaya's Firenado
 1 Furious Bellow
+//Lands (8)
 5 Mountain
 1 Mountain
 2 Mountain
+//Special
+1 Random red rare or mythic rare
+//Unknown
+1 Ragefire Hellkite (Jumpstart Booster rare)

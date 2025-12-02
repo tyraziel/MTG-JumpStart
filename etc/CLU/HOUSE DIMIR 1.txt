@@ -1,17 +1,23 @@
 HOUSE DIMIR 1
+//Creatures (7)
 1 Erratic Visionary
 1 Dimir Guildmage
 1 Whisper Agent
 1 Undercover Butler
 1 Watcher in the Mist
+1 Memory Vampire
+1 Duskmantle Seer
+//Sorceries (1)
 1 Discovery
-1 Dimir Signet
-1 Dramatic Accusation
+//Instants (1)
 1 Forbidden Alchemy
+//Artifacts (1)
+1 Dimir Signet
+//Enchantments (2)
+1 Dramatic Accusation
 1 Psychic Impetus
+//Lands (8)
 1 Thriving Isle
 1 Dimir Guildgate
 1 Dimir Aqueduct
-1 Memory Vampire
-1 Duskmantle Seer
 5 Island

@@ -1,158 +1,159 @@
-INFANTRY 1
-1 Rescue Retriever (Jumpstart Booster rare)
-1 Random white rare or mythic rare
+JumpStart BRO Paper Deck Lists All
+//Creatures (61)
 1 Aeronaut Cavalry
 1 Airlift Chaplain
-1 Lay Down Arms
 1 Phalanx Vanguard
-1 Recommission
 1 Recruitment Officer
-1 Static Net
 1 Warlord's Elite
-1 Veteran's Powerblade
 1 Reconstructed Thopter
-6 Plains
-2 Traditional foil Plains
-
-INFANTRY 2
-1 Rescue Retriever (Jumpstart Booster rare)
-1 Random white rare or mythic rare
 1 Aeronaut Cavalry
 1 Ambush Paratrooper
-1 Lay Down Arms
 1 Phalanx Vanguard
-1 Static Net
 1 Thopter Architect
 1 Warlord's Elite
 1 Scrapwork Cohort
-1 Veteran's Powerblade
 1 Yotian Frontliner
-6 Plains
-2 Traditional foil Plains
-
-POWERSTONES 1
-1 Geology Enthusiast (Jumpstart Booster rare)
-1 Random blue rare or mythic rare; or Liberator, Urza's Battlethopter; or Thran Spider
 1 Koilos Roc
-1 Stern Lesson
-1 Take Flight
 1 Third Path Savant
 1 Thopter Mechanic
 1 Urza, Powerstone Prodigy
-1 Urza's Rebuff
-1 Weakstone's Subjugation
 1 Combat Courier
 1 Spotter Thopter
-6 Island
-2 Traditional foil Island
-
-POWERSTONES 2
-1 Geology Enthusiast (Jumpstart Booster rare)
-1 Random blue rare or mythic rare; or Liberator, Urza's Battlethopter; or Thran Spider
-1 Involuntary Cooldown
 1 Koilos Roc
 1 Lat-Nam Adept
-1 Mightstone's Animation
-1 Stern Lesson
 1 Thopter Mechanic
 1 Urza, Powerstone Prodigy
-1 Weakstone's Subjugation
 1 Combat Courier
 1 Hulking Metamorph
-6 Island
-2 Traditional foil Island
-
-UNEARTHED 1
-1 Terror Ballista (Jumpstart Booster rare)
-1 Random black rare or mythic rare
-1 Ashnod's Intervention
-1 Go for the Throat
-1 Gruesome Realization
 1 Kill-Zone Acrobat
-1 No One Left Behind
 1 Ravenous Gigamole
 1 Thraxodemon
 1 Ashnod's Harvester
 1 Clay Revenant
 1 Scrapwork Rager
-6 Swamp
-2 Traditional foil Swamp
-
-UNEARTHED 2
-1 Terror Ballista (Jumpstart Booster rare)
-1 Random black rare or mythic rare
 1 Gixian Skullflayer
 1 Gnawing Vermin
-1 Gruesome Realization
-1 Overwhelming Remorse
 1 Ravenous Gigamole
 1 Thraxodemon
 1 Ashnod's Harvester
-1 Dredging Claw
 1 Scrapwork Rager
-1 Transmogrant Altar
-6 Swamp
-2 Traditional foil Swamp
-WELDED 1
-1 Artificer's Dragon (Jumpstart Booster rare)
-1 Random red rare or mythic rare
-1 Bitter Reunion
 1 Fallaji Chaindancer
 1 Horned Stoneseeker
 1 Mishra, Excavation Prodigy
-1 Obliterating Bolt
-1 Unleash Shell
-1 Whirling Strike
 1 Fallaji Dragon Engine
 1 Mishra's Juggernaut
 1 Scrapwork Mutt
-6 Mountain
-2 Traditional foil Mountain
-
-WELDED 2
-1 Artificer's Dragon (Jumpstart Booster rare)
-1 Random red rare or mythic rare
-1 Excavation Explosion
 1 Horned Stoneseeker
 1 Mishra, Excavation Prodigy
-1 Mishra's Onslaught
 1 Tomakul Scrapsmith
-1 Unleash Shell
 1 Fallaji Dragon Engine
 1 Mishra's Juggernaut
-1 Mishra's Research Desk
 1 Scrapwork Mutt
-6 Mountain
-2 Traditional foil Mountain
-
-TITANIC 1
-1 Woodcaller Automaton (Jumpstart Booster rare)
-1 Random green rare or mythic rare
 1 Argothian Opportunist
 1 Blanchwood Prowler
-1 Bushwhack
-1 Gaea's Gift
-1 Giant Growth
 1 Sarinth Steelseeker
-1 Shoot Down
 1 Cradle Clearcutter
 1 Iron-Craw Crusher
 1 Rust Goliath
-6 Forest
-2 Traditional foil Forest
-
-TITANIC 2
-1 Woodcaller Automaton (Jumpstart Booster rare)
-1 Random green rare or mythic rare
 1 Argothian Sprite
-1 Bushwhack
-1 Epic Confrontation
 1 Perimeter Patrol
 1 Sarinth Steelseeker
-1 Shoot Down
-1 Tawnos's Tinkering
 1 Cradle Clearcutter
 1 Iron-Craw Crusher
 1 Rust Goliath
+//Sorceries (14)
+1 Lay Down Arms
+1 Recommission
+1 Lay Down Arms
+1 Involuntary Cooldown
+1 Gruesome Realization
+1 No One Left Behind
+1 Gruesome Realization
+1 Obliterating Bolt
+1 Excavation Explosion
+1 Bushwhack
+1 Shoot Down
+1 Bushwhack
+1 Epic Confrontation
+1 Shoot Down
+//Instants (13)
+1 Stern Lesson
+1 Urza's Rebuff
+1 Stern Lesson
+1 Ashnod's Intervention
+1 Go for the Throat
+1 Overwhelming Remorse
+1 Unleash Shell
+1 Whirling Strike
+1 Mishra's Onslaught
+1 Unleash Shell
+1 Gaea's Gift
+1 Giant Growth
+1 Tawnos's Tinkering
+//Artifacts (5)
+1 Veteran's Powerblade
+1 Veteran's Powerblade
+1 Dredging Claw
+1 Transmogrant Altar
+1 Mishra's Research Desk
+//Enchantments (7)
+1 Static Net
+1 Static Net
+1 Take Flight
+1 Weakstone's Subjugation
+1 Mightstone's Animation
+1 Weakstone's Subjugation
+1 Bitter Reunion
+//Lands (80)
+6 Plains
+2 Plains
+6 Plains
+2 Plains
+6 Island
+2 Island
+6 Island
+2 Island
+6 Swamp
+2 Swamp
+6 Swamp
+2 Swamp
+6 Mountain
+2 Mountain
+6 Mountain
+2 Mountain
 6 Forest
-2 Traditional foil Forest
+2 Forest
+6 Forest
+2 Forest
+//Special
+1 Random white rare or mythic rare
+1 Random white rare or mythic rare
+1 Random blue rare or mythic rare; or Liberator, Urza's Battlethopter; or Thran Spider
+1 Random blue rare or mythic rare; or Liberator, Urza's Battlethopter; or Thran Spider
+1 Random black rare or mythic rare
+1 Random black rare or mythic rare
+1 Random red rare or mythic rare
+1 Random red rare or mythic rare
+1 Random green rare or mythic rare
+1 Random green rare or mythic rare
+//Unknown
+1 INFANTRY 1
+1 Rescue Retriever (Jumpstart Booster rare)
+1 INFANTRY 2
+1 Rescue Retriever (Jumpstart Booster rare)
+1 POWERSTONES 1
+1 Geology Enthusiast (Jumpstart Booster rare)
+1 POWERSTONES 2
+1 Geology Enthusiast (Jumpstart Booster rare)
+1 UNEARTHED 1
+1 Terror Ballista (Jumpstart Booster rare)
+1 UNEARTHED 2
+1 Terror Ballista (Jumpstart Booster rare)
+1 WELDED 1
+1 Artificer's Dragon (Jumpstart Booster rare)
+1 WELDED 2
+1 Artificer's Dragon (Jumpstart Booster rare)
+1 TITANIC 1
+1 Woodcaller Automaton (Jumpstart Booster rare)
+1 TITANIC 2
+1 Woodcaller Automaton (Jumpstart Booster rare)

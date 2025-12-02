@@ -1,15 +1,21 @@
 POWERSTONES (1)
-1 Geology Enthusiast (Jumpstart Booster rare)
-1 Random blue rare or mythic rare; or Liberator, Urza's Battlethopter; or Thran Spider
+//Creatures (6)
 1 Koilos Roc
-1 Stern Lesson
-1 Take Flight
 1 Third Path Savant
 1 Thopter Mechanic
 1 Urza, Powerstone Prodigy
-1 Urza's Rebuff
-1 Weakstone's Subjugation
 1 Combat Courier
 1 Spotter Thopter
+//Instants (2)
+1 Stern Lesson
+1 Urza's Rebuff
+//Enchantments (2)
+1 Take Flight
+1 Weakstone's Subjugation
+//Lands (8)
 6 Island
 2 Island
+//Special
+1 Random blue rare or mythic rare; or Liberator, Urza's Battlethopter; or Thran Spider
+//Unknown
+1 Geology Enthusiast (Jumpstart Booster rare)

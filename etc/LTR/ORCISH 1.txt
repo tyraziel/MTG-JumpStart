@@ -1,14 +1,20 @@
 ORCISH 1
-1 Rare or mythic rare
+//Creatures (6)
 1 Warg Rider
 1 Easterling Vanguard
-1 Mordor Muster
 1 Dunland Crebain
 1 Mirkwood Bats
-1 Sam's Desperate Rescue
-1 Orcish Medicine
 1 Gorbag of Minas Morgul
 1 Gothmog, Morgul Lieutenant
-1 Grond, the Gatebreaker
+//Sorceries (2)
+1 Mordor Muster
+1 Sam's Desperate Rescue
+//Instants (2)
+1 Orcish Medicine
 1 Bitter Downfall
+//Artifacts (1)
+1 Grond, the Gatebreaker
+//Lands (8)
 8 Swamp
+//Unknown
+1 Rare or mythic rare

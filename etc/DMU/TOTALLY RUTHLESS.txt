@@ -1,16 +1,23 @@
 TOTALLY RUTHLESS
-1 Tyrannical Pitlord (Jumpstart Booster rare)
-1 Random black rare or mythic rare, or Weatherlight Compleated
+//Creatures (6)
 1 Cult Conscript
 1 Phyrexian Vivisector
 1 Splatter Goblin
 1 Phyrexian Rager
 1 Gibbering Barricade
 1 Sengir Connoisseur
+//Sorceries (1)
 1 Bone Splinters
+//Instants (2)
 1 Cut Down
 1 Battle-Rage Blessing
+//Enchantments (1)
 1 Braids's Frightful Return
+//Lands (8)
 5 Swamp
 1 Swamp
 2 Swamp
+//Special
+1 Random black rare or mythic rare, or Weatherlight Compleated
+//Unknown
+1 Tyrannical Pitlord (Jumpstart Booster rare)

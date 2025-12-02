@@ -1,15 +1,21 @@
 GOBLINS
-Dropkick Bomber
-Incinerating Blast
-Frenzied Goblin
-Battle-Rattle Shaman
-Dragon Fodder
-Goblin Oriflamme
-Goblin Smuggler
-Kindled Fury
-Raging Redcap
-Swab Goblin
-Volley Veteran
-Goblin Firebomb
-Uncharted Haven
+//Creatures (7)
+1 Dropkick Bomber
+1 Frenzied Goblin
+1 Battle-Rattle Shaman
+1 Goblin Smuggler
+1 Raging Redcap
+1 Swab Goblin
+1 Volley Veteran
+//Sorceries (2)
+1 Incinerating Blast
+1 Dragon Fodder
+//Instants (1)
+1 Kindled Fury
+//Artifacts (1)
+1 Goblin Firebomb
+//Enchantments (1)
+1 Goblin Oriflamme
+//Lands (8)
+1 Uncharted Haven
 7 Mountain

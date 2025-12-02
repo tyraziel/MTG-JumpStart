@@ -1,15 +1,20 @@
 CATS
-Angelic Edict
-Elspeth's Smite
-Felidar Savior
-Helpful Hunter
-Ingenious Leonin
-Jazal Goldmane
-Leonin Skyhunter
-Leonin Vanguard
-Moment of Triumph
-Pacifism
+//Creatures (8)
+1 Felidar Savior
+1 Helpful Hunter
+1 Ingenious Leonin
+1 Jazal Goldmane
+1 Leonin Skyhunter
+1 Leonin Vanguard
+1 Prideful Parent
+1 Savannah Lions
+//Sorceries (1)
+1 Angelic Edict
+//Instants (2)
+1 Elspeth's Smite
+1 Moment of Triumph
+//Enchantments (1)
+1 Pacifism
+//Lands (8)
 7 Plains
-Prideful Parent
-Savannah Lions
-Uncharted Haven
+1 Uncharted Haven

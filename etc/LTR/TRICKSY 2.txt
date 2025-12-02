@@ -1,14 +1,19 @@
 TRICKSY 2
+//Creatures (7)
 1 Elvish Mariner
-1 Rare or mythic rare
 1 Nimrodel Watcher
 1 Pelargir Survivor
 1 Ithilien Kingfisher
 1 Elrond, Lord of Rivendell
 1 Saruman the White
 1 Willow-Wind
-1 Glorious Gale
+//Sorceries (2)
 1 Arwen's Gift
 1 Horses of the Bruinen
+//Instants (2)
+1 Glorious Gale
 1 Saruman's Trickery
+//Lands (8)
 8 Island
+//Unknown
+1 Rare or mythic rare

@@ -1,15 +1,21 @@
 WATERBENDING
-Flying Dolphin-Fish
-Otter-Penguin
-Katara, Bending Prodigy
-Sokka, Lateral Strategist
-Cat-Owl
-Flexible Waterbender
-Giant Koi
-The Terror of Serpent's Pass
-Watery Grasp
-Bender's Waterskin
-Deny Entry
-Waterbending Lesson
-Thriving Isle
+//Creatures (8)
+1 Flying Dolphin-Fish
+1 Otter-Penguin
+1 Katara, Bending Prodigy
+1 Sokka, Lateral Strategist
+1 Cat-Owl
+1 Flexible Waterbender
+1 Giant Koi
+1 The Terror of Serpent's Pass
+//Sorceries (1)
+1 Waterbending Lesson
+//Instants (1)
+1 Deny Entry
+//Artifacts (1)
+1 Bender's Waterskin
+//Enchantments (1)
+1 Watery Grasp
+//Lands (8)
+1 Thriving Isle
 7 Island

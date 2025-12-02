@@ -1,14 +1,19 @@
 ZUKO TUTORIAL
-Dragon Moose
-Explosive Shot
-Run Amok
-Fire Nation's Conquest
-Komodo Rhino
-Zuko, Avatar Hunter
-Zhao, the Seething Flame
-Iroh, Firebending Instructor
-Zuko's Offense
-Fire Nation Soldier
+//Creatures (8)
+1 Dragon Moose
+1 Komodo Rhino
+1 Zuko, Avatar Hunter
+1 Zhao, the Seething Flame
+1 Iroh, Firebending Instructor
+1 Fire Nation Soldier
+1 Capital Guard
+1 Warship Scout
+//Sorceries (2)
+1 Explosive Shot
+1 Zuko's Offense
+//Instants (1)
+1 Run Amok
+//Enchantments (1)
+1 Fire Nation's Conquest
+//Lands (8)
 8 Mountain
-Capital Guard
-Warship Scout

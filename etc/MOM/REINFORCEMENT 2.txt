@@ -1,14 +1,19 @@
 REINFORCEMENT 2
-1 Random rare or mythic rare
+//Creatures (8)
 1 Cragsmasher Yeti
 1 Trailblazing Historian
 1 Karsus Depthguard
 1 Hangar Scrounger
 1 Redcap Heelslasher
-1 Mirran Banesplitter
-1 Volcanic Spite
-1 Shatter the Source
 1 Axgard Artisan
 1 Fearless Skald
 1 Orthion, Hero of Lavabrink
+//Instants (2)
+1 Volcanic Spite
+1 Shatter the Source
+//Artifacts (1)
+1 Mirran Banesplitter
+//Lands (8)
 8 Mountain
+//Special
+1 Random rare or mythic rare

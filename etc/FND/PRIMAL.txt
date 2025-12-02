@@ -1,14 +1,19 @@
 PRIMAL
-Aggressive Mammoth
-Bite Down
-Giant Growth
-Mild-Mannered Librarian
-Wildwood Scourge
-Bear Cub
-Biogenic Upgrade
-Druid of the Cowl
-Magnigoth Sentry
-New Horizons
-Thrashing Brontodon
-Uncharted Haven
+//Creatures (7)
+1 Aggressive Mammoth
+1 Mild-Mannered Librarian
+1 Wildwood Scourge
+1 Bear Cub
+1 Druid of the Cowl
+1 Magnigoth Sentry
+1 Thrashing Brontodon
+//Sorceries (1)
+1 Biogenic Upgrade
+//Instants (2)
+1 Bite Down
+1 Giant Growth
+//Enchantments (1)
+1 New Horizons
+//Lands (9)
+1 Uncharted Haven
 8 Forest

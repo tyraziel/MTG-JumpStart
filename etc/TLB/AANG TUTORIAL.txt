@@ -1,14 +1,18 @@
 AANG TUTORIAL
+//Creatures (9)
+1 Aardvark Sloth
+1 Appa, Aang's Companion
+1 Sledding Otter-Penguin
+1 Aang, Air Nomad
+1 Katara, Heroic Healer
+1 Momo, Rambunctious Rascal
+1 Sokka, Wolf Cove’s Protector
+1 Tundra Wall
+1 Wolf Cove Villager
+//Instants (2)
+1 Razor Rings
+1 Aang's Defense
+//Enchantments (1)
+1 Path to Redemption
+//Lands (8)
 8 Plains
-Aardvark Sloth
-Razor Rings
-Path to Redemption
-Appa, Aang's Companion
-Sledding Otter-Penguin
-Aang, Air Nomad
-Katara, Heroic Healer
-Momo, Rambunctious Rascal
-Aang's Defense
-Sokka, Wolf Cove’s Protector
-Tundra Wall
-Wolf Cove Villager

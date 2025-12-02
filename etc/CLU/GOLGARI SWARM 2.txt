@@ -1,17 +1,21 @@
 GOLGARI SWARM 2
+//Creatures (8)
 1 Rubblebelt Maverick
 1 Kraul Warrior
 1 Kraul Harpooner
 1 Pitiless Gorgon
 1 Tribune of Rot
 1 Thrashing Mossdog
+1 Sludge Titan
+1 Underrealm Lich
+//Instants (3)
 1 Status
 1 Wildsize
 1 Fungal Rebirth
+//Enchantments (1)
 1 Predatory Impetus
+//Lands (8)
 1 Thriving Grove
 1 Golgari Guildgate
 1 Golgari Rot Farm
-1 Sludge Titan
-1 Underrealm Lich
 5 Forest

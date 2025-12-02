@@ -1,14 +1,20 @@
 ORCISH 2
-1 Rare or mythic rare
+//Creatures (7)
 1 Warg Rider
 1 Easterling Vanguard
-1 Mordor Muster
 1 Dunland Crebain
 1 Mordor Trebuchet
-1 Lash of the Balrog
-1 Nasty End
 1 Gorbag of Minas Morgul
 1 Gothmog, Morgul Lieutenant
 1 Voracious Fell Beast
+//Sorceries (2)
+1 Mordor Muster
+1 Lash of the Balrog
+//Instants (1)
+1 Nasty End
+//Enchantments (1)
 1 March from the Black Gate
+//Lands (8)
 8 Swamp
+//Unknown
+1 Rare or mythic rare

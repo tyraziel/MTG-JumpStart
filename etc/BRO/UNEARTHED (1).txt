@@ -1,15 +1,21 @@
 UNEARTHED (1)
-1 Terror Ballista (Jumpstart Booster rare)
-1 Random black rare or mythic rare
-1 Ashnod's Intervention
-1 Go for the Throat
-1 Gruesome Realization
+//Creatures (6)
 1 Kill-Zone Acrobat
-1 No One Left Behind
 1 Ravenous Gigamole
 1 Thraxodemon
 1 Ashnod's Harvester
 1 Clay Revenant
 1 Scrapwork Rager
+//Sorceries (2)
+1 Gruesome Realization
+1 No One Left Behind
+//Instants (2)
+1 Ashnod's Intervention
+1 Go for the Throat
+//Lands (8)
 6 Swamp
 2 Swamp
+//Special
+1 Random black rare or mythic rare
+//Unknown
+1 Terror Ballista (Jumpstart Booster rare)

@@ -1,15 +1,20 @@
 ALLIES
-Kyoshi Warrior Guard
-Jeong Jeong’s Deserters
-Glider Kids
-Avatar Enthusiasts
-Allied Teamwork
-Aang, the Last Airbender
-Suki, Kyoshi Warrior
-Rabaroo Troop
-Master Piandao
-Mechanical Glider
-Path to Redemption
-Airbending Lesson
-Thriving Heath
+//Creatures (8)
+1 Kyoshi Warrior Guard
+1 Jeong Jeong’s Deserters
+1 Glider Kids
+1 Avatar Enthusiasts
+1 Aang, the Last Airbender
+1 Suki, Kyoshi Warrior
+1 Rabaroo Troop
+1 Master Piandao
+//Instants (1)
+1 Airbending Lesson
+//Artifacts (1)
+1 Mechanical Glider
+//Enchantments (2)
+1 Allied Teamwork
+1 Path to Redemption
+//Lands (8)
+1 Thriving Heath
 7 Plains

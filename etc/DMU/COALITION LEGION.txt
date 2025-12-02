@@ -1,16 +1,22 @@
 COALITION LEGION
-1 Serra Redeemer (Jumpstart Booster rare)
-1 Random white rare or mythic rare, or Karn, Living Legacy
+//Creatures (6)
 1 Samite Herbalist
 1 Benalish Faithbonder
 1 Knight of Dawn's Light
 1 Argivian Cavalier
 1 Charismatic Vanguard
 1 Griffin Protector
+//Instants (2)
 1 Take Up the Shield
-1 Prayer of Binding
 1 Join Forces
+//Enchantments (2)
+1 Prayer of Binding
 1 Love Song of Night and Day
+//Lands (8)
 5 Plains
 1 Plains
 2 Plains
+//Special
+1 Random white rare or mythic rare, or Karn, Living Legacy
+//Unknown
+1 Serra Redeemer (Jumpstart Booster rare)

@@ -1,17 +1,22 @@
 SIMIC COMBINE 1
+//Creatures (8)
 1 Sage's Row Savant
 1 Passwall Adept
 1 Scuttling Sentinel
 1 Skitter Eel
 1 Roaming Ghostlight
 1 Helium Squirter
+1 Unruly Krasis
+1 Master Biomancer
+//Instants (2)
 1 Slip Out the Back
 1 Rapid Hybridization
+//Artifacts (1)
 1 Simic Signet
+//Enchantments (1)
 1 Psychic Impetus
+//Lands (8)
 1 Thriving Isle
 1 Simic Guildgate
 1 Simic Growth Chamber
-1 Unruly Krasis
-1 Master Biomancer
 5 Island

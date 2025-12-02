@@ -1,17 +1,23 @@
 ORZHOV SYNDICATE 2
+//Creatures (7)
 1 Basilica Screecher
 1 Orzhov Guildmage
 1 Leering Onlooker
 1 Fleshbag Marauder
 1 Syndicate Enforcer
 1 Orzhov Racketeers
-1 Orzhov Signet
+1 Seraph of the Scales
+//Sorceries (1)
+1 Covetous Elegy
+//Instants (2)
 1 Afterlife Insurance
 1 Murder
+//Artifacts (1)
+1 Orzhov Signet
+//Enchantments (1)
 1 Parasitic Impetus
+//Lands (8)
 1 Thriving Moor
 1 Orzhov Guildgate
 1 Orzhov Basilica
-1 Covetous Elegy
-1 Seraph of the Scales
 5 Swamp

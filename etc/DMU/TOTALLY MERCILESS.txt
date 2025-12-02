@@ -1,16 +1,23 @@
 TOTALLY MERCILESS
-1 Tyrannical Pitlord (Jumpstart Booster rare)
-1 Random black rare or mythic rare, or Weatherlight Compleated
+//Creatures (6)
 1 Knight of Dusk's Shadow
 1 Phyrexian Vivisector
 1 Eerie Soultender
 1 Phyrexian Rager
 1 Sengir Connoisseur
 1 Writhing Necromass
-1 Battle-Rage Blessing
+//Sorceries (1)
 1 Pilfer
-1 Braids's Frightful Return
+//Instants (2)
+1 Battle-Rage Blessing
 1 Extinguish the Light
+//Enchantments (1)
+1 Braids's Frightful Return
+//Lands (8)
 5 Swamp
 1 Swamp
 2 Swamp
+//Special
+1 Random black rare or mythic rare, or Weatherlight Compleated
+//Unknown
+1 Tyrannical Pitlord (Jumpstart Booster rare)

@@ -1,14 +1,19 @@
 REINFORCEMENT 1
-1 Random rare or mythic rare
+//Creatures (7)
 1 Cragsmasher Yeti
-1 Ral's Reinforcements
 1 Karsus Depthguard
 1 Hangar Scrounger
 1 Redcap Heelslasher
-1 Coming In Hot
-1 Volcanic Spite
 1 Axgard Artisan
 1 Fearless Skald
-1 Stoke the Flames
 1 Orthion, Hero of Lavabrink
+//Sorceries (1)
+1 Ral's Reinforcements
+//Instants (3)
+1 Coming In Hot
+1 Volcanic Spite
+1 Stoke the Flames
+//Lands (8)
 8 Mountain
+//Special
+1 Random rare or mythic rare

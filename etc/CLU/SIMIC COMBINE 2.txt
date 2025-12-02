@@ -1,4 +1,5 @@
 SIMIC COMBINE 2
+//Creatures (9)
 1 Sauroform Hybrid
 1 Duskshell Crawler
 1 Steeple Creeper
@@ -6,12 +7,15 @@ SIMIC COMBINE 2
 1 Ivy Lane Denizen
 1 Battlefront Krushok
 1 Scuttlegator
+1 Lonis, Genetics Expert
+1 Hydroid Krasis
+//Sorceries (2)
 1 Incubation
-1 Snakeform
 1 Nissa's Judgment
+//Instants (1)
+1 Snakeform
+//Lands (8)
 1 Thriving Grove
 1 Simic Guildgate
 1 Simic Growth Chamber
-1 Lonis, Genetics Expert
-1 Hydroid Krasis
 5 Forest

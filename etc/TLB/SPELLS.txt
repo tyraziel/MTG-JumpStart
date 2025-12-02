@@ -1,15 +1,20 @@
 SPELLS
-First-Time Flyer
-Master Pakku
-Rowdy Snowballers
-Iguana Parrot
-Turtle-Seals
-Geyser Leaper
-Serpent of the Pass
-Barrels of Blasting Jelly
-Abandon Attachments
-It'll Quench Ya!
-Lost in the Spirit World
-Water Whip
-Thriving Isle
+//Creatures (7)
+1 First-Time Flyer
+1 Master Pakku
+1 Rowdy Snowballers
+1 Iguana Parrot
+1 Turtle-Seals
+1 Geyser Leaper
+1 Serpent of the Pass
+//Sorceries (2)
+1 Lost in the Spirit World
+1 Water Whip
+//Instants (2)
+1 Abandon Attachments
+1 It'll Quench Ya!
+//Artifacts (1)
+1 Barrels of Blasting Jelly
+//Lands (8)
+1 Thriving Isle
 7 Island

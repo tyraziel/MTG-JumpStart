@@ -1,17 +1,20 @@
 IZZET LEAGUE 1
+//Creatures (7)
 1 Erratic Visionary
 1 Frostburn Weird
 1 Ecstatic Electromancer
 1 Leapfrog
 1 Thunder Drake
+1 Resonance Technician
+1 Stunt Double
+//Instants (5)
 1 Consider
 1 Repeal
 1 Turn to Frog
 1 Chemister's Insight
 1 Snow Day
+//Lands (8)
 1 Thriving Isle
 1 Izzet Guildgate
 1 Izzet Boilerworks
-1 Resonance Technician
-1 Stunt Double
 5 Island

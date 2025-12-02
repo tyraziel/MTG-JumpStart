@@ -1,14 +1,19 @@
 MORDOR 2
+//Creatures (6)
 1 Ringwraiths
-1 Rare or mythic rare
-1 Mordor Muster
 1 Gollum, Patient Plotter
 1 Dunland Crebain
 1 Gríma Wormtongue
 1 Gothmog, Morgul Lieutenant
 1 Cirith Ungol Patrol
+//Sorceries (2)
+1 Mordor Muster
 1 Lash of the Balrog
+//Instants (3)
 1 Bitter Downfall
 1 Nasty End
 1 Orcish Medicine
+//Lands (8)
 8 Swamp
+//Unknown
+1 Rare or mythic rare

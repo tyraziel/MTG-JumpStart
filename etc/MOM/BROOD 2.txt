@@ -1,14 +1,19 @@
 BROOD 2
+//Creatures (8)
 1 Essence of Orthodoxy
-1 Random rare or mythic rare
 1 Phyrexian Pegasus
 1 Alabaster Host Sanctifier
 1 Infected Defector
 1 Alabaster Host Intercessor
-1 Aerial Boost
-1 Inspired Charge
 1 Norn's Inquisitor
 1 Seedpod Caretaker
 1 Tiller of Flesh
+//Instants (2)
+1 Aerial Boost
+1 Inspired Charge
+//Enchantments (1)
 1 Seal from Existence
+//Lands (8)
 8 Plains
+//Special
+1 Random rare or mythic rare

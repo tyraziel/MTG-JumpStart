@@ -1,4 +1,5 @@
 AZORIUS SENATE 1
+//Creatures (8)
 1 Law-Rune Enforcer
 1 Azorius Arrester
 1 War Screecher
@@ -6,12 +7,16 @@ AZORIUS SENATE 1
 1 Portal Manipulator
 1 Azorius Justiciar
 1 Enforcer Griffin
+1 Lavinia, Foil to Conspiracy
+//Sorceries (2)
 1 Oust
-1 Curse of Chains
+1 Supreme Verdict
+//Instants (1)
 1 Rally to Battle
+//Enchantments (1)
+1 Curse of Chains
+//Lands (8)
 1 Thriving Heath
 1 Azorius Guildgate
 1 Azorius Chancery
-1 Lavinia, Foil to Conspiracy
-1 Supreme Verdict
 5 Plains

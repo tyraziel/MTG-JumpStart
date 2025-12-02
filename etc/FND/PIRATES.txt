@@ -1,15 +1,20 @@
 PIRATES
-Corsair Captain
-Bigfin Bouncer
-Skyship Buccaneer
-Brineborn Cutthroat
-Spectral Sailor
-Tolarian Terror
-Cancel
-Eaten by Piranhas
-Kitesail Corsair
-Opt
-Storm Fleet Spy
-Pirate's Cutlass
-Uncharted Haven
+//Creatures (8)
+1 Corsair Captain
+1 Bigfin Bouncer
+1 Skyship Buccaneer
+1 Brineborn Cutthroat
+1 Spectral Sailor
+1 Tolarian Terror
+1 Kitesail Corsair
+1 Storm Fleet Spy
+//Instants (2)
+1 Cancel
+1 Opt
+//Artifacts (1)
+1 Pirate's Cutlass
+//Enchantments (1)
+1 Eaten by Piranhas
+//Lands (8)
+1 Uncharted Haven
 7 Island

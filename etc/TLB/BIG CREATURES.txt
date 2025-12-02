@@ -1,15 +1,21 @@
 BIG CREATURES
-Turtle-Duck
-Raucous Audience
-Frog-Squirrels
-Ostrich-Horse
-Match the Odds
-Eel-Hounds
-Hippo-Cows
-Saber-Tooth Moose-Lion
-Flopsie, Bumi's Buddy
-Mechanical Glider
-Hog-Monkey Rampage
-Seismic Tutelage
-Thriving Grove
+//Creatures (8)
+1 Turtle-Duck
+1 Raucous Audience
+1 Frog-Squirrels
+1 Ostrich-Horse
+1 Eel-Hounds
+1 Hippo-Cows
+1 Saber-Tooth Moose-Lion
+1 Flopsie, Bumi's Buddy
+//Sorceries (1)
+1 Match the Odds
+//Instants (1)
+1 Hog-Monkey Rampage
+//Artifacts (1)
+1 Mechanical Glider
+//Enchantments (1)
+1 Seismic Tutelage
+//Lands (8)
+1 Thriving Grove
 7 Forest

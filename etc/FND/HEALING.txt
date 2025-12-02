@@ -1,15 +1,20 @@
 HEALING
-Ancestor Dragon
-Dazzling Angel
-Quick-Draw Katana
-Ajani's Pridemate
-Adamant Will
-Bishop's Soldier
-Deadly Riposte
-Herald of Faith
-Inspiring Overseer
-Prayer of Binding
-Twinblade Paladin
-Uncharted Haven
-Hinterland Sanctifier
+//Creatures (8)
+1 Ancestor Dragon
+1 Dazzling Angel
+1 Ajani's Pridemate
+1 Bishop's Soldier
+1 Herald of Faith
+1 Inspiring Overseer
+1 Twinblade Paladin
+1 Hinterland Sanctifier
+//Instants (2)
+1 Adamant Will
+1 Deadly Riposte
+//Artifacts (1)
+1 Quick-Draw Katana
+//Enchantments (1)
+1 Prayer of Binding
+//Lands (8)
+1 Uncharted Haven
 7 Plains

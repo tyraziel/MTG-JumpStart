@@ -1,16 +1,23 @@
 ARCANE MISCHIEF
-Cosmic Epiphany (Jumpstart Booster rare)
-Random blue rare or mythic rare
-Haunting Figment
-Soaring Drake
-Academy Wall
-Talas Lookout
-Frostfist Strider
-Djinn of the Fountain
-Impulse
-Shore Up
-Combat Research
-Impede Momentum
+//Creatures (6)
+1 Haunting Figment
+1 Soaring Drake
+1 Academy Wall
+1 Talas Lookout
+1 Frostfist Strider
+1 Djinn of the Fountain
+//Sorceries (1)
+1 Impede Momentum
+//Instants (2)
+1 Impulse
+1 Shore Up
+//Enchantments (1)
+1 Combat Research
+//Lands (8)
 5 Island
 1 Island
 2 Island
+//Special
+1 Random blue rare or mythic rare
+//Unknown
+1 Cosmic Epiphany (Jumpstart Booster rare)

@@ -1,16 +1,23 @@
 COALITION CORPS
-1 Serra Redeemer (Jumpstart Booster rare)
-1 Random white rare or mythic rare, or Karn, Living Legacy
+//Creatures (6)
 1 Clockwork Drawbridge
 1 Resolute Reinforcements
 1 Argivian Cavalier
 1 Charismatic Vanguard
-1 Captain's Call
 1 Griffin Protector
 1 Argivian Phalanx
-1 Prayer of Binding
+//Sorceries (1)
+1 Captain's Call
+//Instants (1)
 1 Join Forces
+//Enchantments (2)
+1 Prayer of Binding
 1 Love Song of Night and Day
+//Lands (8)
 5 Plains
 1 Plains
 2 Plains
+//Special
+1 Random white rare or mythic rare, or Karn, Living Legacy
+//Unknown
+1 Serra Redeemer (Jumpstart Booster rare)

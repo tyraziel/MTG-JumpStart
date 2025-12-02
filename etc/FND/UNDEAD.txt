@@ -1,15 +1,19 @@
 UNDEAD
-Death Baron
-Hungry Ghoul
-Diregraf Ghoul
-Eaten Alive
-Reassembling Skeleton
-Cemetery Recruitment
-Crow of Dark Tidings
-Deadly Plot
-Maalfeld Twins
-Skeleton Archer
-Suspicious Shambler
-Undying Malice
-Uncharted Haven
+//Creatures (8)
+1 Death Baron
+1 Hungry Ghoul
+1 Diregraf Ghoul
+1 Reassembling Skeleton
+1 Crow of Dark Tidings
+1 Maalfeld Twins
+1 Skeleton Archer
+1 Suspicious Shambler
+//Sorceries (2)
+1 Eaten Alive
+1 Cemetery Recruitment
+//Instants (2)
+1 Deadly Plot
+1 Undying Malice
+//Lands (8)
+1 Uncharted Haven
 7 Swamp

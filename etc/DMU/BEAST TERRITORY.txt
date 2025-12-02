@@ -1,6 +1,5 @@
 BEAST TERRITORY
-1 Briar Hydra (Jumpstart Booster rare)
-1 Random green rare or mythic rare
+//Creatures (7)
 1 Floriferous Vinewall
 1 Sunbathing Rootwalla
 1 Deathbloom Gardener
@@ -8,9 +7,12 @@ BEAST TERRITORY
 1 Territorial Maro
 1 Linebreaker Baloth
 1 Mossbeard Ancient
+//Sorceries (1)
+1 Slimefoot's Survey
+//Instants (2)
 1 Bite Down
 1 Broken Wings
-1 Slimefoot's Survey
+//Lands (8)
 1 Wooded Ridgeline
 1 Radiant Grove
 1 Haunted Mire
@@ -18,3 +20,7 @@ BEAST TERRITORY
 1 Forest
 1 Forest
 2 Forest
+//Special
+1 Random green rare or mythic rare
+//Unknown
+1 Briar Hydra (Jumpstart Booster rare)

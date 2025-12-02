@@ -1,17 +1,22 @@
 IZZET LEAGUE 2
+//Creatures (6)
 1 Fire Urchin
 1 Frostburn Weird
 1 Spellgorger Weird
 1 Ecstatic Electromancer
-1 Goblin Wizardry
 1 Living Lightning
+1 Hypersonic Dragon
+//Sorceries (2)
+1 Direct Current
+1 Corporeal Projection
+//Instants (3)
+1 Goblin Wizardry
 1 Lightning Bolt
 1 Street Spasm
+//Artifacts (1)
 1 Izzet Signet
-1 Direct Current
+//Lands (8)
 1 Thriving Bluff
 1 Izzet Guildgate
 1 Izzet Boilerworks
-1 Corporeal Projection
-1 Hypersonic Dragon
 5 Mountain

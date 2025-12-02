@@ -1,14 +1,18 @@
 BUFF 1
-1 Random rare or mythic rare
+//Creatures (8)
 1 Fairgrounds Trumpeter
 1 Placid Rottentail
 1 Wary Thespian
 1 Converter Beast
 1 Timberland Ancient
-1 Arachnoid Adaptation
-1 Cosmic Hunger
-1 Fertilid's Favor
 1 Ruins Recluse
 1 Kami of Whispered Hopes
 1 Surrak and Goreclaw
+//Instants (3)
+1 Arachnoid Adaptation
+1 Cosmic Hunger
+1 Fertilid's Favor
+//Lands (8)
 8 Forest
+//Special
+1 Random rare or mythic rare

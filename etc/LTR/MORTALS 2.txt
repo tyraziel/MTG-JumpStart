@@ -1,14 +1,20 @@
 MORTALS 2
-1 Rare or mythic rare
+//Creatures (7)
 1 Eagle of Deliverance
 1 East-Mark Cavalier
 1 Took Reaper
 1 Errand-Rider of Gondor
-1 Slip On the Ring
-1 Banish from Edoras
 1 Samwise the Stouthearted
 1 Faramir, Field Commander
 1 Landroval, Horizon Witness
+//Sorceries (1)
+1 Banish from Edoras
+//Instants (2)
+1 Slip On the Ring
 1 Reprieve
+//Artifacts (1)
 1 Inherited Envelope
+//Lands (8)
 8 Plains
+//Unknown
+1 Rare or mythic rare
