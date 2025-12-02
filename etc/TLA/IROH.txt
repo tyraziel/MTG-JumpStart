@@ -14,8 +14,7 @@ IROH
 //Instants (2)
 1 Firebending Lesson
 1 Bolt Bend
-//Lands (7)
+//Lands (8)
 1 Thriving Bluff
 6 Mountain
-//Unknown
 1 Mountain Appa

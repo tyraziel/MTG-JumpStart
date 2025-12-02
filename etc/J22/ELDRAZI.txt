@@ -16,7 +16,7 @@ ELDRAZI
 //Artifacts (1)
 1 Planar Atlas
 //Lands (8)
-1 Warped Landscape
 1 Ash Barrens
-1 Wastes
 5 Forest
+1 Warped Landscape
+1 Wastes

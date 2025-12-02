@@ -1,4 +1,4 @@
-DISCARDING 1
+DISCARDING (1)
 //Creatures (9)
 1 Fell Specter
 1 Tinybones, Trinket Thief

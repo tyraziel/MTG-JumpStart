@@ -1,10 +1,10 @@
 SCRYING (2)
 //Creatures (8)
+1 Faerie Seer
 1 Djinn of Wishes
 1 Kenessos, Priest of Thassa
 1 Biblioplex Kraken
 1 Cryptic Serpent
-1 Faerie Seer
 1 Augury Owl
 1 Moonfolk Puzzlemaker
 1 Octoprophet

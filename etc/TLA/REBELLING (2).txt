@@ -15,8 +15,7 @@ REBELLING (2)
 1 Overwhelming Victory
 //Artifacts (1)
 1 Hook Swords
-//Lands (7)
+//Lands (8)
 1 Thriving Bluff
 6 Mountain
-//Unknown
 1 Mountain Appa

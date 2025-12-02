@@ -14,8 +14,7 @@ FIRE-NATION
 1 Fists of Flame
 1 Lightning Strike
 1 How to Start a Riot
-//Lands (7)
+//Lands (8)
 1 Thriving Bluff
 6 Mountain
-//Unknown
 1 Mountain Appa

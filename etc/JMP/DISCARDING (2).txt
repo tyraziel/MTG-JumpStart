@@ -1,4 +1,4 @@
-DISCARDING 2
+DISCARDING (2)
 //Creatures (10)
 1 Liliana's Reaver
 1 Nyxathid

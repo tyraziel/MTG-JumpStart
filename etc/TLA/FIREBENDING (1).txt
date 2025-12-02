@@ -15,8 +15,7 @@ FIREBENDING (1)
 1 Lightning Strike
 //Enchantments (1)
 1 Firebender Ascension
-//Lands (7)
+//Lands (8)
 1 Thriving Bluff
 6 Mountain
-//Unknown
 1 Mountain Appa

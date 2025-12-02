@@ -1,5 +1,5 @@
 MERFOLK (3)
-//Creatures (7)
+//Creatures (8)
 1 Harbinger of the Tides
 1 Wake Thrasher
 1 Fallowsage
@@ -7,6 +7,7 @@ MERFOLK (3)
 1 Triton Shorestalker
 1 Stonybrook Angler
 1 Watertrap Weaver
+1 Merrow Reejerey
 //Sorceries (1)
 1 Crashing Tide
 //Instants (2)
@@ -17,5 +18,3 @@ MERFOLK (3)
 //Lands (8)
 1 Thriving Isle
 7 Island
-//Unknown
-1 Merrow Reejerey

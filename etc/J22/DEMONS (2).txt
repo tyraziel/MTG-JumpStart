@@ -1,12 +1,12 @@
 DEMONS (2)
 //Creatures (8)
+1 Dreadhound
+1 Doomed Dissenter
 1 Demon of Catastrophes
 1 Seizan, Perverter of Truth
 1 Conductor of Cacophony
 1 Disciple of Perdition
 1 Demon's Disciple
-1 Dreadhound
-1 Doomed Dissenter
 1 Takenuma Bleeder
 //Sorceries (1)
 1 Demon's Grasp

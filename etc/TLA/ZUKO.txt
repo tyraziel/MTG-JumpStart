@@ -15,8 +15,7 @@ ZUKO
 1 War Balloon
 //Enchantments (1)
 1 Lost in Memories
-//Lands (7)
+//Lands (8)
 1 Thriving Bluff
 6 Mountain
-//Unknown
 1 Mountain Appa

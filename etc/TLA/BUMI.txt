@@ -15,8 +15,7 @@ BUMI
 //Enchantments (2)
 1 Creeping Crystal Coating
 1 Crystalline Armor
-//Lands (7)
+//Lands (8)
 1 Thriving Grove
 6 Forest
-//Unknown
 1 Forest Appa

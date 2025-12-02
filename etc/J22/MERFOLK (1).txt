@@ -1,5 +1,5 @@
 MERFOLK (1)
-//Creatures (7)
+//Creatures (8)
 1 Seafloor Oracle
 1 River Sneak
 1 Sage of the Falls
@@ -7,6 +7,7 @@ MERFOLK (1)
 1 Shaper Apprentice
 1 Watertrap Weaver
 1 Storm Sculptor
+1 Merrow Reejerey
 //Sorceries (1)
 1 Crashing Tide
 //Instants (1)
@@ -17,5 +18,3 @@ MERFOLK (1)
 //Lands (8)
 1 Thriving Isle
 7 Island
-//Unknown
-1 Merrow Reejerey

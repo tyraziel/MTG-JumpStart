@@ -15,8 +15,7 @@ SPARKY-SPARKY (2)
 1 Overwhelming Victory
 //Artifacts (1)
 1 War Balloon
-//Lands (7)
+//Lands (8)
 1 Thriving Bluff
 6 Mountain
-//Unknown
 1 Mountain Appa

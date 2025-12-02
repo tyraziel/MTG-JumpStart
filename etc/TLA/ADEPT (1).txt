@@ -15,8 +15,7 @@ ADEPT (1)
 1 Dramatic Reversal
 //Enchantments (1)
 1 Nightmares and Daydreams
-//Lands (7)
+//Lands (8)
 1 Thriving Isle
 6 Island
-//Unknown
 1 Island Appa

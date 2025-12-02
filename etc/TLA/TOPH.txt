@@ -14,8 +14,7 @@ TOPH
 //Enchantments (2)
 1 Tale of Katara and Toph
 1 Solid Ground
-//Lands (7)
+//Lands (8)
 1 Thriving Grove
 6 Forest
-//Unknown
 1 Forest Appa

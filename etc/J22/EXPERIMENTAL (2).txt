@@ -1,12 +1,12 @@
 EXPERIMENTAL (2)
 //Creatures (7)
+1 Cyclops Electromancer
+1 Goblin Researcher
 1 Mizzix, Replica Rider
 1 Grotag Night-Runner
-1 Cyclops Electromancer
 1 Thermo-Alchemist
 1 Sparkmage Apprentice
 1 Catalyst Elemental
-1 Goblin Researcher
 //Sorceries (3)
 1 Spark of Creativity
 1 Act on Impulse

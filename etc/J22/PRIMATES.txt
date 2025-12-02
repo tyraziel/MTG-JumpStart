@@ -16,6 +16,6 @@ PRIMATES
 //Artifacts (1)
 1 Monkey Cage
 //Lands (8)
-1 Treetop Village
 1 Thriving Grove
 6 Forest
+1 Treetop Village

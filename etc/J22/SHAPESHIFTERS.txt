@@ -11,8 +11,8 @@ SHAPESHIFTERS
 //Sorceries (1)
 1 Crashing Tide
 //Instants (2)
-1 Lookout's Dispersal
 1 Chilling Trap
+1 Lookout's Dispersal
 //Artifacts (1)
 1 Heirloom Blade
 //Lands (8)

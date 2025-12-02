@@ -14,9 +14,8 @@ EARTHBENDING (2)
 //Enchantments (2)
 1 Tale of Katara and Toph
 1 Solid Ground
-//Lands (8)
+//Lands (9)
 1 Rumble Arena
 1 Thriving Grove
 6 Forest
-//Unknown
 1 Forest Appa

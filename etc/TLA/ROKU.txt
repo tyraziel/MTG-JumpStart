@@ -13,9 +13,8 @@ ROKU
 1 Roku's Mastery
 //Enchantments (1)
 1 Crescent Island Temple
-//Lands (8)
+//Lands (9)
 1 White Lotus Hideout
 1 Thriving Bluff
 6 Mountain
-//Unknown
 1 Mountain Appa

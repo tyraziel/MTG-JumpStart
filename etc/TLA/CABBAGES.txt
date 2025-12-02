@@ -15,8 +15,7 @@ CABBAGES
 1 Rocky Rebuke
 //Enchantments (1)
 1 Leaves from the Vine
-//Lands (7)
+//Lands (8)
 1 Thriving Grove
 6 Forest
-//Unknown
 1 Forest Appa

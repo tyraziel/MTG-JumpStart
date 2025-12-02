@@ -14,8 +14,7 @@ NIGHTMARES
 1 Deadly Precision
 //Instants (1)
 1 Zuko's Conviction
-//Lands (7)
+//Lands (8)
 1 Thriving Moor
 6 Swamp
-//Unknown
 1 Swamp Appa

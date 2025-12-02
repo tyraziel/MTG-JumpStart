@@ -1,8 +1,8 @@
 TEAMWORK (1)
 //Creatures (8)
+1 Angelic Cub
 1 Agrus Kos, Eternal Soldier
 1 Taranika, Akroan Veteran
-1 Angelic Cub
 1 Angelic Protector
 1 Task Force
 1 Infantry Veteran
@@ -16,6 +16,6 @@ TEAMWORK (1)
 //Enchantments (1)
 1 Cage of Hands
 //Lands (8)
-1 Sandstone Bridge
 1 Thriving Heath
 6 Plains
+1 Sandstone Bridge

@@ -14,9 +14,8 @@ UNDERWATER
 //Enchantments (2)
 1 Honest Work
 1 Coastal Piracy
-//Lands (8)
+//Lands (9)
 1 White Lotus Hideout
 1 Thriving Isle
 6 Island
-//Unknown
 1 Island Appa

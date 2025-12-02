@@ -1,18 +1,18 @@
 BONEYARD (2)
 //Creatures (9)
-1 Shadowborn Demon
 1 Graveblade Marauder
-1 Ossuary Rats
-1 Stitcher's Supplier
-1 Liliana's Elite
 1 Suspicious Shambler
 1 Wailing Ghoul
 1 Gorging Vulture
 1 Moodmark Painter
+1 Shadowborn Demon
+1 Ossuary Rats
+1 Stitcher's Supplier
+1 Liliana's Elite
 //Instants (3)
 1 Necrotic Wound
-1 Ghoul's Feast
 1 Corpse Churn
+1 Ghoul's Feast
 //Lands (8)
 1 Thriving Moor
 7 Swamp

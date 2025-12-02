@@ -1,13 +1,13 @@
 MORBID (1)
 //Creatures (8)
 1 Reaper from the Abyss
+1 Suspicious Shambler
+1 Wakedancer
+1 Durable Coilbug
 1 Disciple of Perdition
 1 Morkrut Banshee
 1 Bone Picker
-1 Suspicious Shambler
-1 Wakedancer
 1 Liliana's Steward
-1 Durable Coilbug
 //Sorceries (1)
 1 Reave Soul
 //Instants (2)
@@ -16,6 +16,6 @@ MORBID (1)
 //Artifacts (1)
 1 Spawning Pit
 //Lands (8)
-1 Mortuary Mire
 1 Thriving Moor
 6 Swamp
+1 Mortuary Mire

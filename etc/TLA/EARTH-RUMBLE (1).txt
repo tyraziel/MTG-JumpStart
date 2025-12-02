@@ -16,8 +16,7 @@ EARTH-RUMBLE (1)
 1 Kyoshi Battle Fan
 //Enchantments (1)
 1 Master's Guidance
-//Lands (7)
+//Lands (8)
 1 Thriving Grove
 6 Forest
-//Unknown
 1 Forest Appa

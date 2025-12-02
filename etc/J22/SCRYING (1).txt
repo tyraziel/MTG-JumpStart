@@ -1,10 +1,10 @@
 SCRYING (1)
 //Creatures (7)
+1 Faerie Seer
+1 Sage's Row Savant
 1 Kenessos, Priest of Thassa
 1 Biblioplex Kraken
 1 Cryptic Serpent
-1 Faerie Seer
-1 Sage's Row Savant
 1 Moonfolk Puzzlemaker
 1 Octoprophet
 //Sorceries (2)

@@ -15,8 +15,7 @@ FREEDOM-FIGHTERS
 1 Hook Swords
 //Enchantments (1)
 1 Path to Redemption
-//Lands (7)
+//Lands (8)
 1 Thriving Heath
 6 Plains
-//Unknown
 1 Plains Appa

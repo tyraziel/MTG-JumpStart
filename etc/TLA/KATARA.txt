@@ -14,8 +14,7 @@ KATARA
 1 Sokka's Haiku
 //Enchantments (1)
 1 Watery Grasp
-//Lands (7)
+//Lands (8)
 1 Thriving Isle
 6 Island
-//Unknown
 1 Island Appa
