@@ -1,190 +1,350 @@
 # JumpStart Deck List Parsing Scripts
 
-This directory contains Python scripts for parsing official Wizards of the Coast HTML pages to extract JumpStart deck lists.
+Scripts for extracting and formatting MTG JumpStart deck lists from official Wizards HTML sources.
 
-## Scripts
+## Quick Start Workflow
 
-### `rename_tla_files.py` - Rename TLA Files to Standard Format
-Renames TLA deck list files from hyphen format to parentheses format.
+### Step 1: Get HTML Source
+Download HTML from official Wizards pages and save to `raw/`:
 
-**Usage:**
 ```bash
-python rename_tla_files.py [--dry-run]
-# Use --dry-run to preview changes without renaming
+# Example URLs:
+# J25: https://magic.wizards.com/en/news/announcements/jumpstart-2025-booster-themes
+# ONE: https://magic.wizards.com/en/news/announcements/phyrexia-all-will-be-one-jumpstart-booster-card-lists
+# Save as: raw/SET-HTML-DECKLISTS.txt
 ```
 
-**Changes:**
-- `ADEPT-1.txt` → `ADEPT (1).txt`
-- `ADEPT-2.txt` → `ADEPT (2).txt`
-- `AANG.txt` → `AANG.txt` (no change, already correct)
+### Step 2: Parse HTML → Raw Deck Lists
+Extract deck lists from HTML using the appropriate parser:
 
-**Note:** This script has already been run on the TLA files. Only needed if importing new TLA files with hyphen format.
-
-### `remove_land_ids.py` - Remove Special Basic Land IDs
-Removes special bracketed IDs from basic land entries in TLA deck lists.
-
-**Usage:**
 ```bash
-python remove_land_ids.py [--dry-run]
-# Use --dry-run to preview changes without modifying files
+cd etc/parsing-scripts
+
+# For <deck-list> format (J25, ONE, MOM, LTR, J22, CLU, TLB, FND):
+python parse_deck_list_format.py ../../raw/ONE-HTML-DECKLISTS.txt ../../etc/ONE
+
+# For <h2><ul> format (BRO, DMU):
+python parse_h2_ul_format.py ../../raw/BRO-HTML-DECKLISTS.txt ../../etc/BRO
+
+# For <legacy> format (JMP):
+python parse_legacy_format.py ../../raw/JMP-HTML-DECKLISTS.txt ../../etc/JMP
 ```
 
-**Changes:**
-- `6 Plains [2t8d3N5Gn1ecBNsDqjQuJe]` → `6 Plains`
-- `1 Plains Appa [6rlws0Y9bsjCxQpb7zzpYk]` → `1 Plains Appa`
-- Removes all bracketed alphanumeric IDs from land entries
+**Output:** Raw unsorted deck lists in `etc/SET/` (one card per line, no type organization)
 
-**Note:** This script has already been run on the TLA files. Only needed if importing new TLA files with land IDs.
+### Step 3: Reformat Deck Lists → Organized by Card Type
+Use `batch_reformat.py` to query Scryfall and organize cards by type:
 
-### `batch_reformat.py` - Batch Reformat Deck Lists (Recommended)
-Reformats multiple deck lists to standard format in one run with shared caching.
-
-**Usage:**
 ```bash
-python batch_reformat.py etc/J25/ [--dry-run] [--save-cache] [--load-cache]
-python batch_reformat.py etc/J25/ etc/TLA/ --load-cache --save-cache
+# First run (builds cache):
+python batch_reformat.py ../../etc/ONE/ --save-cache
+
+# Subsequent runs (uses cache):
+python batch_reformat.py ../../etc/BRO/ --load-cache --save-cache
+
+# Multiple sets at once:
+python batch_reformat.py ../../etc/ONE/ ../../etc/BRO/ ../../etc/DMU/ --load-cache --save-cache
+
+# Dry run (preview without modifying files):
+python batch_reformat.py ../../etc/J25/ --dry-run --load-cache
 ```
+
+**Output:** Formatted deck lists with card type headers:
+```
+DECK NAME
+//Creatures (7)
+1 Creature One
+2 Creature Two
+//Sorceries (2)
+1 Sorcery Name
+//Lands (9)
+7 Island
+2 Plains
+```
+
+## Core Scripts (Essential)
+
+### `batch_reformat.py` ⭐ **Primary Tool**
+Batch reformats deck lists with Scryfall API integration and shared caching.
 
 **Features:**
-- **Shared cache across all decks** - Process 189 decks with ~85% fewer API calls
-- **Persistent cache** - Save to `card_type_cache.json` for future runs
-- Queries Scryfall API for card type information
-- Organizes cards by type (Creatures, Sorceries, Instants, etc.)
-- Processes entire directories efficiently
-- Respects Scryfall rate limiting (100ms between requests)
-
-**Efficiency:**
-- Without cache: ~2,835 API calls for 189 decks
-- With cache: ~400-500 API calls (85% reduction!)
-
-### `reformat_deck.py` - Single Deck Reformatter
-Reformats one deck list at a time. **Use `batch_reformat.py` instead for multiple decks.**
-
-**Usage:**
-```bash
-python reformat_deck.py input_deck.txt [output_deck.txt]
-# If output file not specified, prints to stdout
-```
-
-**Features:**
-- Queries Scryfall API for card type information
-- Organizes cards by type (Creatures, Sorceries, Instants, etc.)
-- Preserves card quantities and special notations
+- Shared cache across all decks (85% fewer API calls)
+- Persistent cache in `card_type_cache.json`
+- Organizes cards by type (Creatures, Sorceries, Instants, Artifacts, Enchantments, Lands)
+- Normalizes special basic lands ("Above the Clouds Island" → "Island")
 - Handles multi-type cards correctly (Artifact Creature → Creatures)
 - Respects Scryfall rate limiting (100ms between requests)
 
-**Output Format:**
+**Usage:**
+```bash
+python batch_reformat.py <deck_dir>... [options]
+
+Options:
+  --dry-run       Preview changes without modifying files
+  --save-cache    Save cache to card_type_cache.json after run
+  --load-cache    Load cache from card_type_cache.json before run
 ```
-DECK NAME
+
+**Examples:**
+```bash
+# Format one set, build cache
+python batch_reformat.py ../../etc/J25/ --save-cache
+
+# Format multiple sets with cache
+python batch_reformat.py ../../etc/ONE/ ../../etc/BRO/ --load-cache --save-cache
+
+# Preview changes
+python batch_reformat.py ../../etc/TLA/ --dry-run --load-cache
+```
+
+**Efficiency:**
+- Without cache: ~2,835 API calls for 189 decks
+- With cache: ~400-500 API calls (85% reduction)
+
+### `parse_deck_list_format.py`
+Parses `<deck-list deck-title="...">` HTML format.
+
+**Used for:** J25, ONE, MOM, LTR, J22, CLU, TLB, FND
+
+**Usage:**
+```bash
+python parse_deck_list_format.py <html_file> <output_dir>
+```
+
+**Example:**
+```bash
+python parse_deck_list_format.py ../../raw/ONE-HTML-DECKLISTS.txt ../../etc/ONE
+```
+
+**Features:**
+- Extracts deck name from `deck-title` attribute
+- Handles variant numbering: "Theme Name 1" → "THEME NAME (1).txt"
+- Cleans special land notations
+- Removes theme description cards
+
+### `parse_h2_ul_format.py`
+Parses `<h2>Deck Name</h2><ul><li>cards</li></ul>` HTML format.
+
+**Used for:** BRO, DMU
+
+**Usage:**
+```bash
+python parse_h2_ul_format.py <html_file> <output_dir>
+```
+
+**Example:**
+```bash
+python parse_h2_ul_format.py ../../raw/DMU-HTML-DECKLISTS.txt ../../etc/DMU
+```
+
+**Features:**
+- Handles inconsistent quantity formatting
+- Cleans "Full-art stained-glass" and "Traditional foil" land prefixes
+- Converts "Name 1" to "NAME (1)" format
+
+### `parse_legacy_format.py`
+Parses `<deck-list><legacy>Title: ...` HTML format.
+
+**Used for:** JMP
+
+**Usage:**
+```bash
+python parse_legacy_format.py <html_file> <output_dir>
+```
+
+**Example:**
+```bash
+python parse_legacy_format.py ../../raw/JMP-HTML-DECKLISTS.txt ../../etc/JMP
+```
+
+**Features:**
+- Extracts title from "Title:" line
+- Preserves special basic land names (e.g., "Above the Clouds Island")
+- Skips "Format: Legacy" metadata lines
+
+## Utility Scripts (Optional/Historical)
+
+### `reformat_deck.py`
+Single-file reformatter. **Use `batch_reformat.py` instead.**
+
+Kept for reference or one-off formatting tasks.
+
+### `parse_j25.py`, `parse_tla.py`
+Set-specific parsers. **Use generic parsers above instead.**
+
+Kept for historical reference.
+
+### `rename_tla_files.py`
+One-time script to rename TLA files from hyphen format to parentheses format.
+
+**Already run.** Only needed if importing new TLA files with old naming.
+
+### `remove_land_ids.py`
+One-time script to remove special land IDs from TLA files.
+
+**Already run.** Only needed if importing new TLA files with bracketed land IDs.
+
+## File Naming Convention
+
+All deck list files follow this standard:
+
+**Single variant themes:**
+- `THEME NAME.txt` (no parentheses, no number)
+- Examples: `BASRI.txt`, `LILIANA.txt`, `ELDRAZI.txt`
+
+**Multiple variant themes:**
+- `THEME NAME (1).txt` (space, then parentheses with number)
+- Examples: `ANGELS (1).txt`, `ANGELS (2).txt`, `FAERIES (1).txt`
+
+**Rules:**
+- Theme names are UPPERCASE
+- Spaces between words (not hyphens or underscores)
+- Variant numbers in parentheses with space before: ` (1)`, ` (2)`, etc.
+- If a theme has only one variant, NO parentheses or number
+
+## Deck List Format Standard
+
+After reformatting with `batch_reformat.py`, files have this structure:
+
+```
+THEME NAME (#)
 //Creatures (X)
-1 Card Name
-2 Another Card
+[quantity] [card name]
+[quantity] [card name]
 //Sorceries (X)
-1 Sorcery Name
+[quantity] [card name]
+//Instants (X)
+[quantity] [card name]
+//Artifacts (X)
+[quantity] [card name]
+//Enchantments (X)
+[quantity] [card name]
 //Lands (X)
-7 Island
+[quantity] [card name]
 ```
 
-**Requirements:**
-- Python 3.6+
-- `requests` library (see requirements.txt)
+**Card type order:** Creatures, Sorceries, Instants, Artifacts, Enchantments, Lands, Planeswalkers
 
-**Installation:**
+**Multi-type cards:** Classified by rightmost type (Artifact Creature → Creatures)
+
+## Special Handling
+
+### Basic Land Normalization
+`batch_reformat.py` automatically normalizes basic land variants:
+
+```
+"Above the Clouds Island"          → "Island"
+"Full-art stained-glass Plains"    → "Plains"
+"Traditional foil Mountain"        → "Mountain"
+"Snow-Covered Forest"              → "Forest"
+```
+
+Preserves dual lands and special lands:
+```
+"Tropical Island"   → "Tropical Island" (kept)
+"Thriving Isle"     → "Thriving Isle" (kept)
+```
+
+### Placeholder Cards
+Cards like "Random rare or mythic rare" are automatically categorized as "Special" type.
+
+## Requirements
+
+**Python:** 3.6+
+
+**Dependencies:**
 ```bash
 pip install -r requirements.txt
 ```
 
-### `parse_tla.py` - Avatar: The Last Airbender
-Parses TLA (Avatar: The Last Airbender) JumpStart deck lists.
+Required packages:
+- `requests` (for Scryfall API queries)
 
-**Usage:**
+## Typical Workflow Example
+
+Import and format a new JumpStart set (e.g., Khans):
+
 ```bash
-python parse_tla.py < tla_html.txt
-# or
-python parse_tla.py tla_html.txt
+# 1. Save HTML from Wizards page
+curl "https://magic.wizards.com/..." > raw/KHN-HTML-DECKLISTS.txt
+
+# 2. Identify HTML format by checking the file
+head -20 raw/KHN-HTML-DECKLISTS.txt
+
+# 3. Parse using appropriate parser (assume deck-list format)
+cd etc/parsing-scripts
+python parse_deck_list_format.py ../../raw/KHN-HTML-DECKLISTS.txt ../../etc/KHN
+
+# 4. Format with Scryfall (use cache from previous runs)
+python batch_reformat.py ../../etc/KHN/ --load-cache --save-cache
+
+# 5. Verify output
+ls -l ../../etc/KHN/
+head -20 ../../etc/KHN/"THEME NAME (1).txt"
 ```
 
-**Output:**
-- Creates `etc/TLA/` directory with 66 deck list files
-- 46 unique themes (26 Mythic, 20 Rare with variations)
-- Prints theme data ready for `jumpstartdata.py`
+## Cache Management
 
-**Theme Structure:**
-- **Mythic (M)**: Single variation themes (5 per color + 1 multicolor)
-- **Rare (R)**: Double variation themes (4 per color, with -1 and -2 suffixes)
+**Location:** `etc/parsing-scripts/card_type_cache.json`
 
-### `parse_j25.py` - JumpStart 2025 (Foundations)
-Parses J25 (JumpStart 2025) deck lists from the Foundations release.
-
-**Usage:**
+**Cache operations:**
 ```bash
-python parse_j25.py < j25_html.txt
-# or
-python parse_j25.py j25_html.txt
+# Save cache after run
+python batch_reformat.py ../../etc/J25/ --save-cache
+
+# Load existing cache
+python batch_reformat.py ../../etc/TLA/ --load-cache
+
+# Load and save (recommended)
+python batch_reformat.py ../../etc/ONE/ --load-cache --save-cache
+
+# Delete cache (force fresh queries)
+rm card_type_cache.json
 ```
 
-**Output:**
-- Creates `etc/J25/` directory with all deck list files
-- Handles variations (1), (2), (3), (4) automatically
-- J25 themes already exist in `jumpstartdata.py` (lines 148-193)
+**Cache benefits:**
+- Reusable across sets (basic lands, common cards)
+- Persistent across sessions
+- Dramatically reduces Scryfall API calls
+- Speeds up formatting by ~85%
 
-## Getting HTML Content
+## Set Status
 
-To use these scripts, you need to get the HTML from the official Wizards pages:
+### Fully Formatted (Standard Format)
+- **JMP** - JumpStart 2020 (121 decks)
+- **J22** - JumpStart 2022 (121 decks)
 
-### For TLA:
-1. Visit: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
-2. View page source (Ctrl+U or Cmd+Option+U)
-3. Copy all `<deck-list>` sections
-4. Save to `tla_html.txt`
+### Raw Format (Needs Reformatting)
+Run `batch_reformat.py` on these:
+- **J25** - JumpStart 2025 / Foundations (121 decks)
+- **TLA** - Avatar: The Last Airbender (68 decks)
+- **ONE** - Phyrexia: All Will Be One (10 decks)
+- **DMU** - Dominaria United (10 decks)
+- **BRO** - Brothers' War (10 decks)
+- **MOM** - March of the Machine (10 decks)
+- **LTR** - Lord of the Rings (20 decks)
+- **CLU** - Ravnica: Clue Edition (20 decks)
+- **FND** - Foundations Beginner Box (8 decks)
+- **TLB** - Avatar TLA Beginner Box (10 decks)
 
-### For J25:
-1. Visit: https://magic.wizards.com/en/news/announcements/jumpstart-2025-booster-themes
-2. View page source
-3. Copy all `<deck-list>` sections
-4. Save to `j25_html.txt`
+## Troubleshooting
 
-## File Naming Conventions
+**Scryfall rate limiting:**
+- Script respects 100ms delay between requests
+- Use cache to minimize API calls
+- Wait if you see connection errors
 
-The scripts automatically convert theme names to filename format:
-- Uppercase all letters
-- Replace spaces with dashes
-- Remove apostrophes
-- Keep variation numbers: `(1)` → `-1`, `(2)` → `-2`, etc.
+**Proxy errors:**
+- Network environment may block Scryfall
+- Use `--load-cache` to work offline
+- Pre-build cache in different environment
 
-**Examples:**
-- "N'er-do-wells (1)" → `NER-DO-WELLS-1.txt`
-- "At the Zoo" → `AT-THE-ZOO.txt`
-- "Hei Bai (1)" → `HEI-BAI-1.txt`
-
-## Output Format
-
-Deck list files contain one card per line:
-```
-Momo, Rambunctious Rascal
-Kindly Customer
-Invasion Reinforcements
-7 Plains
-...
-```
-
-Card names with quantities and set codes are preserved as-is from the HTML.
-
-## Integration with jumpstartdata.py
-
-After running the parsers:
-1. The deck files are created in `etc/{SET}/` directories
-2. For TLA: Copy the printed theme data into `jumpstartdata.py`
-3. For J25: Themes already exist, no changes needed to `jumpstartdata.py`
-
-## Requirements
-
-- Python 3.6+
-- For `parse_tla.py` and `parse_j25.py`: No external dependencies (uses only stdlib: `re`, `os`, `sys`)
-- For `reformat_deck.py`: `requests` library (install with `pip install -r requirements.txt`)
+**Unknown card types:**
+- Check `card_type_cache.json` for "Unknown" entries
+- Manually verify card names on Scryfall
+- May be typos or unreleased cards
 
 ## Attribution
 
-AIA EAI Hin R Claude Code [Sonnet 4.5] v1.0
-
-These scripts were created with AI assistance to help manage JumpStart Discord Bot deck lists.
+Created with Claude Code [Sonnet 4.5]
+For MTG JumpStart deck list management
