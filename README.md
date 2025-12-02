@@ -24,6 +24,8 @@ JumpStart Foundations Beginner Box:  https://magic.wizards.com/en/news/feature/f
 
 JumpStart Avatar: The Last Airbender:  https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
 
+JumpStart Avatar: The Last Airbender Beginner Box:  https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-beginner-box-contents
+
 ### Resources
 
 https://www.reddit.com/r/magicTCG/comments/hsy47b/jumpstart_packet_checklist/
