@@ -1,19 +1,18 @@
 CONSTELLATION (1)
-//Creatures (5)
+//Creatures (8)
 1 Archon of Sun's Grace
 1 Favored of Iroas
 1 Glory Bearers
 1 Captivating Unicorn
 1 Spirited Companion
-//Enchantments (1)
-1 Chains of Custody
-//Lands (8)
-1 Thriving Heath
-7 Plains
-//Unknown
 1 Blessed Spirits
 1 Transcendent Envoy
 1 Pious Wayfarer
+//Enchantments (4)
+1 Chains of Custody
 1 Sage's Reverie
 1 Spectral Steel
 1 Forced Worship
+//Lands (8)
+1 Thriving Heath
+7 Plains

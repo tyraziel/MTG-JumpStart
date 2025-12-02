@@ -1,20 +1,21 @@
 MORBID (1)
-//Creatures (4)
+//Creatures (8)
 1 Reaper from the Abyss
 1 Suspicious Shambler
 1 Wakedancer
 1 Durable Coilbug
-//Instants (2)
-1 Tragic Slip
-1 Village Rites
-//Lands (7)
-1 Thriving Moor
-6 Swamp
-//Unknown
 1 Disciple of Perdition
 1 Morkrut Banshee
 1 Bone Picker
 1 Liliana's Steward
+//Sorceries (1)
 1 Reave Soul
+//Instants (2)
+1 Tragic Slip
+1 Village Rites
+//Artifacts (1)
 1 Spawning Pit
+//Lands (8)
+1 Thriving Moor
+6 Swamp
 1 Mortuary Mire

@@ -1,9 +1,5 @@
 CYCLING (1)
-//Lands (8)
-1 Forgotten Cave
-1 Thriving Bluff
-6 Mountain
-//Unknown
+//Creatures (8)
 1 Yidaro, Wandering Monster
 1 Flameblade Adept
 1 Rooting Moloch
@@ -12,7 +8,14 @@ CYCLING (1)
 1 Quakefoot Cyclops
 1 Plundering Predator
 1 Lava Serpent
+//Sorceries (1)
 1 Go for Blood
+//Instants (2)
 1 Deem Worthy
 1 Shredded Sails
+//Enchantments (1)
 1 Reptilian Reflection
+//Lands (8)
+1 Forgotten Cave
+1 Thriving Bluff
+6 Mountain
