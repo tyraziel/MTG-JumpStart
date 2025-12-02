@@ -204,24 +204,24 @@ Located in `etc/parsing-scripts/` - See `etc/parsing-scripts/README.md` for deta
 ### Core Scripts
 - **`batch_reformat.py`** - ⭐ Primary tool for formatting deck lists with Scryfall API
   - Shared cache across decks (85% fewer API calls)
-  - Normalizes basic land variants
+  - Normalizes basic land variants ("Above the Clouds Island" → "Island")
   - Organizes cards by type with headers
 
 - **`parse_deck_list_format.py`** - Generic parser for `<deck-list>` HTML format
   - Used for: J25, ONE, MOM, LTR, J22, CLU, TLB, FND
+  - Removes bracketed IDs and special land notations
 
 - **`parse_h2_ul_format.py`** - Generic parser for `<h2><ul>` HTML format
   - Used for: BRO, DMU
+  - Removes bracketed IDs and special land notations
 
 - **`parse_legacy_format.py`** - Generic parser for `<legacy>` HTML format
   - Used for: JMP
+  - Removes bracketed IDs while preserving special land names
 
-### Utility Scripts (Historical)
-- `parse_j25.py` - Set-specific parser (replaced by generic parser)
-- `parse_tla.py` - Set-specific parser (replaced by generic parser)
-- `reformat_deck.py` - Single-file reformatter (replaced by batch_reformat.py)
-- `rename_tla_files.py` - One-time renaming script (already run)
-- `remove_land_ids.py` - One-time cleanup script (already run)
+- **`parse_fnd_tutorial.py`** - FND tutorial deck extractor
+  - Extracts Cats and Vampires tutorial decks from HTML tables
+  - Used for: FND
 
 ### Workflow
 See `etc/parsing-scripts/README.md` for complete walkthrough:
