@@ -1,0 +1,474 @@
+<p>The Beginner Box contains ten themed <em>Jumpstart </em>decks, two of which (the Vampires and Cats decks) are specifically ordered for the tutorial. These decks are not to be shuffled. If they become out of order and need to be reordered, don't worry! The tutorial order for the tutorial decks is <a href="#Tutorial">right here</a>, so you can go through that experience whenever you like.</p>
+
+<p>You can find the contents of each of the ten decks in the <em>Foundations </em>Beginner Box below, as well as explore the complete set in the <a href="https://magic.wizards.com/en/products/foundations/card-image-gallery?cigcolor=all-colors&amp;cigfreshness=all-cards&amp;cigproduct=fdn-products-beginner-box&amp;cigset=all-sets&amp;cigsubset=all-subsets&amp;cigsubtype=all-subtypes&amp;cigtreatment=all-treatments&amp;cigtype=all-types&amp;cigrarity=all-rarities" target="blank"><em>Foundations </em>Card Image Gallery</a>. <em>Magic: The Gathering Foundations</em> releases on November 15, 2024, and is available for preorder now. You can preorder the Beginner Box, Play Boosters, Bundles, and more from  <a href="https://locator.wizards.com/" target="_blank">your local game store</a>, online at retailers like <a href="https://gtly.ink/uPsidTZOa" gtm-event="retailer_cta_click" gtm-link-text="Amazon" gtm-section="Daily Article" target="_blank">Amazon</a>, and elsewhere <i>Magic: The Gathering</i> products are sold.</p>
+
+<div style="text-align: center;">
+<div><a href="https://locator.wizards.com/" target="_blank"><img src="https://media.wizards.com/2023/images/daily/button_local_game_store_e83411_2.png" alt="" /></a> <a href="https://gtly.ink/uPsidTZOa" gtm-event="retailer_cta_click" gtm-link-text="Amazon" gtm-section="Daily Article" target="blank"><img src="https://media.wizards.com/2023/images/daily/button_amazon_e83411.png" alt="" /></a></div>
+</div>
+
+<hr />
+
+<h2 id="Tutorial" style="scroll-margin-top: 70px;">Tutorial Deck Card Order and Lists</h2>
+
+<p><strong>Click the banner below to see the starting deck order!</strong></p>
+
+<a id="topwhite" name="topwhite"></a>
+<div class="collapsibleBlock">
+    <dl class="showHideListItems">
+        <dt>
+            <div style="text-align: center; margin: -15px auto;"><img style="width: 70px;" alt="White mana symbol"
+                    src="https://media.wizards.com/2023/images/daily/w.png" /></div>
+            <div style="text-align: center; margin-top: -15px; font-weight: bold; font-size: 1.5em;">Cats</div>
+        </dt>
+        <dd>
+            <div class="wrapper">
+
+<div style="text-align: center;">
+  <cig-card entry="6ZqddFq9eEtxENYD2j0Qx6">0001_MTGFDN_BBThemes: Cats Theme Card</cig-card>
+</div>
+
+<p>Tutorial decks are ordered from top to bottom, so you'll draw the cards at the top of the table first.</p>
+
+<table style="margin-left: auto; margin-right: auto;" data-table="" data-tablelook="1696">
+<tbody>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_f92a854ceb.png">Plains</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_f92a854ceb.png">Plains</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_f92a854ceb.png">Plains</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_f92a854ceb.png">Plains</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_67be69f59d.png">Savannah Lions</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_f8a68746dd.png">Leonin Skyhunter</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_cc68e16268.png">Prideful Parent</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_f92a854ceb.png">Plains</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_f92a854ceb.png">Plains</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_08072e0df8.png">Felidar Savior</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_f92a854ceb.png">Plains</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_52a3358c5c.png">Angelic Edict</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_7e7f4d8c8e.png">Jazal Goldmane</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_a36da18eef.png">Pacifism</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_7f1ad74b76.png">Ingenious Leonin</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_6199c7548a.png">Helpful Hunter</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_1b2421a38c.png">Leonin Vanguard</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_5286793e7b.png">Moment of Triumph </auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_e392057302.png">Elspeth's Smite</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_4a58429e1d.png">Uncharted Haven</auto-card></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p style="text-align:right;font-size:smaller"><a href="#topwhite">Back to top</a></p><hr>
+            </div>
+        </dd>
+    </dl>
+</div>
+
+<a id="topblack" name="topblack"></a>
+<div class="collapsibleBlock">
+    <dl class="showHideListItems">
+        <dt>
+            <div style="text-align: center; margin: -15px auto;"><img style="width: 70px;" alt="White mana symbol"
+                    src="https://media.wizards.com/2023/images/daily/b.png" /></div>
+            <div style="text-align: center; margin-top: -15px; font-weight: bold; font-size: 1.5em;">Vampires</div>
+        </dt>
+        <dd>
+            <div class="wrapper">
+
+<div style="text-align: center;">
+  <cig-card entry="4V9quY2qDMIFIIDkvfetIz">0002_MTGFDN_BBThemes: Vampires Theme Card</cig-card>
+</div>
+
+<p>Tutorial decks are ordered from top to bottom, so you'll draw the cards at the top of the table first.</p>
+
+<table style="margin-left: auto; margin-right: auto;" data-table="" data-tablelook="1696">
+<tbody>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_f5222e2a56.png">Swamp</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_f5222e2a56.png">Swamp</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_f5222e2a56.png">Swamp</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_f5222e2a56.png">Swamp</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_d6a925fb59.png">Vampire Interloper</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_91f926fa39.png">Vampire Spawn</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_b19c1bbe82.png">Moment of Craving</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_f5222e2a56.png">Swamp</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_f5222e2a56.png">Swamp</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_537e03291f.png">Highborn Vampire</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_f34dab2ebf.png">Untamed Hunger</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_972305d785.png">Bloodtithe Collector</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_a425d08368.png">Crossway Troublemakers</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_a96c03e25d.png">Vengeful Bloodwitch</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_cb3141947c.png">Hero's Downfall</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_06af802d56.png">Vampire Neonate</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_a1deb2ff9e.png">Offer Immortality</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_2a26b56310.png">Stromkirk Bloodthief</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_f5222e2a56.png">Swamp</auto-card></p>
+</td>
+</tr>
+<tr>
+<td data-celllook="4369">
+<p><auto-card face="https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/en_4a58429e1d.png">Uncharted Haven</auto-card></p>
+</td>
+</tr>
+</tbody>
+</table>              
+<p style="text-align:right;font-size:smaller"><a href="#topblack">Back to top</a></p>
+            </div>
+        </dd>
+    </dl>
+</div>
+
+<hr />
+
+<h2>Remaining Beginner Box Decklists</h2>
+
+<!--Decklists-->
+
+<div style="text-align: center;">
+  <cig-card entry="5sy0JghArzwM4pzRP7Q2cK">0003_MTGFDN_BBThemes: Healing Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" set="FDN" deck-title="Healing" format="">
+<main-deck>
+Ancestor Dragon
+Dazzling Angel
+Quick-Draw Katana
+Ajani's Pridemate
+Adamant Will
+Bishop's Soldier
+Deadly Riposte
+Herald of Faith
+Inspiring Overseer
+Prayer of Binding
+Twinblade Paladin
+Uncharted Haven
+Hinterland Sanctifier
+7 Plains
+</main-deck>
+</deck-list>
+
+<hr />
+
+<div style="text-align: center;">
+  <cig-card entry="7akRzwsYjxgSz00dGPgzS6">0004_MTGFDN_BBThemes: Pirates Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" set="FDN" deck-title="Pirates" format="">
+<main-deck>
+Corsair Captain
+Bigfin Bouncer
+Skyship Buccaneer
+Brineborn Cutthroat
+Spectral Sailor
+Tolarian Terror
+Cancel
+Eaten by Piranhas
+Kitesail Corsair
+Opt
+Storm Fleet Spy
+Pirate's Cutlass
+Uncharted Haven
+7 Island
+</main-deck>
+</deck-list>
+
+<hr />
+
+<div style="text-align: center;">
+  <cig-card entry="6BeIeni8nCWLyRr4DoqW5H">0005_MTGFDN_BBThemes: Wizards Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" set="FDN" deck-title="Wizards" format="">
+<main-deck>
+Mystic Archaeologist
+Arcane Epiphany
+Clinquant Skymage
+Erudite Wizard
+Icewind Elemental
+Mischievous Mystic
+Fleeting Distraction
+Burrog Befuddler
+Exclusion Mage
+Into the Roil
+Quick Study
+Starlight Snare
+Uncharted Haven
+7 Island
+</main-deck>
+</deck-list>
+
+<hr />
+
+<div style="text-align: center;">
+  <cig-card entry="6T7v6gDKVAy87ozIQNaW8O">0006_MTGFDN_BBThemes: Undead Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" set="FDN" deck-title="Undead" format="">
+<main-deck>
+Death Baron
+Hungry Ghoul
+Diregraf Ghoul
+Eaten Alive
+Reassembling Skeleton
+Cemetery Recruitment
+Crow of Dark Tidings
+Deadly Plot
+Maalfeld Twins
+Skeleton Archer
+Suspicious Shambler
+Undying Malice
+Uncharted Haven
+7 Swamp
+</main-deck>
+</deck-list>
+
+<hr />
+
+<div style="text-align: center;">
+  <cig-card entry="dinRs0hcb9BQ95G4wDAGn">0007_MTGFDN_BBThemes: Goblins Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" set="FDN" deck-title="Goblins" format="">
+<main-deck>
+Dropkick Bomber
+Incinerating Blast
+Frenzied Goblin
+Battle-Rattle Shaman
+Dragon Fodder
+Goblin Oriflamme
+Goblin Smuggler
+Kindled Fury
+Raging Redcap
+Swab Goblin
+Volley Veteran
+Goblin Firebomb
+Uncharted Haven
+7 Mountain
+</main-deck>
+</deck-list>
+
+<hr />
+
+<div style="text-align: center;" id="Inferno" style="scroll-margin-top: 70px;">
+  <cig-card entry="52onvWcXwSRWn1IGFJjYe4">0008_MTGFDN_BBThemes: Inferno Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" set="FDN" deck-title="Inferno" format="">
+<main-deck>
+Terror of Mount Velus
+Fiery Annihilation
+Firespitter Whelp
+Carnelian Orb of Dragonkind
+Dragonlord's Servant
+Fire Elemental
+Kargan Dragonrider
+Rapacious Dragon
+Scorching Dragonfire
+Seize the Spoils
+Skyraker Giant
+Uncharted Haven
+8 Mountain
+</main-deck>
+</deck-list>
+
+<hr />
+
+<div style="text-align: center;">
+  <cig-card entry="1rJUV02vThdy57DSKMsMD1">0009_MTGFDN_BBThemes: Elves Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" set="FDN" deck-title="Elves" format="">
+<main-deck>
+Elvish Archdruid
+Beast-Kin Ranger
+Elvish Regrower
+Felling Blow
+Broken Wings
+Dwynen's Elite
+Llanowar Elves
+Snakeskin Veil
+Joraga Invocation
+Tajuru Pathwarden
+Thornweald Archer
+Wildheart Invoker
+Uncharted Haven
+7 Forest
+</main-deck>
+</deck-list>
+
+<hr />
+
+<div style="text-align: center;">
+  <cig-card entry="4eFlGsB6Wti5zMiTEwKLYj">0010_MTGFDN_BBThemes: Primal Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" set="FDN" deck-title="Primal" format="">
+<main-deck>
+Aggressive Mammoth
+Bite Down
+Giant Growth
+Mild-Mannered Librarian
+Wildwood Scourge
+Bear Cub
+Biogenic Upgrade
+Druid of the Cowl
+Magnigoth Sentry
+New Horizons
+Thrashing Brontodon
+Uncharted Haven
+8 Forest
+</main-deck>
+</deck-list>
+
+<!--End Decklists-->
+
+<hr />
