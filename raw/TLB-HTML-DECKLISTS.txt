@@ -1,0 +1,249 @@
+<h2>Magic: The Gathering | Avatar: The Last Airbender Beginner Box Decklists</h2>
+
+<p>Below, you'll see the contents of each half-deck organized by card type. You can also view these cards in the set's <a href="https://magic.wizards.com/en/products/avatar-the-last-airbender/card-image-gallery?cigproduct=tla-products-beginner-box" target="_blank">card image gallery</a>.</p>
+
+<div style="text-align: center;">
+  <cig-card entry="N8aZMy3FHXTTq9Ul8C5lM">0002_MTGTLA_BBTheme: Aang Tutorial Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="67sDDHlbxs88A4WczzJ7s6" deck-title="Aang Tutorial">
+<main-deck>
+8 Plains
+Aardvark Sloth
+Razor Rings
+Path to Redemption
+Appa, Aang's Companion
+Sledding Otter-Penguin
+Aang, Air Nomad
+Katara, Heroic Healer
+Momo, Rambunctious Rascal
+Aang's Defense
+Sokka, Wolf Cove’s Protector
+Tundra Wall
+Wolf Cove Villager
+</main-deck>
+</deck-list>
+
+<div style="margin: auto; width: 100px;"><hr /></div>
+
+<div style="text-align: center;">
+  <cig-card entry="4IIKhMcAg2sl3WMS2xpE9r">0008_MTGTLA_BBTheme: Zuko Tutorial Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="67sDDHlbxs88A4WczzJ7s6" deck-title="Zuko Tutorial">
+<main-deck>
+Dragon Moose
+Explosive Shot
+Run Amok
+Fire Nation's Conquest
+Komodo Rhino
+Zuko, Avatar Hunter
+Zhao, the Seething Flame
+Iroh, Firebending Instructor
+Zuko's Offense
+Fire Nation Soldier
+8 Mountain
+Capital Guard
+Warship Scout
+</main-deck>
+</deck-list>
+
+<div style="margin: auto; width: 100px;"><hr /></div>
+
+<div style="text-align: center;">
+  <cig-card entry="1XCNTfD8AQ2bHXZx8V48Ak">0001_MTGTLA_BBTheme: Allies Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="67sDDHlbxs88A4WczzJ7s6" deck-title="Allies">
+<main-deck>
+Kyoshi Warrior Guard
+Jeong Jeong’s Deserters
+Glider Kids
+Avatar Enthusiasts
+Allied Teamwork
+Aang, the Last Airbender
+Suki, Kyoshi Warrior
+Rabaroo Troop
+Master Piandao
+Mechanical Glider
+Path to Redemption
+Airbending Lesson
+Thriving Heath
+7 Plains
+</main-deck>
+</deck-list>
+
+<div style="margin: auto; width: 100px;"><hr /></div>
+
+<div style="text-align: center;">
+  <cig-card entry="4RYMXzfPzNNO7p0zHxrAHo">0004_MTGTLA_BBTheme: Waterbending Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="67sDDHlbxs88A4WczzJ7s6" deck-title="Waterbending">
+<main-deck>
+Flying Dolphin-Fish
+Otter-Penguin
+Katara, Bending Prodigy
+Sokka, Lateral Strategist
+Cat-Owl
+Flexible Waterbender
+Giant Koi
+The Terror of Serpent's Pass
+Watery Grasp
+Bender's Waterskin
+Deny Entry
+Waterbending Lesson
+Thriving Isle
+7 Island
+</main-deck>
+</deck-list>
+
+<div style="margin: auto; width: 100px;"><hr /></div>
+
+<div style="text-align: center;">
+  <cig-card entry="TJiWgdJLK6XtXTW0V6MMS">0003_MTGTLA_BBTheme: Spells Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="67sDDHlbxs88A4WczzJ7s6" deck-title="Spells">
+<main-deck>
+First-Time Flyer
+Master Pakku
+Rowdy Snowballers
+Iguana Parrot
+Turtle-Seals
+Geyser Leaper
+Serpent of the Pass
+Barrels of Blasting Jelly
+Abandon Attachments
+It'll Quench Ya!
+Lost in the Spirit World
+Water Whip
+Thriving Isle
+7 Island
+</main-deck>
+</deck-list>
+
+<div style="margin: auto; width: 100px;"><hr /></div>
+
+<div style="text-align: center;">
+  <cig-card entry="2w7wjJUP5kbP8pPPdR8RTN">0005_MTGTLA_BBTheme: Attacking Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="67sDDHlbxs88A4WczzJ7s6" deck-title="Attacking">
+<main-deck>
+Purple Pentapus
+Corrupt Court Official
+Merchant of Many Hats
+Pretending Poxbearers
+Fire Nation Ambushers
+Hei Bai, Spirit of Balance
+Lion Vulture
+Beetle-Headed Merchants
+Cat-gator
+Heartless Act
+Epic Downfall
+Dai Li Indoctrination
+Thriving Moor
+7 Swamp
+</main-deck>
+</deck-list>
+
+<div style="text-align: center;">
+  <cig-card entry="3QCm9CTH1w8CjdOaMFAaMa">0006_MTGTLA_BBTheme: Counters Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="67sDDHlbxs88A4WczzJ7s6" deck-title="Counters">
+<main-deck>
+Gilacorn
+Elephant-Rat
+Long Feng, Grand Secretariat
+Dai Li Indoctrination
+Fire Nation Engineer
+Earth Village Ruffians
+Hog-Monkey
+Buzzard-Wasp Colony
+Fire Nation Sentinels
+Azula Always Lies
+Feed the Swarm
+Ozai's Cruelty
+Thriving Moor
+7 Swamp
+</main-deck>
+</deck-list>
+
+<div style="margin: auto; width: 100px;"><hr /></div>
+
+<div style="text-align: center;">
+  <cig-card entry="4FKtFcHAcZPLFLzxdA6N4">0007_MTGTLA_BBTheme: Firebending Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="67sDDHlbxs88A4WczzJ7s6" deck-title="Firebending">
+<main-deck>
+Deserter's Disciple
+Fire Sages
+Yuyan Archers
+Vindictive Warden
+Loyal Fire Sage
+Zuko, Exiled Prince
+Fire Nation Archers
+Rough Rhino Cavalry
+Mongoose Lizard
+Lightning Strike
+How to Start a Riot
+Roku's Mastery
+Thriving Bluff
+7 Mountain
+</main-deck>
+</deck-list>
+
+<div style="margin: auto; width: 100px;"><hr /></div>
+
+<div style="text-align: center;">
+  <cig-card entry="3qdywnIMDHYCgYUdFsWqww">0009_MTGTLA_BBTheme: Big Creatures Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="67sDDHlbxs88A4WczzJ7s6" deck-title="Big Creatures">
+<main-deck>
+Turtle-Duck
+Raucous Audience
+Frog-Squirrels
+Ostrich-Horse
+Match the Odds
+Eel-Hounds
+Hippo-Cows
+Saber-Tooth Moose-Lion
+Flopsie, Bumi's Buddy
+Mechanical Glider
+Hog-Monkey Rampage
+Seismic Tutelage
+Thriving Grove
+7 Forest
+</main-deck>
+</deck-list>
+
+<div style="margin: auto; width: 100px;"><hr /></div>
+
+<div style="text-align: center;">
+  <cig-card entry="qhWfjbAemadOd9vZT7tUY">0010_MTGTLA_BBTheme: Earthbending Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="67sDDHlbxs88A4WczzJ7s6" deck-title="Earthbending">
+<main-deck>
+Rebellious Captives
+Haru, Hidden Talent
+Earth Village Ruffians
+Toph, the Blind Bandit
+Earth Kingdom Soldier
+Earthbending Lesson
+Badgermole
+Bumi, Eclectic Earthbender
+Rocky Rebuke
+Explore
+Pillar Launch
+Earth Rumble
+Thriving Grove
+7 Forest
+</main-deck>
+</deck-list>
+
+<hr />
