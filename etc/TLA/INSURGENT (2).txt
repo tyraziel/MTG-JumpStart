@@ -14,8 +14,7 @@ INSURGENT (2)
 //Enchantments (2)
 1 Path to Redemption
 1 Duelist's Heritage
-//Lands (7)
+//Lands (8)
 1 Thriving Heath
 6 Plains
-//Unknown
 1 Plains Appa

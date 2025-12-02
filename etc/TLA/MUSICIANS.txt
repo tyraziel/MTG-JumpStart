@@ -15,9 +15,8 @@ MUSICIANS
 //Enchantments (2)
 1 Founding of Omashu
 1 The Cave of Two Lovers
-//Lands (7)
+//Lands (8)
 1 Thriving Bluff
 1 Secret Tunnel
 5 Mountain
-//Unknown
 1 Mountain Appa

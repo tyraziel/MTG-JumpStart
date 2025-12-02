@@ -14,9 +14,8 @@ EARTHBENDING (1)
 1 Inspiring Call
 //Enchantments (1)
 1 Earthbender Ascension
-//Lands (8)
+//Lands (9)
 1 Rumble Arena
 1 Thriving Grove
 6 Forest
-//Unknown
 1 Forest Appa

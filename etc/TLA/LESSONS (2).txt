@@ -15,8 +15,7 @@ LESSONS (2)
 1 Whirlwind Technique
 //Enchantments (1)
 1 Chakra Meditation
-//Lands (7)
+//Lands (8)
 1 Thriving Isle
 6 Island
-//Unknown
 1 Island Appa

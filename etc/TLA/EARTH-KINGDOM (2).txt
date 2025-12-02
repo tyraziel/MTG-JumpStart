@@ -15,8 +15,7 @@ EARTH-KINGDOM (2)
 1 Mechanical Glider
 //Enchantments (1)
 1 Descendants' Path
-//Lands (7)
+//Lands (8)
 1 Thriving Grove
 6 Forest
-//Unknown
 1 Forest Appa

@@ -15,7 +15,7 @@ SHRINES
 1 Kyoshi Island Plaza
 1 Southern Air Temple
 1 Crescent Island Temple
-//Lands (7)
+//Lands (8)
 1 Thriving Grove
 1 White Lotus Hideout
 1 Plains
@@ -23,5 +23,4 @@ SHRINES
 1 Swamp
 1 Mountain
 1 Forest
-//Unknown
 1 Forest Appa

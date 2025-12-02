@@ -14,8 +14,7 @@ REINFORCED (2)
 //Instants (2)
 1 Fatal Fissure
 1 Heartless Act
-//Lands (7)
+//Lands (8)
 1 Thriving Moor
 6 Swamp
-//Unknown
 1 Swamp Appa

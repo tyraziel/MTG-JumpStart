@@ -15,8 +15,7 @@ POWERFUL (1)
 1 Firebending Lesson
 //Artifacts (1)
 1 Twin Blades
-//Lands (7)
+//Lands (8)
 1 Thriving Bluff
 6 Mountain
-//Unknown
 1 Mountain Appa

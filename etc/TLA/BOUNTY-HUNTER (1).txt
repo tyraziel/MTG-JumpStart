@@ -15,8 +15,7 @@ BOUNTY-HUNTER (1)
 1 Zuko's Conviction
 //Enchantments (1)
 1 Bastion of Remembrance
-//Lands (7)
+//Lands (8)
 1 Thriving Moor
 6 Swamp
-//Unknown
 1 Swamp Appa

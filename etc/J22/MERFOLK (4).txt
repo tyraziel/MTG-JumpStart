@@ -1,5 +1,5 @@
 MERFOLK (4)
-//Creatures (7)
+//Creatures (8)
 1 Merfolk Sovereign
 1 River Sneak
 1 Windrider Patrol
@@ -7,6 +7,7 @@ MERFOLK (4)
 1 Watertrap Weaver
 1 Library Larcenist
 1 Saltwater Stalwart
+1 Merrow Reejerey
 //Sorceries (1)
 1 Crashing Tide
 //Instants (1)
@@ -17,5 +18,3 @@ MERFOLK (4)
 //Lands (8)
 1 Thriving Isle
 7 Island
-//Unknown
-1 Merrow Reejerey

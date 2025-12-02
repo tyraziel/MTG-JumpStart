@@ -16,8 +16,7 @@ KYOSHI
 1 Kyoshi Battle Fan
 //Enchantments (1)
 1 Tectonic Split
-//Lands (7)
+//Lands (8)
 1 Thriving Grove
 6 Forest
-//Unknown
 1 Forest Appa

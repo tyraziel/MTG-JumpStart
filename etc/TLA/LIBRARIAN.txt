@@ -14,8 +14,7 @@ LIBRARIAN
 1 Octopus Form
 1 Accumulate Wisdom
 1 Zuko's Exile
-//Lands (7)
+//Lands (8)
 1 Thriving Isle
 6 Island
-//Unknown
 1 Island Appa

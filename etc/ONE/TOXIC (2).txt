@@ -1,10 +1,11 @@
 TOXIC (2)
-//Creatures (5)
+//Creatures (6)
 1 Rustvine Cultivator
 1 Branchblight Stalker
 1 Contagious Vorrac
 1 Paladin of Predation
 1 Lattice-Blade Mantis
+1 Cankerbloom
 //Sorceries (2)
 1 Ruthless Predation
 1 Viral Spawning
@@ -18,5 +19,3 @@ TOXIC (2)
 7 Forest
 //Special
 1 Random green rare or mythic rare
-//Unknown
-1 Cankerbloom (ichor treatment)

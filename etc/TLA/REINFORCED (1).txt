@@ -14,8 +14,7 @@ REINFORCED (1)
 1 Feed the Swarm
 //Instants (1)
 1 Azula Always Lies
-//Lands (7)
+//Lands (8)
 1 Thriving Moor
 6 Swamp
-//Unknown
 1 Swamp Appa

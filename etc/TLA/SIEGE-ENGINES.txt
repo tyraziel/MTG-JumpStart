@@ -15,8 +15,7 @@ SIEGE-ENGINES
 1 Fire Nation Warship
 1 Tundra Tank
 1 The Fire Nation Drill
-//Lands (7)
+//Lands (8)
 1 Thriving Moor
 6 Swamp
-//Unknown
 1 Swamp Appa

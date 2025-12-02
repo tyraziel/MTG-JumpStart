@@ -15,8 +15,7 @@ WARRIORS
 //Enchantments (2)
 1 Path to Redemption
 1 Team Avatar
-//Lands (7)
+//Lands (8)
 1 Thriving Heath
 6 Plains
-//Unknown
 1 Plains Appa

@@ -14,8 +14,7 @@ REBELLING (1)
 1 Fire Nation Attacks
 1 Cunning Maneuver
 1 How to Start a Riot
-//Lands (7)
+//Lands (8)
 1 Thriving Bluff
 6 Mountain
-//Unknown
 1 Mountain Appa

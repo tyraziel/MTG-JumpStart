@@ -16,8 +16,7 @@ SOARING (1)
 1 Mechanical Glider
 //Enchantments (1)
 1 Watery Grasp
-//Lands (7)
+//Lands (8)
 1 Thriving Isle
 6 Island
-//Unknown
 1 Island Appa

@@ -14,8 +14,7 @@ FIREBENDING (2)
 1 Firebending Lesson
 1 Cunning Maneuver
 1 Combustion Technique
-//Lands (7)
+//Lands (8)
 1 Thriving Bluff
 6 Mountain
-//Unknown
 1 Mountain Appa

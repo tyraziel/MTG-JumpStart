@@ -14,8 +14,7 @@ AT-THE-ZOO
 1 Hog-Monkey Rampage
 //Artifacts (1)
 1 Bison Whistle
-//Lands (7)
+//Lands (8)
 1 Thriving Grove
 6 Forest
-//Unknown
 1 Forest Appa

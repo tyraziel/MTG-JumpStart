@@ -15,8 +15,7 @@ SPIRIT
 1 It'll Quench Ya!
 //Enchantments (1)
 1 The Spirit Oasis
-//Lands (7)
+//Lands (8)
 1 Thriving Isle
 6 Island
-//Unknown
 1 Island Appa
