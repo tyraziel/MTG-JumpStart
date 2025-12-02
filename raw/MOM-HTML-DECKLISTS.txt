@@ -1,0 +1,256 @@
+<p>Jump into the full contents of each Jumpstart Booster below, and don't forget to preorder <em>March of the
+        Machine</em> products at <a href="https://locator.wizards.com/">your local game store</a>, <a
+        href="https://gtly.ink/XkWuLY3ab"
+        onclick="ga('send', 'event', {eventCategory:'daily-mtg-home', eventAction:'amazon-click', eventLabel:'mom-daily-article-amz'});"
+        target="_blank">online through Amazon</a>, and elsewhere <em>Magic: The Gathering</em> is sold!</p>
+
+  <div style="clear: left; float: left; height: 100px; display: flex; align-items:center; justify-content: center; margin-right: 25px; margin-bottom: 25px;">
+  <h2>Preorder Now </h2>
+</div>
+  <div>
+  <a
+        href="https://gtly.ink/XkWuLY3ab"
+        onclick="ga('send', 'event', {eventCategory:'daily-mtg-home', eventAction:'amazon-click', eventLabel:'mom-daily-article-amz'});"
+        target="_blank"><img src="https://media.wizards.com/2023/images/daily/button_amazon_e83411.png" /></a> <a href="https://locator.wizards.com/"><img src="https://media.wizards.com/2023/images/daily/button_local_game_store_e83411_2.png" /></a>
+  </div>
+
+<h2 style="clear: both;"><em>March of the Machine</em> Jumpstart Booster Card Lists</h2>
+<p><em>(Editor's note: The decklists below pull the newest printing of each card automatically from our database, including printings that are not in this product. Decklists are not card-for-card product displays, but rather interactive lists of the cards included in each deck.)</em></p>
+
+<!-- Brood 1 -->
+<div id="brood" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Brood Jumpstart Booster theme card"
+        src="https://media.wizards.com/2023/mom/en_6270b80b92.png" />
+</div>
+<deck-list deck-title="Brood 1" format="Jumpstart"><main-deck>
+        1 Essence of Orthodoxy
+        1 Random rare or mythic rare
+        1 Norn's Inquisitor
+        1 Phyrexian Pegasus
+        1 Sunder the Gateway
+        1 Alabaster Host Sanctifier
+        1 Infected Defector
+        1 Alabaster Host Intercessor
+        1 Angelic Intervention
+        1 Cut Short
+        1 Seedpod Caretaker
+        1 Tiller of Flesh
+        8 Plains
+    </main-deck>
+</deck-list>
+<hr />
+
+<!-- Brood 2 -->
+<div style="text-align: center;">
+    <img style="width: 265px;" alt="Brood Jumpstart Booster theme card"
+        src="https://media.wizards.com/2023/mom/en_6270b80b92.png" />
+</div>
+<deck-list deck-title="Brood 2" format="Jumpstart"><main-deck>
+        1 Essence of Orthodoxy
+        1 Random rare or mythic rare
+        1 Phyrexian Pegasus
+        1 Alabaster Host Sanctifier
+        1 Infected Defector
+        1 Alabaster Host Intercessor
+        1 Aerial Boost
+        1 Inspired Charge
+        1 Norn's Inquisitor
+        1 Seedpod Caretaker
+        1 Tiller of Flesh
+        1 Seal from Existence
+        8 Plains
+    </main-deck>
+</deck-list>
+<hr />
+
+<!-- Overachiever 1 -->
+<div id="overachiever" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Overachiever Jumpstart Booster theme card"
+        src="https://media.wizards.com/2023/mom/en_313e13952e.png" />
+</div>
+<deck-list deck-title="Overachiever 1" format="Jumpstart">
+    <main-deck>
+        1 Random rare or mythic rare
+        1 Zephyr Winder
+        1 Expedition Lookout
+        1 Preening Champion
+        1 Thunderhead Squadron
+        1 Tidal Terror
+        1 Ephara's Dispersal
+        1 Meeting of Minds
+        1 Temporal Cleansing
+        1 Referee Squad
+        1 Oracle of Tragedy
+        1 Interdisciplinary Mascot
+        8 Island
+    </main-deck>
+</deck-list>
+<hr />
+
+<!-- Overachiever 2 -->
+<div style="text-align: center;">
+    <img style="width: 265px;" alt="Overachiever Jumpstart Booster theme card"
+        src="https://media.wizards.com/2023/mom/en_313e13952e.png" />
+</div>
+<deck-list deck-title="Overachiever 2" format="Jumpstart">
+    <main-deck>
+        1 Random rare or mythic rare
+        1 Zephyr Winder
+        1 Referee Squad
+        1 Interdisciplinary Mascot
+        1 Tidal Terror
+        1 Ephara's Dispersal
+        1 Expedition Lookout
+        1 Oracle of Tragedy
+        1 Xerex Strobe-Knight
+        1 Wicked Slumber
+        1 Astral Wingspan
+        1 Thunderhead Squadron
+        8 Island
+    </main-deck>
+</deck-list>
+<hr />
+
+<!-- Expendable 1 -->
+<div id="expendable" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Expendable Jumpstart Booster theme card"
+        src="https://media.wizards.com/2023/mom/en_40cc100778.png" />
+</div>
+<deck-list deck-title="Expendable 1" format="Jumpstart">
+    <main-deck>
+        1 Random rare or mythic rare
+        1 Injector Crocodile
+        1 Dreg Recycler
+        1 Etched Familiar
+        1 Ichor Shade
+        1 Final Flourish
+        1 Unseal the Necropolis
+        1 Deadly Derision
+        1 Scorn-Blade Berserker
+        1 Seer of Stolen Sight
+        1 Gift of Compleation
+        1 Terror of Towashi
+        8 Swamp
+    </main-deck>
+</deck-list>
+<hr />
+
+<!-- Expendable 2 -->
+<div style="text-align: center;">
+    <img style="width: 265px;" alt="Expendable Jumpstart Booster theme card"
+        src="https://media.wizards.com/2023/mom/en_40cc100778.png" />
+</div>
+<deck-list deck-title="Expendable 2" format="Jumpstart">
+    <main-deck>
+        1 Random rare or mythic rare
+        1 Injector Crocodile
+        1 Dreg Recycler
+        1 Etched Familiar
+        1 Corrupted Conviction
+        1 Deadly Derision
+        1 Failed Conversion
+        1 Scorn-Blade Berserker
+        1 Seer of Stolen Sight
+        1 Gift of Compleation
+        1 Compleated Huntmaster
+        1 Terror of Towashi
+        8 Swamp
+    </main-deck>
+</deck-list>
+<hr />
+
+<!-- Reinforcement 1 -->
+<div id="reinforcement" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Reinforcement Jumpstart Booster theme card"
+        src="https://media.wizards.com/2023/mom/en_a69dbf0a9a.png" />
+</div>
+<deck-list deck-title="Reinforcement 1" format="Jumpstart">
+    <main-deck>
+        1 Random rare or mythic rare
+        1 Cragsmasher Yeti
+        1 Ral's Reinforcements
+        1 Karsus Depthguard
+        1 Hangar Scrounger
+        1 Redcap Heelslasher
+        1 Coming In Hot
+        1 Volcanic Spite
+        1 Axgard Artisan
+        1 Fearless Skald
+        1 Stoke the Flames
+        1 Orthion, Hero of Lavabrink
+        8 Mountain
+    </main-deck>
+</deck-list>
+<hr />
+
+<!-- Reinforcement 2 -->
+<div style="text-align: center;">
+    <img style="width: 265px;" alt="Reinforcement Jumpstart Booster theme card"
+        src="https://media.wizards.com/2023/mom/en_a69dbf0a9a.png" />
+</div>
+<deck-list deck-title="Reinforcement 2" format="Jumpstart">
+    <main-deck>
+        1 Random rare or mythic rare
+        1 Cragsmasher Yeti
+        1 Trailblazing Historian
+        1 Karsus Depthguard
+        1 Hangar Scrounger
+        1 Redcap Heelslasher
+        1 Mirran Banesplitter
+        1 Volcanic Spite
+        1 Shatter the Source
+        1 Axgard Artisan
+        1 Fearless Skald
+        1 Orthion, Hero of Lavabrink
+        8 Mountain
+    </main-deck>
+</deck-list>
+<hr />
+
+<!-- Buff 1 -->
+<div id="buff" style="text-align: center; scroll-margin-top: 60px;">
+    <img style="width: 265px;" alt="Buff Jumpstart Booster theme card"
+        src="https://media.wizards.com/2023/mom/en_57965ff757.png" />
+</div>
+<deck-list deck-title="Buff 1" format="Jumpstart">
+    <main-deck>
+        1 Random rare or mythic rare
+        1 Fairgrounds Trumpeter
+        1 Placid Rottentail
+        1 Wary Thespian
+        1 Converter Beast
+        1 Timberland Ancient
+        1 Arachnoid Adaptation
+        1 Cosmic Hunger
+        1 Fertilid's Favor
+        1 Ruins Recluse
+        1 Kami of Whispered Hopes
+        1 Surrak and Goreclaw
+        8 Forest
+    </main-deck>
+</deck-list>
+<hr />
+
+<!-- Buff 2 -->
+<div style="text-align: center;">
+    <img style="width: 265px;" alt="Buff Jumpstart Booster theme card"
+        src="https://media.wizards.com/2023/mom/en_57965ff757.png" />
+</div>
+<deck-list deck-title="Buff 2" format="Jumpstart">
+    <main-deck>
+        1 Random rare or mythic rare
+        1 Placid Rottentail
+        1 Fairgrounds Trumpeter
+        1 Wary Thespian
+        1 Converter Beast
+        1 Timberland Ancient
+        1 Arachnoid Adaptation
+        1 Blighted Burgeoning
+        1 Ruins Recluse
+        1 Kami of Whispered Hopes
+        1 Tandem Takedown
+        1 Surrak and Goreclaw
+        8 Forest
+    </main-deck>
+</deck-list>
+<hr /></div></article>
