@@ -1,19 +1,20 @@
 FANGS (2)
-//Creatures (4)
+//Creatures (8)
 1 Rodolf Duskbringer
+1 Bloodtracker
+1 Oathsworn Vampire
 1 Bloodthirsty Aerialist
 1 Falkenrath Noble
 1 Creeping Bloodsucker
+1 Marauding Blight-Priest
+1 Vampire Envoy
+//Sorceries (1)
+1 Certain Death
 //Instants (1)
 1 Moment of Craving
+//Enchantments (2)
+1 Vampiric Rites
+1 Ill-Gotten Inheritance
 //Lands (8)
 1 Thriving Moor
 7 Swamp
-//Unknown
-1 Bloodtracker
-1 Oathsworn Vampire
-1 Vampiric Rites
-1 Marauding Blight-Priest
-1 Vampire Envoy
-1 Ill-Gotten Inheritance
-1 Certain Death

@@ -1,12 +1,6 @@
 DETECTIVE (3)
-//Creatures (1)
+//Creatures (8)
 1 Shimmer Dragon
-//Lands (8)
-1 Thriving Isle
-7 Island
-//Unknown
-1 Hold for Questioning
-1 Magnifying Glass
 1 Lumengrid Sentinel
 1 Skilled Animator
 1 Dutiful Replicator
@@ -14,5 +8,14 @@ DETECTIVE (3)
 1 Vedalken Engineer
 1 Drownyard Explorers
 1 Weldfast Wingsmith
+//Sorceries (1)
 1 Press for Answers
+//Instants (1)
 1 Jace's Scrutiny
+//Artifacts (1)
+1 Magnifying Glass
+//Enchantments (1)
+1 Hold for Questioning
+//Lands (8)
+1 Thriving Isle
+7 Island

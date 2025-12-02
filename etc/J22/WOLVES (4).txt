@@ -1,18 +1,20 @@
 WOLVES (4)
-//Creatures (1)
-1 Mild-Mannered Librarian
-//Lands (8)
-1 Thriving Grove
-7 Forest
-//Unknown
+//Creatures (8)
 1 Nightpack Ambusher
+1 Mild-Mannered Librarian
 1 Briarpack Alpha
-1 Wolfwillow Haven
-1 Arlinn, Voice of the Pack
 1 Pestilent Wolf
 1 Ferocious Pup
 1 Bounding Wolf
 1 Spectral Hunt-Caller
 1 Flourishing Hunter
+//Sorceries (1)
 1 Prey Upon
+//Enchantments (2)
+1 Wolfwillow Haven
 1 Howl of the Hunt
+//Planeswalkers (1)
+1 Arlinn, Voice of the Pack
+//Lands (8)
+1 Thriving Grove
+7 Forest

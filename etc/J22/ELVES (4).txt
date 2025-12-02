@@ -1,20 +1,21 @@
 ELVES (4)
-//Creatures (3)
+//Creatures (7)
+1 Wildborn Preserver
 1 Woodland Champion
 1 Dwynen's Elite
+1 Elvish Rejuvenator
+1 Dutiful Replicator
 1 Ivy Lane Denizen
-//Sorceries (1)
+1 Elderleaf Mentor
+//Sorceries (2)
 1 Overcome
+1 Roots of Wisdom
 //Instants (1)
 1 Band Together
+//Artifacts (1)
+1 Elven Bow
+//Enchantments (1)
+1 Presence of Gond
 //Lands (8)
 1 Thriving Grove
 7 Forest
-//Unknown
-1 Wildborn Preserver
-1 Elven Bow
-1 Elvish Rejuvenator
-1 Dutiful Replicator
-1 Elderleaf Mentor
-1 Roots of Wisdom
-1 Presence of Gond

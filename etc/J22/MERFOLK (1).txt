@@ -1,18 +1,21 @@
 MERFOLK (1)
-//Instants (1)
-1 Soul Read
-//Lands (8)
-1 Thriving Isle
-7 Island
-//Unknown
+//Creatures (7)
 1 Seafloor Oracle
-1 Merrow Reejerey
 1 River Sneak
 1 Sage of the Falls
-1 Aquatic Incursion
 1 Triton Shorestalker
 1 Shaper Apprentice
 1 Watertrap Weaver
 1 Storm Sculptor
-1 One With the Wind
+//Sorceries (1)
 1 Crashing Tide
+//Instants (1)
+1 Soul Read
+//Enchantments (2)
+1 Aquatic Incursion
+1 One With the Wind
+//Lands (8)
+1 Thriving Isle
+7 Island
+//Unknown
+1 Merrow Reejerey

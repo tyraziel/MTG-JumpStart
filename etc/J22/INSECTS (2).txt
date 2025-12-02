@@ -1,19 +1,19 @@
 INSECTS (2)
-//Creatures (2)
-1 Kraul Harpooner
-1 Moldgraf Millipede
-//Sorceries (1)
-1 Hunter's Edge
-//Lands (8)
-1 Thriving Grove
-7 Forest
-//Unknown
+//Creatures (9)
 1 Zask, Skittering Swarmlord
+1 Kraul Harpooner
 1 Circuit Mender
 1 Nantuko Cultivator
-1 Crawling Sensation
 1 Caustic Caterpillar
 1 Ironshell Beetle
 1 Giant Ladybug
 1 Kraul Foragers
+1 Moldgraf Millipede
+//Sorceries (2)
 1 Relentless Pursuit
+1 Hunter's Edge
+//Enchantments (1)
+1 Crawling Sensation
+//Lands (8)
+1 Thriving Grove
+7 Forest

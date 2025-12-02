@@ -1,18 +1,20 @@
 LAW (2)
-//Creatures (1)
-1 Law-Rune Enforcer
-//Lands (8)
-1 Thriving Heath
-7 Plains
-//Unknown
-1 Decree of Justice
+//Creatures (7)
 1 Magnanimous Magistrate
-1 Arrest
-1 Phalanx Tactics
-1 Unquestioned Authority
+1 Law-Rune Enforcer
 1 Ninth Bridge Patrol
 1 Kami of Ancient Law
 1 Midnight Guard
 1 Nightguard Patrol
 1 Skyhunter Patrol
+//Sorceries (1)
+1 Decree of Justice
+//Instants (2)
+1 Phalanx Tactics
 1 Radiant's Judgment
+//Enchantments (2)
+1 Arrest
+1 Unquestioned Authority
+//Lands (8)
+1 Thriving Heath
+7 Plains

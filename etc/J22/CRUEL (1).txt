@@ -1,18 +1,21 @@
 CRUEL (1)
-//Creatures (1)
-1 Creeping Bloodsucker
-//Lands (8)
-1 Thriving Moor
-7 Swamp
-//Unknown
+//Creatures (7)
 1 Termination Facilitator
-1 Feast on the Fallen
 1 Syr Konrad, the Grim
-1 Talon of Pain
-1 Ob Nixilis, the Hate-Twisted
-1 Infernal Idol
 1 Ossuary Rats
+1 Creeping Bloodsucker
 1 Tormented Soul
 1 Alley Strangler
 1 Wicked Guardian
+//Instants (1)
 1 Ob Nixilis's Cruelty
+//Artifacts (2)
+1 Talon of Pain
+1 Infernal Idol
+//Enchantments (1)
+1 Feast on the Fallen
+//Planeswalkers (1)
+1 Ob Nixilis, the Hate-Twisted
+//Lands (8)
+1 Thriving Moor
+7 Swamp

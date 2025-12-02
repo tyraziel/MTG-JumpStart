@@ -1,18 +1,22 @@
 DETECTIVE (4)
-//Creatures (1)
-1 Syr Elenora, the Discerning
-//Lands (8)
-1 Thriving Isle
-7 Island
-//Unknown
-1 Tamiyo, the Moon Sage
-1 Tamiyo's Journal
-1 Hold for Questioning
-1 Magnifying Glass
+//Creatures (6)
 1 Erdwal Illuminator
+1 Syr Elenora, the Discerning
 1 Dutiful Replicator
 1 Floodhound
 1 Vedalken Engineer
 1 Drownyard Explorers
+//Sorceries (1)
 1 Press for Answers
+//Instants (1)
 1 Jace's Scrutiny
+//Artifacts (2)
+1 Tamiyo's Journal
+1 Magnifying Glass
+//Enchantments (1)
+1 Hold for Questioning
+//Planeswalkers (1)
+1 Tamiyo, the Moon Sage
+//Lands (8)
+1 Thriving Isle
+7 Island

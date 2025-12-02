@@ -1,18 +1,21 @@
 MERFOLK (3)
-//Instants (1)
-1 Soul Read
-//Lands (8)
-1 Thriving Isle
-7 Island
-//Unknown
+//Creatures (7)
 1 Harbinger of the Tides
 1 Wake Thrasher
-1 Synchronized Eviction
-1 Merrow Reejerey
 1 Fallowsage
 1 Windrider Patrol
 1 Triton Shorestalker
 1 Stonybrook Angler
 1 Watertrap Weaver
-1 One With the Wind
+//Sorceries (1)
 1 Crashing Tide
+//Instants (2)
+1 Synchronized Eviction
+1 Soul Read
+//Enchantments (1)
+1 One With the Wind
+//Lands (8)
+1 Thriving Isle
+7 Island
+//Unknown
+1 Merrow Reejerey

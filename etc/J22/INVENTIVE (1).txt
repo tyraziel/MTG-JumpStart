@@ -1,20 +1,21 @@
 INVENTIVE (1)
-//Creatures (2)
-1 Merfolk Pupil
-1 Gearseeker Serpent
-//Artifacts (1)
-1 Seat of the Synod
-//Lands (7)
-1 Thriving Isle
-6 Island
-//Unknown
-1 Tezzeret, Artifice Master
-1 Planar Atlas
-1 Launch Mishap
+//Creatures (7)
 1 Whirler Rogue
 1 Skilled Animator
+1 Merfolk Pupil
 1 Gearsmith Prodigy
 1 Aviation Pioneer
 1 Gearsmith Guardian
-1 Aether Spellbomb
+1 Gearseeker Serpent
+//Instants (2)
+1 Launch Mishap
 1 Artificer's Epiphany
+//Artifacts (3)
+1 Planar Atlas
+1 Aether Spellbomb
+1 Seat of the Synod
+//Planeswalkers (1)
+1 Tezzeret, Artifice Master
+//Lands (7)
+1 Thriving Isle
+6 Island

@@ -1,18 +1,21 @@
 DETECTIVE (1)
-//Creatures (2)
-1 Filigree Attendant
-1 Gearseeker Serpent
-//Lands (8)
-1 Thriving Isle
-7 Island
-//Unknown
-1 Mechanized Production
-1 Hold for Questioning
-1 Magnifying Glass
+//Creatures (7)
 1 Shambling Suit
+1 Filigree Attendant
 1 Dutiful Replicator
 1 Floodhound
 1 Vedalken Engineer
 1 Drownyard Explorers
+1 Gearseeker Serpent
+//Sorceries (1)
 1 Press for Answers
+//Instants (1)
 1 Jace's Scrutiny
+//Artifacts (1)
+1 Magnifying Glass
+//Enchantments (2)
+1 Mechanized Production
+1 Hold for Questioning
+//Lands (8)
+1 Thriving Isle
+7 Island

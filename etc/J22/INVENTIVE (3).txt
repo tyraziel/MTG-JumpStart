@@ -1,20 +1,21 @@
 INVENTIVE (3)
-//Creatures (1)
-1 Gearseeker Serpent
-//Artifacts (2)
-1 Whirlermaker
-1 Seat of the Synod
-//Lands (7)
-1 Thriving Isle
-6 Island
-//Unknown
+//Creatures (7)
 1 Steel Overseer
-1 Thopter Spy Network
-1 Launch Mishap
 1 Whirler Rogue
 1 Clockwork Hydra
 1 Gearsmith Prodigy
 1 Aviation Pioneer
 1 Pilgrim's Eye
-1 Aether Spellbomb
+1 Gearseeker Serpent
+//Instants (2)
+1 Launch Mishap
 1 Artificer's Epiphany
+//Artifacts (3)
+1 Whirlermaker
+1 Aether Spellbomb
+1 Seat of the Synod
+//Enchantments (1)
+1 Thopter Spy Network
+//Lands (7)
+1 Thriving Isle
+6 Island

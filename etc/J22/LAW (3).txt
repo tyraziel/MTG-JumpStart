@@ -1,18 +1,21 @@
 LAW (3)
-//Sorceries (1)
-1 Angelic Edict
-//Lands (8)
-1 Thriving Heath
-7 Plains
-//Unknown
-1 Gideon, Champion of Justice
+//Creatures (7)
 1 Magnanimous Magistrate
-1 Arrest
-1 Righteousness
-1 Unquestioned Authority
 1 Gideon's Lawkeeper
 1 Ninth Bridge Patrol
 1 Kami of Ancient Law
 1 Midnight Guard
 1 Nightguard Patrol
 1 Skyhunter Patrol
+//Sorceries (1)
+1 Angelic Edict
+//Instants (1)
+1 Righteousness
+//Enchantments (2)
+1 Arrest
+1 Unquestioned Authority
+//Planeswalkers (1)
+1 Gideon, Champion of Justice
+//Lands (8)
+1 Thriving Heath
+7 Plains

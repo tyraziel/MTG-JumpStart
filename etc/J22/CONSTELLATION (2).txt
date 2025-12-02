@@ -1,19 +1,18 @@
 CONSTELLATION (2)
-//Creatures (3)
-1 Glory Bearers
-1 Captivating Unicorn
-1 Spirited Companion
-//Enchantments (2)
-1 Chains of Custody
-1 Dreadful Apathy
-//Lands (8)
-1 Thriving Heath
-7 Plains
-//Unknown
+//Creatures (7)
 1 Blessed Spirits
 1 Alseid of Life's Bounty
 1 Transcendent Envoy
 1 Auramancer
+1 Glory Bearers
+1 Captivating Unicorn
+1 Spirited Companion
+//Enchantments (5)
 1 Sigil of the Empty Throne
 1 Sage's Reverie
+1 Chains of Custody
 1 Spectral Steel
+1 Dreadful Apathy
+//Lands (8)
+1 Thriving Heath
+7 Plains

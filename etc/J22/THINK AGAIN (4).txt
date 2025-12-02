@@ -1,20 +1,21 @@
 THINK AGAIN (4)
-//Creatures (4)
+//Creatures (8)
+1 Faerie Formation
 1 Spectral Sailor
 1 Faerie Vandal
 1 Merfolk Pupil
 1 Mystic Skyfish
-//Instants (1)
+1 Teferi's Protege
+1 Tome Anima
+1 Steelgaze Griffin
+//Instants (2)
 1 Soul Read
+1 Leave in the Dust
+//Artifacts (1)
+1 Mantle of Tides
+//Enchantments (1)
+1 Military Intelligence
 //Lands (8)
 1 Memorial to Genius
 1 Thriving Isle
 6 Island
-//Unknown
-1 Faerie Formation
-1 Military Intelligence
-1 Teferi's Protege
-1 Tome Anima
-1 Steelgaze Griffin
-1 Mantle of Tides
-1 Leave in the Dust

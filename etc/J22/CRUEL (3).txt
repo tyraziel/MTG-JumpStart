@@ -1,18 +1,19 @@
 CRUEL (3)
-//Creatures (1)
-1 Creeping Bloodsucker
-//Lands (8)
-1 Thriving Moor
-7 Swamp
-//Unknown
+//Creatures (7)
 1 Cruel Sadist
 1 Dread Slaver
 1 Conductor of Cacophony
-1 Feast on the Fallen
-1 Festering Evil
-1 Talon of Pain
-1 Infernal Idol
 1 Ossuary Rats
+1 Creeping Bloodsucker
 1 Hooded Assassin
 1 Alley Strangler
+//Artifacts (2)
+1 Talon of Pain
+1 Infernal Idol
+//Enchantments (3)
+1 Feast on the Fallen
+1 Festering Evil
 1 Mire Blight
+//Lands (8)
+1 Thriving Moor
+7 Swamp

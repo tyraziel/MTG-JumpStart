@@ -1,19 +1,20 @@
 FANGS (4)
-//Creatures (2)
+//Creatures (8)
 1 Vito, Thorn of the Dusk Rose
-1 Creeping Bloodsucker
-//Instants (1)
-1 Moment of Craving
-//Lands (8)
-1 Thriving Moor
-7 Swamp
-//Unknown
 1 Oathsworn Vampire
 1 Blood Artist
-1 Feast of Blood
 1 Bloodbond Vampire
+1 Creeping Bloodsucker
 1 Vampire Envoy
 1 Marauding Blight-Priest
 1 Kalastria Nightwatch
-1 Ill-Gotten Inheritance
+//Sorceries (2)
+1 Feast of Blood
 1 Blood Price
+//Instants (1)
+1 Moment of Craving
+//Enchantments (1)
+1 Ill-Gotten Inheritance
+//Lands (8)
+1 Thriving Moor
+7 Swamp
