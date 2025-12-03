@@ -1,4 +1,7 @@
 {
+  "_comment": "Card type data derived from Scryfall API (https://scryfall.com). This cache contains simplified type categories for deck formatting purposes. Not affiliated with or endorsed by Scryfall.",
+  "_scryfall_api": "https://scryfall.com/docs/api",
+  "_license": "Data extracted from Scryfall under their API terms of service",
   "//Artifacts (1)": "Unknown",
   "//Artifacts (2)": "Unknown",
   "//Artifacts (3)": "Unknown",

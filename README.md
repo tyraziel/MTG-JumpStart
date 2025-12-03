@@ -31,7 +31,18 @@ JumpStart Avatar: The Last Airbender Beginner Box:  https://magic.wizards.com/en
 https://www.reddit.com/r/magicTCG/comments/hsy47b/jumpstart_packet_checklist/
 https://www.reddit.com/r/magicTCG/comments/kicijs/printable_jumpstart_deck_lists/
 
+## Data Sources & Attribution
 
+### Deck Lists
+All deck lists are sourced from official **Wizards of the Coast** announcements and articles (see links above). This content is unofficial Fan Content permitted under the [Wizards of the Coast Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy).
+
+### Card Type Data
+Card type categorization data is derived from the **[Scryfall API](https://scryfall.com/docs/api)**. The `card_type_cache.json` file contains simplified type categories (Creatures, Instants, Sorceries, etc.) used for deck list formatting.
+
+- **Source:** Scryfall API (https://scryfall.com)
+- **Usage:** Card type lookups for automated deck formatting
+- **Compliance:** Cached locally per Scryfall's guidelines (100ms rate limiting, 24hr+ caching)
+- **Note:** Not affiliated with or endorsed by Scryfall
 
 ## License
 
