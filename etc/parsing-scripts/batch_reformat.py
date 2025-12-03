@@ -73,8 +73,13 @@ def load_cache_from_disk():
         print(f"Loaded {len(card_cache)} cards from cache file", file=sys.stderr)
 
 
-def save_cache_to_disk():
-    """Save card data cache to disk for future runs."""
+def save_cache_to_disk(verbose: bool = True):
+    """
+    Save card data cache to disk for future runs.
+
+    Args:
+        verbose: If True, print save confirmation (default: True)
+    """
     # Add attribution at the top
     output_cache = {
         "_comment": "Card data derived from Scryfall API (https://scryfall.com). Contains type categories and gameplay data for deck formatting and Discord display. Not affiliated with or endorsed by Scryfall.",
@@ -88,10 +93,16 @@ def save_cache_to_disk():
     for card_name in sorted(card_cache.keys()):
         output_cache[card_name] = card_cache[card_name]
 
-    with open(cache_file, 'w') as f:
+    # Write atomically by writing to temp file first, then renaming
+    temp_file = cache_file.with_suffix('.json.tmp')
+    with open(temp_file, 'w') as f:
         json.dump(output_cache, f, indent=2, sort_keys=False)
 
-    print(f"\nSaved {len(card_cache)} cards to cache file: {cache_file}", file=sys.stderr)
+    # Atomic rename
+    temp_file.replace(cache_file)
+
+    if verbose:
+        print(f"💾 Saved {len(card_cache)} cards to cache file: {cache_file}", file=sys.stderr)
 
 
 def normalize_basic_land(card_name: str) -> str:
@@ -358,9 +369,13 @@ def reformat_deck(input_file: Path, dry_run: bool = False) -> bool:
     return True
 
 
-def build_cache_from_directory(directory: Path):
+def build_cache_from_directory(directory: Path, save_incrementally: bool = True):
     """
     Build cache by scanning all cards in deck files without reformatting.
+
+    Args:
+        directory: Directory containing deck files
+        save_incrementally: If True, save cache after each deck (default: True)
     """
     deck_files = sorted(directory.glob("*.txt"))
 
@@ -368,30 +383,53 @@ def build_cache_from_directory(directory: Path):
         print(f"No .txt files found in {directory}", file=sys.stderr)
         return
 
-    print(f"\nScanning {len(deck_files)} decks in {directory} for cache building...", file=sys.stderr)
+    set_name = directory.name
+    print(f"\n{'='*60}", file=sys.stderr)
+    print(f"SET: {set_name} - Scanning {len(deck_files)} decks", file=sys.stderr)
+    print(f"{'='*60}", file=sys.stderr)
 
-    for deck_file in deck_files:
+    for idx, deck_file in enumerate(deck_files, 1):
         try:
+            deck_name = deck_file.stem
+            print(f"\n[{set_name}] Deck {idx}/{len(deck_files)}: {deck_name}", file=sys.stderr)
+
             with open(deck_file, 'r') as f:
                 lines = f.readlines()
 
-            # Skip first line (deck name) and comment lines
+            # Count unique cards in this deck for progress
+            cards_in_deck = []
             for line in lines[1:]:
                 if not line.strip().startswith('//'):
                     _, card_name, _ = parse_card_line(line)
-                    if card_name:
-                        # This will query and cache the card
-                        get_card_data(card_name)
+                    if card_name and card_name not in cards_in_deck:
+                        cards_in_deck.append(card_name)
+
+            # Process each unique card
+            for card_idx, card_name in enumerate(cards_in_deck, 1):
+                # This will query and cache the card
+                get_card_data(card_name)
+                print(f"  [{card_idx}/{len(cards_in_deck)}] Cached: {card_name}", file=sys.stderr)
+
+            # Save cache after each deck to avoid losing progress
+            if save_incrementally:
+                save_cache_to_disk()
+                print(f"  ✓ Cache saved ({len(card_cache)} total cards)", file=sys.stderr)
 
         except Exception as e:
-            print(f"ERROR scanning {deck_file.name}: {e}", file=sys.stderr)
+            print(f"  ✗ ERROR scanning {deck_file.name}: {e}", file=sys.stderr)
 
-    print(f"{directory.name}: Scanned {len(deck_files)} files", file=sys.stderr)
+    print(f"\n{set_name}: Completed {len(deck_files)} decks", file=sys.stderr)
+    print(f"{'='*60}\n", file=sys.stderr)
 
 
-def process_directory(directory: Path, dry_run: bool = False):
+def process_directory(directory: Path, dry_run: bool = False, save_incrementally: bool = False):
     """
     Process all .txt files in a directory.
+
+    Args:
+        directory: Directory containing deck files
+        dry_run: If True, don't modify files
+        save_incrementally: If True, save cache after each deck
     """
     deck_files = sorted(directory.glob("*.txt"))
 
@@ -399,19 +437,34 @@ def process_directory(directory: Path, dry_run: bool = False):
         print(f"No .txt files found in {directory}", file=sys.stderr)
         return
 
-    print(f"\nProcessing {len(deck_files)} decks in {directory}...", file=sys.stderr)
+    set_name = directory.name
+    print(f"\n{'='*60}", file=sys.stderr)
+    print(f"SET: {set_name} - Processing {len(deck_files)} decks", file=sys.stderr)
+    print(f"{'='*60}", file=sys.stderr)
 
     modified_count = 0
-    for deck_file in deck_files:
+    for idx, deck_file in enumerate(deck_files, 1):
         try:
+            deck_name = deck_file.stem
+            print(f"\n[{set_name}] Deck {idx}/{len(deck_files)}: {deck_name}", file=sys.stderr)
+
             if reformat_deck(deck_file, dry_run):
                 modified_count += 1
                 status = "[DRY RUN] Would modify" if dry_run else "Modified"
-                print(f"{status}: {deck_file.name}", file=sys.stderr)
-        except Exception as e:
-            print(f"ERROR processing {deck_file.name}: {e}", file=sys.stderr)
+                print(f"  ✓ {status}", file=sys.stderr)
+            else:
+                print(f"  - No changes needed", file=sys.stderr)
 
-    print(f"\n{directory.name}: {modified_count}/{len(deck_files)} files {'would be ' if dry_run else ''}modified", file=sys.stderr)
+            # Save cache incrementally if requested
+            if save_incrementally and not dry_run:
+                save_cache_to_disk()
+                print(f"  ✓ Cache saved ({len(card_cache)} total cards)", file=sys.stderr)
+
+        except Exception as e:
+            print(f"  ✗ ERROR processing {deck_file.name}: {e}", file=sys.stderr)
+
+    print(f"\n{set_name}: {modified_count}/{len(deck_files)} files {'would be ' if dry_run else ''}modified", file=sys.stderr)
+    print(f"{'='*60}\n", file=sys.stderr)
 
 
 def main():
@@ -457,15 +510,18 @@ def main():
             continue
 
         if build_cache_only:
-            build_cache_from_directory(directory)
+            # Cache building saves incrementally if --save-cache requested
+            build_cache_from_directory(directory, save_incrementally=save_cache)
         else:
-            process_directory(directory, dry_run)
+            # Reformatting also saves incrementally if --save-cache requested
+            process_directory(directory, dry_run, save_incrementally=save_cache)
 
-    # Save cache if requested
-    if save_cache:
-        save_cache_to_disk()
+    # No final save needed - incremental saves already wrote everything when --save-cache was passed
+    # If --save-cache wasn't passed, we didn't save anything (and that's intentional)
 
-    print(f"\n✓ Complete! Cache contains {len(card_cache)} unique cards", file=sys.stderr)
+    print(f"\n{'='*60}", file=sys.stderr)
+    print(f"✓ COMPLETE! Cache contains {len(card_cache)} unique cards", file=sys.stderr)
+    print(f"{'='*60}", file=sys.stderr)
     return 0
 
 
