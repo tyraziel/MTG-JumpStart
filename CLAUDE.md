@@ -197,6 +197,122 @@ A Python script `etc/parsing-scripts/reformat_deck.py` can be created to:
 3. Organize cards by type
 4. Output formatted deck list following the standard template
 
+## Scryfall API Card Data
+
+### Overview
+When querying the Scryfall API for card information, the API returns comprehensive card objects with numerous fields. **However, for this project, we only extract and cache the `type_line` field** to determine card type categorization.
+
+### Core Card Fields (Available but Not Cached)
+
+| Field | Type | Nullable | Description |
+|-------|------|----------|-------------|
+| `id` | UUID | No | Unique ID for this card in Scryfall's database |
+| `oracle_id` | UUID | Yes | Unique ID for this card's oracle identity (consistent across reprints) |
+| `name` | String | No | The name of this card |
+| `lang` | String | No | Language code for this printing |
+| `layout` | String | No | Code for this card's layout |
+| `arena_id` | Integer | Yes | This card's Arena ID, if any |
+| `mtgo_id` | Integer | Yes | This card's Magic Online ID (Catalog ID), if any |
+| `mtgo_foil_id` | Integer | Yes | Foil Magic Online ID, if any |
+| `multiverse_ids` | Array | Yes | Multiverse IDs on Gatherer, if any |
+| `tcgplayer_id` | Integer | Yes | TCGplayer API product ID |
+| `cardmarket_id` | Integer | Yes | Cardmarket API product ID |
+| `scryfall_uri` | URI | No | Link to card's permapage on Scryfall |
+| `uri` | URI | No | Link to this card object on Scryfall's API |
+| `prints_search_uri` | URI | No | Link to paginate all reprints for this card |
+| `rulings_uri` | URI | No | Link to this card's rulings list |
+
+### Gameplay Fields (Available but Not Cached)
+
+| Field | Type | Nullable | Description |
+|-------|------|----------|-------------|
+| `type_line` | String | No | **⭐ USED: Type line of card (e.g., "Creature — Human Wizard")** |
+| `mana_cost` | String | Yes | Mana cost (empty string if absent) |
+| `cmc` | Decimal | No | Mana value (converted mana cost) |
+| `colors` | Array | Yes | Card's colors |
+| `color_identity` | Array | No | Card's color identity |
+| `color_indicator` | Array | Yes | Colors in color indicator, if any |
+| `oracle_text` | String | Yes | Oracle text for this card |
+| `power` | String | Yes | Power value (may be non-numeric like *) |
+| `toughness` | String | Yes | Toughness value (may be non-numeric) |
+| `defense` | String | Yes | Defense value, if any |
+| `loyalty` | String | Yes | Loyalty value (may be non-numeric like X) |
+| `keywords` | Array | No | Keywords used (e.g., 'Flying', 'Haste') |
+| `legalities` | Object | No | Legality across formats (legal/not_legal/restricted/banned) |
+| `reserved` | Boolean | No | True if on Reserved List |
+| `edhrec_rank` | Integer | Yes | Overall rank/popularity on EDHREC |
+| `penny_rank` | Integer | Yes | Rank/popularity on Penny Dreadful |
+| `produced_mana` | Array | Yes | Colors of mana this card could produce |
+| `card_faces` | Array | Yes | Array of Card Face objects for multifaced cards |
+| `all_parts` | Array | Yes | Related Card Objects, if closely related to other cards |
+
+### Our Simplified Caching Strategy
+
+**What We Cache:**
+```json
+{
+  "Card Name": "Simplified Type Category"
+}
+```
+
+**Example:**
+```json
+{
+  "Vendilion Clique": "Creatures",
+  "Lightning Bolt": "Instants",
+  "Sol Ring": "Artifacts"
+}
+```
+
+**Type Categories:**
+- `Creatures` - All creature cards (including Artifact Creatures, Enchantment Creatures)
+- `Sorceries` - Sorcery cards
+- `Instants` - Instant cards
+- `Artifacts` - Artifact cards (excluding Artifact Creatures)
+- `Enchantments` - Enchantment cards (excluding Enchantment Creatures)
+- `Planeswalkers` - Planeswalker cards
+- `Lands` - Land cards
+- `Special` - Placeholder cards (e.g., "Random rare or mythic rare")
+- `Unknown` - When lookup fails or card not found
+
+**Why Simplified?**
+1. **Minimal cache size**: 2,508 cards = ~70KB (vs several MB with full data)
+2. **Single purpose**: Only need type categorization for deck formatting
+3. **Fast lookups**: Simple key-value structure
+4. **Scryfall compliance**: Cached locally per their 24hr+ recommendation
+5. **Persistent**: Cache never expires (JumpStart decks don't change after release)
+
+**Extraction Logic:**
+```python
+# From type_line: "Legendary Creature — Faerie Wizard"
+# Extract: "Creatures"
+
+# Multi-type cards use rightmost type:
+# "Artifact Creature — Golem" → "Creatures" (not Artifacts)
+# "Enchantment Creature — God" → "Creatures" (not Enchantments)
+```
+
+### API Compliance
+
+**Rate Limiting:**
+- ✅ 100ms delay between requests (meets Scryfall's 50-100ms guideline)
+- ✅ Shared cache across all operations (85% API call reduction)
+- ✅ No excessive requests (cache prevents redundant queries)
+
+**Caching Policy:**
+- ✅ Persistent local cache (exceeds 24hr minimum recommendation)
+- ✅ Stored in `etc/parsing-scripts/card_type_cache.json`
+- ✅ Includes Scryfall attribution in cache file
+
+**Attribution:**
+- Cache file includes comments noting data source and terms
+- README.md documents Scryfall API usage
+- Not affiliated with or endorsed by Scryfall
+
+**Reference:**
+- Scryfall API Documentation: https://scryfall.com/docs/api
+- Rate Limiting Guidelines: https://scryfall.com/docs/api#rate-limits-and-good-citizenship
+
 ## Parsing Scripts
 
 Located in `etc/parsing-scripts/` - See `etc/parsing-scripts/README.md` for detailed documentation.
