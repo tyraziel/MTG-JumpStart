@@ -6,13 +6,20 @@ This script processes multiple deck files in one run, maintaining a shared cache
 across all decks to minimize Scryfall API calls.
 
 Usage:
-    python batch_reformat.py etc/J25/ [--dry-run] [--save-cache]
-    python batch_reformat.py etc/TLA/ etc/J25/ [--dry-run]
+    # Build cache only (no reformatting):
+    python batch_reformat.py etc/J25/ etc/TLA/ etc/J22/ --build-cache-only --save-cache
+
+    # Reformat using existing cache:
+    python batch_reformat.py etc/J25/ --load-cache
+
+    # Both at once:
+    python batch_reformat.py etc/J25/ --save-cache
 
 Options:
-    --dry-run       Preview changes without modifying files
-    --save-cache    Save card type cache to disk for future runs
-    --load-cache    Load existing cache from disk before processing
+    --build-cache-only  Build/rebuild cache from deck files without reformatting
+    --dry-run           Preview changes without modifying files
+    --save-cache        Save card data cache to disk after processing
+    --load-cache        Load existing cache from disk before processing
 """
 
 import sys
@@ -22,7 +29,7 @@ import json
 import requests
 from pathlib import Path
 from collections import defaultdict
-from typing import Dict, List, Tuple
+from typing import Dict, List, Tuple, Optional
 
 # Scryfall API endpoint
 SCRYFALL_API = "https://api.scryfall.com/cards/named"
@@ -41,24 +48,49 @@ TYPE_ORDER = [
     "Lands"
 ]
 
-# Cache for card type lookups (shared across all decks)
-card_cache: Dict[str, str] = {}
+# Cache for card data (shared across all decks)
+# Structure: { "Card Name": { "type": "Creatures", "mana_cost": "{1}{U}{U}", ... } }
+card_cache: Dict[str, Dict] = {}
 cache_file = Path(__file__).parent / "card_type_cache.json"
 
 
 def load_cache_from_disk():
-    """Load card type cache from disk if it exists."""
+    """Load card data cache from disk if it exists."""
     global card_cache
     if cache_file.exists():
         with open(cache_file, 'r') as f:
-            card_cache = json.load(f)
+            cache_data = json.load(f)
+
+        # Filter out comment fields that start with underscore
+        card_cache = {k: v for k, v in cache_data.items() if not k.startswith('_')}
+
+        # Handle legacy cache format (string values instead of objects)
+        for card_name, card_data in list(card_cache.items()):
+            if isinstance(card_data, str):
+                # Legacy format: convert to new object format
+                card_cache[card_name] = {"type": card_data}
+
         print(f"Loaded {len(card_cache)} cards from cache file", file=sys.stderr)
 
 
 def save_cache_to_disk():
-    """Save card type cache to disk for future runs."""
+    """Save card data cache to disk for future runs."""
+    # Add attribution at the top
+    output_cache = {
+        "_comment": "Card data derived from Scryfall API (https://scryfall.com). Contains type categories and gameplay data for deck formatting and Discord display. Not affiliated with or endorsed by Scryfall.",
+        "_scryfall_api": "https://scryfall.com/docs/api",
+        "_license": "Data extracted from Scryfall under their API terms of service",
+        "_cache_version": "2.0",
+        "_fields": "type, type_line, mana_cost, cmc, colors, power, toughness, rarity"
+    }
+
+    # Add card data (sorted for consistency)
+    for card_name in sorted(card_cache.keys()):
+        output_cache[card_name] = card_cache[card_name]
+
     with open(cache_file, 'w') as f:
-        json.dump(card_cache, f, indent=2, sort_keys=True)
+        json.dump(output_cache, f, indent=2, sort_keys=False)
+
     print(f"\nSaved {len(card_cache)} cards to cache file: {cache_file}", file=sys.stderr)
 
 
@@ -152,43 +184,6 @@ def parse_card_line(line: str) -> Tuple[int, str, str]:
     return (quantity, card_name, suffix)
 
 
-def get_card_type(card_name: str) -> str:
-    """
-    Query Scryfall API for card type information.
-
-    Returns the primary card type category (Creatures, Sorceries, etc.)
-    """
-    # Check cache first
-    if card_name in card_cache:
-        return card_cache[card_name]
-
-    # Skip special placeholder cards
-    if "Random" in card_name and "rare" in card_name.lower():
-        card_cache[card_name] = "Special"
-        return "Special"
-
-    # Query Scryfall
-    try:
-        time.sleep(REQUEST_DELAY)  # Rate limiting
-        response = requests.get(SCRYFALL_API, params={"exact": card_name}, timeout=10)
-        response.raise_for_status()
-
-        data = response.json()
-        type_line = data.get("type_line", "")
-
-        # Determine primary type
-        card_type = classify_card_type(type_line)
-        card_cache[card_name] = card_type
-
-        print(f"✓ {card_name}: {type_line} -> {card_type}", file=sys.stderr)
-        return card_type
-
-    except requests.exceptions.RequestException as e:
-        print(f"✗ Error fetching {card_name}: {e}", file=sys.stderr)
-        card_cache[card_name] = "Unknown"
-        return "Unknown"
-
-
 def classify_card_type(type_line: str) -> str:
     """
     Classify a card based on its type_line.
@@ -217,6 +212,82 @@ def classify_card_type(type_line: str) -> str:
         return "Lands"
     else:
         return "Unknown"
+
+
+def get_card_data(card_name: str) -> Dict:
+    """
+    Query Scryfall API for card information and cache comprehensive data.
+
+    Returns a dict with card data including:
+    - type: Primary type category (Creatures, Instants, etc.)
+    - type_line: Full type line from Scryfall
+    - mana_cost: Mana cost string (e.g., "{1}{U}{U}")
+    - cmc: Converted mana cost / mana value
+    - colors: Array of color letters (e.g., ["U", "B"])
+    - power: Power value (for creatures)
+    - toughness: Toughness value (for creatures)
+    - rarity: Rarity (common, uncommon, rare, mythic)
+    """
+    # Check cache first
+    if card_name in card_cache:
+        return card_cache[card_name]
+
+    # Skip special placeholder cards
+    if "Random" in card_name and "rare" in card_name.lower():
+        card_data = {"type": "Special"}
+        card_cache[card_name] = card_data
+        return card_data
+
+    # Query Scryfall
+    try:
+        time.sleep(REQUEST_DELAY)  # Rate limiting
+        response = requests.get(SCRYFALL_API, params={"exact": card_name}, timeout=10)
+        response.raise_for_status()
+
+        data = response.json()
+
+        # Extract relevant fields
+        type_line = data.get("type_line", "")
+        card_type = classify_card_type(type_line)
+
+        card_data = {
+            "type": card_type,
+            "type_line": type_line,
+            "mana_cost": data.get("mana_cost", ""),
+            "cmc": data.get("cmc", 0),
+            "colors": data.get("colors", []),
+            "rarity": data.get("rarity", "common")
+        }
+
+        # Add creature-specific fields
+        if card_type == "Creatures":
+            card_data["power"] = data.get("power")
+            card_data["toughness"] = data.get("toughness")
+
+        # Add planeswalker-specific fields
+        if card_type == "Planeswalkers":
+            card_data["loyalty"] = data.get("loyalty")
+
+        card_cache[card_name] = card_data
+
+        print(f"✓ {card_name}: {type_line} -> {card_type}", file=sys.stderr)
+        return card_data
+
+    except requests.exceptions.RequestException as e:
+        print(f"✗ Error fetching {card_name}: {e}", file=sys.stderr)
+        card_data = {"type": "Unknown"}
+        card_cache[card_name] = card_data
+        return card_data
+
+
+def get_card_type(card_name: str) -> str:
+    """
+    Get just the card type category for a card.
+
+    This is a convenience wrapper around get_card_data() for backward compatibility.
+    """
+    card_data = get_card_data(card_name)
+    return card_data.get("type", "Unknown")
 
 
 def reformat_deck(input_file: Path, dry_run: bool = False) -> bool:
@@ -287,6 +358,37 @@ def reformat_deck(input_file: Path, dry_run: bool = False) -> bool:
     return True
 
 
+def build_cache_from_directory(directory: Path):
+    """
+    Build cache by scanning all cards in deck files without reformatting.
+    """
+    deck_files = sorted(directory.glob("*.txt"))
+
+    if not deck_files:
+        print(f"No .txt files found in {directory}", file=sys.stderr)
+        return
+
+    print(f"\nScanning {len(deck_files)} decks in {directory} for cache building...", file=sys.stderr)
+
+    for deck_file in deck_files:
+        try:
+            with open(deck_file, 'r') as f:
+                lines = f.readlines()
+
+            # Skip first line (deck name) and comment lines
+            for line in lines[1:]:
+                if not line.strip().startswith('//'):
+                    _, card_name, _ = parse_card_line(line)
+                    if card_name:
+                        # This will query and cache the card
+                        get_card_data(card_name)
+
+        except Exception as e:
+            print(f"ERROR scanning {deck_file.name}: {e}", file=sys.stderr)
+
+    print(f"{directory.name}: Scanned {len(deck_files)} files", file=sys.stderr)
+
+
 def process_directory(directory: Path, dry_run: bool = False):
     """
     Process all .txt files in a directory.
@@ -318,14 +420,25 @@ def main():
     dry_run = "--dry-run" in sys.argv
     save_cache = "--save-cache" in sys.argv
     load_cache = "--load-cache" in sys.argv
+    build_cache_only = "--build-cache-only" in sys.argv
 
     if not args:
-        print("Usage: python batch_reformat.py <directory> [<directory>...] [--dry-run] [--save-cache] [--load-cache]", file=sys.stderr)
-        print("\nExample:", file=sys.stderr)
-        print("  python batch_reformat.py etc/J25/ etc/TLA/ --load-cache --save-cache", file=sys.stderr)
+        print("Usage: python batch_reformat.py <directory> [<directory>...] [options]", file=sys.stderr)
+        print("\nOptions:", file=sys.stderr)
+        print("  --build-cache-only  Build cache without reformatting files", file=sys.stderr)
+        print("  --dry-run           Preview changes without modifying files", file=sys.stderr)
+        print("  --save-cache        Save cache to disk after processing", file=sys.stderr)
+        print("  --load-cache        Load existing cache before processing", file=sys.stderr)
+        print("\nExamples:", file=sys.stderr)
+        print("  # Build cache from all decks:", file=sys.stderr)
+        print("  python batch_reformat.py ../../etc/*/ --build-cache-only --save-cache", file=sys.stderr)
+        print("\n  # Reformat using cache:", file=sys.stderr)
+        print("  python batch_reformat.py ../../etc/J25/ --load-cache", file=sys.stderr)
         return 1
 
-    if dry_run:
+    if build_cache_only:
+        print("=== CACHE BUILD MODE - Files will not be reformatted ===\n", file=sys.stderr)
+    elif dry_run:
         print("=== DRY RUN MODE - No files will be changed ===\n", file=sys.stderr)
 
     # Load cache if requested
@@ -343,10 +456,13 @@ def main():
             print(f"Not a directory: {directory}", file=sys.stderr)
             continue
 
-        process_directory(directory, dry_run)
+        if build_cache_only:
+            build_cache_from_directory(directory)
+        else:
+            process_directory(directory, dry_run)
 
     # Save cache if requested
-    if save_cache and not dry_run:
+    if save_cache:
         save_cache_to_disk()
 
     print(f"\n✓ Complete! Cache contains {len(card_cache)} unique cards", file=sys.stderr)
