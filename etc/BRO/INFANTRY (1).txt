@@ -1,11 +1,12 @@
 INFANTRY (1)
-//Creatures (6)
+//Creatures (7)
 1 Aeronaut Cavalry
 1 Airlift Chaplain
 1 Phalanx Vanguard
 1 Recruitment Officer
 1 Warlord's Elite
 1 Reconstructed Thopter
+1 Rescue Retriever
 //Sorceries (2)
 1 Lay Down Arms
 1 Recommission
@@ -18,5 +19,3 @@ INFANTRY (1)
 2 Plains
 //Special
 1 Random white rare or mythic rare
-//Unknown
-1 Rescue Retriever

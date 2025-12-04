@@ -1,11 +1,12 @@
 TITANIC (1)
-//Creatures (6)
+//Creatures (7)
 1 Argothian Opportunist
 1 Blanchwood Prowler
 1 Sarinth Steelseeker
 1 Cradle Clearcutter
 1 Iron-Craw Crusher
 1 Rust Goliath
+1 Woodcaller Automaton
 //Sorceries (2)
 1 Bushwhack
 1 Shoot Down
@@ -17,5 +18,3 @@ TITANIC (1)
 2 Forest
 //Special
 1 Random green rare or mythic rare
-//Unknown
-1 Woodcaller Automaton

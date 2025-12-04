@@ -1,11 +1,12 @@
 MONSTER TERRITORY
-//Creatures (6)
+//Creatures (7)
 1 Floriferous Vinewall
 1 Sunbathing Rootwalla
 1 Nishoba Brawler
 1 Magnigoth Sentry
 1 Territorial Maro
 1 Yavimaya Sojourner
+1 Briar Hydra
 //Sorceries (1)
 1 Slimefoot's Survey
 //Instants (2)
@@ -23,5 +24,3 @@ MONSTER TERRITORY
 2 Forest
 //Special
 1 Random green rare or mythic rare
-//Unknown
-1 Briar Hydra

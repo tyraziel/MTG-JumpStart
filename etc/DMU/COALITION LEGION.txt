@@ -1,11 +1,12 @@
 COALITION LEGION
-//Creatures (6)
+//Creatures (7)
 1 Samite Herbalist
 1 Benalish Faithbonder
 1 Knight of Dawn's Light
 1 Argivian Cavalier
 1 Charismatic Vanguard
 1 Griffin Protector
+1 Serra Redeemer
 //Instants (2)
 1 Take Up the Shield
 1 Join Forces
@@ -18,5 +19,3 @@ COALITION LEGION
 2 Plains
 //Special
 1 Random white rare or mythic rare, or Karn, Living Legacy
-//Unknown
-1 Serra Redeemer

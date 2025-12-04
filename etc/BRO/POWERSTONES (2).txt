@@ -1,11 +1,12 @@
 POWERSTONES (2)
-//Creatures (6)
+//Creatures (7)
 1 Koilos Roc
 1 Lat-Nam Adept
 1 Thopter Mechanic
 1 Urza, Powerstone Prodigy
 1 Combat Courier
 1 Hulking Metamorph
+1 Geology Enthusiast
 //Sorceries (1)
 1 Involuntary Cooldown
 //Instants (1)
@@ -18,5 +19,3 @@ POWERSTONES (2)
 2 Island
 //Special
 1 Random blue rare or mythic rare; or Liberator, Urza's Battlethopter; or Thran Spider
-//Unknown
-1 Geology Enthusiast

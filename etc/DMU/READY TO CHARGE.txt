@@ -1,11 +1,12 @@
 READY TO CHARGE
-//Creatures (6)
+//Creatures (7)
 1 Electrostatic Infantry
 1 Yavimaya Steelcrusher
 1 Balduvian Berserker
 1 Dragon Whelp
 1 Coalition Warbrute
 1 Molten Monstrosity
+1 Ragefire Hellkite
 //Sorceries (1)
 1 Jaya's Firenado
 //Instants (3)
@@ -18,5 +19,3 @@ READY TO CHARGE
 2 Mountain
 //Special
 1 Random red rare or mythic rare
-//Unknown
-1 Ragefire Hellkite

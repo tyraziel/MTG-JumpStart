@@ -1,5 +1,5 @@
 INFANTRY (2)
-//Creatures (7)
+//Creatures (8)
 1 Aeronaut Cavalry
 1 Ambush Paratrooper
 1 Phalanx Vanguard
@@ -7,6 +7,7 @@ INFANTRY (2)
 1 Warlord's Elite
 1 Scrapwork Cohort
 1 Yotian Frontliner
+1 Rescue Retriever
 //Sorceries (1)
 1 Lay Down Arms
 //Artifacts (1)
@@ -18,5 +19,3 @@ INFANTRY (2)
 2 Plains
 //Special
 1 Random white rare or mythic rare
-//Unknown
-1 Rescue Retriever

@@ -1,11 +1,12 @@
 READY TO ATTACK
-//Creatures (6)
+//Creatures (7)
 1 Phoenix Chick
 1 Electrostatic Infantry
 1 Goblin Picker
 1 Flowstone Kavu
 1 Dragon Whelp
 1 Coalition Warbrute
+1 Ragefire Hellkite
 //Sorceries (1)
 1 Jaya's Firenado
 //Instants (2)
@@ -19,5 +20,3 @@ READY TO ATTACK
 2 Mountain
 //Special
 1 Random red rare or mythic rare
-//Unknown
-1 Ragefire Hellkite

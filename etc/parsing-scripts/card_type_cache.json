@@ -1510,6 +1510,16 @@
     "power": "3",
     "toughness": "2"
   },
+  "Artificer's Dragon": {
+    "type": "Creatures",
+    "type_line": "Artifact Creature \u2014 Dragon",
+    "mana_cost": "{6}",
+    "cmc": 6.0,
+    "colors": [],
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "4"
+  },
   "Artificer's Dragon (Jumpstart Booster rare)": {
     "type": "Unknown"
   },
@@ -3670,6 +3680,18 @@
     "power": "3",
     "toughness": "2"
   },
+  "Briar Hydra": {
+    "type": "Creatures",
+    "type_line": "Creature \u2014 Plant Hydra",
+    "mana_cost": "{5}{G}",
+    "cmc": 6.0,
+    "colors": [
+      "G"
+    ],
+    "rarity": "rare",
+    "power": "6",
+    "toughness": "6"
+  },
   "Briar Hydra (Jumpstart Booster rare)": {
     "type": "Unknown"
   },
@@ -5531,6 +5553,16 @@
     "rarity": "rare",
     "power": "2",
     "toughness": "2"
+  },
+  "Cosmic Epiphany": {
+    "type": "Sorceries",
+    "type_line": "Sorcery",
+    "mana_cost": "{4}{U}{U}",
+    "cmc": 6.0,
+    "colors": [
+      "U"
+    ],
+    "rarity": "rare"
   },
   "Cosmic Epiphany (Jumpstart Booster rare)": {
     "type": "Unknown"
@@ -10958,6 +10990,18 @@
     "rarity": "rare",
     "power": "2",
     "toughness": "2"
+  },
+  "Geology Enthusiast": {
+    "type": "Creatures",
+    "type_line": "Creature \u2014 Human Artificer",
+    "mana_cost": "{3}{U}{U}",
+    "cmc": 5.0,
+    "colors": [
+      "U"
+    ],
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "5"
   },
   "Geology Enthusiast (Jumpstart Booster rare)": {
     "type": "Unknown"
@@ -21272,6 +21316,18 @@
     "power": "2",
     "toughness": "3"
   },
+  "Ragefire Hellkite": {
+    "type": "Creatures",
+    "type_line": "Creature \u2014 Dragon",
+    "mana_cost": "{4}{R}{R}",
+    "cmc": 6.0,
+    "colors": [
+      "R"
+    ],
+    "rarity": "rare",
+    "power": "5",
+    "toughness": "3"
+  },
   "Ragefire Hellkite (Jumpstart Booster rare)": {
     "type": "Unknown"
   },
@@ -22098,6 +22154,18 @@
       "R"
     ],
     "rarity": "uncommon"
+  },
+  "Rescue Retriever": {
+    "type": "Creatures",
+    "type_line": "Creature \u2014 Dog Soldier",
+    "mana_cost": "{3}{W}{W}",
+    "cmc": 5.0,
+    "colors": [
+      "W"
+    ],
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3"
   },
   "Rescue Retriever (Jumpstart Booster rare)": {
     "type": "Unknown"
@@ -24017,6 +24085,18 @@
     ],
     "rarity": "uncommon",
     "power": "4",
+    "toughness": "4"
+  },
+  "Serra Redeemer": {
+    "type": "Creatures",
+    "type_line": "Creature \u2014 Angel Soldier",
+    "mana_cost": "{3}{W}{W}",
+    "cmc": 5.0,
+    "colors": [
+      "W"
+    ],
+    "rarity": "rare",
+    "power": "2",
     "toughness": "4"
   },
   "Serra Redeemer (Jumpstart Booster rare)": {
@@ -27096,6 +27176,16 @@
     "power": "2",
     "toughness": "1"
   },
+  "Terror Ballista": {
+    "type": "Creatures",
+    "type_line": "Artifact Creature \u2014 Construct",
+    "mana_cost": "{7}",
+    "cmc": 7.0,
+    "colors": [],
+    "rarity": "rare",
+    "power": "5",
+    "toughness": "3"
+  },
   "Terror Ballista (Jumpstart Booster rare)": {
     "type": "Unknown"
   },
@@ -28673,6 +28763,18 @@
     "rarity": "common",
     "power": "1",
     "toughness": "1"
+  },
+  "Tyrannical Pitlord": {
+    "type": "Creatures",
+    "type_line": "Creature \u2014 Demon",
+    "mana_cost": "{4}{B}{B}",
+    "cmc": 6.0,
+    "colors": [
+      "B"
+    ],
+    "rarity": "rare",
+    "power": "6",
+    "toughness": "6"
   },
   "Tyrannical Pitlord (Jumpstart Booster rare)": {
     "type": "Unknown"
@@ -30892,6 +30994,16 @@
     "rarity": "uncommon",
     "power": "4",
     "toughness": "4"
+  },
+  "Woodcaller Automaton": {
+    "type": "Creatures",
+    "type_line": "Artifact Creature \u2014 Construct",
+    "mana_cost": "{10}",
+    "cmc": 10.0,
+    "colors": [],
+    "rarity": "rare",
+    "power": "8",
+    "toughness": "8"
   },
   "Woodcaller Automaton (Jumpstart Booster rare)": {
     "type": "Unknown"

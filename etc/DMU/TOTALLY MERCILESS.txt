@@ -1,11 +1,12 @@
 TOTALLY MERCILESS
-//Creatures (6)
+//Creatures (7)
 1 Knight of Dusk's Shadow
 1 Phyrexian Vivisector
 1 Eerie Soultender
 1 Phyrexian Rager
 1 Sengir Connoisseur
 1 Writhing Necromass
+1 Tyrannical Pitlord
 //Sorceries (1)
 1 Pilfer
 //Instants (2)
@@ -19,5 +20,3 @@ TOTALLY MERCILESS
 2 Swamp
 //Special
 1 Random black rare or mythic rare, or Weatherlight Compleated
-//Unknown
-1 Tyrannical Pitlord

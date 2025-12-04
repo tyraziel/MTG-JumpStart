@@ -1,11 +1,12 @@
 UNEARTHED (2)
-//Creatures (6)
+//Creatures (7)
 1 Gixian Skullflayer
 1 Gnawing Vermin
 1 Ravenous Gigamole
 1 Thraxodemon
 1 Ashnod's Harvester
 1 Scrapwork Rager
+1 Terror Ballista
 //Sorceries (1)
 1 Gruesome Realization
 //Instants (1)
@@ -18,5 +19,3 @@ UNEARTHED (2)
 2 Swamp
 //Special
 1 Random black rare or mythic rare
-//Unknown
-1 Terror Ballista

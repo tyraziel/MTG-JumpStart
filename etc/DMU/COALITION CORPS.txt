@@ -1,11 +1,12 @@
 COALITION CORPS
-//Creatures (6)
+//Creatures (7)
 1 Clockwork Drawbridge
 1 Resolute Reinforcements
 1 Argivian Cavalier
 1 Charismatic Vanguard
 1 Griffin Protector
 1 Argivian Phalanx
+1 Serra Redeemer
 //Sorceries (1)
 1 Captain's Call
 //Instants (1)
@@ -19,5 +20,3 @@ COALITION CORPS
 2 Plains
 //Special
 1 Random white rare or mythic rare, or Karn, Living Legacy
-//Unknown
-1 Serra Redeemer

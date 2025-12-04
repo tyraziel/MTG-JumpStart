@@ -1,11 +1,12 @@
 UNEARTHED (1)
-//Creatures (6)
+//Creatures (7)
 1 Kill-Zone Acrobat
 1 Ravenous Gigamole
 1 Thraxodemon
 1 Ashnod's Harvester
 1 Clay Revenant
 1 Scrapwork Rager
+1 Terror Ballista
 //Sorceries (2)
 1 Gruesome Realization
 1 No One Left Behind
@@ -17,5 +18,3 @@ UNEARTHED (1)
 2 Swamp
 //Special
 1 Random black rare or mythic rare
-//Unknown
-1 Terror Ballista

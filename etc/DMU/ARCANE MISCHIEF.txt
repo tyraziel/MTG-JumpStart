@@ -6,8 +6,9 @@ ARCANE MISCHIEF
 1 Talas Lookout
 1 Frostfist Strider
 1 Djinn of the Fountain
-//Sorceries (1)
+//Sorceries (2)
 1 Impede Momentum
+1 Cosmic Epiphany
 //Instants (2)
 1 Impulse
 1 Shore Up
@@ -19,5 +20,3 @@ ARCANE MISCHIEF
 2 Island
 //Special
 1 Random blue rare or mythic rare
-//Unknown
-1 Cosmic Epiphany
