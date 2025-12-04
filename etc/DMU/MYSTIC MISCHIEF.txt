@@ -20,4 +20,4 @@ MYSTIC MISCHIEF
 //Special
 1 Random blue rare or mythic rare
 //Unknown
-1 Cosmic Epiphany (Jumpstart Booster rare)
+1 Cosmic Epiphany

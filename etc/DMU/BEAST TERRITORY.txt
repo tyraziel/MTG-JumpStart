@@ -23,4 +23,4 @@ BEAST TERRITORY
 //Special
 1 Random green rare or mythic rare
 //Unknown
-1 Briar Hydra (Jumpstart Booster rare)
+1 Briar Hydra
