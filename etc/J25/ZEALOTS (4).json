@@ -1,0 +1,186 @@
+{
+  "deck_name": "ZEALOTS (4)",
+  "set": "J25",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Sandstorm Crasher",
+      "type": "Creatures",
+      "type_line": "Creature — Minotaur Berserker Wizard",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare",
+      "power": "3",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Zealous Conscripts",
+      "type": "Creatures",
+      "type_line": "Creature — Human Warrior",
+      "mana_cost": "{4}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Anep, Vizier of Hazoret",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Jackal Warrior",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Battlefield Scavenger",
+      "type": "Creatures",
+      "type_line": "Creature — Jackal Rogue",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Bloodlust Inciter",
+      "type": "Creatures",
+      "type_line": "Creature — Human Warrior",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Minotaur Sureshot",
+      "type": "Creatures",
+      "type_line": "Creature — Minotaur Archer",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Nef-Crop Entangler",
+      "type": "Creatures",
+      "type_line": "Creature — Human Warrior",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Trueheart Twins",
+      "type": "Creatures",
+      "type_line": "Creature — Jackal Warrior",
+      "mana_cost": "{4}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Fling",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Kindled Fury",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Cartouche of Zeal",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura Cartouche",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Trial of Zeal",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Bluff",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

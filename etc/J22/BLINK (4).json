@@ -1,0 +1,182 @@
+{
+  "deck_name": "BLINK (4)",
+  "set": "J22",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Distinguished Conjurer",
+      "type": "Creatures",
+      "type_line": "Creature — Human Wizard",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Pierce Strider",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Phyrexian Construct",
+      "mana_cost": "{4}",
+      "cmc": 4.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Wispweaver Angel",
+      "type": "Creatures",
+      "type_line": "Creature — Angel",
+      "mana_cost": "{4}{W}{W}",
+      "cmc": 6.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Cavalry Drillmaster",
+      "type": "Creatures",
+      "type_line": "Creature — Human Knight",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Brightmare",
+      "type": "Creatures",
+      "type_line": "Creature — Unicorn",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Inspiring Overseer",
+      "type": "Creatures",
+      "type_line": "Creature — Angel Cleric",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Seller of Songbirds",
+      "type": "Creatures",
+      "type_line": "Creature — Human",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Rambunctious Mutt",
+      "type": "Creatures",
+      "type_line": "Creature — Dog",
+      "mana_cost": "{3}{W}{W}",
+      "cmc": 5.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Settle Beyond Reality",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{4}{W}",
+      "cmc": 5.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Flicker of Fate",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Panharmonicon",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{4}",
+      "cmc": 4.0,
+      "colors": [],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Faith's Fetters",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{3}{W}",
+      "cmc": 4.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Heath",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Plains",
+      "type": "Lands",
+      "type_line": "Basic Land — Plains",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "deck_name": "ORCISH 1",
+  "set": "LTR",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Warg Rider",
+      "type": "Creatures",
+      "type_line": "Creature — Orc Warrior",
+      "mana_cost": "{4}{B}",
+      "cmc": 5.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Easterling Vanguard",
+      "type": "Creatures",
+      "type_line": "Creature — Human Warrior",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Dunland Crebain",
+      "type": "Creatures",
+      "type_line": "Creature — Bird Horror",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Mirkwood Bats",
+      "type": "Creatures",
+      "type_line": "Creature — Bat",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Gorbag of Minas Morgul",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Orc Soldier",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Gothmog, Morgul Lieutenant",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Soldier",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Mordor Muster",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Sam's Desperate Rescue",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{B}",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Orcish Medicine",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Bitter Downfall",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Grond, the Gatebreaker",
+      "type": "Artifacts",
+      "type_line": "Legendary Artifact — Vehicle",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 8,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Rare or mythic rare",
+      "type": "Special"
+    }
+  ]
+}

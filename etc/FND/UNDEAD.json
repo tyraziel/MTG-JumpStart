@@ -1,0 +1,186 @@
+{
+  "deck_name": "UNDEAD",
+  "set": "FND",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Death Baron",
+      "type": "Creatures",
+      "type_line": "Creature — Zombie Wizard",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Hungry Ghoul",
+      "type": "Creatures",
+      "type_line": "Creature — Zombie",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Diregraf Ghoul",
+      "type": "Creatures",
+      "type_line": "Creature — Zombie",
+      "mana_cost": "{B}",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Reassembling Skeleton",
+      "type": "Creatures",
+      "type_line": "Creature — Skeleton Warrior",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Crow of Dark Tidings",
+      "type": "Creatures",
+      "type_line": "Creature — Zombie Bird",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Maalfeld Twins",
+      "type": "Creatures",
+      "type_line": "Creature — Zombie",
+      "mana_cost": "{5}{B}",
+      "cmc": 6.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Skeleton Archer",
+      "type": "Creatures",
+      "type_line": "Creature — Skeleton Archer",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Suspicious Shambler",
+      "type": "Creatures",
+      "type_line": "Creature — Zombie",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Eaten Alive",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{B}",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Cemetery Recruitment",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Deadly Plot",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Undying Malice",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{B}",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Uncharted Haven",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

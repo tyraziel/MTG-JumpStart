@@ -1,0 +1,167 @@
+{
+  "deck_name": "REINFORCEMENT 1",
+  "set": "MOM",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Cragsmasher Yeti",
+      "type": "Creatures",
+      "type_line": "Creature — Yeti",
+      "mana_cost": "{4}{R}{R}",
+      "cmc": 6.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Karsus Depthguard",
+      "type": "Creatures",
+      "type_line": "Creature — Lizard Warrior",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Hangar Scrounger",
+      "type": "Creatures",
+      "type_line": "Creature — Dwarf Pilot",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Redcap Heelslasher",
+      "type": "Creatures",
+      "type_line": "Creature — Goblin Rogue",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Axgard Artisan",
+      "type": "Creatures",
+      "type_line": "Creature — Dwarf Artificer",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Fearless Skald",
+      "type": "Creatures",
+      "type_line": "Creature — Dwarf Berserker",
+      "mana_cost": "{4}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Orthion, Hero of Lavabrink",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Soldier",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Ral's Reinforcements",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Coming In Hot",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Volcanic Spite",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Stoke the Flames",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{R}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 8,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Random rare or mythic rare",
+      "type": "Special"
+    }
+  ]
+}

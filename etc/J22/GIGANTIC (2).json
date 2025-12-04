@@ -1,0 +1,186 @@
+{
+  "deck_name": "GIGANTIC (2)",
+  "set": "J22",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Paradise Druid",
+      "type": "Creatures",
+      "type_line": "Creature — Elf Druid",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Thrashing Brontodon",
+      "type": "Creatures",
+      "type_line": "Creature — Dinosaur",
+      "mana_cost": "{1}{G}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Colossal Dreadmaw",
+      "type": "Creatures",
+      "type_line": "Creature — Dinosaur",
+      "mana_cost": "{4}{G}{G}",
+      "cmc": 6.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "6",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Runadi, Behemoth Caller",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Cat Shaman",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "rare",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Engulfing Slagwurm",
+      "type": "Creatures",
+      "type_line": "Creature — Wurm",
+      "mana_cost": "{5}{G}{G}",
+      "cmc": 7.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "rare",
+      "power": "7",
+      "toughness": "7"
+    },
+    {
+      "quantity": 1,
+      "name": "Towering Gibbon",
+      "type": "Creatures",
+      "type_line": "Creature — Ape",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "*",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Ondu Giant",
+      "type": "Creatures",
+      "type_line": "Creature — Giant Druid",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Mammoth Spider",
+      "type": "Creatures",
+      "type_line": "Creature — Spider",
+      "mana_cost": "{4}{G}",
+      "cmc": 5.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Gift of the Gargantuan",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Enlarge",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{3}{G}{G}",
+      "cmc": 5.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Prey Upon",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{G}",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Overgrowth",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Grove",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Forest",
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

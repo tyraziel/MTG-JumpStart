@@ -1,0 +1,189 @@
+{
+  "deck_name": "GOBLINS (4)",
+  "set": "JMP",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Krenko, Mob Boss",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Goblin Warrior",
+      "mana_cost": "{2}{R}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Goblin Commando",
+      "type": "Creatures",
+      "type_line": "Creature — Goblin",
+      "mana_cost": "{4}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Boggart Brute",
+      "type": "Creatures",
+      "type_line": "Creature — Goblin Warrior",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Goblin Instigator",
+      "type": "Creatures",
+      "type_line": "Creature — Goblin Rogue",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Goblin Shortcutter",
+      "type": "Creatures",
+      "type_line": "Creature — Goblin Scout",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Ornery Goblin",
+      "type": "Creatures",
+      "type_line": "Creature — Goblin Warrior",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Goblin Arsonist",
+      "type": "Creatures",
+      "type_line": "Creature — Goblin Shaman",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Goblin Lore",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Goblin Rally",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{3}{R}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Outnumber",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Burn Bright",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Makeshift Munitions",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Bluff",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Goblins Mountain",
+      "type": "Unknown"
+    }
+  ]
+}

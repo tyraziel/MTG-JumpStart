@@ -1,0 +1,196 @@
+{
+  "deck_name": "OF THE COAST (2)",
+  "set": "J25",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Plagon, Lord of the Beach",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Starfish Wizard",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "rare",
+      "power": "0",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Gilded Scuttler",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Crab",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Azure Drake",
+      "type": "Creatures",
+      "type_line": "Creature — Drake",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Glimmerbell",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental Jellyfish",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Shipwreck Dowser",
+      "type": "Creatures",
+      "type_line": "Creature — Merfolk Wizard",
+      "mana_cost": "{3}{U}{U}",
+      "cmc": 5.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Shorecomber Crab",
+      "type": "Creatures",
+      "type_line": "Creature — Crab",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "0",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Sigiled Starfish",
+      "type": "Creatures",
+      "type_line": "Creature — Starfish",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "0",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Tidepool Turtle",
+      "type": "Creatures",
+      "type_line": "Creature — Turtle",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Delightful Discovery",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{4}{U}",
+      "cmc": 5.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Run Ashore",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{4}{U}{U}",
+      "cmc": 6.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Opt",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Starlight Snare",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Lonely Sandbar",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

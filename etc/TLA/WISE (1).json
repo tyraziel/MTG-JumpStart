@@ -1,0 +1,190 @@
+{
+  "deck_name": "WISE (1)",
+  "set": "TLA",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Gran-Gran",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Peasant Ally",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Forecasting Fortune Teller",
+      "type": "Creatures",
+      "type_line": "Creature — Human Advisor Ally",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Otter-Penguin",
+      "type": "Creatures",
+      "type_line": "Creature — Otter Bird",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Katara, Bending Prodigy",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Warrior Ally",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Rowdy Snowballers",
+      "type": "Creatures",
+      "type_line": "Creature — Human Peasant Ally",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Messenger Hawk",
+      "type": "Creatures",
+      "type_line": "Creature — Bird Scout",
+      "mana_cost": "{2}{U/B}",
+      "cmc": 3.0,
+      "colors": [
+        "B",
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Turtle-Seals",
+      "type": "Creatures",
+      "type_line": "Creature — Turtle Seal",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Waterbending Lesson",
+      "type": "Sorceries",
+      "type_line": "Sorcery — Lesson",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Consider",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Waterbender's Restoration",
+      "type": "Instants",
+      "type_line": "Instant — Lesson",
+      "mana_cost": "{U}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Whirlwind Technique",
+      "type": "Instants",
+      "type_line": "Instant — Lesson",
+      "mana_cost": "{4}{U}{U}",
+      "cmc": 6.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Coastal Piracy",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{2}{U}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Island Appa",
+      "type": "Unknown"
+    }
+  ]
+}

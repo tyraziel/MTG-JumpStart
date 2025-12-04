@@ -1,0 +1,182 @@
+{
+  "deck_name": "LANDFALL (4)",
+  "set": "J25",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Scythecat Cub",
+      "type": "Creatures",
+      "type_line": "Creature — Cat",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Sutina, Speaker of the Tajuru",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Elf Scout",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Baloth Woodcrasher",
+      "type": "Creatures",
+      "type_line": "Creature — Beast",
+      "mana_cost": "{4}{G}{G}",
+      "cmc": 6.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Canopy Baloth",
+      "type": "Creatures",
+      "type_line": "Creature — Beast",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Grazing Gladehart",
+      "type": "Creatures",
+      "type_line": "Creature — Antelope",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Snapping Gnarlid",
+      "type": "Creatures",
+      "type_line": "Creature — Beast",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Sporemound",
+      "type": "Creatures",
+      "type_line": "Creature — Fungus",
+      "mana_cost": "{3}{G}{G}",
+      "cmc": 5.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Bite Down",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Groundswell",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{G}",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Harrow",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Skyclave Pick-Axe",
+      "type": "Artifacts",
+      "type_line": "Artifact — Equipment",
+      "mana_cost": "{G}",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Evolving Wilds",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Grove",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Forest",
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

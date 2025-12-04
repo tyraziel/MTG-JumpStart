@@ -1,0 +1,185 @@
+{
+  "deck_name": "ANGELS (1)",
+  "set": "JMP",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Emancipation Angel",
+      "type": "Creatures",
+      "type_line": "Creature — Angel",
+      "mana_cost": "{1}{W}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Serra Angel",
+      "type": "Creatures",
+      "type_line": "Creature — Angel",
+      "mana_cost": "{3}{W}{W}",
+      "cmc": 5.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Angelic Page",
+      "type": "Creatures",
+      "type_line": "Creature — Angel Spirit",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Voice of the Provinces",
+      "type": "Creatures",
+      "type_line": "Creature — Angel",
+      "mana_cost": "{4}{W}{W}",
+      "cmc": 6.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Baneslayer Angel",
+      "type": "Creatures",
+      "type_line": "Creature — Angel",
+      "mana_cost": "{3}{W}{W}",
+      "cmc": 5.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "mythic",
+      "power": "5",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Anointed Chorister",
+      "type": "Creatures",
+      "type_line": "Creature — Human Cleric",
+      "mana_cost": "{W}",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Celestial Enforcer",
+      "type": "Creatures",
+      "type_line": "Creature — Human Cleric",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Angelic Edict",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{4}{W}",
+      "cmc": 5.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Angelic Ascension",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Feat of Resistance",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Guardian Idol",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Scroll of Avacyn",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{1}",
+      "cmc": 1.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Heath",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Plains",
+      "type": "Lands",
+      "type_line": "Basic Land — Plains",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Angels Plains",
+      "type": "Unknown"
+    }
+  ]
+}

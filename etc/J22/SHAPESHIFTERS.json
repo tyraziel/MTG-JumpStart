@@ -1,0 +1,180 @@
+{
+  "deck_name": "SHAPESHIFTERS",
+  "set": "J22",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Pirated Copy",
+      "type": "Creatures",
+      "type_line": "Creature — Shapeshifter Pirate",
+      "mana_cost": "{4}{U}",
+      "cmc": 5.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "mythic",
+      "power": "0",
+      "toughness": "0"
+    },
+    {
+      "quantity": 1,
+      "name": "Gigantoplasm",
+      "type": "Creatures",
+      "type_line": "Creature — Shapeshifter",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "rare",
+      "power": "0",
+      "toughness": "0"
+    },
+    {
+      "quantity": 1,
+      "name": "Mirror Image",
+      "type": "Creatures",
+      "type_line": "Creature — Shapeshifter",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "0",
+      "toughness": "0"
+    },
+    {
+      "quantity": 1,
+      "name": "Bloodline Pretender",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Shapeshifter",
+      "mana_cost": "{3}",
+      "cmc": 3.0,
+      "colors": [],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Universal Automaton",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Shapeshifter",
+      "mana_cost": "{1}",
+      "cmc": 1.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Amoeboid Changeling",
+      "type": "Creatures",
+      "type_line": "Creature — Shapeshifter",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Mistwalker",
+      "type": "Creatures",
+      "type_line": "Creature — Shapeshifter",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Littjara Kinseekers",
+      "type": "Creatures",
+      "type_line": "Creature — Shapeshifter",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Crashing Tide",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Chilling Trap",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Lookout's Dispersal",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Heirloom Blade",
+      "type": "Artifacts",
+      "type_line": "Artifact — Equipment",
+      "mana_cost": "{3}",
+      "cmc": 3.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

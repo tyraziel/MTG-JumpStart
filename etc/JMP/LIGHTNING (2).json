@@ -1,0 +1,175 @@
+{
+  "deck_name": "LIGHTNING (2)",
+  "set": "JMP",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Ball Lightning",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental",
+      "mana_cost": "{R}{R}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare",
+      "power": "6",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Lightning Phoenix",
+      "type": "Creatures",
+      "type_line": "Creature — Phoenix",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Living Lightning",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental Shaman",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Weaver of Lightning",
+      "type": "Creatures",
+      "type_line": "Creature — Human Shaman",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "4"
+    },
+    {
+      "quantity": 2,
+      "name": "Lightning Visionary",
+      "type": "Creatures",
+      "type_line": "Creature — Minotaur Shaman",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Lightning Elemental",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Lightning-Core Excavator",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Golem",
+      "mana_cost": "{1}",
+      "cmc": 1.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "0",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Chain Lightning",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Lightning Axe",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Riddle of Lightning",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{R}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Lightning Diadem",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{5}{R}",
+      "cmc": 6.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Bluff",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Lightning Mountain",
+      "type": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "deck_name": "HEALERS (4)",
+  "set": "J25",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Felidar Sovereign",
+      "type": "Creatures",
+      "type_line": "Creature — Cat Beast",
+      "mana_cost": "{4}{W}{W}",
+      "cmc": 6.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Rhox Faithmender",
+      "type": "Creatures",
+      "type_line": "Creature — Rhino Monk",
+      "mana_cost": "{3}{W}",
+      "cmc": 4.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "rare",
+      "power": "1",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Hinterland Sanctifier",
+      "type": "Creatures",
+      "type_line": "Creature — Rabbit Cleric",
+      "mana_cost": "{W}",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Qala, Ajani's Pridemate",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Cat Warrior",
+      "mana_cost": "{3}{W}",
+      "cmc": 4.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Ajani's Pridemate",
+      "type": "Creatures",
+      "type_line": "Creature — Cat Soldier",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Angel of Vitality",
+      "type": "Creatures",
+      "type_line": "Creature — Angel",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Brightmare",
+      "type": "Creatures",
+      "type_line": "Creature — Unicorn",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Mesa Unicorn",
+      "type": "Creatures",
+      "type_line": "Creature — Unicorn",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Battlefield Promotion",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Divine Arrow",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Revitalize",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Faith's Fetters",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{3}{W}",
+      "cmc": 4.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Heath",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Plains",
+      "type": "Lands",
+      "type_line": "Basic Land — Plains",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

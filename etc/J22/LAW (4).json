@@ -1,0 +1,184 @@
+{
+  "deck_name": "LAW (4)",
+  "set": "J22",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Isamaru, Hound of Konda",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Dog",
+      "mana_cost": "{W}",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Michiko Konda, Truth Seeker",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Advisor",
+      "mana_cost": "{3}{W}",
+      "cmc": 4.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Magnanimous Magistrate",
+      "type": "Creatures",
+      "type_line": "Creature — Human Advisor",
+      "mana_cost": "{5}{W}",
+      "cmc": 6.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Ninth Bridge Patrol",
+      "type": "Creatures",
+      "type_line": "Creature — Dwarf Soldier",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Kami of Ancient Law",
+      "type": "Creatures",
+      "type_line": "Creature — Spirit",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Midnight Guard",
+      "type": "Creatures",
+      "type_line": "Creature — Human Soldier",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Nightguard Patrol",
+      "type": "Creatures",
+      "type_line": "Creature — Human Soldier",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Skyhunter Patrol",
+      "type": "Creatures",
+      "type_line": "Creature — Cat Knight",
+      "mana_cost": "{2}{W}{W}",
+      "cmc": 4.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Bring to Trial",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Edifice of Authority",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{3}",
+      "cmc": 3.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Arrest",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Murder Investigation",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Heath",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Plains",
+      "type": "Lands",
+      "type_line": "Basic Land — Plains",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

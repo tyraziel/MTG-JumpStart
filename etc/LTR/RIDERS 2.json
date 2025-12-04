@@ -1,0 +1,165 @@
+{
+  "deck_name": "RIDERS 2",
+  "set": "LTR",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Riders of the Mark",
+      "type": "Creatures",
+      "type_line": "Creature — Human Knight",
+      "mana_cost": "{6}{R}",
+      "cmc": 7.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare",
+      "power": "7",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Rohirrim Lancer",
+      "type": "Creatures",
+      "type_line": "Creature — Human Knight",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Haradrim Spearmaster",
+      "type": "Creatures",
+      "type_line": "Creature — Human Warrior",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Relentless Rohirrim",
+      "type": "Creatures",
+      "type_line": "Creature — Human Knight",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Erkenbrand, Lord of Westfold",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Soldier",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Éomer of the Riddermark",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Knight",
+      "mana_cost": "{4}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "5",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Rally at the Hornburg",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Fear, Fire, Foes!",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{X}{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Smite the Deathless",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Gimli's Axe",
+      "type": "Artifacts",
+      "type_line": "Artifact — Equipment",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Book of Mazarbul",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Saga",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 8,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Rare or mythic rare",
+      "type": "Special"
+    }
+  ]
+}

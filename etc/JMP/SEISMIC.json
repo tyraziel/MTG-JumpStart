@@ -1,0 +1,185 @@
+{
+  "deck_name": "SEISMIC",
+  "set": "JMP",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Grim Lavamancer",
+      "type": "Creatures",
+      "type_line": "Creature — Human Wizard",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Cinder Elemental",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Seismic Elemental",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental",
+      "mana_cost": "{3}{R}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Ashmouth Hound",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental Dog",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Bloodrock Cyclops",
+      "type": "Creatures",
+      "type_line": "Creature — Cyclops",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Molten Ravager",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "0",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Spitting Earth",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Magmaquake",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{X}{R}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Magma Jet",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Volcanic Fallout",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{R}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Volcanic Geyser",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{X}{R}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Mana Geode",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{3}",
+      "cmc": 3.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Bluff",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Seismic Mountain",
+      "type": "Unknown"
+    }
+  ]
+}

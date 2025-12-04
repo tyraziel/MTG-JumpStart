@@ -1,0 +1,185 @@
+{
+  "deck_name": "ALLIES",
+  "set": "TLB",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Kyoshi Warrior Guard",
+      "type": "Creatures",
+      "type_line": "Creature — Human Warrior Ally",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Jeong Jeong’s Deserters",
+      "type": "Creatures",
+      "type_line": "Creature — Human Rebel Ally",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Glider Kids",
+      "type": "Creatures",
+      "type_line": "Creature — Human Pilot Ally",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Avatar Enthusiasts",
+      "type": "Creatures",
+      "type_line": "Creature — Human Peasant Ally",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Aang, the Last Airbender",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Avatar Ally",
+      "mana_cost": "{3}{W}",
+      "cmc": 4.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Suki, Kyoshi Warrior",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Warrior Ally",
+      "mana_cost": "{2}{G/W}{G/W}",
+      "cmc": 4.0,
+      "colors": [
+        "G",
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "*",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Rabaroo Troop",
+      "type": "Creatures",
+      "type_line": "Creature — Rabbit Kangaroo",
+      "mana_cost": "{3}{W}{W}",
+      "cmc": 5.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Master Piandao",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Warrior Ally",
+      "mana_cost": "{4}{W}",
+      "cmc": 5.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Airbending Lesson",
+      "type": "Instants",
+      "type_line": "Instant — Lesson",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Mechanical Glider",
+      "type": "Artifacts",
+      "type_line": "Artifact — Equipment",
+      "mana_cost": "{1}",
+      "cmc": 1.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Allied Teamwork",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Path to Redemption",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Heath",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Plains",
+      "type": "Lands",
+      "type_line": "Basic Land — Plains",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

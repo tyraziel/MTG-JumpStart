@@ -1,0 +1,187 @@
+{
+  "deck_name": "ENCOUNTER (2)",
+  "set": "J25",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Oran-Rief Ooze",
+      "type": "Creatures",
+      "type_line": "Creature — Ooze",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Saurian Symbiote",
+      "type": "Creatures",
+      "type_line": "Creature — Fungus Dinosaur",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Spined Tyrranax",
+      "type": "Creatures",
+      "type_line": "Creature — Dinosaur Beast",
+      "mana_cost": "{4}{G}",
+      "cmc": 5.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "5",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Mowu, Loyal Companion",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Dog",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Deepwood Denizen",
+      "type": "Creatures",
+      "type_line": "Creature — Elf Warrior",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Duskshell Crawler",
+      "type": "Creatures",
+      "type_line": "Creature — Insect",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "0",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Greenwood Sentinel",
+      "type": "Creatures",
+      "type_line": "Creature — Elf Scout",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Jungle Delver",
+      "type": "Creatures",
+      "type_line": "Creature — Merfolk Warrior",
+      "mana_cost": "{G}",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Aggressive Instinct",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Invigorating Surge",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Stony Strength",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{G}",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Jiang Yanggu, Wildcrafter",
+      "type": "Planeswalkers",
+      "type_line": "Legendary Planeswalker — Yanggu",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "loyalty": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Grove",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Forest",
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

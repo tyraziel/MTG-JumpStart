@@ -1,0 +1,191 @@
+{
+  "deck_name": "VAMPIRES (2)",
+  "set": "JMP",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Blood Host",
+      "type": "Creatures",
+      "type_line": "Creature — Vampire",
+      "mana_cost": "{3}{B}{B}",
+      "cmc": 5.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Bloodbond Vampire",
+      "type": "Creatures",
+      "type_line": "Creature — Vampire Shaman Ally",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Gifted Aetherborn",
+      "type": "Creatures",
+      "type_line": "Creature — Aetherborn Vampire",
+      "mana_cost": "{B}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Child of Night",
+      "type": "Creatures",
+      "type_line": "Creature — Vampire",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Nocturnal Feeder",
+      "type": "Creatures",
+      "type_line": "Creature — Vampire Rogue",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Vito, Thorn of the Dusk Rose",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Vampire Cleric",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "rare",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Silversmote Ghoul",
+      "type": "Creatures",
+      "type_line": "Creature — Zombie Vampire",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Gloom Sower",
+      "type": "Creatures",
+      "type_line": "Creature — Horror",
+      "mana_cost": "{5}{B}{B}",
+      "cmc": 7.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "8",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Agonizing Syphon",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Sanguine Indulgence",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Last Gasp",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Eternal Thirst",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Moor",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Vampires Swamp",
+      "type": "Unknown"
+    }
+  ]
+}

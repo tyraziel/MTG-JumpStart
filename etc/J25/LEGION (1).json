@@ -1,0 +1,184 @@
+{
+  "deck_name": "LEGION (1)",
+  "set": "J25",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Adeline, Resplendent Cathar",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Knight",
+      "mana_cost": "{1}{W}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "rare",
+      "power": "*",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Dawnwing Marshal",
+      "type": "Creatures",
+      "type_line": "Creature — Cat Soldier",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Hinterland Sanctifier",
+      "type": "Creatures",
+      "type_line": "Creature — Rabbit Cleric",
+      "mana_cost": "{W}",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Mentor of the Meek",
+      "type": "Creatures",
+      "type_line": "Creature — Human Soldier",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Argivian Phalanx",
+      "type": "Creatures",
+      "type_line": "Creature — Human Kor Soldier",
+      "mana_cost": "{5}{W}",
+      "cmc": 6.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Recruitment Officer",
+      "type": "Creatures",
+      "type_line": "Creature — Human Soldier",
+      "mana_cost": "{W}",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Search Party Captain",
+      "type": "Creatures",
+      "type_line": "Creature — Human Soldier",
+      "mana_cost": "{3}{W}",
+      "cmc": 4.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Raise the Alarm",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Dauntless Unity",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Make a Stand",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Ancestral Blade",
+      "type": "Artifacts",
+      "type_line": "Artifact — Equipment",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Pacifism",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Heath",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Plains",
+      "type": "Lands",
+      "type_line": "Basic Land — Plains",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

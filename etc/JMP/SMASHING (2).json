@@ -1,0 +1,185 @@
+{
+  "deck_name": "SMASHING (2)",
+  "set": "JMP",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Bloodrage Brawler",
+      "type": "Creatures",
+      "type_line": "Creature — Minotaur Warrior",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Borderland Marauder",
+      "type": "Creatures",
+      "type_line": "Creature — Human Warrior",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Heartfire Immolator",
+      "type": "Creatures",
+      "type_line": "Creature — Human Wizard",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Onakke Ogre",
+      "type": "Creatures",
+      "type_line": "Creature — Ogre Warrior",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Turret Ogre",
+      "type": "Creatures",
+      "type_line": "Creature — Ogre Warrior",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Bone Pit Brute",
+      "type": "Creatures",
+      "type_line": "Creature — Cyclops",
+      "mana_cost": "{4}{R}{R}",
+      "cmc": 6.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Volcanic Salvo",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{10}{R}{R}",
+      "cmc": 12.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Flames of the Raze-Boar",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{5}{R}",
+      "cmc": 6.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Fling",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Hungry Flames",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Short Sword",
+      "type": "Artifacts",
+      "type_line": "Artifact — Equipment",
+      "mana_cost": "{1}",
+      "cmc": 1.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Furious Rise",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Bluff",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Smashing Mountain",
+      "type": "Unknown"
+    }
+  ]
+}

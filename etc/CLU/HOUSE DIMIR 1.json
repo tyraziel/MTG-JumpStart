@@ -1,0 +1,208 @@
+{
+  "deck_name": "HOUSE DIMIR 1",
+  "set": "CLU",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Erratic Visionary",
+      "type": "Creatures",
+      "type_line": "Creature — Human Wizard",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Dimir Guildmage",
+      "type": "Creatures",
+      "type_line": "Creature — Human Wizard",
+      "mana_cost": "{U/B}{U/B}",
+      "cmc": 2.0,
+      "colors": [
+        "B",
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Whisper Agent",
+      "type": "Creatures",
+      "type_line": "Creature — Human Rogue",
+      "mana_cost": "{1}{U/B}{U/B}",
+      "cmc": 3.0,
+      "colors": [
+        "B",
+        "U"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Undercover Butler",
+      "type": "Creatures",
+      "type_line": "Creature — Human Rogue",
+      "mana_cost": "{2}{U/B}",
+      "cmc": 3.0,
+      "colors": [
+        "B",
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Watcher in the Mist",
+      "type": "Creatures",
+      "type_line": "Creature — Spirit",
+      "mana_cost": "{3}{U}{U}",
+      "cmc": 5.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Memory Vampire",
+      "type": "Creatures",
+      "type_line": "Creature — Vampire Detective",
+      "mana_cost": "{4}{U}{B}",
+      "cmc": 6.0,
+      "colors": [
+        "B",
+        "U"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Duskmantle Seer",
+      "type": "Creatures",
+      "type_line": "Creature — Vampire Wizard",
+      "mana_cost": "{2}{U}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B",
+        "U"
+      ],
+      "rarity": "mythic",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Discovery",
+      "type": "Sorceries",
+      "type_line": "Sorcery // Instant",
+      "mana_cost": "{1}{U/B} // {3}{U}{B}",
+      "cmc": 7.0,
+      "colors": [
+        "B",
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Forbidden Alchemy",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Dimir Signet",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Dramatic Accusation",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Psychic Impetus",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Dimir Guildgate",
+      "type": "Lands",
+      "type_line": "Land — Gate",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Dimir Aqueduct",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 5,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

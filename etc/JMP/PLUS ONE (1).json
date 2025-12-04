@@ -1,0 +1,177 @@
+{
+  "deck_name": "PLUS ONE (1)",
+  "set": "JMP",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Armorcraft Judge",
+      "type": "Creatures",
+      "type_line": "Creature — Elf Artificer",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Nessian Hornbeetle",
+      "type": "Creatures",
+      "type_line": "Creature — Insect",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Ironshell Beetle",
+      "type": "Creatures",
+      "type_line": "Creature — Insect",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Fertilid",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "0",
+      "toughness": "0"
+    },
+    {
+      "quantity": 1,
+      "name": "Wildwood Scourge",
+      "type": "Creatures",
+      "type_line": "Creature — Hydra",
+      "mana_cost": "{X}{G}",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "0",
+      "toughness": "0"
+    },
+    {
+      "quantity": 1,
+      "name": "Trufflesnout",
+      "type": "Creatures",
+      "type_line": "Creature — Boar",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Pridemalkin",
+      "type": "Creatures",
+      "type_line": "Creature — Cat",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Hunter's Edge",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Arbor Armament",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{G}",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Invigorating Surge",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Primeval Bounty",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{5}{G}",
+      "cmc": 6.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "mythic"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Grove",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Forest",
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Plus One Forest",
+      "type": "Unknown"
+    }
+  ]
+}

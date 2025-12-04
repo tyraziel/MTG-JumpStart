@@ -1,0 +1,186 @@
+{
+  "deck_name": "GRAVE ROBBERS (2)",
+  "set": "J25",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Gorex, the Tombshell",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Zombie Turtle",
+      "mana_cost": "{6}{B}{B}",
+      "cmc": 8.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Doomed Necromancer",
+      "type": "Creatures",
+      "type_line": "Creature — Human Cleric Mercenary",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Eternal Taskmaster",
+      "type": "Creatures",
+      "type_line": "Creature — Zombie",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Dusk Mangler",
+      "type": "Creatures",
+      "type_line": "Creature — Horror",
+      "mana_cost": "{5}{B}{B}",
+      "cmc": 7.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "5",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Eye Collector",
+      "type": "Creatures",
+      "type_line": "Creature — Faerie",
+      "mana_cost": "{B}",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Gorging Vulture",
+      "type": "Creatures",
+      "type_line": "Creature — Bird",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Moodmark Painter",
+      "type": "Creatures",
+      "type_line": "Creature — Human Shaman",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Undead Butler",
+      "type": "Creatures",
+      "type_line": "Creature — Zombie",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Revoke Demise",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{4}{B}",
+      "cmc": 5.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Deal Gone Bad",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Fake Your Own Death",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Necrotic Wound",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{B}",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Moor",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

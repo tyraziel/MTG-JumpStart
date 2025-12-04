@@ -1,0 +1,178 @@
+{
+  "deck_name": "DETECTIVE (2)",
+  "set": "J22",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Psychosis Crawler",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Phyrexian Horror",
+      "mana_cost": "{5}",
+      "cmc": 5.0,
+      "colors": [],
+      "rarity": "rare",
+      "power": "*",
+      "toughness": "*"
+    },
+    {
+      "quantity": 1,
+      "name": "Oneirophage",
+      "type": "Creatures",
+      "type_line": "Creature — Squid Illusion",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Tolarian Kraken",
+      "type": "Creatures",
+      "type_line": "Creature — Kraken",
+      "mana_cost": "{4}{U}{U}",
+      "cmc": 6.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Floodhound",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental Dog",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Vedalken Engineer",
+      "type": "Creatures",
+      "type_line": "Creature — Vedalken Artificer",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Aeronaut Tinkerer",
+      "type": "Creatures",
+      "type_line": "Creature — Human Artificer",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Drownyard Explorers",
+      "type": "Creatures",
+      "type_line": "Creature — Human Wizard",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Press for Answers",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Jace's Scrutiny",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Teferi's Puzzle Box",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{4}",
+      "cmc": 4.0,
+      "colors": [],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Magnifying Glass",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{3}",
+      "cmc": 3.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Hold for Questioning",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

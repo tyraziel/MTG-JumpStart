@@ -1,0 +1,184 @@
+{
+  "deck_name": "BOOKWORMS (3)",
+  "set": "J25",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Sphinx of Enlightenment",
+      "type": "Creatures",
+      "type_line": "Creature — Sphinx",
+      "mana_cost": "{4}{U}{U}",
+      "cmc": 6.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "mythic",
+      "power": "5",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Syr Elenora, the Discerning",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Knight",
+      "mana_cost": "{3}{U}{U}",
+      "cmc": 5.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "*",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Lat-Nam Adept",
+      "type": "Creatures",
+      "type_line": "Creature — Human Wizard",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Mystic Skyfish",
+      "type": "Creatures",
+      "type_line": "Creature — Fish",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Reckless Scholar",
+      "type": "Creatures",
+      "type_line": "Creature — Human Wizard",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Shore Keeper",
+      "type": "Creatures",
+      "type_line": "Creature — Trilobite",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "0",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Thopter Mechanic",
+      "type": "Creatures",
+      "type_line": "Creature — Human Artificer",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Drag Under",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Starlight Snare",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Cartouche of Knowledge",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura Cartouche",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Omen of the Sea",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Trial of Knowledge",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

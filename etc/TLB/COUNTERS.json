@@ -1,0 +1,188 @@
+{
+  "deck_name": "COUNTERS",
+  "set": "TLB",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Gilacorn",
+      "type": "Creatures",
+      "type_line": "Creature — Lizard",
+      "mana_cost": "{B}",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Elephant-Rat",
+      "type": "Creatures",
+      "type_line": "Creature — Elephant Rat",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Long Feng, Grand Secretariat",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Advisor",
+      "mana_cost": "{1}{B/G}{B/G}",
+      "cmc": 3.0,
+      "colors": [
+        "B",
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Fire Nation Engineer",
+      "type": "Creatures",
+      "type_line": "Creature — Human Artificer",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Earth Village Ruffians",
+      "type": "Creatures",
+      "type_line": "Creature — Human Soldier Rogue",
+      "mana_cost": "{2}{B/G}",
+      "cmc": 3.0,
+      "colors": [
+        "B",
+        "G"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Hog-Monkey",
+      "type": "Creatures",
+      "type_line": "Creature — Boar Monkey",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Buzzard-Wasp Colony",
+      "type": "Creatures",
+      "type_line": "Creature — Bird Insect",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Fire Nation Sentinels",
+      "type": "Creatures",
+      "type_line": "Creature — Human Soldier",
+      "mana_cost": "{3}{B}{B}",
+      "cmc": 5.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Dai Li Indoctrination",
+      "type": "Sorceries",
+      "type_line": "Sorcery — Lesson",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Feed the Swarm",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Ozai's Cruelty",
+      "type": "Sorceries",
+      "type_line": "Sorcery — Lesson",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Azula Always Lies",
+      "type": "Instants",
+      "type_line": "Instant — Lesson",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Moor",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

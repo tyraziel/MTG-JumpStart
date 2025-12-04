@@ -1,0 +1,167 @@
+{
+  "deck_name": "COURAGEOUS 2",
+  "set": "LTR",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Saradoc, Master of Buckland",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Halfling Citizen",
+      "mana_cost": "{3}{W}",
+      "cmc": 4.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Nimble Hobbit",
+      "type": "Creatures",
+      "type_line": "Creature — Halfling Peasant",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Samwise the Stouthearted",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Halfling Peasant",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Took Reaper",
+      "type": "Creatures",
+      "type_line": "Creature — Halfling Peasant",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Rosie Cotton of South Lane",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Halfling Peasant",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Eastfarthing Farmer",
+      "type": "Creatures",
+      "type_line": "Creature — Halfling Peasant",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Bill the Pony",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Horse",
+      "mana_cost": "{3}{W}",
+      "cmc": 4.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Reprieve",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Hobbit's Sting",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Slip On the Ring",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Escape from Orthanc",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{W}",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 8,
+      "name": "Plains",
+      "type": "Lands",
+      "type_line": "Basic Land — Plains",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Rare or mythic rare",
+      "type": "Special"
+    }
+  ]
+}

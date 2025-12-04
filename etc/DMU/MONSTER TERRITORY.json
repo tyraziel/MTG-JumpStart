@@ -1,0 +1,227 @@
+{
+  "deck_name": "MONSTER TERRITORY",
+  "set": "DMU",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Floriferous Vinewall",
+      "type": "Creatures",
+      "type_line": "Creature — Plant Wall",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "0",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Sunbathing Rootwalla",
+      "type": "Creatures",
+      "type_line": "Creature — Lizard",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Nishoba Brawler",
+      "type": "Creatures",
+      "type_line": "Creature — Cat Warrior",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "*",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Magnigoth Sentry",
+      "type": "Creatures",
+      "type_line": "Creature — Treefolk",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Territorial Maro",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental",
+      "mana_cost": "{4}{G}",
+      "cmc": 5.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "*",
+      "toughness": "*"
+    },
+    {
+      "quantity": 1,
+      "name": "Yavimaya Sojourner",
+      "type": "Creatures",
+      "type_line": "Creature — Treefolk",
+      "mana_cost": "{7}{G}",
+      "cmc": 8.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Briar Hydra",
+      "type": "Creatures",
+      "type_line": "Creature — Plant Hydra",
+      "mana_cost": "{5}{G}",
+      "cmc": 6.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "rare",
+      "power": "6",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Slimefoot's Survey",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{4}{G}",
+      "cmc": 5.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Gaea's Might",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{G}",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Bite Down",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "The Weatherseed Treaty",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Saga",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Wooded Ridgeline",
+      "type": "Lands",
+      "type_line": "Land — Mountain Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Radiant Grove",
+      "type": "Lands",
+      "type_line": "Land — Forest Plains",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Haunted Mire",
+      "type": "Lands",
+      "type_line": "Land — Swamp Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Tangled Islet",
+      "type": "Lands",
+      "type_line": "Land — Forest Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Forest",
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Forest",
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 2,
+      "name": "Forest",
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Random green rare or mythic rare",
+      "type": "Special"
+    }
+  ]
+}

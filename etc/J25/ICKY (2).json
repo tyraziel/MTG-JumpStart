@@ -1,0 +1,186 @@
+{
+  "deck_name": "ICKY (2)",
+  "set": "J25",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Fumulus, the Infestation",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Vampire Insect",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Endless Cockroaches",
+      "type": "Creatures",
+      "type_line": "Creature — Insect",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "rare",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Wriggling Grub",
+      "type": "Creatures",
+      "type_line": "Creature — Worm",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Devouring Swarm",
+      "type": "Creatures",
+      "type_line": "Creature — Insect",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Heartstabber Mosquito",
+      "type": "Creatures",
+      "type_line": "Creature — Insect",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Morkrut Necropod",
+      "type": "Creatures",
+      "type_line": "Creature — Slug Horror",
+      "mana_cost": "{5}{B}",
+      "cmc": 6.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "7",
+      "toughness": "7"
+    },
+    {
+      "quantity": 1,
+      "name": "Nantuko Husk",
+      "type": "Creatures",
+      "type_line": "Creature — Zombie Insect",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Virus Beetle",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Insect",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Eaten Alive",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{B}",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Go for the Throat",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Subtle Strike",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Torment of Scarabs",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura Curse",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Moor",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

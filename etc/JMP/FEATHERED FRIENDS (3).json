@@ -1,0 +1,191 @@
+{
+  "deck_name": "FEATHERED FRIENDS (3)",
+  "set": "JMP",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Angel of the Dire Hour",
+      "type": "Creatures",
+      "type_line": "Creature — Angel",
+      "mana_cost": "{5}{W}{W}",
+      "cmc": 7.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "rare",
+      "power": "5",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Healer's Hawk",
+      "type": "Creatures",
+      "type_line": "Creature — Bird",
+      "mana_cost": "{W}",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Aven Gagglemaster",
+      "type": "Creatures",
+      "type_line": "Creature — Bird Warrior",
+      "mana_cost": "{3}{W}{W}",
+      "cmc": 5.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Falconer Adept",
+      "type": "Creatures",
+      "type_line": "Creature — Human Soldier",
+      "mana_cost": "{3}{W}",
+      "cmc": 4.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Concordia Pegasus",
+      "type": "Creatures",
+      "type_line": "Creature — Pegasus",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Warded Battlements",
+      "type": "Creatures",
+      "type_line": "Creature — Wall",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "0",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Gale Swooper",
+      "type": "Creatures",
+      "type_line": "Creature — Griffin",
+      "mana_cost": "{3}{W}",
+      "cmc": 4.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Celestial Enforcer",
+      "type": "Creatures",
+      "type_line": "Creature — Human Cleric",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Dauntless Onslaught",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Take Heart",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{W}",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Swift Response",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Sky Tether",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{W}",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Heath",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Plains",
+      "type": "Lands",
+      "type_line": "Basic Land — Plains",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Feathered Friends Plains",
+      "type": "Unknown"
+    }
+  ]
+}

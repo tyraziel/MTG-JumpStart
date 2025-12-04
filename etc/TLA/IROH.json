@@ -1,0 +1,190 @@
+{
+  "deck_name": "IROH",
+  "set": "TLA",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Deserter's Disciple",
+      "type": "Creatures",
+      "type_line": "Creature — Human Rebel Ally",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Tiger-Dillo",
+      "type": "Creatures",
+      "type_line": "Creature — Cat Armadillo",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Boar-q-pine",
+      "type": "Creatures",
+      "type_line": "Creature — Boar Porcupine",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Zuko, Seeking Honor",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Noble",
+      "mana_cost": "{2}{B/R}",
+      "cmc": 3.0,
+      "colors": [
+        "B",
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Jeong Jeong, the Deserter",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Rebel Ally",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Iroh, Dragon of the West",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Noble Ally",
+      "mana_cost": "{2}{R}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Mongoose Lizard",
+      "type": "Creatures",
+      "type_line": "Creature — Mongoose Lizard",
+      "mana_cost": "{4}{R}{R}",
+      "cmc": 6.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "5",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Iroh's Demonstration",
+      "type": "Sorceries",
+      "type_line": "Sorcery — Lesson",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Cathartic Reunion",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Fiery Confluence",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{2}{R}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Firebending Lesson",
+      "type": "Instants",
+      "type_line": "Instant — Lesson",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Bolt Bend",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Bluff",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Mountain Appa",
+      "type": "Unknown"
+    }
+  ]
+}

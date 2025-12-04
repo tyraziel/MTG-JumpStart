@@ -1,0 +1,206 @@
+{
+  "deck_name": "ORZHOV SYNDICATE 2",
+  "set": "CLU",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Basilica Screecher",
+      "type": "Creatures",
+      "type_line": "Creature — Bat",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Orzhov Guildmage",
+      "type": "Creatures",
+      "type_line": "Creature — Human Wizard",
+      "mana_cost": "{W/B}{W/B}",
+      "cmc": 2.0,
+      "colors": [
+        "B",
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Leering Onlooker",
+      "type": "Creatures",
+      "type_line": "Creature — Vampire",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Fleshbag Marauder",
+      "type": "Creatures",
+      "type_line": "Creature — Zombie Warrior",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Syndicate Enforcer",
+      "type": "Creatures",
+      "type_line": "Creature — Human Rogue",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Orzhov Racketeers",
+      "type": "Creatures",
+      "type_line": "Creature — Human Rogue",
+      "mana_cost": "{4}{B}",
+      "cmc": 5.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Seraph of the Scales",
+      "type": "Creatures",
+      "type_line": "Creature — Angel",
+      "mana_cost": "{2}{W}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B",
+        "W"
+      ],
+      "rarity": "mythic",
+      "power": "4",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Covetous Elegy",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{4}{W}{B}",
+      "cmc": 6.0,
+      "colors": [
+        "B",
+        "W"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Afterlife Insurance",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{W/B}",
+      "cmc": 2.0,
+      "colors": [
+        "B",
+        "W"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Murder",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Orzhov Signet",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Parasitic Impetus",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Moor",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Orzhov Guildgate",
+      "type": "Lands",
+      "type_line": "Land — Gate",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Orzhov Basilica",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 5,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

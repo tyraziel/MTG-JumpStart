@@ -1,0 +1,189 @@
+{
+  "deck_name": "LESSONS (1)",
+  "set": "TLA",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Gran-Gran",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Peasant Ally",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Glider Kids",
+      "type": "Creatures",
+      "type_line": "Creature — Human Pilot Ally",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Platypus-Bear",
+      "type": "Creatures",
+      "type_line": "Creature — Platypus Bear",
+      "mana_cost": "{1}{G/U}",
+      "cmc": 2.0,
+      "colors": [
+        "G",
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Iguana Parrot",
+      "type": "Creatures",
+      "type_line": "Creature — Lizard Bird Pirate",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Katara, Seeking Revenge",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Warrior Ally",
+      "mana_cost": "{3}{U/B}",
+      "cmc": 4.0,
+      "colors": [
+        "B",
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Giant Koi",
+      "type": "Creatures",
+      "type_line": "Creature — Fish",
+      "mana_cost": "{4}{U}{U}",
+      "cmc": 6.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "5",
+      "toughness": "7"
+    },
+    {
+      "quantity": 1,
+      "name": "Boomerang Basics",
+      "type": "Sorceries",
+      "type_line": "Sorcery — Lesson",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Octopus Form",
+      "type": "Instants",
+      "type_line": "Instant — Lesson",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Accumulate Wisdom",
+      "type": "Instants",
+      "type_line": "Instant — Lesson",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "It'll Quench Ya!",
+      "type": "Instants",
+      "type_line": "Instant — Lesson",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Whirlwind Technique",
+      "type": "Instants",
+      "type_line": "Instant — Lesson",
+      "mana_cost": "{4}{U}{U}",
+      "cmc": 6.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Chakra Meditation",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Island Appa",
+      "type": "Unknown"
+    }
+  ]
+}

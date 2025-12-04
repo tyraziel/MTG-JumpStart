@@ -1,0 +1,185 @@
+{
+  "deck_name": "MYSTIC MISCHIEF",
+  "set": "DMU",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Coral Colony",
+      "type": "Creatures",
+      "type_line": "Creature — Wall",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Soaring Drake",
+      "type": "Creatures",
+      "type_line": "Creature — Drake",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Academy Wall",
+      "type": "Creatures",
+      "type_line": "Creature — Wall",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "0",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Talas Lookout",
+      "type": "Creatures",
+      "type_line": "Creature — Human Pirate",
+      "mana_cost": "{2}{U}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Tolarian Terror",
+      "type": "Creatures",
+      "type_line": "Creature — Serpent",
+      "mana_cost": "{6}{U}",
+      "cmc": 7.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "5",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Frostfist Strider",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental Giant",
+      "mana_cost": "{3}{U}{U}",
+      "cmc": 5.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Impede Momentum",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Cosmic Epiphany",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{4}{U}{U}",
+      "cmc": 6.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Impulse",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Ertai's Scorn",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{U}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Founding the Third Path",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Saga",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 5,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 2,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Random blue rare or mythic rare",
+      "type": "Special"
+    }
+  ]
+}

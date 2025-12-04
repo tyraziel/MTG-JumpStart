@@ -1,0 +1,204 @@
+{
+  "deck_name": "IZZET LEAGUE 2",
+  "set": "CLU",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Fire Urchin",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Frostburn Weird",
+      "type": "Creatures",
+      "type_line": "Creature — Weird",
+      "mana_cost": "{U/R}{U/R}",
+      "cmc": 2.0,
+      "colors": [
+        "R",
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Spellgorger Weird",
+      "type": "Creatures",
+      "type_line": "Creature — Weird",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Ecstatic Electromancer",
+      "type": "Creatures",
+      "type_line": "Creature — Goblin Wizard",
+      "mana_cost": "{1}{U/R}{U/R}",
+      "cmc": 3.0,
+      "colors": [
+        "R",
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Living Lightning",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental Shaman",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Hypersonic Dragon",
+      "type": "Creatures",
+      "type_line": "Creature — Dragon",
+      "mana_cost": "{3}{U}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R",
+        "U"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Direct Current",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{R}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Corporeal Projection",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{U}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R",
+        "U"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Goblin Wizardry",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Lightning Bolt",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Street Spasm",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{X}{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Izzet Signet",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Bluff",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Izzet Guildgate",
+      "type": "Lands",
+      "type_line": "Land — Gate",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Izzet Boilerworks",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 5,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

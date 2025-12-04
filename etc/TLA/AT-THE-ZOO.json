@@ -1,0 +1,192 @@
+{
+  "deck_name": "AT-THE-ZOO",
+  "set": "TLA",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Turtle-Duck",
+      "type": "Creatures",
+      "type_line": "Creature — Turtle Bird",
+      "mana_cost": "{G}",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "0",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Animal Attendant",
+      "type": "Creatures",
+      "type_line": "Creature — Human Citizen",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Frog-Squirrels",
+      "type": "Creatures",
+      "type_line": "Creature — Frog Squirrel",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Ostrich-Horse",
+      "type": "Creatures",
+      "type_line": "Creature — Bird Horse",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Elephant-Mandrill",
+      "type": "Creatures",
+      "type_line": "Creature — Elephant Monkey",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Eel-Hounds",
+      "type": "Creatures",
+      "type_line": "Creature — Fish Dog",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Diligent Zookeeper",
+      "type": "Creatures",
+      "type_line": "Creature — Human Citizen Ally",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Saber-Tooth Moose-Lion",
+      "type": "Creatures",
+      "type_line": "Creature — Elk Cat",
+      "mana_cost": "{4}{G}{G}",
+      "cmc": 6.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "7",
+      "toughness": "7"
+    },
+    {
+      "quantity": 1,
+      "name": "Pillar Launch",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{G}",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Origin of Metalbending",
+      "type": "Instants",
+      "type_line": "Instant — Lesson",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Hog-Monkey Rampage",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{R/G}",
+      "cmc": 2.0,
+      "colors": [
+        "G",
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Bison Whistle",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Grove",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Forest",
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Forest Appa",
+      "type": "Unknown"
+    }
+  ]
+}

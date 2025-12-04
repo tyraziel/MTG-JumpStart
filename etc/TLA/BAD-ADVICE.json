@@ -1,0 +1,193 @@
+{
+  "deck_name": "BAD-ADVICE",
+  "set": "TLA",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Gilacorn",
+      "type": "Creatures",
+      "type_line": "Creature — Lizard",
+      "mana_cost": "{B}",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Dai Li Censor",
+      "type": "Creatures",
+      "type_line": "Creature — Human Soldier Advisor",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Corrupt Court Official",
+      "type": "Creatures",
+      "type_line": "Creature — Human Advisor",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Joo Dee, One of Many",
+      "type": "Creatures",
+      "type_line": "Creature — Human Advisor",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Long Feng, Grand Secretariat",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Advisor",
+      "mana_cost": "{1}{B/G}{B/G}",
+      "cmc": 3.0,
+      "colors": [
+        "B",
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Fire Nation Ambushers",
+      "type": "Creatures",
+      "type_line": "Creature — Human Soldier",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Lo and Li, Royal Advisors",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Advisor",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "rare",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Hama, the Bloodbender",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Warlock",
+      "mana_cost": "{2}{U/B}{U/B}{U/B}",
+      "cmc": 5.0,
+      "colors": [
+        "B",
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Dai Li Indoctrination",
+      "type": "Sorceries",
+      "type_line": "Sorcery — Lesson",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Ozai's Cruelty",
+      "type": "Sorceries",
+      "type_line": "Sorcery — Lesson",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Deadly Precision",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{B}",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Sold Out",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Moor",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Swamp Appa",
+      "type": "Unknown"
+    }
+  ]
+}

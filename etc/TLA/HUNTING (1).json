@@ -1,0 +1,193 @@
+{
+  "deck_name": "HUNTING (1)",
+  "set": "TLA",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Purple Pentapus",
+      "type": "Creatures",
+      "type_line": "Creature — Octopus Starfish",
+      "mana_cost": "{B}",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Elephant-Rat",
+      "type": "Creatures",
+      "type_line": "Creature — Elephant Rat",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "June, Bounty Hunter",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Mercenary",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Raven Eagle",
+      "type": "Creatures",
+      "type_line": "Creature — Bird Assassin",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Messenger Hawk",
+      "type": "Creatures",
+      "type_line": "Creature — Bird Scout",
+      "mana_cost": "{2}{U/B}",
+      "cmc": 3.0,
+      "colors": [
+        "B",
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Katara, Seeking Revenge",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Warrior Ally",
+      "mana_cost": "{3}{U/B}",
+      "cmc": 4.0,
+      "colors": [
+        "B",
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Foggy Swamp Hunters",
+      "type": "Creatures",
+      "type_line": "Creature — Human Ranger Ally",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Beetle-Headed Merchants",
+      "type": "Creatures",
+      "type_line": "Creature — Human Citizen",
+      "mana_cost": "{4}{B}",
+      "cmc": 5.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "5",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Desperate Plea",
+      "type": "Sorceries",
+      "type_line": "Sorcery — Lesson",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Epic Downfall",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Diresight",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Deadly Precision",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{B}",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Moor",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Swamp Appa",
+      "type": "Unknown"
+    }
+  ]
+}

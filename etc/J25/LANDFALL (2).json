@@ -1,0 +1,184 @@
+{
+  "deck_name": "LANDFALL (2)",
+  "set": "J25",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Ancient Greenwarden",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental",
+      "mana_cost": "{4}{G}{G}",
+      "cmc": 6.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "mythic",
+      "power": "5",
+      "toughness": "7"
+    },
+    {
+      "quantity": 1,
+      "name": "Sutina, Speaker of the Tajuru",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Elf Scout",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Canopy Baloth",
+      "type": "Creatures",
+      "type_line": "Creature — Beast",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Kazandu Nectarpot",
+      "type": "Creatures",
+      "type_line": "Creature — Insect",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Kazandu Stomper",
+      "type": "Creatures",
+      "type_line": "Creature — Beast",
+      "mana_cost": "{5}{G}",
+      "cmc": 6.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "6",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Krosan Tusker",
+      "type": "Creatures",
+      "type_line": "Creature — Boar Beast",
+      "mana_cost": "{5}{G}{G}",
+      "cmc": 7.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "6",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Snapping Gnarlid",
+      "type": "Creatures",
+      "type_line": "Creature — Beast",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Territorial Scythecat",
+      "type": "Creatures",
+      "type_line": "Creature — Cat",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Bond of Flourishing",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Bite Down",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Retreat to Kazandu",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Evolving Wilds",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Grove",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Forest",
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

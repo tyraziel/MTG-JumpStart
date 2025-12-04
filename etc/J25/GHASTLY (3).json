@@ -1,0 +1,186 @@
+{
+  "deck_name": "GHASTLY (3)",
+  "set": "J25",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Reaper from the Abyss",
+      "type": "Creatures",
+      "type_line": "Creature — Demon",
+      "mana_cost": "{3}{B}{B}{B}",
+      "cmc": 6.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "mythic",
+      "power": "6",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Wriggling Grub",
+      "type": "Creatures",
+      "type_line": "Creature — Worm",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Ozox, the Clattering King",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Skeleton Noble",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Boneclad Necromancer",
+      "type": "Creatures",
+      "type_line": "Creature — Human Wizard",
+      "mana_cost": "{3}{B}{B}",
+      "cmc": 5.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Dross Hopper",
+      "type": "Creatures",
+      "type_line": "Creature — Phyrexian Insect Horror",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Falkenrath Noble",
+      "type": "Creatures",
+      "type_line": "Creature — Vampire Noble",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Morbid Opportunist",
+      "type": "Creatures",
+      "type_line": "Creature — Human Rogue",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Morkrut Behemoth",
+      "type": "Creatures",
+      "type_line": "Creature — Zombie Giant",
+      "mana_cost": "{4}{B}",
+      "cmc": 5.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "7",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Blood Beckoning",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{B}",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Deadly Dispute",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Murder",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Tragic Slip",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{B}",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Moor",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

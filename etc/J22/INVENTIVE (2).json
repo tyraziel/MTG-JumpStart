@@ -1,0 +1,188 @@
+{
+  "deck_name": "INVENTIVE (2)",
+  "set": "J22",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Hangarback Walker",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Construct",
+      "mana_cost": "{X}{X}",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "rare",
+      "power": "0",
+      "toughness": "0"
+    },
+    {
+      "quantity": 1,
+      "name": "Whirler Rogue",
+      "type": "Creatures",
+      "type_line": "Creature — Human Rogue Artificer",
+      "mana_cost": "{2}{U}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Renowned Weaponsmith",
+      "type": "Creatures",
+      "type_line": "Creature — Human Artificer",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Juggernaut",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Juggernaut",
+      "mana_cost": "{4}",
+      "cmc": 4.0,
+      "colors": [],
+      "rarity": "uncommon",
+      "power": "5",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Gearsmith Prodigy",
+      "type": "Creatures",
+      "type_line": "Creature — Human Artificer",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Aeronaut Tinkerer",
+      "type": "Creatures",
+      "type_line": "Creature — Human Artificer",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Aviation Pioneer",
+      "type": "Creatures",
+      "type_line": "Creature — Human Artificer",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Gearseeker Serpent",
+      "type": "Creatures",
+      "type_line": "Creature — Serpent",
+      "mana_cost": "{5}{U}{U}",
+      "cmc": 7.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "5",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Launch Mishap",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Artificer's Epiphany",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Heart-Piercer Bow",
+      "type": "Artifacts",
+      "type_line": "Artifact — Equipment",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Vial of Dragonfire",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Seat of the Synod",
+      "type": "Artifacts",
+      "type_line": "Artifact Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "deck_name": "FAERIES (1)",
+  "set": "J22",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Wavebreak Hippocamp",
+      "type": "Creatures",
+      "type_line": "Enchantment Creature — Horse Fish",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Brineborn Cutthroat",
+      "type": "Creatures",
+      "type_line": "Creature — Merfolk Pirate",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Pestermite",
+      "type": "Creatures",
+      "type_line": "Creature — Faerie Rogue",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Undersea Invader",
+      "type": "Creatures",
+      "type_line": "Creature — Giant Rogue",
+      "mana_cost": "{4}{U}{U}",
+      "cmc": 6.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "5",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Vendilion Clique",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Faerie Wizard",
+      "mana_cost": "{1}{U}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "mythic",
+      "power": "3",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Glen Elendra Pranksters",
+      "type": "Creatures",
+      "type_line": "Creature — Faerie Wizard",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Spellstutter Sprite",
+      "type": "Creatures",
+      "type_line": "Creature — Faerie Wizard",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Sentinels of Glen Elendra",
+      "type": "Creatures",
+      "type_line": "Creature — Faerie Soldier",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Fleeting Distraction",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Soul Read",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Synchronized Eviction",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{4}{U}",
+      "cmc": 5.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Instruments of War",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{4}",
+      "cmc": 4.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "deck_name": "INVENTIVE (3)",
+  "set": "J25",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Padeem, Consul of Innovation",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Vedalken Artificer",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Thought Monitor",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Construct",
+      "mana_cost": "{6}{U}",
+      "cmc": 7.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Gilded Scuttler",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Crab",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Ornithopter of Paradise",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Thopter",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "0",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Experimental Aviator",
+      "type": "Creatures",
+      "type_line": "Creature — Human Artificer",
+      "mana_cost": "{3}{U}{U}",
+      "cmc": 5.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "0",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Chief of the Foundry",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Construct",
+      "mana_cost": "{3}",
+      "cmc": 3.0,
+      "colors": [],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Myr Enforcer",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Myr",
+      "mana_cost": "{7}",
+      "cmc": 7.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Patchwork Automaton",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Construct",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Thoughtcast",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{4}{U}",
+      "cmc": 5.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Fading Hope",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Prophetic Prism",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Seat of the Synod",
+      "type": "Artifacts",
+      "type_line": "Artifact Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Malfunction",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

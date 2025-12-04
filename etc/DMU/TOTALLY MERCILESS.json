@@ -1,0 +1,187 @@
+{
+  "deck_name": "TOTALLY MERCILESS",
+  "set": "DMU",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Knight of Dusk's Shadow",
+      "type": "Creatures",
+      "type_line": "Creature — Human Knight",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Phyrexian Vivisector",
+      "type": "Creatures",
+      "type_line": "Creature — Phyrexian Human",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Eerie Soultender",
+      "type": "Creatures",
+      "type_line": "Creature — Spirit Cleric",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Phyrexian Rager",
+      "type": "Creatures",
+      "type_line": "Creature — Phyrexian Horror",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Sengir Connoisseur",
+      "type": "Creatures",
+      "type_line": "Creature — Vampire",
+      "mana_cost": "{3}{B}{B}",
+      "cmc": 5.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Writhing Necromass",
+      "type": "Creatures",
+      "type_line": "Creature — Zombie Giant",
+      "mana_cost": "{6}{B}",
+      "cmc": 7.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "5",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Tyrannical Pitlord",
+      "type": "Creatures",
+      "type_line": "Creature — Demon",
+      "mana_cost": "{4}{B}{B}",
+      "cmc": 6.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "rare",
+      "power": "6",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Pilfer",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Battle-Rage Blessing",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Extinguish the Light",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Braids's Frightful Return",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Saga",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 5,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 2,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Random black rare or mythic rare, or Weatherlight Compleated",
+      "type": "Special"
+    }
+  ]
+}

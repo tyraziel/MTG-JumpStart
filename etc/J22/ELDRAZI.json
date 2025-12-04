@@ -1,0 +1,182 @@
+{
+  "deck_name": "ELDRAZI",
+  "set": "J22",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "World Breaker",
+      "type": "Creatures",
+      "type_line": "Creature — Eldrazi",
+      "mana_cost": "{6}{G}",
+      "cmc": 7.0,
+      "colors": [],
+      "rarity": "mythic",
+      "power": "5",
+      "toughness": "7"
+    },
+    {
+      "quantity": 1,
+      "name": "Endbringer",
+      "type": "Creatures",
+      "type_line": "Creature — Eldrazi",
+      "mana_cost": "{5}{C}",
+      "cmc": 6.0,
+      "colors": [],
+      "rarity": "rare",
+      "power": "5",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Brood Monitor",
+      "type": "Creatures",
+      "type_line": "Creature — Eldrazi Drone",
+      "mana_cost": "{4}{G}{G}",
+      "cmc": 6.0,
+      "colors": [],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Blisterpod",
+      "type": "Creatures",
+      "type_line": "Creature — Eldrazi Drone",
+      "mana_cost": "{G}",
+      "cmc": 1.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Stalking Drone",
+      "type": "Creatures",
+      "type_line": "Creature — Eldrazi Drone",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Scion Summoner",
+      "type": "Creatures",
+      "type_line": "Creature — Eldrazi Drone",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Warden of Geometries",
+      "type": "Creatures",
+      "type_line": "Creature — Eldrazi Drone",
+      "mana_cost": "{4}",
+      "cmc": 4.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Ruin in Their Wake",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Ancient Stirrings",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{G}",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Titan's Presence",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}",
+      "cmc": 3.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Unnatural Aggression",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Planar Atlas",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Ash Barrens",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 5,
+      "name": "Forest",
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Warped Landscape",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Wastes",
+      "type": "Lands",
+      "type_line": "Basic Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "deck_name": "DRAGONS (2)",
+  "set": "JMP",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Lathliss, Dragon Queen",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Dragon",
+      "mana_cost": "{4}{R}{R}",
+      "cmc": 6.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare",
+      "power": "6",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Rapacious Dragon",
+      "type": "Creatures",
+      "type_line": "Creature — Dragon",
+      "mana_cost": "{4}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Dragonlord's Servant",
+      "type": "Creatures",
+      "type_line": "Creature — Goblin Shaman",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Furnace Whelp",
+      "type": "Creatures",
+      "type_line": "Creature — Dragon",
+      "mana_cost": "{2}{R}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Dragon Hatchling",
+      "type": "Creatures",
+      "type_line": "Creature — Dragon",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "0",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Lightning Shrieker",
+      "type": "Creatures",
+      "type_line": "Creature — Dragon",
+      "mana_cost": "{4}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "5",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Gadrak, the Crown-Scourge",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Dragon",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare",
+      "power": "5",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Hellkite Punisher",
+      "type": "Creatures",
+      "type_line": "Creature — Dragon",
+      "mana_cost": "{5}{R}{R}",
+      "cmc": 7.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "6",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Dragon Fodder",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Draconic Roar",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Sarkhan's Rage",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{4}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Bluff",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Dragons Mountain",
+      "type": "Unknown"
+    }
+  ]
+}

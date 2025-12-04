@@ -1,0 +1,207 @@
+{
+  "deck_name": "IZZET LEAGUE 1",
+  "set": "CLU",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Erratic Visionary",
+      "type": "Creatures",
+      "type_line": "Creature — Human Wizard",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Frostburn Weird",
+      "type": "Creatures",
+      "type_line": "Creature — Weird",
+      "mana_cost": "{U/R}{U/R}",
+      "cmc": 2.0,
+      "colors": [
+        "R",
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Ecstatic Electromancer",
+      "type": "Creatures",
+      "type_line": "Creature — Goblin Wizard",
+      "mana_cost": "{1}{U/R}{U/R}",
+      "cmc": 3.0,
+      "colors": [
+        "R",
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Leapfrog",
+      "type": "Creatures",
+      "type_line": "Creature — Frog",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Thunder Drake",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental Drake",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Resonance Technician",
+      "type": "Creatures",
+      "type_line": "Creature — Weird Detective",
+      "mana_cost": "{3}{U/R}{U/R}",
+      "cmc": 5.0,
+      "colors": [
+        "R",
+        "U"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Stunt Double",
+      "type": "Creatures",
+      "type_line": "Creature — Shapeshifter",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "rare",
+      "power": "0",
+      "toughness": "0"
+    },
+    {
+      "quantity": 1,
+      "name": "Consider",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Repeal",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{X}{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Turn to Frog",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Chemister's Insight",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Snow Day",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{4}{U}{U}",
+      "cmc": 6.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Izzet Guildgate",
+      "type": "Lands",
+      "type_line": "Land — Gate",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Izzet Boilerworks",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 5,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

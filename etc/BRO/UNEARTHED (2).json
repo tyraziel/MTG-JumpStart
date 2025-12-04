@@ -1,0 +1,167 @@
+{
+  "deck_name": "UNEARTHED (2)",
+  "set": "BRO",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Gixian Skullflayer",
+      "type": "Creatures",
+      "type_line": "Creature — Phyrexian Human Assassin",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Gnawing Vermin",
+      "type": "Creatures",
+      "type_line": "Creature — Rat",
+      "mana_cost": "{B}",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Ravenous Gigamole",
+      "type": "Creatures",
+      "type_line": "Creature — Mole Horror",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Thraxodemon",
+      "type": "Creatures",
+      "type_line": "Creature — Demon",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Ashnod's Harvester",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Construct",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Scrapwork Rager",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Phyrexian Horror",
+      "mana_cost": "{4}",
+      "cmc": 4.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Terror Ballista",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Construct",
+      "mana_cost": "{7}",
+      "cmc": 7.0,
+      "colors": [],
+      "rarity": "rare",
+      "power": "5",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Gruesome Realization",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Overwhelming Remorse",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{4}{B}",
+      "cmc": 5.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Dredging Claw",
+      "type": "Artifacts",
+      "type_line": "Artifact — Equipment",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Transmogrant Altar",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{3}",
+      "cmc": 3.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 6,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 2,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Random black rare or mythic rare",
+      "type": "Special"
+    }
+  ]
+}

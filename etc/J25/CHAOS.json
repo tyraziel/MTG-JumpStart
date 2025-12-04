@@ -1,0 +1,226 @@
+{
+  "deck_name": "CHAOS",
+  "set": "J25",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Averna, the Chaos Bloom",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Elemental Shaman",
+      "mana_cost": "{G}{U}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "G",
+        "R",
+        "U"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Shardless Outlander",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Construct Scout",
+      "mana_cost": "{7}",
+      "cmc": 7.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "6",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Druid of the Anima",
+      "type": "Creatures",
+      "type_line": "Creature — Elf Druid",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Bloodbraid Elf",
+      "type": "Creatures",
+      "type_line": "Creature — Elf Berserker",
+      "mana_cost": "{2}{R}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G",
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Enlisted Wurm",
+      "type": "Creatures",
+      "type_line": "Creature — Wurm",
+      "mana_cost": "{4}{G}{W}",
+      "cmc": 6.0,
+      "colors": [
+        "G",
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "5",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Fusion Elemental",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental",
+      "mana_cost": "{W}{U}{B}{R}{G}",
+      "cmc": 5.0,
+      "colors": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "8",
+      "toughness": "8"
+    },
+    {
+      "quantity": 1,
+      "name": "Maelstrom Colossus",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Golem",
+      "mana_cost": "{8}",
+      "cmc": 8.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "7",
+      "toughness": "7"
+    },
+    {
+      "quantity": 1,
+      "name": "Fiery Fall",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{5}{R}",
+      "cmc": 6.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Bituminous Blast",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{B}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "B",
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Violent Outburst",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{R}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G",
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Chromatic Lantern",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{3}",
+      "cmc": 3.0,
+      "colors": [],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Ash Barrens",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Terramorphic Expanse",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Plains",
+      "type": "Lands",
+      "type_line": "Basic Land — Plains",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 2,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 2,
+      "name": "Forest",
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

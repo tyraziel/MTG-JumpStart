@@ -1,0 +1,190 @@
+{
+  "deck_name": "ADEPT (1)",
+  "set": "TLA",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Professor Zei, Anthropologist",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Advisor Ally",
+      "mana_cost": "{U/R}{U/R}",
+      "cmc": 2.0,
+      "colors": [
+        "R",
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "0",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Forecasting Fortune Teller",
+      "type": "Creatures",
+      "type_line": "Creature — Human Advisor Ally",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Katara, Bending Prodigy",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Warrior Ally",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Iguana Parrot",
+      "type": "Creatures",
+      "type_line": "Creature — Lizard Bird Pirate",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Turtle-Seals",
+      "type": "Creatures",
+      "type_line": "Creature — Turtle Seal",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Giant Koi",
+      "type": "Creatures",
+      "type_line": "Creature — Fish",
+      "mana_cost": "{4}{U}{U}",
+      "cmc": 6.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "5",
+      "toughness": "7"
+    },
+    {
+      "quantity": 1,
+      "name": "Serpent of the Pass",
+      "type": "Creatures",
+      "type_line": "Creature — Serpent",
+      "mana_cost": "{5}{U}{U}",
+      "cmc": 7.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "6",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Crashing Wave",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{U}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Waterbending Lesson",
+      "type": "Sorceries",
+      "type_line": "Sorcery — Lesson",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Unagi's Spray",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Dramatic Reversal",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Nightmares and Daydreams",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Saga",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Island Appa",
+      "type": "Unknown"
+    }
+  ]
+}

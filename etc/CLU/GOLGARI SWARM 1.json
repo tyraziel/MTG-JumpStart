@@ -1,0 +1,208 @@
+{
+  "deck_name": "GOLGARI SWARM 1",
+  "set": "CLU",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Golgari Guildmage",
+      "type": "Creatures",
+      "type_line": "Creature — Elf Shaman",
+      "mana_cost": "{B/G}{B/G}",
+      "cmc": 2.0,
+      "colors": [
+        "B",
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Leering Onlooker",
+      "type": "Creatures",
+      "type_line": "Creature — Vampire",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Gorging Vulture",
+      "type": "Creatures",
+      "type_line": "Creature — Bird",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Tribune of Rot",
+      "type": "Creatures",
+      "type_line": "Creature — Elf Shaman",
+      "mana_cost": "{1}{B/G}{B/G}",
+      "cmc": 3.0,
+      "colors": [
+        "B",
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Pitiless Gorgon",
+      "type": "Creatures",
+      "type_line": "Creature — Gorgon",
+      "mana_cost": "{1}{B/G}{B/G}",
+      "cmc": 3.0,
+      "colors": [
+        "B",
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Venomous Hierophant",
+      "type": "Creatures",
+      "type_line": "Creature — Gorgon Cleric",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Amzu, Swarm's Hunger",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Insect Shaman",
+      "mana_cost": "{3}{B}{G}",
+      "cmc": 5.0,
+      "colors": [
+        "B",
+        "G"
+      ],
+      "rarity": "rare",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Status",
+      "type": "Instants",
+      "type_line": "Instant // Instant",
+      "mana_cost": "{B/G} // {2}{B}{G}",
+      "cmc": 5.0,
+      "colors": [
+        "B",
+        "G"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Corpse Churn",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Deal Gone Bad",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Golgari Signet",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Deadbridge Chant",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{4}{B}{G}",
+      "cmc": 6.0,
+      "colors": [
+        "B",
+        "G"
+      ],
+      "rarity": "mythic"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Moor",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Golgari Guildgate",
+      "type": "Lands",
+      "type_line": "Land — Gate",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Golgari Rot Farm",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 5,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

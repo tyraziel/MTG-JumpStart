@@ -1,0 +1,208 @@
+{
+  "deck_name": "GRUUL CLANS 1",
+  "set": "CLU",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Gravel-Hide Goblin",
+      "type": "Creatures",
+      "type_line": "Creature — Goblin Shaman",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Stormblood Berserker",
+      "type": "Creatures",
+      "type_line": "Creature — Human Berserker",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Pyrewild Shaman",
+      "type": "Creatures",
+      "type_line": "Creature — Goblin Shaman",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Turret Ogre",
+      "type": "Creatures",
+      "type_line": "Creature — Ogre Warrior",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Furious Spinesplitter",
+      "type": "Creatures",
+      "type_line": "Creature — Ogre Warrior",
+      "mana_cost": "{2}{R/G}{R/G}",
+      "cmc": 4.0,
+      "colors": [
+        "G",
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Chainwhip Cyclops",
+      "type": "Creatures",
+      "type_line": "Creature — Cyclops Warrior",
+      "mana_cost": "{4}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Ripscale Predator",
+      "type": "Creatures",
+      "type_line": "Creature — Dinosaur",
+      "mana_cost": "{4}{R}{R}",
+      "cmc": 6.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "6",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Herald of Ilharg",
+      "type": "Creatures",
+      "type_line": "Creature — Boar Beast",
+      "mana_cost": "{2}{R}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G",
+        "R"
+      ],
+      "rarity": "rare",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Firespout",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{2}{R/G}",
+      "cmc": 3.0,
+      "colors": [
+        "G",
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Clan Defiance",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{X}{R}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G",
+        "R"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Gruul Signet",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Shiny Impetus",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Bluff",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Gruul Guildgate",
+      "type": "Lands",
+      "type_line": "Land — Gate",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Gruul Turf",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 5,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

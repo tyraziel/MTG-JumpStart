@@ -1,0 +1,246 @@
+{
+  "deck_name": "RAINBOW",
+  "set": "JMP",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Maelstrom Archangel",
+      "type": "Creatures",
+      "type_line": "Creature — Angel",
+      "mana_cost": "{W}{U}{B}{R}{G}",
+      "cmc": 5.0,
+      "colors": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "rarity": "mythic",
+      "power": "5",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Chamber Sentry",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Construct",
+      "mana_cost": "{X}",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "rare",
+      "power": "0",
+      "toughness": "0"
+    },
+    {
+      "quantity": 1,
+      "name": "Dinrova Horror",
+      "type": "Creatures",
+      "type_line": "Creature — Horror",
+      "mana_cost": "{4}{U}{B}",
+      "cmc": 6.0,
+      "colors": [
+        "B",
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Fusion Elemental",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental",
+      "mana_cost": "{W}{U}{B}{R}{G}",
+      "cmc": 5.0,
+      "colors": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "8",
+      "toughness": "8"
+    },
+    {
+      "quantity": 1,
+      "name": "Raging Regisaur",
+      "type": "Creatures",
+      "type_line": "Creature — Dinosaur",
+      "mana_cost": "{2}{R}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G",
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Ironroot Warlord",
+      "type": "Creatures",
+      "type_line": "Creature — Treefolk Soldier",
+      "mana_cost": "{1}{G}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "G",
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "*",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Alloy Myr",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Myr",
+      "mana_cost": "{3}",
+      "cmc": 3.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Skittering Surveyor",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Construct",
+      "mana_cost": "{3}",
+      "cmc": 3.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Prismite",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Golem",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Auger Spree",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{B}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "B",
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Prophetic Prism",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Lawmage's Binding",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{1}{W}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U",
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Mirrodin's Core",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Rupture Spire",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Forest",
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Plains",
+      "type": "Lands",
+      "type_line": "Basic Land — Plains",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Rainbow Terramorphic Expanse",
+      "type": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "deck_name": "ARCHAEOLOGY (3)",
+  "set": "JMP",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Sharding Sphinx",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Sphinx",
+      "mana_cost": "{4}{U}{U}",
+      "cmc": 6.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Vedalken Archmage",
+      "type": "Creatures",
+      "type_line": "Creature — Vedalken Wizard",
+      "mana_cost": "{2}{U}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "rare",
+      "power": "0",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Juggernaut",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Juggernaut",
+      "mana_cost": "{4}",
+      "cmc": 4.0,
+      "colors": [],
+      "rarity": "uncommon",
+      "power": "5",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Meteor Golem",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Golem",
+      "mana_cost": "{7}",
+      "cmc": 7.0,
+      "colors": [],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Ancestral Statue",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Golem",
+      "mana_cost": "{4}",
+      "cmc": 4.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "4"
+    },
+    {
+      "quantity": 2,
+      "name": "Archaeomender",
+      "type": "Creatures",
+      "type_line": "Creature — Human Wizard",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Lightning-Core Excavator",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Golem",
+      "mana_cost": "{1}",
+      "cmc": 1.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "0",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Prismite",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Golem",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Thirst for Knowledge",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Hedron Archive",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{4}",
+      "cmc": 4.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Aether Spellbomb",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{1}",
+      "cmc": 1.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Buried Ruin",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 5,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Archaeology Island",
+      "type": "Unknown"
+    }
+  ]
+}
