@@ -1,68 +1,82 @@
 {
-  "deck_name": "INFERNO",
-  "set": "FND",
+  "deck_name": "GOBLINS",
+  "set": "FDN",
   "cards": [
     {
       "quantity": 1,
-      "name": "Terror of Mount Velus",
+      "name": "Dropkick Bomber",
       "type": "Creatures",
-      "type_line": "Creature — Dragon",
-      "mana_cost": "{5}{R}{R}",
-      "cmc": 7.0,
-      "colors": [
-        "R"
-      ],
-      "rarity": "rare",
-      "power": "5",
-      "toughness": "5"
-    },
-    {
-      "quantity": 1,
-      "name": "Firespitter Whelp",
-      "type": "Creatures",
-      "type_line": "Creature — Dragon",
+      "type_line": "Creature — Goblin Warrior",
       "mana_cost": "{2}{R}",
       "cmc": 3.0,
       "colors": [
         "R"
       ],
-      "rarity": "uncommon",
+      "rarity": "rare",
       "power": "2",
-      "toughness": "2"
+      "toughness": "3"
     },
     {
       "quantity": 1,
-      "name": "Dragonlord's Servant",
+      "name": "Frenzied Goblin",
       "type": "Creatures",
-      "type_line": "Creature — Goblin Shaman",
-      "mana_cost": "{1}{R}",
-      "cmc": 2.0,
+      "type_line": "Creature — Goblin Berserker",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
       "colors": [
         "R"
       ],
       "rarity": "uncommon",
       "power": "1",
-      "toughness": "3"
+      "toughness": "1"
     },
     {
       "quantity": 1,
-      "name": "Fire Elemental",
+      "name": "Battle-Rattle Shaman",
       "type": "Creatures",
-      "type_line": "Creature — Elemental",
-      "mana_cost": "{3}{R}{R}",
-      "cmc": 5.0,
+      "type_line": "Creature — Goblin Shaman",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Goblin Smuggler",
+      "type": "Creatures",
+      "type_line": "Creature — Goblin Rogue",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
       "colors": [
         "R"
       ],
       "rarity": "common",
-      "power": "5",
-      "toughness": "4"
+      "power": "2",
+      "toughness": "2"
     },
     {
       "quantity": 1,
-      "name": "Kargan Dragonrider",
+      "name": "Raging Redcap",
       "type": "Creatures",
-      "type_line": "Creature — Human Warrior",
+      "type_line": "Creature — Goblin Knight",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Swab Goblin",
+      "type": "Creatures",
+      "type_line": "Creature — Goblin Pirate",
       "mana_cost": "{1}{R}",
       "cmc": 2.0,
       "colors": [
@@ -74,39 +88,25 @@
     },
     {
       "quantity": 1,
-      "name": "Rapacious Dragon",
+      "name": "Volley Veteran",
       "type": "Creatures",
-      "type_line": "Creature — Dragon",
-      "mana_cost": "{4}{R}",
-      "cmc": 5.0,
-      "colors": [
-        "R"
-      ],
-      "rarity": "uncommon",
-      "power": "3",
-      "toughness": "3"
-    },
-    {
-      "quantity": 1,
-      "name": "Skyraker Giant",
-      "type": "Creatures",
-      "type_line": "Creature — Giant",
-      "mana_cost": "{2}{R}{R}",
+      "type_line": "Creature — Goblin Warrior",
+      "mana_cost": "{3}{R}",
       "cmc": 4.0,
       "colors": [
         "R"
       ],
-      "rarity": "common",
+      "rarity": "uncommon",
       "power": "4",
-      "toughness": "3"
+      "toughness": "2"
     },
     {
       "quantity": 1,
-      "name": "Seize the Spoils",
+      "name": "Incinerating Blast",
       "type": "Sorceries",
       "type_line": "Sorcery",
-      "mana_cost": "{2}{R}",
-      "cmc": 3.0,
+      "mana_cost": "{4}{R}",
+      "cmc": 5.0,
       "colors": [
         "R"
       ],
@@ -114,21 +114,9 @@
     },
     {
       "quantity": 1,
-      "name": "Fiery Annihilation",
-      "type": "Instants",
-      "type_line": "Instant",
-      "mana_cost": "{2}{R}",
-      "cmc": 3.0,
-      "colors": [
-        "R"
-      ],
-      "rarity": "uncommon"
-    },
-    {
-      "quantity": 1,
-      "name": "Scorching Dragonfire",
-      "type": "Instants",
-      "type_line": "Instant",
+      "name": "Dragon Fodder",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
       "mana_cost": "{1}{R}",
       "cmc": 2.0,
       "colors": [
@@ -138,15 +126,37 @@
     },
     {
       "quantity": 1,
-      "name": "Carnelian Orb of Dragonkind",
-      "type": "Artifacts",
-      "type_line": "Artifact",
-      "mana_cost": "{2}{R}",
-      "cmc": 3.0,
+      "name": "Kindled Fury",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
       "colors": [
         "R"
       ],
       "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Goblin Firebomb",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{1}",
+      "cmc": 1.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Goblin Oriflamme",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
     },
     {
       "quantity": 1,
@@ -159,7 +169,7 @@
       "rarity": "common"
     },
     {
-      "quantity": 8,
+      "quantity": 7,
       "name": "Mountain",
       "type": "Lands",
       "type_line": "Basic Land — Mountain",

@@ -1,96 +1,54 @@
 {
-  "deck_name": "ELVES",
-  "set": "FND",
+  "deck_name": "PRIMAL",
+  "set": "FDN",
   "cards": [
     {
       "quantity": 1,
-      "name": "Elvish Archdruid",
+      "name": "Aggressive Mammoth",
       "type": "Creatures",
-      "type_line": "Creature — Elf Druid",
-      "mana_cost": "{1}{G}{G}",
-      "cmc": 3.0,
+      "type_line": "Creature — Elephant",
+      "mana_cost": "{3}{G}{G}{G}",
+      "cmc": 6.0,
       "colors": [
         "G"
       ],
       "rarity": "rare",
-      "power": "2",
-      "toughness": "2"
+      "power": "8",
+      "toughness": "8"
     },
     {
       "quantity": 1,
-      "name": "Beast-Kin Ranger",
+      "name": "Mild-Mannered Librarian",
       "type": "Creatures",
-      "type_line": "Creature — Elf Ranger",
-      "mana_cost": "{2}{G}",
-      "cmc": 3.0,
-      "colors": [
-        "G"
-      ],
-      "rarity": "common",
-      "power": "3",
-      "toughness": "3"
-    },
-    {
-      "quantity": 1,
-      "name": "Elvish Regrower",
-      "type": "Creatures",
-      "type_line": "Creature — Elf Druid",
-      "mana_cost": "{2}{G}{G}",
-      "cmc": 4.0,
-      "colors": [
-        "G"
-      ],
-      "rarity": "uncommon",
-      "power": "4",
-      "toughness": "3"
-    },
-    {
-      "quantity": 1,
-      "name": "Dwynen's Elite",
-      "type": "Creatures",
-      "type_line": "Creature — Elf Warrior",
-      "mana_cost": "{1}{G}",
-      "cmc": 2.0,
-      "colors": [
-        "G"
-      ],
-      "rarity": "common",
-      "power": "2",
-      "toughness": "2"
-    },
-    {
-      "quantity": 1,
-      "name": "Llanowar Elves",
-      "type": "Creatures",
-      "type_line": "Creature — Elf Druid",
+      "type_line": "Creature — Human",
       "mana_cost": "{G}",
       "cmc": 1.0,
       "colors": [
         "G"
       ],
-      "rarity": "common",
+      "rarity": "uncommon",
       "power": "1",
       "toughness": "1"
     },
     {
       "quantity": 1,
-      "name": "Tajuru Pathwarden",
+      "name": "Wildwood Scourge",
       "type": "Creatures",
-      "type_line": "Creature — Elf Warrior Ally",
-      "mana_cost": "{4}{G}",
-      "cmc": 5.0,
+      "type_line": "Creature — Hydra",
+      "mana_cost": "{X}{G}",
+      "cmc": 1.0,
       "colors": [
         "G"
       ],
-      "rarity": "common",
-      "power": "5",
-      "toughness": "4"
+      "rarity": "uncommon",
+      "power": "0",
+      "toughness": "0"
     },
     {
       "quantity": 1,
-      "name": "Thornweald Archer",
+      "name": "Bear Cub",
       "type": "Creatures",
-      "type_line": "Creature — Elf Archer",
+      "type_line": "Creature — Bear",
       "mana_cost": "{1}{G}",
       "cmc": 2.0,
       "colors": [
@@ -98,37 +56,53 @@
       ],
       "rarity": "common",
       "power": "2",
-      "toughness": "1"
+      "toughness": "2"
     },
     {
       "quantity": 1,
-      "name": "Wildheart Invoker",
+      "name": "Druid of the Cowl",
       "type": "Creatures",
-      "type_line": "Creature — Elf Shaman",
-      "mana_cost": "{2}{G}{G}",
+      "type_line": "Creature — Elf Druid",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Magnigoth Sentry",
+      "type": "Creatures",
+      "type_line": "Creature — Treefolk",
+      "mana_cost": "{3}{G}",
       "cmc": 4.0,
       "colors": [
         "G"
       ],
       "rarity": "common",
       "power": "4",
-      "toughness": "3"
+      "toughness": "4"
     },
     {
       "quantity": 1,
-      "name": "Felling Blow",
-      "type": "Sorceries",
-      "type_line": "Sorcery",
-      "mana_cost": "{2}{G}",
+      "name": "Thrashing Brontodon",
+      "type": "Creatures",
+      "type_line": "Creature — Dinosaur",
+      "mana_cost": "{1}{G}{G}",
       "cmc": 3.0,
       "colors": [
         "G"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "4"
     },
     {
       "quantity": 1,
-      "name": "Joraga Invocation",
+      "name": "Biogenic Upgrade",
       "type": "Sorceries",
       "type_line": "Sorcery",
       "mana_cost": "{4}{G}{G}",
@@ -140,11 +114,11 @@
     },
     {
       "quantity": 1,
-      "name": "Broken Wings",
+      "name": "Bite Down",
       "type": "Instants",
       "type_line": "Instant",
-      "mana_cost": "{2}{G}",
-      "cmc": 3.0,
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
       "colors": [
         "G"
       ],
@@ -152,11 +126,23 @@
     },
     {
       "quantity": 1,
-      "name": "Snakeskin Veil",
+      "name": "Giant Growth",
       "type": "Instants",
       "type_line": "Instant",
       "mana_cost": "{G}",
       "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "New Horizons",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
       "colors": [
         "G"
       ],
@@ -173,7 +159,7 @@
       "rarity": "common"
     },
     {
-      "quantity": 7,
+      "quantity": 8,
       "name": "Forest",
       "type": "Lands",
       "type_line": "Basic Land — Forest",
