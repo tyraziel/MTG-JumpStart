@@ -17,5 +17,5 @@ CUNNING 2
 1 Bewitching Leechcraft
 //Lands (8)
 8 Island
-//Unknown
+//Special
 1 Rare or mythic rare

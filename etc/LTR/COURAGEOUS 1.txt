@@ -15,5 +15,5 @@ COURAGEOUS 1
 1 Fog on the Barrow-Downs
 //Lands (8)
 8 Plains
-//Unknown
+//Special
 1 Rare or mythic rare

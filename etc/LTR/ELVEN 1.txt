@@ -15,5 +15,5 @@ ELVEN 1
 1 Lembas
 //Lands (8)
 8 Forest
-//Unknown
+//Special
 1 Rare or mythic rare

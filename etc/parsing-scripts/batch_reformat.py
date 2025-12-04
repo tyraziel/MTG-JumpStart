@@ -244,7 +244,8 @@ def get_card_data(card_name: str) -> Dict:
         return card_cache[card_name]
 
     # Skip special placeholder cards
-    if "Random" in card_name and "rare" in card_name.lower():
+    # Matches: "Random white rare or mythic rare", "Rare or mythic rare", etc.
+    if "rare" in card_name.lower() and ("Random" in card_name or card_name.startswith("Rare")):
         card_data = {"type": "Special"}
         card_cache[card_name] = card_data
         return card_data
