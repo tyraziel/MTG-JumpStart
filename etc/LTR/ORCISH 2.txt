@@ -16,5 +16,5 @@ ORCISH 2
 1 March from the Black Gate
 //Lands (8)
 8 Swamp
-//Unknown
+//Special
 1 Rare or mythic rare

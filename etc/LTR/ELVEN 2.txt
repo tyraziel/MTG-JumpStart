@@ -16,5 +16,5 @@ ELVEN 2
 1 Ent-Draught Basin
 //Lands (8)
 8 Forest
-//Unknown
+//Special
 1 Rare or mythic rare

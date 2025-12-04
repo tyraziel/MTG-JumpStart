@@ -15,5 +15,5 @@ MARAUDERS 1
 1 Gimli's Fury
 //Lands (8)
 8 Mountain
-//Unknown
+//Special
 1 Rare or mythic rare

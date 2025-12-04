@@ -16,5 +16,5 @@ JOURNEY 1
 1 Gift of Strands
 //Lands (8)
 8 Forest
-//Unknown
+//Special
 1 Rare or mythic rare

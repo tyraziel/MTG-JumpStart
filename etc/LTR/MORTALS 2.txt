@@ -16,5 +16,5 @@ MORTALS 2
 1 Inherited Envelope
 //Lands (8)
 8 Plains
-//Unknown
+//Special
 1 Rare or mythic rare

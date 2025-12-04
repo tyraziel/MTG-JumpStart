@@ -17,5 +17,5 @@ RIDERS 2
 1 Book of Mazarbul
 //Lands (8)
 8 Mountain
-//Unknown
+//Special
 1 Rare or mythic rare

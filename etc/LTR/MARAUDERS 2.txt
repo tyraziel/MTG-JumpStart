@@ -15,5 +15,5 @@ MARAUDERS 2
 1 Rush the Room
 //Lands (8)
 8 Mountain
-//Unknown
+//Special
 1 Rare or mythic rare

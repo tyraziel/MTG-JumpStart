@@ -15,5 +15,5 @@ MORDOR 1
 1 Shelob's Ambush
 //Lands (8)
 8 Swamp
-//Unknown
+//Special
 1 Rare or mythic rare

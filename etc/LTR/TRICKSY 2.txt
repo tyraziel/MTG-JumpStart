@@ -15,5 +15,5 @@ TRICKSY 2
 1 Saruman's Trickery
 //Lands (8)
 8 Island
-//Unknown
+//Special
 1 Rare or mythic rare

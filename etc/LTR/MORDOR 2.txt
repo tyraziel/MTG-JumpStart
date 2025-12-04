@@ -15,5 +15,5 @@ MORDOR 2
 1 Orcish Medicine
 //Lands (8)
 8 Swamp
-//Unknown
+//Special
 1 Rare or mythic rare

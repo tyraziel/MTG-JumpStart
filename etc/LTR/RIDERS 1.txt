@@ -16,5 +16,5 @@ RIDERS 1
 1 Rising of the Day
 //Lands (8)
 8 Mountain
-//Unknown
+//Special
 1 Rare or mythic rare
