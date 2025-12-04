@@ -123,10 +123,10 @@ Sets with individual deck files but no card type organization:
   - ⏳ Needs: Card type organization via `batch_reformat.py`
   - Source: `raw/CLU-HTML-DECKLISTS.txt`
 
-- **FND** - Foundations Beginner Box (10 decks)
+- **FDN** - Foundations Beginner Box (10 decks)
   - ✅ Individual files created (8 regular + 2 tutorial)
   - ⏳ Needs: Card type organization via `batch_reformat.py`
-  - Source: `raw/FND-HTML-DECKLISTS.txt`
+  - Source: `raw/FDN-HTML-DECKLISTS.txt`
   - Note: Tutorial decks (Cats, Vampires) parsed from HTML tables
 
 - **TLB** - Avatar TLA Beginner Box (10 decks)
@@ -324,7 +324,7 @@ Located in `etc/parsing-scripts/` - See `etc/parsing-scripts/README.md` for deta
   - Organizes cards by type with headers
 
 - **`parse_deck_list_format.py`** - Generic parser for `<deck-list>` HTML format
-  - Used for: J25, ONE, MOM, LTR, J22, CLU, TLB, FND
+  - Used for: J25, ONE, MOM, LTR, J22, CLU, TLB, FDN
   - Removes bracketed IDs and special land notations
 
 - **`parse_h2_ul_format.py`** - Generic parser for `<h2><ul>` HTML format
@@ -335,9 +335,9 @@ Located in `etc/parsing-scripts/` - See `etc/parsing-scripts/README.md` for deta
   - Used for: JMP
   - Removes bracketed IDs while preserving special land names
 
-- **`parse_fnd_tutorial.py`** - FND tutorial deck extractor
+- **`parse_fdn_tutorial.py`** - FDN tutorial deck extractor
   - Extracts Cats and Vampires tutorial decks from HTML tables
-  - Used for: FND
+  - Used for: FDN
 
 ### Workflow
 See `etc/parsing-scripts/README.md` for complete walkthrough:

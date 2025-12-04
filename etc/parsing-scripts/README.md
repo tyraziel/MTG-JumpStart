@@ -20,7 +20,7 @@ Extract deck lists from HTML using the appropriate parser:
 ```bash
 cd etc/parsing-scripts
 
-# For <deck-list> format (J25, ONE, MOM, LTR, J22, CLU, TLB, FND):
+# For <deck-list> format (J25, ONE, MOM, LTR, J22, CLU, TLB, FDN):
 python parse_deck_list_format.py ../../raw/ONE-HTML-DECKLISTS.txt ../../etc/ONE
 
 # For <h2><ul> format (BRO, DMU):
@@ -104,7 +104,7 @@ python batch_reformat.py ../../etc/TLA/ --dry-run --load-cache
 ### `parse_deck_list_format.py`
 Parses `<deck-list deck-title="...">` HTML format.
 
-**Used for:** J25, ONE, MOM, LTR, J22, CLU, TLB, FND
+**Used for:** J25, ONE, MOM, LTR, J22, CLU, TLB, FDN
 
 **Usage:**
 ```bash
@@ -162,19 +162,19 @@ python parse_legacy_format.py ../../raw/JMP-HTML-DECKLISTS.txt ../../etc/JMP
 - Preserves special basic land names (e.g., "Above the Clouds Island")
 - Skips "Format: Legacy" metadata lines
 
-### `parse_fnd_tutorial.py`
-Extracts tutorial decks from FND Beginner Box HTML tables.
+### `parse_fdn_tutorial.py`
+Extracts tutorial decks from FDN Beginner Box HTML tables.
 
-**Used for:** FND (Cats and Vampires tutorial decks)
+**Used for:** FDN (Cats and Vampires tutorial decks)
 
 **Usage:**
 ```bash
-python parse_fnd_tutorial.py <html_file> <output_dir>
+python parse_fdn_tutorial.py <html_file> <output_dir>
 ```
 
 **Example:**
 ```bash
-python parse_fnd_tutorial.py ../../raw/FND-HTML-DECKLISTS.txt ../../etc/FND
+python parse_fdn_tutorial.py ../../raw/FDN-HTML-DECKLISTS.txt ../../etc/FDN
 ```
 
 **Features:**
@@ -322,7 +322,7 @@ Run `batch_reformat.py` on these:
 - **MOM** - March of the Machine (10 decks)
 - **LTR** - Lord of the Rings (20 decks)
 - **CLU** - Ravnica: Clue Edition (20 decks)
-- **FND** - Foundations Beginner Box (8 decks)
+- **FDN** - Foundations Beginner Box (8 decks)
 - **TLB** - Avatar TLA Beginner Box (10 decks)
 
 ## Troubleshooting
