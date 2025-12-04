@@ -19,4 +19,4 @@ INFANTRY (1)
 //Special
 1 Random white rare or mythic rare
 //Unknown
-1 Rescue Retriever (Jumpstart Booster rare)
+1 Rescue Retriever

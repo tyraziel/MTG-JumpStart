@@ -19,4 +19,4 @@ WELDED (2)
 //Special
 1 Random red rare or mythic rare
 //Unknown
-1 Artificer's Dragon (Jumpstart Booster rare)
+1 Artificer's Dragon

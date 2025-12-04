@@ -19,4 +19,4 @@ UNEARTHED (2)
 //Special
 1 Random black rare or mythic rare
 //Unknown
-1 Terror Ballista (Jumpstart Booster rare)
+1 Terror Ballista
