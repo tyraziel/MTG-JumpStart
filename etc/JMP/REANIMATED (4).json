@@ -1,0 +1,189 @@
+{
+  "deck_name": "REANIMATED (4)",
+  "set": "JMP",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Mire Triton",
+      "type": "Creatures",
+      "type_line": "Creature — Zombie Merfolk",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Crow of Dark Tidings",
+      "type": "Creatures",
+      "type_line": "Creature — Zombie Bird",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Miasmic Mummy",
+      "type": "Creatures",
+      "type_line": "Creature — Zombie Jackal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Carrion Grub",
+      "type": "Creatures",
+      "type_line": "Creature — Insect",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "0",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Goremand",
+      "type": "Creatures",
+      "type_line": "Creature — Demon",
+      "mana_cost": "{4}{B}{B}",
+      "cmc": 6.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "5",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Crypt Lurker",
+      "type": "Creatures",
+      "type_line": "Creature — Horror",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Gloom Sower",
+      "type": "Creatures",
+      "type_line": "Creature — Horror",
+      "mana_cost": "{5}{B}{B}",
+      "cmc": 7.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "8",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Rise of the Dark Realms",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{7}{B}{B}",
+      "cmc": 9.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "mythic"
+    },
+    {
+      "quantity": 1,
+      "name": "Funeral Rites",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Soul Salvage",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Rise Again",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{4}{B}",
+      "cmc": 5.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Eliminate",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Moor",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Reanimated Swamp",
+      "type": "Unknown"
+    }
+  ]
+}

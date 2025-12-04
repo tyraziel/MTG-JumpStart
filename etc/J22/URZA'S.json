@@ -1,0 +1,181 @@
+{
+  "deck_name": "URZA'S",
+  "set": "J22",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Walking Ballista",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Construct",
+      "mana_cost": "{X}{X}",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "rare",
+      "power": "0",
+      "toughness": "0"
+    },
+    {
+      "quantity": 1,
+      "name": "Golem Artisan",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Golem",
+      "mana_cost": "{5}",
+      "cmc": 5.0,
+      "colors": [],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Meteor Golem",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Golem",
+      "mana_cost": "{7}",
+      "cmc": 7.0,
+      "colors": [],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Locthwain Gargoyle",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Gargoyle",
+      "mana_cost": "{1}",
+      "cmc": 1.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "0",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Runed Servitor",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Construct",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Manakin",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Construct",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Thaumaturge's Familiar",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Bird",
+      "mana_cost": "{3}",
+      "cmc": 3.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Planar Atlas",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Universal Solvent",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{1}",
+      "cmc": 1.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Alchemist's Vial",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Expedition Map",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{1}",
+      "cmc": 1.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Karn Liberated",
+      "type": "Planeswalkers",
+      "type_line": "Legendary Planeswalker — Karn",
+      "mana_cost": "{7}",
+      "cmc": 7.0,
+      "colors": [],
+      "rarity": "mythic",
+      "loyalty": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Urza's Factory",
+      "type": "Lands",
+      "type_line": "Land — Urza's",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 3,
+      "name": "Urza's Tower",
+      "type": "Lands",
+      "type_line": "Land — Urza's Tower",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 2,
+      "name": "Urza's Power Plant",
+      "type": "Lands",
+      "type_line": "Land — Urza's Power-Plant",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 2,
+      "name": "Urza's Mine",
+      "type": "Lands",
+      "type_line": "Land — Urza's Mine",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

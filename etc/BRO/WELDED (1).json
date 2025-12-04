@@ -1,0 +1,169 @@
+{
+  "deck_name": "WELDED (1)",
+  "set": "BRO",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Fallaji Chaindancer",
+      "type": "Creatures",
+      "type_line": "Creature — Human Soldier",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Horned Stoneseeker",
+      "type": "Creatures",
+      "type_line": "Creature — Lizard",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Mishra, Excavation Prodigy",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Artificer",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Fallaji Dragon Engine",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Dragon",
+      "mana_cost": "{8}",
+      "cmc": 8.0,
+      "colors": [],
+      "rarity": "uncommon",
+      "power": "5",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Mishra's Juggernaut",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Juggernaut",
+      "mana_cost": "{5}",
+      "cmc": 5.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "5",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Scrapwork Mutt",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Dog",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Artificer's Dragon",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Dragon",
+      "mana_cost": "{6}",
+      "cmc": 6.0,
+      "colors": [],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Obliterating Bolt",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Unleash Shell",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{R}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Whirling Strike",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Bitter Reunion",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 6,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 2,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Random red rare or mythic rare",
+      "type": "Special"
+    }
+  ]
+}

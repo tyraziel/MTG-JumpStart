@@ -1,0 +1,200 @@
+{
+  "deck_name": "MUSICIANS",
+  "set": "TLA",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Freedom Fighter Recruit",
+      "type": "Creatures",
+      "type_line": "Creature — Human Rebel Ally",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "*",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Moku, Meandering Drummer",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Bard Ally",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Ty Lee, Artful Acrobat",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Performer",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Wandering Musicians",
+      "type": "Creatures",
+      "type_line": "Creature — Human Bard Ally",
+      "mana_cost": "{3}{R/W}",
+      "cmc": 4.0,
+      "colors": [
+        "R",
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Chong and Lily, Nomads",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Bard Ally",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Rough Rhino Cavalry",
+      "type": "Creatures",
+      "type_line": "Creature — Human Mercenary",
+      "mana_cost": "{4}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "5",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Mongoose Lizard",
+      "type": "Creatures",
+      "type_line": "Creature — Mongoose Lizard",
+      "mana_cost": "{4}{R}{R}",
+      "cmc": 6.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "5",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Explosive Shot",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Bumi Bash",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Cunning Maneuver",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Founding of Omashu",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Saga",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "The Cave of Two Lovers",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Saga",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Bluff",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Secret Tunnel",
+      "type": "Lands",
+      "type_line": "Land — Cave",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 5,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Mountain Appa",
+      "type": "Unknown"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "deck_name": "TOXIC (2)",
+  "set": "ONE",
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Rustvine Cultivator",
+      "type": "Creatures",
+      "type_line": "Creature — Phyrexian Elf Druid",
+      "mana_cost": "{G}",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Branchblight Stalker",
+      "type": "Creatures",
+      "type_line": "Creature — Phyrexian Elf Scout",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Contagious Vorrac",
+      "type": "Creatures",
+      "type_line": "Creature — Phyrexian Boar Beast",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Paladin of Predation",
+      "type": "Creatures",
+      "type_line": "Creature — Phyrexian Knight",
+      "mana_cost": "{5}{G}{G}",
+      "cmc": 7.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "6",
+      "toughness": "7"
+    },
+    {
+      "quantity": 1,
+      "name": "Lattice-Blade Mantis",
+      "type": "Creatures",
+      "type_line": "Creature — Phyrexian Insect",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Cankerbloom",
+      "type": "Creatures",
+      "type_line": "Creature — Phyrexian Fungus",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Ruthless Predation",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Viral Spawning",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Tyvar's Stand",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{X}{G}",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Goliath Hatchery",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{4}{G}{G}",
+      "cmc": 6.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Maze's Mantle",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "The Hunter Maze",
+      "type": "Lands",
+      "type_line": "Land — Sphere",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Forest",
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Random green rare or mythic rare",
+      "type": "Special"
+    }
+  ]
+}
