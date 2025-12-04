@@ -18,4 +18,4 @@ TITANIC (1)
 //Special
 1 Random green rare or mythic rare
 //Unknown
-1 Woodcaller Automaton (Jumpstart Booster rare)
+1 Woodcaller Automaton
