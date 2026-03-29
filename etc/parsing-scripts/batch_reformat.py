@@ -265,6 +265,23 @@ def fetch_token_details(token_uri: str) -> Dict:
         return {}
 
 
+def normalize_card_name(card_name: str) -> str:
+    """
+    Normalize a card name before cache lookup or Scryfall query.
+
+    Strips known booster slot suffixes that appear in some raw deck list
+    sources (e.g. "Artificer's Dragon (Jumpstart Booster rare)" → "Artificer's Dragon").
+    These suffixes are printing/slot annotations, not part of the card name.
+    """
+    booster_suffixes = [" (Jumpstart Booster rare)"]
+    for suffix in booster_suffixes:
+        if card_name.endswith(suffix):
+            stripped = card_name[: -len(suffix)]
+            print(f"  [normalize] '{card_name}' → '{stripped}'", file=sys.stderr)
+            return stripped
+    return card_name
+
+
 def get_card_data(card_name: str) -> Dict:
     """
     Query Scryfall API for card information and cache comprehensive data.
@@ -279,16 +296,20 @@ def get_card_data(card_name: str) -> Dict:
     - toughness: Toughness value (for creatures)
     - rarity: Rarity (common, uncommon, rare, mythic)
     """
+    # Normalize name (strips booster slot suffixes before lookup)
+    card_name = normalize_card_name(card_name)
+
     # Check cache first
     if card_name in card_cache:
         return card_cache[card_name]
 
-    # Skip special placeholder cards
+    # Skip special placeholder cards — set skip_reason so future runs don't retry
     # Matches: "Random white rare or mythic rare", "Rare or mythic rare", etc.
     card_lower = card_name.lower()
     if ("rare" in card_lower and "mythic" in card_lower) or ("rare" in card_lower and "random" in card_lower):
-        card_data = {"type": "Special"}
+        card_data = {"type": "Special", "tokens": [], "skip_reason": "placeholder_slot"}
         card_cache[card_name] = card_data
+        print(f"  [skip] '{card_name}' — placeholder_slot", file=sys.stderr)
         return card_data
 
     # Query Scryfall

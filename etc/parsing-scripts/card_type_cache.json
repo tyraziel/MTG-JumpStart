@@ -3,7 +3,7 @@
   "_scryfall_api": "https://scryfall.com/docs/api",
   "_license": "Data extracted from Scryfall under their API terms of service",
   "_cache_version": "2.1",
-  "_fields": "type, type_line, mana_cost, cmc, colors, power, toughness, rarity, tokens",
+  "_fields": "type, type_line, mana_cost, cmc, colors, power, toughness, rarity, tokens, skip_reason(optional)",
   "Aang's Defense": {
     "type": "Instants",
     "type_line": "Instant",
@@ -1882,10 +1882,6 @@
     "rarity": "rare",
     "power": "4",
     "toughness": "4",
-    "tokens": []
-  },
-  "Artificer's Dragon (Jumpstart Booster rare)": {
-    "type": "Unknown",
     "tokens": []
   },
   "Artificer's Epiphany": {
@@ -4482,10 +4478,6 @@
     "toughness": "6",
     "tokens": []
   },
-  "Briar Hydra (Jumpstart Booster rare)": {
-    "type": "Unknown",
-    "tokens": []
-  },
   "Briarbridge Tracker": {
     "type": "Creatures",
     "type_line": "Creature — Human Scout",
@@ -6695,10 +6687,6 @@
       "U"
     ],
     "rarity": "rare",
-    "tokens": []
-  },
-  "Cosmic Epiphany (Jumpstart Booster rare)": {
-    "type": "Unknown",
     "tokens": []
   },
   "Cosmic Hunger": {
@@ -13227,10 +13215,6 @@
         "colors": []
       }
     ]
-  },
-  "Geology Enthusiast (Jumpstart Booster rare)": {
-    "type": "Unknown",
-    "tokens": []
   },
   "Geyser Leaper": {
     "type": "Creatures",
@@ -22128,7 +22112,8 @@
   },
   "NAME": {
     "type": "Unknown",
-    "tokens": []
+    "tokens": [],
+    "skip_reason": "parse_artifact"
   },
   "Naban, Dean of Iteration": {
     "type": "Creatures",
@@ -25695,10 +25680,6 @@
     "toughness": "3",
     "tokens": []
   },
-  "Ragefire Hellkite (Jumpstart Booster rare)": {
-    "type": "Unknown",
-    "tokens": []
-  },
   "Raging Redcap": {
     "type": "Creatures",
     "type_line": "Creature — Goblin Knight",
@@ -26017,39 +25998,48 @@
   },
   "Random black rare or mythic rare": {
     "type": "Special",
-    "tokens": []
+    "tokens": [],
+    "skip_reason": "placeholder_slot"
   },
   "Random black rare or mythic rare, or Weatherlight Compleated": {
     "type": "Special",
-    "tokens": []
+    "tokens": [],
+    "skip_reason": "placeholder_slot"
   },
   "Random blue rare or mythic rare": {
     "type": "Special",
-    "tokens": []
+    "tokens": [],
+    "skip_reason": "placeholder_slot"
   },
   "Random blue rare or mythic rare; or Liberator, Urza's Battlethopter; or Thran Spider": {
     "type": "Special",
-    "tokens": []
+    "tokens": [],
+    "skip_reason": "placeholder_slot"
   },
   "Random green rare or mythic rare": {
     "type": "Special",
-    "tokens": []
+    "tokens": [],
+    "skip_reason": "placeholder_slot"
   },
   "Random rare or mythic rare": {
     "type": "Special",
-    "tokens": []
+    "tokens": [],
+    "skip_reason": "placeholder_slot"
   },
   "Random red rare or mythic rare": {
     "type": "Special",
-    "tokens": []
+    "tokens": [],
+    "skip_reason": "placeholder_slot"
   },
   "Random white rare or mythic rare": {
     "type": "Special",
-    "tokens": []
+    "tokens": [],
+    "skip_reason": "placeholder_slot"
   },
   "Random white rare or mythic rare, or Karn, Living Legacy": {
     "type": "Special",
-    "tokens": []
+    "tokens": [],
+    "skip_reason": "placeholder_slot"
   },
   "Ranger's Guile": {
     "type": "Instants",
@@ -26104,7 +26094,8 @@
   },
   "Rare or mythic rare": {
     "type": "Special",
-    "tokens": []
+    "tokens": [],
+    "skip_reason": "placeholder_slot"
   },
   "Rattlechains": {
     "type": "Creatures",
@@ -26706,10 +26697,6 @@
     "rarity": "rare",
     "power": "3",
     "toughness": "3",
-    "tokens": []
-  },
-  "Rescue Retriever (Jumpstart Booster rare)": {
-    "type": "Unknown",
     "tokens": []
   },
   "Rescuer Sphinx": {
@@ -29041,10 +29028,6 @@
     "rarity": "rare",
     "power": "2",
     "toughness": "4",
-    "tokens": []
-  },
-  "Serra Redeemer (Jumpstart Booster rare)": {
-    "type": "Unknown",
     "tokens": []
   },
   "Serra's Embrace": {
@@ -32741,10 +32724,6 @@
     "toughness": "3",
     "tokens": []
   },
-  "Terror Ballista (Jumpstart Booster rare)": {
-    "type": "Unknown",
-    "tokens": []
-  },
   "Terror of Mount Velus": {
     "type": "Creatures",
     "type_line": "Creature — Dragon",
@@ -34718,10 +34697,6 @@
     "rarity": "rare",
     "power": "6",
     "toughness": "6",
-    "tokens": []
-  },
-  "Tyrannical Pitlord (Jumpstart Booster rare)": {
-    "type": "Unknown",
     "tokens": []
   },
   "Tyvar Kell": {
@@ -37433,10 +37408,6 @@
     "rarity": "rare",
     "power": "8",
     "toughness": "8",
-    "tokens": []
-  },
-  "Woodcaller Automaton (Jumpstart Booster rare)": {
-    "type": "Unknown",
     "tokens": []
   },
   "Wooded Ridgeline": {
