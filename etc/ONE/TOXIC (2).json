@@ -1,6 +1,17 @@
 {
   "deck_name": "TOXIC (2)",
   "set": "ONE",
+  "tokens": [
+    {
+      "name": "Phyrexian Beast",
+      "type_line": "Token Creature — Phyrexian Beast",
+      "colors": [
+        "G"
+      ],
+      "power": "3",
+      "toughness": "3"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -108,7 +119,18 @@
       "colors": [
         "G"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Phyrexian Beast",
+          "type_line": "Token Creature — Phyrexian Beast",
+          "colors": [
+            "G"
+          ],
+          "power": "3",
+          "toughness": "3"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -132,7 +154,18 @@
       "colors": [
         "G"
       ],
-      "rarity": "rare"
+      "rarity": "rare",
+      "tokens": [
+        {
+          "name": "Phyrexian Beast",
+          "type_line": "Token Creature — Phyrexian Beast",
+          "colors": [
+            "G"
+          ],
+          "power": "3",
+          "toughness": "3"
+        }
+      ]
     },
     {
       "quantity": 1,

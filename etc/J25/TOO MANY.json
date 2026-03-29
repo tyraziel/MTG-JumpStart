@@ -1,6 +1,17 @@
 {
   "deck_name": "TOO MANY",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Goblin",
+      "type_line": "Token Creature — Goblin",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -82,7 +93,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Goblin",
+          "type_line": "Token Creature — Goblin",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -130,7 +152,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Goblin",
+          "type_line": "Token Creature — Goblin",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

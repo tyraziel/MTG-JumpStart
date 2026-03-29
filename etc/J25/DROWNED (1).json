@@ -1,6 +1,17 @@
 {
   "deck_name": "DROWNED (1)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Fish",
+      "type_line": "Token Creature — Fish",
+      "colors": [
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -28,7 +39,18 @@
       ],
       "rarity": "common",
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Fish",
+          "type_line": "Token Creature — Fish",
+          "colors": [
+            "U"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

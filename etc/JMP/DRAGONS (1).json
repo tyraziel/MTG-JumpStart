@@ -1,6 +1,22 @@
 {
   "deck_name": "DRAGONS (1)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Goblin",
+      "type_line": "Token Creature — Goblin",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -26,7 +42,14 @@
       ],
       "rarity": "uncommon",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -120,7 +143,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Goblin",
+          "type_line": "Token Creature — Goblin",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

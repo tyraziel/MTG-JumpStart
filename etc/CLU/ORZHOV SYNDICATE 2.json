@@ -1,6 +1,32 @@
 {
   "deck_name": "ORZHOV SYNDICATE 2",
   "set": "CLU",
+  "tokens": [
+    {
+      "name": "Bat",
+      "type_line": "Token Creature — Bat",
+      "colors": [
+        "B"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "colors": [
+        "B",
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -43,7 +69,18 @@
       ],
       "rarity": "uncommon",
       "power": "1",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Bat",
+          "type_line": "Token Creature — Bat",
+          "colors": [
+            "B"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -85,7 +122,19 @@
       ],
       "rarity": "uncommon",
       "power": "3",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Spirit",
+          "type_line": "Token Creature — Spirit",
+          "colors": [
+            "B",
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -100,7 +149,19 @@
       ],
       "rarity": "mythic",
       "power": "4",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Spirit",
+          "type_line": "Token Creature — Spirit",
+          "colors": [
+            "B",
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -113,7 +174,14 @@
         "B",
         "W"
       ],
-      "rarity": "rare"
+      "rarity": "rare",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -126,7 +194,19 @@
         "B",
         "W"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Spirit",
+          "type_line": "Token Creature — Spirit",
+          "colors": [
+            "B",
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

@@ -1,6 +1,26 @@
 {
   "deck_name": "ELVES (4)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "colors": [
+        "G"
+      ],
+      "power": "7",
+      "toughness": "7"
+    },
+    {
+      "name": "Elf Warrior",
+      "type_line": "Token Creature — Elf Warrior",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +34,18 @@
       ],
       "rarity": "rare",
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Elemental",
+          "type_line": "Token Creature — Elemental",
+          "colors": [
+            "G"
+          ],
+          "power": "7",
+          "toughness": "7"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -161,7 +192,18 @@
         "G"
       ],
       "rarity": "mythic",
-      "loyalty": "3"
+      "loyalty": "3",
+      "tokens": [
+        {
+          "name": "Elf Warrior",
+          "type_line": "Token Creature — Elf Warrior",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

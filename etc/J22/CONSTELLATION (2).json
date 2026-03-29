@@ -1,6 +1,17 @@
 {
   "deck_name": "CONSTELLATION (2)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Angel",
+      "type_line": "Token Creature — Angel",
+      "colors": [
+        "W"
+      ],
+      "power": "4",
+      "toughness": "4"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -110,7 +121,18 @@
       "colors": [
         "W"
       ],
-      "rarity": "rare"
+      "rarity": "rare",
+      "tokens": [
+        {
+          "name": "Angel",
+          "type_line": "Token Creature — Angel",
+          "colors": [
+            "W"
+          ],
+          "power": "4",
+          "toughness": "4"
+        }
+      ]
     },
     {
       "quantity": 1,

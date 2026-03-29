@@ -1,6 +1,17 @@
 {
   "deck_name": "BOOKWORMS (4)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Tentacle",
+      "type_line": "Token Creature — Tentacle",
+      "colors": [
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +25,18 @@
       ],
       "rarity": "rare",
       "power": "2",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Tentacle",
+          "type_line": "Token Creature — Tentacle",
+          "colors": [
+            "U"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

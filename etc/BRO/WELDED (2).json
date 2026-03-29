@@ -1,6 +1,20 @@
 {
   "deck_name": "WELDED (2)",
   "set": "BRO",
+  "tokens": [
+    {
+      "name": "Powerstone",
+      "type_line": "Token Artifact — Powerstone",
+      "colors": []
+    },
+    {
+      "name": "Soldier",
+      "type_line": "Token Artifact Creature — Soldier",
+      "colors": [],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +28,14 @@
       ],
       "rarity": "uncommon",
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Powerstone",
+          "type_line": "Token Artifact — Powerstone",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -102,7 +123,14 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Powerstone",
+          "type_line": "Token Artifact — Powerstone",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -114,7 +142,16 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Soldier",
+          "type_line": "Token Artifact Creature — Soldier",
+          "colors": [],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

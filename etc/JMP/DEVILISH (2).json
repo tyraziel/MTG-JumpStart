@@ -1,6 +1,17 @@
 {
   "deck_name": "DEVILISH (2)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Devil",
+      "type_line": "Token Creature — Devil",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -28,7 +39,18 @@
       ],
       "rarity": "rare",
       "power": "2",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Devil",
+          "type_line": "Token Creature — Devil",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

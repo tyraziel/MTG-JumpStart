@@ -1,6 +1,17 @@
 {
   "deck_name": "TRICKSY 2",
   "set": "LTR",
+  "tokens": [
+    {
+      "name": "Orc Army",
+      "type_line": "Token Creature — Orc Army",
+      "colors": [
+        "B"
+      ],
+      "power": "0",
+      "toughness": "0"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -84,7 +95,18 @@
       ],
       "rarity": "uncommon",
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Orc Army",
+          "type_line": "Token Creature — Orc Army",
+          "colors": [
+            "B"
+          ],
+          "power": "0",
+          "toughness": "0"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -146,7 +168,18 @@
       "colors": [
         "U"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Orc Army",
+          "type_line": "Token Creature — Orc Army",
+          "colors": [
+            "B"
+          ],
+          "power": "0",
+          "toughness": "0"
+        }
+      ]
     },
     {
       "quantity": 8,

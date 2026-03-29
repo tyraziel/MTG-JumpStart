@@ -1,6 +1,17 @@
 {
   "deck_name": "UNDER THE SEA (2)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Pirate",
+      "type_line": "Token Creature — Pirate",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -84,7 +95,18 @@
       ],
       "rarity": "rare",
       "power": "8",
-      "toughness": "8"
+      "toughness": "8",
+      "tokens": [
+        {
+          "name": "Pirate",
+          "type_line": "Token Creature — Pirate",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

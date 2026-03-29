@@ -1,6 +1,17 @@
 {
   "deck_name": "SIMIC COMBINE 1",
   "set": "CLU",
+  "tokens": [
+    {
+      "name": "Frog Lizard",
+      "type_line": "Token Creature — Frog Lizard",
+      "colors": [
+        "G"
+      ],
+      "power": "3",
+      "toughness": "3"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -139,7 +150,18 @@
       "colors": [
         "U"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Frog Lizard",
+          "type_line": "Token Creature — Frog Lizard",
+          "colors": [
+            "G"
+          ],
+          "power": "3",
+          "toughness": "3"
+        }
+      ]
     },
     {
       "quantity": 1,

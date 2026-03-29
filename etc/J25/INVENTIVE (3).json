@@ -1,6 +1,15 @@
 {
   "deck_name": "INVENTIVE (3)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Thopter",
+      "type_line": "Token Artifact Creature — Thopter",
+      "colors": [],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -68,7 +77,16 @@
       ],
       "rarity": "uncommon",
       "power": "0",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Thopter",
+          "type_line": "Token Artifact Creature — Thopter",
+          "colors": [],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

@@ -1,6 +1,17 @@
 {
   "deck_name": "PRIDEFUL",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Cat Soldier",
+      "type_line": "Token Creature — Cat Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +25,18 @@
       ],
       "rarity": "mythic",
       "power": "3",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Cat Soldier",
+          "type_line": "Token Creature — Cat Soldier",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

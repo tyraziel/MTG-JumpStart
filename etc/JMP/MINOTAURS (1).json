@@ -1,6 +1,17 @@
 {
   "deck_name": "MINOTAURS (1)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Minotaur",
+      "type_line": "Token Creature — Minotaur",
+      "colors": [
+        "R"
+      ],
+      "power": "2",
+      "toughness": "3"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -28,7 +39,18 @@
       ],
       "rarity": "rare",
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Minotaur",
+          "type_line": "Token Creature — Minotaur",
+          "colors": [
+            "R"
+          ],
+          "power": "2",
+          "toughness": "3"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -110,7 +132,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Minotaur",
+          "type_line": "Token Creature — Minotaur",
+          "colors": [
+            "R"
+          ],
+          "power": "2",
+          "toughness": "3"
+        }
+      ]
     },
     {
       "quantity": 1,

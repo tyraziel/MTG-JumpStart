@@ -1,6 +1,17 @@
 {
   "deck_name": "GRAVE ROBBERS (4)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "colors": [
+        "B"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -159,7 +170,18 @@
         "B"
       ],
       "rarity": "mythic",
-      "loyalty": "5"
+      "loyalty": "5",
+      "tokens": [
+        {
+          "name": "Zombie",
+          "type_line": "Token Creature — Zombie",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,

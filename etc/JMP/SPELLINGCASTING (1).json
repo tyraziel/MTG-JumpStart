@@ -1,6 +1,17 @@
 {
   "deck_name": "SPELLINGCASTING (1)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Goblin Wizard",
+      "type_line": "Token Creature — Goblin Wizard",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -120,7 +131,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Goblin Wizard",
+          "type_line": "Token Creature — Goblin Wizard",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

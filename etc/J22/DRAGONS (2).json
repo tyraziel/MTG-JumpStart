@@ -1,6 +1,17 @@
 {
   "deck_name": "DRAGONS (2)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Dragon",
+      "type_line": "Token Creature — Dragon",
+      "colors": [
+        "R"
+      ],
+      "power": "5",
+      "toughness": "5"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +25,18 @@
       ],
       "rarity": "rare",
       "power": "6",
-      "toughness": "6"
+      "toughness": "6",
+      "tokens": [
+        {
+          "name": "Dragon",
+          "type_line": "Token Creature — Dragon",
+          "colors": [
+            "R"
+          ],
+          "power": "5",
+          "toughness": "5"
+        }
+      ]
     },
     {
       "quantity": 1,

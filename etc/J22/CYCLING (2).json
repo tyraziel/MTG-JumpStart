@@ -1,6 +1,17 @@
 {
   "deck_name": "CYCLING (2)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Rat",
+      "type_line": "Token Creature — Rat",
+      "colors": [
+        "B"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -28,7 +39,18 @@
       ],
       "rarity": "uncommon",
       "power": "1",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Rat",
+          "type_line": "Token Creature — Rat",
+          "colors": [
+            "B"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

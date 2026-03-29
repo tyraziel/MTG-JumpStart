@@ -1,6 +1,15 @@
 {
   "deck_name": "URZA'S",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Assembly-Worker",
+      "type_line": "Token Artifact Creature — Assembly-Worker",
+      "colors": [],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -145,7 +154,16 @@
       "mana_cost": "",
       "cmc": 0.0,
       "colors": [],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Assembly-Worker",
+          "type_line": "Token Artifact Creature — Assembly-Worker",
+          "colors": [],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 3,

@@ -1,6 +1,17 @@
 {
   "deck_name": "WOLVES (2)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Wolf",
+      "type_line": "Token Creature — Wolf",
+      "colors": [
+        "G"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +25,18 @@
       ],
       "rarity": "mythic",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Wolf",
+          "type_line": "Token Creature — Wolf",
+          "colors": [
+            "G"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -98,7 +120,18 @@
       ],
       "rarity": "common",
       "power": "0",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Wolf",
+          "type_line": "Token Creature — Wolf",
+          "colors": [
+            "G"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -161,7 +194,18 @@
         "G"
       ],
       "rarity": "uncommon",
-      "loyalty": "7"
+      "loyalty": "7",
+      "tokens": [
+        {
+          "name": "Wolf",
+          "type_line": "Token Creature — Wolf",
+          "colors": [
+            "G"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,

@@ -1,6 +1,22 @@
 {
   "deck_name": "ORCISH 1",
   "set": "LTR",
+  "tokens": [
+    {
+      "name": "Orc Army",
+      "type_line": "Token Creature — Orc Army",
+      "colors": [
+        "B"
+      ],
+      "power": "0",
+      "toughness": "0"
+    },
+    {
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +30,18 @@
       ],
       "rarity": "rare",
       "power": "4",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Orc Army",
+          "type_line": "Token Creature — Orc Army",
+          "colors": [
+            "B"
+          ],
+          "power": "0",
+          "toughness": "0"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -28,7 +55,18 @@
       ],
       "rarity": "common",
       "power": "2",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Orc Army",
+          "type_line": "Token Creature — Orc Army",
+          "colors": [
+            "B"
+          ],
+          "power": "0",
+          "toughness": "0"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -42,7 +80,18 @@
       ],
       "rarity": "common",
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Orc Army",
+          "type_line": "Token Creature — Orc Army",
+          "colors": [
+            "B"
+          ],
+          "power": "0",
+          "toughness": "0"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -70,7 +119,14 @@
       ],
       "rarity": "uncommon",
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -84,7 +140,18 @@
       ],
       "rarity": "uncommon",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Orc Army",
+          "type_line": "Token Creature — Orc Army",
+          "colors": [
+            "B"
+          ],
+          "power": "0",
+          "toughness": "0"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -96,7 +163,18 @@
       "colors": [
         "B"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Orc Army",
+          "type_line": "Token Creature — Orc Army",
+          "colors": [
+            "B"
+          ],
+          "power": "0",
+          "toughness": "0"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -120,7 +198,18 @@
       "colors": [
         "B"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Orc Army",
+          "type_line": "Token Creature — Orc Army",
+          "colors": [
+            "B"
+          ],
+          "power": "0",
+          "toughness": "0"
+        }
+      ]
     },
     {
       "quantity": 1,

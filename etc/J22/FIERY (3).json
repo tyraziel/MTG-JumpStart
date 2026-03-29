@@ -1,6 +1,17 @@
 {
   "deck_name": "FIERY (3)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Devil",
+      "type_line": "Token Creature — Devil",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -120,7 +131,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Devil",
+          "type_line": "Token Creature — Devil",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

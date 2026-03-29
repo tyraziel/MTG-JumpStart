@@ -1,6 +1,26 @@
 {
   "deck_name": "STALWART (1)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Cat",
+      "type_line": "Token Creature — Cat",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -84,7 +104,18 @@
       ],
       "rarity": "common",
       "power": "2",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Spirit",
+          "type_line": "Token Creature — Spirit",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -161,7 +192,18 @@
         "W"
       ],
       "rarity": "mythic",
-      "loyalty": "4"
+      "loyalty": "4",
+      "tokens": [
+        {
+          "name": "Cat",
+          "type_line": "Token Creature — Cat",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

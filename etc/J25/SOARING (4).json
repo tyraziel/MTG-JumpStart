@@ -1,6 +1,17 @@
 {
   "deck_name": "SOARING (4)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Faerie",
+      "type_line": "Token Creature — Faerie",
+      "colors": [
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -110,7 +121,18 @@
       "colors": [
         "U"
       ],
-      "rarity": "rare"
+      "rarity": "rare",
+      "tokens": [
+        {
+          "name": "Faerie",
+          "type_line": "Token Creature — Faerie",
+          "colors": [
+            "U"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
