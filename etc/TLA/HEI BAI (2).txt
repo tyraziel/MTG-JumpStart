@@ -1,17 +1,18 @@
-HEI-BAI (1)
+HEI BAI (2)
 //Creatures (8)
-1 Invasion Reinforcements
+1 Curious Farm Animals
+1 Jeong Jeong's Deserters
 1 Pretending Poxbearers
 1 Aang, A Lot to Learn
-1 Koala-Sheep
 1 Suki, Courageous Rescuer
-1 Vengeful Villagers
+1 Aardvark Sloth
 1 Hei Bai, Spirit of Balance
 1 Rabaroo Troop
-//Instants (3)
-1 Acrobatic Leap
+//Sorceries (1)
+1 Destined Confrontation
+//Instants (2)
+1 Sokka's Sword Training
 1 That's Rough Buddy
-1 Sandbenders' Storm
 //Enchantments (1)
 1 Path to Redemption
 //Lands (8)

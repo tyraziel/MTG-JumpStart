@@ -1,4 +1,4 @@
-BAD-ADVICE
+BAD ADVICE
 //Creatures (8)
 1 Gilacorn
 1 Dai Li Censor

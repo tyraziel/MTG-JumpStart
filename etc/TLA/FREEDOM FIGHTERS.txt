@@ -1,4 +1,4 @@
-FREEDOM-FIGHTERS
+FREEDOM FIGHTERS
 //Creatures (8)
 1 The Duke, Rebel Sentry
 1 Jeong Jeong's Deserters

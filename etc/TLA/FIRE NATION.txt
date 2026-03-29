@@ -1,4 +1,4 @@
-FIRE-NATION
+FIRE NATION
 //Creatures (5)
 1 Firebending Student
 1 Mai, Jaded Edge
