@@ -1,6 +1,31 @@
 {
   "deck_name": "MARAUDERS 1",
   "set": "LTR",
+  "tokens": [
+    {
+      "name": "Human Soldier",
+      "type_line": "Token Creature — Human Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Orc Army",
+      "type_line": "Token Creature — Orc Army",
+      "colors": [
+        "B"
+      ],
+      "power": "0",
+      "toughness": "0"
+    },
+    {
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -42,7 +67,18 @@
       ],
       "rarity": "uncommon",
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Orc Army",
+          "type_line": "Token Creature — Orc Army",
+          "colors": [
+            "B"
+          ],
+          "power": "0",
+          "toughness": "0"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -82,7 +118,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "rare"
+      "rarity": "rare",
+      "tokens": [
+        {
+          "name": "Orc Army",
+          "type_line": "Token Creature — Orc Army",
+          "colors": [
+            "B"
+          ],
+          "power": "0",
+          "toughness": "0"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -94,7 +141,23 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        },
+        {
+          "name": "Orc Army",
+          "type_line": "Token Creature — Orc Army",
+          "colors": [
+            "B"
+          ],
+          "power": "0",
+          "toughness": "0"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -106,7 +169,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Orc Army",
+          "type_line": "Token Creature — Orc Army",
+          "colors": [
+            "B"
+          ],
+          "power": "0",
+          "toughness": "0"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -130,7 +204,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Human Soldier",
+          "type_line": "Token Creature — Human Soldier",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

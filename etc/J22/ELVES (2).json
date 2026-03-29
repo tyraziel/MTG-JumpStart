@@ -1,6 +1,17 @@
 {
   "deck_name": "ELVES (2)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Elf Warrior",
+      "type_line": "Token Creature — Elf Warrior",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +25,18 @@
       ],
       "rarity": "uncommon",
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Elf Warrior",
+          "type_line": "Token Creature — Elf Warrior",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -28,7 +50,18 @@
       ],
       "rarity": "common",
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Elf Warrior",
+          "type_line": "Token Creature — Elf Warrior",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -112,7 +145,18 @@
       ],
       "rarity": "common",
       "power": "3",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Elf Warrior",
+          "type_line": "Token Creature — Elf Warrior",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -160,7 +204,18 @@
       "colors": [
         "G"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Elf Warrior",
+          "type_line": "Token Creature — Elf Warrior",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

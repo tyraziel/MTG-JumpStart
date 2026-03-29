@@ -1,6 +1,22 @@
 {
   "deck_name": "DROWNED (2)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Copy",
+      "type_line": "Token",
+      "colors": []
+    },
+    {
+      "name": "Fish",
+      "type_line": "Token Creature — Fish",
+      "colors": [
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -56,7 +72,18 @@
       ],
       "rarity": "common",
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Fish",
+          "type_line": "Token Creature — Fish",
+          "colors": [
+            "U"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -136,7 +163,14 @@
       "colors": [
         "U"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Copy",
+          "type_line": "Token",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,

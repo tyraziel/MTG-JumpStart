@@ -1,6 +1,7 @@
 {
   "deck_name": "EARTHBENDING (1)",
   "set": "TLA",
+  "tokens": [],
   "cards": [
     {
       "quantity": 1,
@@ -180,7 +181,12 @@
     {
       "quantity": 1,
       "name": "Forest Appa",
-      "type": "Unknown"
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
     }
   ]
 }

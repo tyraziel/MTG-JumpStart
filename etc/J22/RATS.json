@@ -1,6 +1,17 @@
 {
   "deck_name": "RATS",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Rat",
+      "type_line": "Token Creature — Rat",
+      "colors": [
+        "B"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -42,7 +53,18 @@
       ],
       "rarity": "rare",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Rat",
+          "type_line": "Token Creature — Rat",
+          "colors": [
+            "B"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

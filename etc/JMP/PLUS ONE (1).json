@@ -1,6 +1,17 @@
 {
   "deck_name": "PLUS ONE (1)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Beast",
+      "type_line": "Token Creature — Beast",
+      "colors": [
+        "G"
+      ],
+      "power": "3",
+      "toughness": "3"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -146,7 +157,18 @@
       "colors": [
         "G"
       ],
-      "rarity": "mythic"
+      "rarity": "mythic",
+      "tokens": [
+        {
+          "name": "Beast",
+          "type_line": "Token Creature — Beast",
+          "colors": [
+            "G"
+          ],
+          "power": "3",
+          "toughness": "3"
+        }
+      ]
     },
     {
       "quantity": 1,

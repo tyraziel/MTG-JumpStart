@@ -1,6 +1,28 @@
 {
   "deck_name": "REINFORCEMENT 1",
   "set": "MOM",
+  "tokens": [
+    {
+      "name": "Copy",
+      "type_line": "Token",
+      "colors": []
+    },
+    {
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "colors": [
+        "R",
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -70,7 +92,14 @@
       ],
       "rarity": "uncommon",
       "power": "2",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -98,7 +127,14 @@
       ],
       "rarity": "rare",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Copy",
+          "type_line": "Token",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -110,7 +146,19 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Elemental",
+          "type_line": "Token Creature — Elemental",
+          "colors": [
+            "R",
+            "U"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

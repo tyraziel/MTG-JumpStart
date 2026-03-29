@@ -1,6 +1,35 @@
 {
   "deck_name": "LEGION (1)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Bird",
+      "type_line": "Token Creature — Bird",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Knight",
+      "type_line": "Token Creature — Knight",
+      "colors": [
+        "W"
+      ],
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -42,7 +71,18 @@
       ],
       "rarity": "uncommon",
       "power": "2",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Bird",
+          "type_line": "Token Creature — Bird",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -56,7 +96,18 @@
       ],
       "rarity": "common",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Knight",
+          "type_line": "Token Creature — Knight",
+          "colors": [
+            "W"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -144,7 +195,18 @@
       "colors": [
         "W"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Soldier",
+          "type_line": "Token Creature — Soldier",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

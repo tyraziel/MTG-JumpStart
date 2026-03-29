@@ -1,6 +1,18 @@
 {
   "deck_name": "DETECTIVE (1)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "colors": []
+    },
+    {
+      "name": "Copy",
+      "type_line": "Token",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -38,7 +50,14 @@
       "colors": [],
       "rarity": "common",
       "power": "3",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Copy",
+          "type_line": "Token",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -52,7 +71,14 @@
       ],
       "rarity": "common",
       "power": "1",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Clue",
+          "type_line": "Token Artifact — Clue",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -80,7 +106,14 @@
       ],
       "rarity": "common",
       "power": "2",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Clue",
+          "type_line": "Token Artifact — Clue",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -106,7 +139,14 @@
       "colors": [
         "U"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Clue",
+          "type_line": "Token Artifact — Clue",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -118,7 +158,14 @@
       "colors": [
         "U"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Clue",
+          "type_line": "Token Artifact — Clue",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -128,7 +175,14 @@
       "mana_cost": "{3}",
       "cmc": 3.0,
       "colors": [],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Clue",
+          "type_line": "Token Artifact — Clue",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -140,7 +194,14 @@
       "colors": [
         "U"
       ],
-      "rarity": "mythic"
+      "rarity": "mythic",
+      "tokens": [
+        {
+          "name": "Copy",
+          "type_line": "Token",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -152,7 +213,14 @@
       "colors": [
         "U"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Clue",
+          "type_line": "Token Artifact — Clue",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,

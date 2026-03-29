@@ -1,6 +1,17 @@
 {
   "deck_name": "SNAKES",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Snake",
+      "type_line": "Token Creature — Snake",
+      "colors": [
+        "B"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +25,18 @@
       ],
       "rarity": "mythic",
       "power": "1",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Snake",
+          "type_line": "Token Creature — Snake",
+          "colors": [
+            "B"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

@@ -1,6 +1,24 @@
 {
   "deck_name": "SHRINES",
   "set": "TLA",
+  "tokens": [
+    {
+      "name": "Monk",
+      "type_line": "Token Creature — Monk",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "colors": [],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -42,7 +60,16 @@
       ],
       "rarity": "mythic",
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Spirit",
+          "type_line": "Token Creature — Spirit",
+          "colors": [],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -151,7 +178,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Monk",
+          "type_line": "Token Creature — Monk",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -226,7 +264,12 @@
     {
       "quantity": 1,
       "name": "Forest Appa",
-      "type": "Unknown"
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
     }
   ]
 }

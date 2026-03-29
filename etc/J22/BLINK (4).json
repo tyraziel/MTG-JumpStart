@@ -1,6 +1,17 @@
 {
   "deck_name": "BLINK (4)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Bird",
+      "type_line": "Token Creature — Bird",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -96,7 +107,18 @@
       ],
       "rarity": "common",
       "power": "1",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Bird",
+          "type_line": "Token Creature — Bird",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

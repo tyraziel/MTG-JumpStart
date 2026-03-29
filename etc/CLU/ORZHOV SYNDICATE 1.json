@@ -1,6 +1,23 @@
 {
   "deck_name": "ORZHOV SYNDICATE 1",
   "set": "CLU",
+  "tokens": [
+    {
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "colors": []
+    },
+    {
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "colors": [
+        "B",
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -85,7 +102,19 @@
       ],
       "rarity": "common",
       "power": "2",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Spirit",
+          "type_line": "Token Creature — Spirit",
+          "colors": [
+            "B",
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -114,7 +143,14 @@
       ],
       "rarity": "rare",
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Clue",
+          "type_line": "Token Artifact — Clue",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -151,7 +187,19 @@
         "B",
         "W"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Spirit",
+          "type_line": "Token Creature — Spirit",
+          "colors": [
+            "B",
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

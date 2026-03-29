@@ -1,6 +1,25 @@
 {
   "deck_name": "AZULA",
   "set": "TLA",
+  "tokens": [
+    {
+      "name": "Ballistic Boulder",
+      "type_line": "Token Artifact Creature — Construct",
+      "colors": [],
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "colors": []
+    },
+    {
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -56,7 +75,16 @@
       ],
       "rarity": "uncommon",
       "power": "0",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Ballistic Boulder",
+          "type_line": "Token Artifact Creature — Construct",
+          "colors": [],
+          "power": "2",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -98,7 +126,14 @@
       ],
       "rarity": "common",
       "power": "6",
-      "toughness": "6"
+      "toughness": "6",
+      "tokens": [
+        {
+          "name": "Food",
+          "type_line": "Token Artifact — Food",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -146,7 +181,14 @@
       "colors": [
         "B"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Clue",
+          "type_line": "Token Artifact — Clue",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -183,7 +225,12 @@
     {
       "quantity": 1,
       "name": "Swamp Appa",
-      "type": "Unknown"
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
     }
   ]
 }

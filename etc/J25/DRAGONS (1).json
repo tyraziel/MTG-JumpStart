@@ -1,6 +1,22 @@
 {
   "deck_name": "DRAGONS (1)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Dragon",
+      "type_line": "Token Creature — Dragon",
+      "colors": [
+        "R"
+      ],
+      "power": "5",
+      "toughness": "5"
+    },
+    {
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +30,18 @@
       ],
       "rarity": "rare",
       "power": "6",
-      "toughness": "6"
+      "toughness": "6",
+      "tokens": [
+        {
+          "name": "Dragon",
+          "type_line": "Token Creature — Dragon",
+          "colors": [
+            "R"
+          ],
+          "power": "5",
+          "toughness": "5"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -84,7 +111,14 @@
       ],
       "rarity": "uncommon",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -110,7 +144,14 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,

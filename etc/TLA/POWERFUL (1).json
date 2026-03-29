@@ -1,6 +1,13 @@
 {
   "deck_name": "POWERFUL (1)",
   "set": "TLA",
+  "tokens": [
+    {
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -72,7 +79,14 @@
       ],
       "rarity": "common",
       "power": "4",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Clue",
+          "type_line": "Token Artifact — Clue",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -187,7 +201,12 @@
     {
       "quantity": 1,
       "name": "Mountain Appa",
-      "type": "Unknown"
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
     }
   ]
 }

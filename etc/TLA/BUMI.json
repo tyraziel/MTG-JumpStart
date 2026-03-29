@@ -1,6 +1,13 @@
 {
   "deck_name": "BUMI",
   "set": "TLA",
+  "tokens": [
+    {
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -97,7 +104,14 @@
       "colors": [
         "G"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Food",
+          "type_line": "Token Artifact — Food",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -145,7 +159,14 @@
       "colors": [
         "G"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Food",
+          "type_line": "Token Artifact — Food",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -182,7 +203,12 @@
     {
       "quantity": 1,
       "name": "Forest Appa",
-      "type": "Unknown"
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
     }
   ]
 }

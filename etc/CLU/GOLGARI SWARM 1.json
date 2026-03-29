@@ -1,6 +1,36 @@
 {
   "deck_name": "GOLGARI SWARM 1",
   "set": "CLU",
+  "tokens": [
+    {
+      "name": "Bat",
+      "type_line": "Token Creature — Bat",
+      "colors": [
+        "B"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Insect",
+      "type_line": "Token Creature — Insect",
+      "colors": [
+        "B",
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Saproling",
+      "type_line": "Token Creature — Saproling",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -29,7 +59,18 @@
       ],
       "rarity": "uncommon",
       "power": "1",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Bat",
+          "type_line": "Token Creature — Bat",
+          "colors": [
+            "B"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -58,7 +99,18 @@
       ],
       "rarity": "uncommon",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Saproling",
+          "type_line": "Token Creature — Saproling",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -102,7 +154,19 @@
       ],
       "rarity": "rare",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Insect",
+          "type_line": "Token Creature — Insect",
+          "colors": [
+            "B",
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

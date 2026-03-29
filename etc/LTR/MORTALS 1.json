@@ -1,6 +1,22 @@
 {
   "deck_name": "MORTALS 1",
   "set": "LTR",
+  "tokens": [
+    {
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "colors": []
+    },
+    {
+      "name": "Human Soldier",
+      "type_line": "Token Creature — Human Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -42,7 +58,14 @@
       ],
       "rarity": "common",
       "power": "2",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Food",
+          "type_line": "Token Artifact — Food",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -98,7 +121,18 @@
       ],
       "rarity": "uncommon",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Human Soldier",
+          "type_line": "Token Creature — Human Soldier",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -122,7 +156,14 @@
       "colors": [
         "W"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Food",
+          "type_line": "Token Artifact — Food",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,

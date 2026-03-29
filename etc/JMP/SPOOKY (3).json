@@ -1,6 +1,26 @@
 {
   "deck_name": "SPOOKY (3)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Rat",
+      "type_line": "Token Creature — Rat",
+      "colors": [
+        "B"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "colors": [
+        "B"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +34,18 @@
       ],
       "rarity": "rare",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Rat",
+          "type_line": "Token Creature — Rat",
+          "colors": [
+            "B"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -84,7 +115,18 @@
       ],
       "rarity": "uncommon",
       "power": "2",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Zombie",
+          "type_line": "Token Creature — Zombie",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,

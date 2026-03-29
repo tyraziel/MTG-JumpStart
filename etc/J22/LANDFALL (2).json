@@ -1,6 +1,17 @@
 {
   "deck_name": "LANDFALL (2)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Plant",
+      "type_line": "Token Creature — Plant",
+      "colors": [
+        "G"
+      ],
+      "power": "0",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -70,7 +81,18 @@
       ],
       "rarity": "mythic",
       "power": "5",
-      "toughness": "5"
+      "toughness": "5",
+      "tokens": [
+        {
+          "name": "Plant",
+          "type_line": "Token Creature — Plant",
+          "colors": [
+            "G"
+          ],
+          "power": "0",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

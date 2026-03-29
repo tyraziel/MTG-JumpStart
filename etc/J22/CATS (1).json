@@ -1,6 +1,17 @@
 {
   "deck_name": "CATS (1)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Cat",
+      "type_line": "Token Creature — Cat",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +25,18 @@
       ],
       "rarity": "rare",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Cat",
+          "type_line": "Token Creature — Cat",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

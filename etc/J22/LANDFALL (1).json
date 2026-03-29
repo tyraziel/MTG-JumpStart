@@ -1,6 +1,26 @@
 {
   "deck_name": "LANDFALL (1)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Beast",
+      "type_line": "Token Creature — Beast",
+      "colors": [
+        "G"
+      ],
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "colors": [
+        "G"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -56,7 +76,18 @@
       ],
       "rarity": "rare",
       "power": "6",
-      "toughness": "6"
+      "toughness": "6",
+      "tokens": [
+        {
+          "name": "Beast",
+          "type_line": "Token Creature — Beast",
+          "colors": [
+            "G"
+          ],
+          "power": "4",
+          "toughness": "4"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -144,7 +175,18 @@
       "colors": [
         "G"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Elemental",
+          "type_line": "Token Creature — Elemental",
+          "colors": [
+            "G"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,

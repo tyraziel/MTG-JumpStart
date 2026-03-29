@@ -1,6 +1,17 @@
 {
   "deck_name": "DINOSAURS (3)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Dinosaur",
+      "type_line": "Token Creature — Dinosaur",
+      "colors": [
+        "G"
+      ],
+      "power": "3",
+      "toughness": "3"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -42,7 +53,18 @@
       ],
       "rarity": "uncommon",
       "power": "5",
-      "toughness": "5"
+      "toughness": "5",
+      "tokens": [
+        {
+          "name": "Dinosaur",
+          "type_line": "Token Creature — Dinosaur",
+          "colors": [
+            "G"
+          ],
+          "power": "3",
+          "toughness": "3"
+        }
+      ]
     },
     {
       "quantity": 1,

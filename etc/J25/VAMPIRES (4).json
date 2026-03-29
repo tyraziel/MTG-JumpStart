@@ -1,6 +1,13 @@
 {
   "deck_name": "VAMPIRES (4)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Blood",
+      "type_line": "Token Artifact — Blood",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -84,7 +91,14 @@
       ],
       "rarity": "common",
       "power": "1",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Blood",
+          "type_line": "Token Artifact — Blood",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -160,7 +174,14 @@
       "colors": [
         "B"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Blood",
+          "type_line": "Token Artifact — Blood",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,

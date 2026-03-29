@@ -1,0 +1,21 @@
+FREEDOM FIGHTERS
+//Creatures (8)
+1 The Duke, Rebel Sentry
+1 Jeong Jeong's Deserters
+1 Inspired Insurgent
+1 Toucan-Puffin
+1 Pipsqueak, Rebel Strongarm
+1 Jet, Rebel Leader
+1 Wandering Musicians
+1 Rabaroo Troop
+//Instants (2)
+1 Acrobatic Leap
+1 Valorous Stance
+//Artifacts (1)
+1 Hook Swords
+//Enchantments (1)
+1 Path to Redemption
+//Lands (8)
+1 Thriving Heath
+6 Plains
+1 Plains Appa

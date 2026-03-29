@@ -1,6 +1,17 @@
 {
   "deck_name": "STOKED (1)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -156,7 +167,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "rare"
+      "rarity": "rare",
+      "tokens": [
+        {
+          "name": "Soldier",
+          "type_line": "Token Creature — Soldier",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

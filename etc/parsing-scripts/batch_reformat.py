@@ -34,8 +34,9 @@ from typing import Dict, List, Tuple, Optional
 # Scryfall API endpoint
 SCRYFALL_API = "https://api.scryfall.com/cards/named"
 
-# Rate limiting: Match Discord bot's rate limiting: 100ms
-REQUEST_DELAY = 100 / 1000  # 100ms between requests
+# Rate limiting: 250ms default — well within Scryfall's 50-100ms guideline,
+# giving extra headroom to be a good API citizen. Configurable via --delay.
+REQUEST_DELAY = 250 / 1000  # 250ms between requests
 
 # Card type categories in order
 TYPE_ORDER = [
@@ -52,6 +53,11 @@ TYPE_ORDER = [
 # Structure: { "Card Name": { "type": "Creatures", "mana_cost": "{1}{U}{U}", ... } }
 card_cache: Dict[str, Dict] = {}
 cache_file = Path(__file__).parent / "card_type_cache.json"
+
+# In-memory cache for token details, keyed by Scryfall card URI.
+# Prevents fetching the same token type more than once per run.
+# Structure: { "https://api.scryfall.com/cards/<id>": {"colors": [...], "power": "1", ...} }
+token_detail_cache: Dict[str, Dict] = {}
 
 
 def load_cache_from_disk():
@@ -85,8 +91,8 @@ def save_cache_to_disk(verbose: bool = True):
         "_comment": "Card data derived from Scryfall API (https://scryfall.com). Contains type categories and gameplay data for deck formatting and Discord display. Not affiliated with or endorsed by Scryfall.",
         "_scryfall_api": "https://scryfall.com/docs/api",
         "_license": "Data extracted from Scryfall under their API terms of service",
-        "_cache_version": "2.0",
-        "_fields": "type, type_line, mana_cost, cmc, colors, power, toughness, rarity"
+        "_cache_version": "2.1",
+        "_fields": "type, type_line, mana_cost, cmc, colors, power, toughness, rarity, tokens"
     }
 
     # Add card data (sorted for consistency)
@@ -225,6 +231,57 @@ def classify_card_type(type_line: str) -> str:
         return "Unknown"
 
 
+def fetch_token_details(token_uri: str) -> Dict:
+    """
+    Fetch P/T and colors for a token card from Scryfall using its URI.
+
+    Results are cached in token_detail_cache (keyed by URI) so each unique
+    token is only fetched once per run, regardless of how many cards create it.
+
+    Returns a dict with: colors, power (optional), toughness (optional).
+    Returns {} on failure (token data will be omitted rather than crash).
+    """
+    if token_uri in token_detail_cache:
+        return token_detail_cache[token_uri]
+
+    try:
+        time.sleep(REQUEST_DELAY)
+        response = requests.get(token_uri, timeout=10)
+        response.raise_for_status()
+        data = response.json()
+
+        details: Dict = {"colors": data.get("colors", [])}
+        if data.get("power") is not None:
+            details["power"] = data["power"]
+        if data.get("toughness") is not None:
+            details["toughness"] = data["toughness"]
+
+        token_detail_cache[token_uri] = details
+        return details
+
+    except requests.exceptions.RequestException as e:
+        print(f"  ✗ Error fetching token {token_uri}: {e}", file=sys.stderr)
+        token_detail_cache[token_uri] = {}
+        return {}
+
+
+def normalize_card_name(card_name: str) -> str:
+    """
+    Normalize a card name before cache lookup or Scryfall query.
+
+    Strips known booster slot suffixes that appear in some raw deck list
+    sources (e.g. "Artificer's Dragon (Jumpstart Booster rare)" → "Artificer's Dragon").
+    These suffixes are printing/slot annotations, not part of the card name.
+    """
+    booster_suffixes = [" (Jumpstart Booster rare)"]
+    for suffix in booster_suffixes:
+        if card_name.endswith(suffix):
+            stripped = card_name[: -len(suffix)]
+            print(f"  [normalize] '{card_name}' → '{stripped}'", file=sys.stderr)
+            return stripped
+    return card_name
+
+
 def get_card_data(card_name: str) -> Dict:
     """
     Query Scryfall API for card information and cache comprehensive data.
@@ -239,16 +296,20 @@ def get_card_data(card_name: str) -> Dict:
     - toughness: Toughness value (for creatures)
     - rarity: Rarity (common, uncommon, rare, mythic)
     """
+    # Normalize name (strips booster slot suffixes before lookup)
+    card_name = normalize_card_name(card_name)
+
     # Check cache first
     if card_name in card_cache:
         return card_cache[card_name]
 
-    # Skip special placeholder cards
+    # Skip special placeholder cards — set skip_reason so future runs don't retry
     # Matches: "Random white rare or mythic rare", "Rare or mythic rare", etc.
     card_lower = card_name.lower()
     if ("rare" in card_lower and "mythic" in card_lower) or ("rare" in card_lower and "random" in card_lower):
-        card_data = {"type": "Special"}
+        card_data = {"type": "Special", "tokens": [], "skip_reason": "placeholder_slot"}
         card_cache[card_name] = card_data
+        print(f"  [skip] '{card_name}' — placeholder_slot", file=sys.stderr)
         return card_data
 
     # Query Scryfall
@@ -281,9 +342,33 @@ def get_card_data(card_name: str) -> Dict:
         if card_type == "Planeswalkers":
             card_data["loyalty"] = data.get("loyalty")
 
+        # Extract tokens this card creates via all_parts
+        tokens = []
+        for part in data.get("all_parts", []):
+            if part.get("component") == "token":
+                token_info: Dict = {
+                    "name": part.get("name", ""),
+                    "type_line": part.get("type_line", ""),
+                }
+                # Fetch P/T and colors from the token's own card object
+                token_uri = part.get("uri", "")
+                if token_uri:
+                    details = fetch_token_details(token_uri)
+                    if details.get("colors") is not None:
+                        token_info["colors"] = details["colors"]
+                    if details.get("power") is not None:
+                        token_info["power"] = details["power"]
+                    if details.get("toughness") is not None:
+                        token_info["toughness"] = details["toughness"]
+                tokens.append(token_info)
+
+        # Always set tokens key: [] means "checked, creates no tokens"
+        card_data["tokens"] = tokens
+
         card_cache[card_name] = card_data
 
-        print(f"✓ {card_name}: {type_line} -> {card_type}", file=sys.stderr)
+        token_note = f" [{len(tokens)} token(s)]" if tokens else ""
+        print(f"✓ {card_name}: {type_line} -> {card_type}{token_note}", file=sys.stderr)
         return card_data
 
     except requests.exceptions.RequestException as e:
@@ -470,12 +555,34 @@ def process_directory(directory: Path, dry_run: bool = False, save_incrementally
 
 
 def main():
-    # Parse arguments
-    args = [arg for arg in sys.argv[1:] if not arg.startswith('--')]
-    dry_run = "--dry-run" in sys.argv
-    save_cache = "--save-cache" in sys.argv
-    load_cache = "--load-cache" in sys.argv
-    build_cache_only = "--build-cache-only" in sys.argv
+    global REQUEST_DELAY
+
+    # Parse arguments — extract --delay VALUE first
+    raw_args = sys.argv[1:]
+    delay_ms = None
+    filtered_args = []
+    i = 0
+    while i < len(raw_args):
+        if raw_args[i] == "--delay" and i + 1 < len(raw_args):
+            try:
+                delay_ms = int(raw_args[i + 1])
+            except ValueError:
+                print(f"Error: --delay requires an integer (milliseconds), got '{raw_args[i+1]}'", file=sys.stderr)
+                return 1
+            i += 2
+        else:
+            filtered_args.append(raw_args[i])
+            i += 1
+
+    if delay_ms is not None:
+        REQUEST_DELAY = delay_ms / 1000
+        print(f"Scryfall delay set to {delay_ms}ms", file=sys.stderr)
+
+    args = [arg for arg in filtered_args if not arg.startswith('--')]
+    dry_run = "--dry-run" in filtered_args
+    save_cache = "--save-cache" in filtered_args
+    load_cache = "--load-cache" in filtered_args
+    build_cache_only = "--build-cache-only" in filtered_args
 
     if not args:
         print("Usage: python batch_reformat.py <directory> [<directory>...] [options]", file=sys.stderr)
@@ -484,11 +591,14 @@ def main():
         print("  --dry-run           Preview changes without modifying files", file=sys.stderr)
         print("  --save-cache        Save cache to disk after processing", file=sys.stderr)
         print("  --load-cache        Load existing cache before processing", file=sys.stderr)
+        print("  --delay MS          Milliseconds between Scryfall API calls (default: 250)", file=sys.stderr)
         print("\nExamples:", file=sys.stderr)
         print("  # Build cache from all decks:", file=sys.stderr)
         print("  python batch_reformat.py ../../etc/*/ --build-cache-only --save-cache", file=sys.stderr)
         print("\n  # Reformat using cache:", file=sys.stderr)
         print("  python batch_reformat.py ../../etc/J25/ --load-cache", file=sys.stderr)
+        print("\n  # Use faster delay (careful — be a good API citizen):", file=sys.stderr)
+        print("  python batch_reformat.py ../../etc/J25/ --save-cache --delay 150", file=sys.stderr)
         return 1
 
     if build_cache_only:

@@ -1,6 +1,35 @@
 {
   "deck_name": "PREDATORY (3)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Beast",
+      "type_line": "Token Creature — Beast",
+      "colors": [
+        "G"
+      ],
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "name": "Boar",
+      "type_line": "Token Creature — Boar",
+      "colors": [
+        "G"
+      ],
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "name": "Saproling",
+      "type_line": "Token Creature — Saproling",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +43,18 @@
       ],
       "rarity": "rare",
       "power": "5",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Beast",
+          "type_line": "Token Creature — Beast",
+          "colors": [
+            "G"
+          ],
+          "power": "3",
+          "toughness": "3"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -42,7 +82,18 @@
       ],
       "rarity": "common",
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Boar",
+          "type_line": "Token Creature — Boar",
+          "colors": [
+            "G"
+          ],
+          "power": "3",
+          "toughness": "3"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -144,7 +195,18 @@
       "colors": [
         "G"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Saproling",
+          "type_line": "Token Creature — Saproling",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

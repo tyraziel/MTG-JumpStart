@@ -1,6 +1,15 @@
 {
   "deck_name": "PHYREXIAN",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Phyrexian Myr",
+      "type_line": "Token Artifact Creature — Phyrexian Myr",
+      "colors": [],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -54,7 +63,16 @@
       "colors": [],
       "rarity": "common",
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Phyrexian Myr",
+          "type_line": "Token Artifact Creature — Phyrexian Myr",
+          "colors": [],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -156,7 +174,16 @@
       "colors": [
         "B"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Phyrexian Myr",
+          "type_line": "Token Artifact Creature — Phyrexian Myr",
+          "colors": [],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

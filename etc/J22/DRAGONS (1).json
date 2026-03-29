@@ -1,6 +1,26 @@
 {
   "deck_name": "DRAGONS (1)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Dragon",
+      "type_line": "Token Creature — Dragon",
+      "colors": [
+        "R"
+      ],
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Goblin",
+      "type_line": "Token Creature — Goblin",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -28,7 +48,18 @@
       ],
       "rarity": "common",
       "power": "0",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Dragon",
+          "type_line": "Token Creature — Dragon",
+          "colors": [
+            "R"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -110,7 +141,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Goblin",
+          "type_line": "Token Creature — Goblin",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

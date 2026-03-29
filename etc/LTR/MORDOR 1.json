@@ -1,6 +1,22 @@
 {
   "deck_name": "MORDOR 1",
   "set": "LTR",
+  "tokens": [
+    {
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "colors": []
+    },
+    {
+      "name": "Orc Army",
+      "type_line": "Token Creature — Orc Army",
+      "colors": [
+        "B"
+      ],
+      "power": "0",
+      "toughness": "0"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -70,7 +86,18 @@
       ],
       "rarity": "uncommon",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Orc Army",
+          "type_line": "Token Creature — Orc Army",
+          "colors": [
+            "B"
+          ],
+          "power": "0",
+          "toughness": "0"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -84,7 +111,14 @@
       ],
       "rarity": "common",
       "power": "4",
-      "toughness": "5"
+      "toughness": "5",
+      "tokens": [
+        {
+          "name": "Food",
+          "type_line": "Token Artifact — Food",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -96,7 +130,18 @@
       "colors": [
         "B"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Orc Army",
+          "type_line": "Token Creature — Orc Army",
+          "colors": [
+            "B"
+          ],
+          "power": "0",
+          "toughness": "0"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -144,7 +189,14 @@
       "colors": [
         "B"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Food",
+          "type_line": "Token Artifact — Food",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 8,

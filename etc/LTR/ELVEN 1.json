@@ -1,6 +1,13 @@
 {
   "deck_name": "ELVEN 1",
   "set": "LTR",
+  "tokens": [
+    {
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -122,7 +129,14 @@
       "colors": [
         "G"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Food",
+          "type_line": "Token Artifact — Food",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,

@@ -1,6 +1,13 @@
 {
   "deck_name": "AZORIUS SENATE 1",
   "set": "CLU",
+  "tokens": [
+    {
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -114,7 +121,14 @@
       ],
       "rarity": "rare",
       "power": "2",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Clue",
+          "type_line": "Token Artifact — Clue",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,

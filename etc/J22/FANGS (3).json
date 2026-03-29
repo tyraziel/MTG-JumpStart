@@ -1,6 +1,17 @@
 {
   "deck_name": "FANGS (3)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Demon",
+      "type_line": "Token Creature — Demon",
+      "colors": [
+        "B"
+      ],
+      "power": "*",
+      "toughness": "*"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +25,18 @@
       ],
       "rarity": "rare",
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Demon",
+          "type_line": "Token Creature — Demon",
+          "colors": [
+            "B"
+          ],
+          "power": "*",
+          "toughness": "*"
+        }
+      ]
     },
     {
       "quantity": 1,

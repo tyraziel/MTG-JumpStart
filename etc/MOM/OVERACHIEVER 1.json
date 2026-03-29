@@ -1,6 +1,18 @@
 {
   "deck_name": "OVERACHIEVER 1",
   "set": "MOM",
+  "tokens": [
+    {
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "colors": [
+        "R",
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -42,7 +54,19 @@
       ],
       "rarity": "common",
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Elemental",
+          "type_line": "Token Creature — Elemental",
+          "colors": [
+            "R",
+            "U"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

@@ -1,6 +1,31 @@
 {
   "deck_name": "FIREBENDING (1)",
   "set": "TLA",
+  "tokens": [
+    {
+      "name": "Ally",
+      "type_line": "Token Creature — Ally",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "colors": []
+    },
+    {
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "colors": [
+        "R"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -42,7 +67,18 @@
       ],
       "rarity": "uncommon",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Ally",
+          "type_line": "Token Creature — Ally",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -132,7 +168,14 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Clue",
+          "type_line": "Token Artifact — Clue",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -156,7 +199,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "rare"
+      "rarity": "rare",
+      "tokens": [
+        {
+          "name": "Soldier",
+          "type_line": "Token Creature — Soldier",
+          "colors": [
+            "R"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -181,7 +235,12 @@
     {
       "quantity": 1,
       "name": "Mountain Appa",
-      "type": "Unknown"
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
   "deck_name": "DOCTOR (4)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Griffin",
+      "type_line": "Token Creature — Griffin",
+      "colors": [
+        "W"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -158,7 +169,18 @@
       "colors": [
         "W"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Griffin",
+          "type_line": "Token Creature — Griffin",
+          "colors": [
+            "W"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,

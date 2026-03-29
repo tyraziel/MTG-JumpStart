@@ -1,6 +1,17 @@
 {
   "deck_name": "ENCOUNTER (4)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Beast",
+      "type_line": "Token Creature — Beast",
+      "colors": [
+        "G"
+      ],
+      "power": "3",
+      "toughness": "3"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -148,7 +159,18 @@
       "colors": [
         "G"
       ],
-      "rarity": "mythic"
+      "rarity": "mythic",
+      "tokens": [
+        {
+          "name": "Beast",
+          "type_line": "Token Creature — Beast",
+          "colors": [
+            "G"
+          ],
+          "power": "3",
+          "toughness": "3"
+        }
+      ]
     },
     {
       "quantity": 1,

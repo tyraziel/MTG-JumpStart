@@ -1,6 +1,15 @@
 {
   "deck_name": "INVENTIVE (2)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Thopter",
+      "type_line": "Token Artifact Creature — Thopter",
+      "colors": [],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -12,7 +21,16 @@
       "colors": [],
       "rarity": "rare",
       "power": "0",
-      "toughness": "0"
+      "toughness": "0",
+      "tokens": [
+        {
+          "name": "Thopter",
+          "type_line": "Token Artifact Creature — Thopter",
+          "colors": [],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -26,7 +44,16 @@
       ],
       "rarity": "uncommon",
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Thopter",
+          "type_line": "Token Artifact Creature — Thopter",
+          "colors": [],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -94,7 +121,16 @@
       ],
       "rarity": "common",
       "power": "1",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Thopter",
+          "type_line": "Token Artifact Creature — Thopter",
+          "colors": [],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -120,7 +156,16 @@
       "colors": [
         "U"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Thopter",
+          "type_line": "Token Artifact Creature — Thopter",
+          "colors": [],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

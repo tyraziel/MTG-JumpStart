@@ -1,6 +1,13 @@
 {
   "deck_name": "CULT OF RAKDOS 1",
   "set": "CLU",
+  "tokens": [
+    {
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -126,7 +133,14 @@
       "colors": [
         "B"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,

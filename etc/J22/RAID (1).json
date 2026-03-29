@@ -1,6 +1,17 @@
 {
   "deck_name": "RAID (1)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Ragavan",
+      "type_line": "Token Legendary Creature — Monkey",
+      "colors": [
+        "R"
+      ],
+      "power": "2",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +25,18 @@
       ],
       "rarity": "rare",
       "power": "1",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Ragavan",
+          "type_line": "Token Legendary Creature — Monkey",
+          "colors": [
+            "R"
+          ],
+          "power": "2",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

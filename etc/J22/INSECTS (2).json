@@ -1,6 +1,17 @@
 {
   "deck_name": "INSECTS (2)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Insect",
+      "type_line": "Token Creature — Insect",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -160,7 +171,18 @@
       "colors": [
         "G"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Insect",
+          "type_line": "Token Creature — Insect",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

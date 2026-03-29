@@ -1,6 +1,17 @@
 {
   "deck_name": "CATS (2)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Cat Beast",
+      "type_line": "Token Creature — Cat Beast",
+      "colors": [
+        "W"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -148,7 +159,18 @@
       "colors": [
         "W"
       ],
-      "rarity": "rare"
+      "rarity": "rare",
+      "tokens": [
+        {
+          "name": "Cat Beast",
+          "type_line": "Token Creature — Cat Beast",
+          "colors": [
+            "W"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,

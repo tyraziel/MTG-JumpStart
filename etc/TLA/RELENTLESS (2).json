@@ -1,6 +1,32 @@
 {
   "deck_name": "RELENTLESS (2)",
   "set": "TLA",
+  "tokens": [
+    {
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "colors": []
+    },
+    {
+      "name": "Copy",
+      "type_line": "Token",
+      "colors": []
+    },
+    {
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "colors": []
+    },
+    {
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "colors": [
+        "R"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +40,14 @@
       ],
       "rarity": "common",
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Clue",
+          "type_line": "Token Artifact — Clue",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -42,7 +75,14 @@
       ],
       "rarity": "uncommon",
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Copy",
+          "type_line": "Token",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -70,7 +110,14 @@
       ],
       "rarity": "uncommon",
       "power": "4",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Clue",
+          "type_line": "Token Artifact — Clue",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -113,7 +160,14 @@
       ],
       "rarity": "common",
       "power": "6",
-      "toughness": "6"
+      "toughness": "6",
+      "tokens": [
+        {
+          "name": "Food",
+          "type_line": "Token Artifact — Food",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -161,7 +215,18 @@
       "colors": [
         "B"
       ],
-      "rarity": "rare"
+      "rarity": "rare",
+      "tokens": [
+        {
+          "name": "Soldier",
+          "type_line": "Token Creature — Soldier",
+          "colors": [
+            "R"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -186,7 +251,12 @@
     {
       "quantity": 1,
       "name": "Swamp Appa",
-      "type": "Unknown"
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
     }
   ]
 }

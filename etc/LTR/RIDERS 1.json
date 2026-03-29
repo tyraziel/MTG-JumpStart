@@ -1,6 +1,17 @@
 {
   "deck_name": "RIDERS 1",
   "set": "LTR",
+  "tokens": [
+    {
+      "name": "Human Soldier",
+      "type_line": "Token Creature — Human Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +25,18 @@
       ],
       "rarity": "rare",
       "power": "7",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Human Soldier",
+          "type_line": "Token Creature — Human Soldier",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -70,7 +92,18 @@
       ],
       "rarity": "uncommon",
       "power": "5",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Human Soldier",
+          "type_line": "Token Creature — Human Soldier",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -82,7 +115,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Human Soldier",
+          "type_line": "Token Creature — Human Soldier",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -94,7 +138,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Human Soldier",
+          "type_line": "Token Creature — Human Soldier",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

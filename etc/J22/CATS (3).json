@@ -1,6 +1,17 @@
 {
   "deck_name": "CATS (3)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Ajani's Pridemate",
+      "type_line": "Token Creature — Cat Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -157,7 +168,18 @@
         "W"
       ],
       "rarity": "mythic",
-      "loyalty": "5"
+      "loyalty": "5",
+      "tokens": [
+        {
+          "name": "Ajani's Pridemate",
+          "type_line": "Token Creature — Cat Soldier",
+          "colors": [
+            "W"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,

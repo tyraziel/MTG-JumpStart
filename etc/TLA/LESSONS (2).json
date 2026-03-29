@@ -1,6 +1,13 @@
 {
   "deck_name": "LESSONS (2)",
   "set": "TLA",
+  "tokens": [
+    {
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -134,7 +141,14 @@
       "colors": [
         "U"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Clue",
+          "type_line": "Token Artifact — Clue",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -183,7 +197,12 @@
     {
       "quantity": 1,
       "name": "Island Appa",
-      "type": "Unknown"
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
     }
   ]
 }

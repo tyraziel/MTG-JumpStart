@@ -1,6 +1,17 @@
 {
   "deck_name": "ELVES",
   "set": "FDN",
+  "tokens": [
+    {
+      "name": "Elf Warrior",
+      "type_line": "Token Creature — Elf Warrior",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -56,7 +67,18 @@
       ],
       "rarity": "common",
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Elf Warrior",
+          "type_line": "Token Creature — Elf Warrior",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

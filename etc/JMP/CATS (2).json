@@ -1,6 +1,17 @@
 {
   "deck_name": "CATS (2)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Cat",
+      "type_line": "Token Creature — Cat",
+      "colors": [
+        "B"
+      ],
+      "power": "2",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -42,7 +53,18 @@
       ],
       "rarity": "common",
       "power": "2",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Cat",
+          "type_line": "Token Creature — Cat",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

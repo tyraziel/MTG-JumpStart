@@ -1,6 +1,58 @@
 {
   "deck_name": "SELESNYA CONCLAVE 1",
   "set": "CLU",
+  "tokens": [
+    {
+      "name": "Angel",
+      "type_line": "Token Creature — Angel",
+      "colors": [
+        "W"
+      ],
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "name": "Bird",
+      "type_line": "Token Creature — Bird",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Copy",
+      "type_line": "Token",
+      "colors": []
+    },
+    {
+      "name": "Saproling",
+      "type_line": "Token Creature — Saproling",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +66,18 @@
       ],
       "rarity": "common",
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Spirit",
+          "type_line": "Token Creature — Spirit",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -43,7 +106,18 @@
       ],
       "rarity": "uncommon",
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Saproling",
+          "type_line": "Token Creature — Saproling",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -57,7 +131,18 @@
       ],
       "rarity": "common",
       "power": "1",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Bird",
+          "type_line": "Token Creature — Bird",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -72,7 +157,14 @@
       ],
       "rarity": "uncommon",
       "power": "*",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Copy",
+          "type_line": "Token",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -86,7 +178,18 @@
       ],
       "rarity": "uncommon",
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Angel",
+          "type_line": "Token Creature — Angel",
+          "colors": [
+            "W"
+          ],
+          "power": "4",
+          "toughness": "4"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -101,7 +204,14 @@
       ],
       "rarity": "rare",
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Copy",
+          "type_line": "Token",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -116,7 +226,18 @@
       ],
       "rarity": "mythic",
       "power": "1",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Soldier",
+          "type_line": "Token Creature — Soldier",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

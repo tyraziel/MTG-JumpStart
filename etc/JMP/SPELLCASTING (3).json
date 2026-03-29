@@ -1,6 +1,17 @@
 {
   "deck_name": "SPELLCASTING (3)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Goblin",
+      "type_line": "Token Creature — Goblin",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -124,7 +135,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Goblin",
+          "type_line": "Token Creature — Goblin",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

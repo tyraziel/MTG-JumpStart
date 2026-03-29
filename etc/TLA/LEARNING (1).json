@@ -1,6 +1,13 @@
 {
   "deck_name": "LEARNING (1)",
   "set": "TLA",
+  "tokens": [
+    {
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -144,7 +151,14 @@
       "mana_cost": "{5}",
       "cmc": 5.0,
       "colors": [],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Clue",
+          "type_line": "Token Artifact — Clue",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -181,7 +195,12 @@
     {
       "quantity": 1,
       "name": "Forest Appa",
-      "type": "Unknown"
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
     }
   ]
 }

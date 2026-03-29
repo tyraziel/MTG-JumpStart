@@ -1,0 +1,20 @@
+FIRE NATION
+//Creatures (5)
+1 Firebending Student
+1 Mai, Jaded Edge
+1 Ty Lee, Artful Acrobat
+1 Zuko, Seeking Honor
+1 Longshot, Rebel Bowman
+//Sorceries (1)
+1 Storm of Memories
+//Instants (6)
+1 Fire Nation Attacks
+1 Firebending Lesson
+1 Cunning Maneuver
+1 Fists of Flame
+1 Lightning Strike
+1 How to Start a Riot
+//Lands (8)
+1 Thriving Bluff
+6 Mountain
+1 Mountain Appa

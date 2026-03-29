@@ -1,6 +1,22 @@
 {
   "deck_name": "KYOSHI",
   "set": "TLA",
+  "tokens": [
+    {
+      "name": "Ally",
+      "type_line": "Token Creature — Ally",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -28,7 +44,14 @@
       ],
       "rarity": "uncommon",
       "power": "3",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Food",
+          "type_line": "Token Artifact — Food",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -57,7 +80,18 @@
       ],
       "rarity": "uncommon",
       "power": "*",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Ally",
+          "type_line": "Token Creature — Ally",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -144,7 +178,18 @@
       "mana_cost": "{2}",
       "cmc": 2.0,
       "colors": [],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Ally",
+          "type_line": "Token Creature — Ally",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -181,7 +226,12 @@
     {
       "quantity": 1,
       "name": "Forest Appa",
-      "type": "Unknown"
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
     }
   ]
 }

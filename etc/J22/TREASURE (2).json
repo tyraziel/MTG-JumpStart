@@ -1,6 +1,18 @@
 {
   "deck_name": "TREASURE (2)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Copy",
+      "type_line": "Token",
+      "colors": []
+    },
+    {
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +26,14 @@
       ],
       "rarity": "rare",
       "power": "2",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -56,7 +75,14 @@
       ],
       "rarity": "uncommon",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -110,7 +136,14 @@
       "colors": [],
       "rarity": "common",
       "power": "3",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Copy",
+          "type_line": "Token",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -124,7 +157,14 @@
       ],
       "rarity": "common",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -136,7 +176,14 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -158,7 +205,14 @@
       "mana_cost": "{2}",
       "cmc": 2.0,
       "colors": [],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,

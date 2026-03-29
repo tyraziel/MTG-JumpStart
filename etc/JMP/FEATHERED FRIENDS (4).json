@@ -1,6 +1,17 @@
 {
   "deck_name": "FEATHERED FRIENDS (4)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Bird",
+      "type_line": "Token Creature — Bird",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -56,7 +67,18 @@
       ],
       "rarity": "uncommon",
       "power": "2",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Bird",
+          "type_line": "Token Creature — Bird",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

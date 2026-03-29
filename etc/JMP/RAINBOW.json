@@ -1,6 +1,17 @@
 {
   "deck_name": "RAINBOW",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -93,7 +104,18 @@
       ],
       "rarity": "uncommon",
       "power": "*",
-      "toughness": "5"
+      "toughness": "5",
+      "tokens": [
+        {
+          "name": "Soldier",
+          "type_line": "Token Creature — Soldier",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

@@ -1,6 +1,17 @@
 {
   "deck_name": "KNIGHTS",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Knight",
+      "type_line": "Token Creature — Knight",
+      "colors": [
+        "W"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -110,7 +121,18 @@
       "colors": [
         "W"
       ],
-      "rarity": "mythic"
+      "rarity": "mythic",
+      "tokens": [
+        {
+          "name": "Knight",
+          "type_line": "Token Creature — Knight",
+          "colors": [
+            "W"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,

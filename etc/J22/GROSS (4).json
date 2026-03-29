@@ -1,6 +1,17 @@
 {
   "deck_name": "GROSS (4)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Snake",
+      "type_line": "Token Creature — Snake",
+      "colors": [
+        "B"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +25,18 @@
       ],
       "rarity": "rare",
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Snake",
+          "type_line": "Token Creature — Snake",
+          "colors": [
+            "B"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

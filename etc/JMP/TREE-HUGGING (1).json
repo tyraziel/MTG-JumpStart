@@ -1,6 +1,17 @@
 {
   "deck_name": "TREE-HUGGING (1)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Elf Warrior",
+      "type_line": "Token Creature — Elf Warrior",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -42,7 +53,18 @@
       ],
       "rarity": "common",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Elf Warrior",
+          "type_line": "Token Creature — Elf Warrior",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

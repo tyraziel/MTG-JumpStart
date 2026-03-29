@@ -1,6 +1,22 @@
 {
   "deck_name": "ALLIANCE (1)",
   "set": "TLA",
+  "tokens": [
+    {
+      "name": "Ally",
+      "type_line": "Token Creature — Ally",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -85,7 +101,18 @@
       ],
       "rarity": "common",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Ally",
+          "type_line": "Token Creature — Ally",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -100,7 +127,18 @@
       ],
       "rarity": "uncommon",
       "power": "*",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Ally",
+          "type_line": "Token Creature — Ally",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -127,7 +165,14 @@
       "colors": [
         "W"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Clue",
+          "type_line": "Token Artifact — Clue",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -161,7 +206,18 @@
       "colors": [
         "W"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Ally",
+          "type_line": "Token Creature — Ally",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -186,7 +242,12 @@
     {
       "quantity": 1,
       "name": "Plains Appa",
-      "type": "Unknown"
+      "type": "Lands",
+      "type_line": "Basic Land — Plains",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
     }
   ]
 }
