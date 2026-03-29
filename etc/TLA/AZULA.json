@@ -225,7 +225,12 @@
     {
       "quantity": 1,
       "name": "Swamp Appa",
-      "type": "Unknown"
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
     }
   ]
 }

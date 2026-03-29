@@ -208,7 +208,12 @@
     {
       "quantity": 1,
       "name": "Island Appa",
-      "type": "Unknown"
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
     }
   ]
 }

@@ -209,7 +209,12 @@
     {
       "quantity": 1,
       "name": "Plains Appa",
-      "type": "Unknown"
+      "type": "Lands",
+      "type_line": "Basic Land — Plains",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
     }
   ]
 }
