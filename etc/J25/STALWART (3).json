@@ -1,6 +1,26 @@
 {
   "deck_name": "STALWART (3)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Vampire",
+      "type_line": "Token Creature — Vampire",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -84,7 +104,18 @@
       ],
       "rarity": "common",
       "power": "3",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Vampire",
+          "type_line": "Token Creature — Vampire",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -112,7 +143,18 @@
       ],
       "rarity": "common",
       "power": "2",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Spirit",
+          "type_line": "Token Creature — Spirit",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

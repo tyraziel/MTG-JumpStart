@@ -1,6 +1,15 @@
 {
   "deck_name": "AZORIUS SENATE 2",
   "set": "CLU",
+  "tokens": [
+    {
+      "name": "Thopter",
+      "type_line": "Token Artifact Creature — Thopter",
+      "colors": [],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -114,7 +123,16 @@
         "U",
         "W"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Thopter",
+          "type_line": "Token Artifact Creature — Thopter",
+          "colors": [],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

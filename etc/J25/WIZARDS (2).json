@@ -1,6 +1,17 @@
 {
   "deck_name": "WIZARDS (2)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Bird",
+      "type_line": "Token Creature — Bird",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -28,7 +39,18 @@
       ],
       "rarity": "rare",
       "power": "2",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Bird",
+          "type_line": "Token Creature — Bird",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

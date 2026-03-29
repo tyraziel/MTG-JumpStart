@@ -1,6 +1,17 @@
 {
   "deck_name": "CLERICS (2)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Demon",
+      "type_line": "Token Creature — Demon",
+      "colors": [
+        "B"
+      ],
+      "power": "5",
+      "toughness": "5"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -56,7 +67,18 @@
       ],
       "rarity": "uncommon",
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Demon",
+          "type_line": "Token Creature — Demon",
+          "colors": [
+            "B"
+          ],
+          "power": "5",
+          "toughness": "5"
+        }
+      ]
     },
     {
       "quantity": 1,

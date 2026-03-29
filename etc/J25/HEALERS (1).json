@@ -1,6 +1,17 @@
 {
   "deck_name": "HEALERS (1)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Angel",
+      "type_line": "Token Creature — Angel",
+      "colors": [
+        "W"
+      ],
+      "power": "4",
+      "toughness": "4"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +25,18 @@
       ],
       "rarity": "rare",
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Angel",
+          "type_line": "Token Creature — Angel",
+          "colors": [
+            "W"
+          ],
+          "power": "4",
+          "toughness": "4"
+        }
+      ]
     },
     {
       "quantity": 1,

@@ -1,6 +1,18 @@
 {
   "deck_name": "OVERACHIEVER 2",
   "set": "MOM",
+  "tokens": [
+    {
+      "name": "Knight",
+      "type_line": "Token Creature — Knight",
+      "colors": [
+        "U",
+        "W"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -98,7 +110,19 @@
       ],
       "rarity": "uncommon",
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Knight",
+          "type_line": "Token Creature — Knight",
+          "colors": [
+            "U",
+            "W"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,

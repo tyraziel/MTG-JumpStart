@@ -1,6 +1,17 @@
 {
   "deck_name": "EARTH KINGDOM (1)",
   "set": "TLA",
+  "tokens": [
+    {
+      "name": "Ally",
+      "type_line": "Token Creature — Ally",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -43,7 +54,18 @@
       ],
       "rarity": "uncommon",
       "power": "*",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Ally",
+          "type_line": "Token Creature — Ally",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -98,7 +120,18 @@
       "colors": [
         "G"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Ally",
+          "type_line": "Token Creature — Ally",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -133,7 +166,18 @@
       "mana_cost": "{2}",
       "cmc": 2.0,
       "colors": [],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Ally",
+          "type_line": "Token Creature — Ally",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

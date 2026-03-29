@@ -1,6 +1,15 @@
 {
   "deck_name": "UNEARTHED (2)",
   "set": "BRO",
+  "tokens": [
+    {
+      "name": "Zombie",
+      "type_line": "Token Artifact Creature — Zombie",
+      "colors": [],
+      "power": "3",
+      "toughness": "3"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -136,7 +145,16 @@
       "mana_cost": "{3}",
       "cmc": 3.0,
       "colors": [],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Zombie",
+          "type_line": "Token Artifact Creature — Zombie",
+          "colors": [],
+          "power": "3",
+          "toughness": "3"
+        }
+      ]
     },
     {
       "quantity": 6,

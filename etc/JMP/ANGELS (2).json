@@ -1,6 +1,17 @@
 {
   "deck_name": "ANGELS (2)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Angel",
+      "type_line": "Token Creature — Angel",
+      "colors": [
+        "W"
+      ],
+      "power": "4",
+      "toughness": "4"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -134,7 +145,18 @@
       "colors": [
         "W"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Angel",
+          "type_line": "Token Creature — Angel",
+          "colors": [
+            "W"
+          ],
+          "power": "4",
+          "toughness": "4"
+        }
+      ]
     },
     {
       "quantity": 1,

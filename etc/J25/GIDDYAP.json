@@ -1,6 +1,13 @@
 {
   "deck_name": "GIDDYAP",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Copy",
+      "type_line": "Token",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +21,14 @@
       ],
       "rarity": "mythic",
       "power": "2",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Copy",
+          "type_line": "Token",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,

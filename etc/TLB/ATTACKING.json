@@ -1,6 +1,17 @@
 {
   "deck_name": "ATTACKING",
   "set": "TLB",
+  "tokens": [
+    {
+      "name": "Ally",
+      "type_line": "Token Creature — Ally",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -57,7 +68,18 @@
       ],
       "rarity": "common",
       "power": "2",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Ally",
+          "type_line": "Token Creature — Ally",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

@@ -1,6 +1,27 @@
 {
   "deck_name": "ICKY (1)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Insect",
+      "type_line": "Token Creature — Insect",
+      "colors": [
+        "B"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Worm",
+      "type_line": "Token Creature — Worm",
+      "colors": [
+        "B",
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +35,18 @@
       ],
       "rarity": "rare",
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Insect",
+          "type_line": "Token Creature — Insect",
+          "colors": [
+            "B"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -28,7 +60,19 @@
       ],
       "rarity": "uncommon",
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Worm",
+          "type_line": "Token Creature — Worm",
+          "colors": [
+            "B",
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

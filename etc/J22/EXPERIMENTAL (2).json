@@ -1,6 +1,13 @@
 {
   "deck_name": "EXPERIMENTAL (2)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Copy",
+      "type_line": "Token",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -42,7 +49,14 @@
       ],
       "rarity": "rare",
       "power": "4",
-      "toughness": "5"
+      "toughness": "5",
+      "tokens": [
+        {
+          "name": "Copy",
+          "type_line": "Token",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,

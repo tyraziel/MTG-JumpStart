@@ -1,6 +1,17 @@
 {
   "deck_name": "WIZARDS (4)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Drake",
+      "type_line": "Token Creature — Drake",
+      "colors": [
+        "U"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -96,7 +107,18 @@
       "colors": [
         "U"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Drake",
+          "type_line": "Token Creature — Drake",
+          "colors": [
+            "U"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,

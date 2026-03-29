@@ -1,6 +1,13 @@
 {
   "deck_name": "INFANTRY (1)",
   "set": "BRO",
+  "tokens": [
+    {
+      "name": "Powerstone",
+      "type_line": "Token Artifact — Powerstone",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -142,7 +149,14 @@
       "colors": [
         "W"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Powerstone",
+          "type_line": "Token Artifact — Powerstone",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 6,

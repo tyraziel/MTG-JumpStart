@@ -1,6 +1,22 @@
 {
   "deck_name": "IZZET LEAGUE 2",
   "set": "CLU",
+  "tokens": [
+    {
+      "name": "Copy",
+      "type_line": "Token",
+      "colors": []
+    },
+    {
+      "name": "Goblin Wizard",
+      "type_line": "Token Creature — Goblin Wizard",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -112,7 +128,14 @@
         "R",
         "U"
       ],
-      "rarity": "rare"
+      "rarity": "rare",
+      "tokens": [
+        {
+          "name": "Copy",
+          "type_line": "Token",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -124,7 +147,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Goblin Wizard",
+          "type_line": "Token Creature — Goblin Wizard",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

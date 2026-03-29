@@ -1,6 +1,20 @@
 {
   "deck_name": "POWERSTONES (1)",
   "set": "BRO",
+  "tokens": [
+    {
+      "name": "Powerstone",
+      "type_line": "Token Artifact — Powerstone",
+      "colors": []
+    },
+    {
+      "name": "Thopter",
+      "type_line": "Token Artifact Creature — Thopter",
+      "colors": [],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +28,14 @@
       ],
       "rarity": "common",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Powerstone",
+          "type_line": "Token Artifact — Powerstone",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -42,7 +63,16 @@
       ],
       "rarity": "uncommon",
       "power": "2",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Thopter",
+          "type_line": "Token Artifact Creature — Thopter",
+          "colors": [],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -56,7 +86,14 @@
       ],
       "rarity": "uncommon",
       "power": "1",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Powerstone",
+          "type_line": "Token Artifact — Powerstone",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -94,7 +131,14 @@
       ],
       "rarity": "rare",
       "power": "2",
-      "toughness": "5"
+      "toughness": "5",
+      "tokens": [
+        {
+          "name": "Powerstone",
+          "type_line": "Token Artifact — Powerstone",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -106,7 +150,14 @@
       "colors": [
         "U"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Powerstone",
+          "type_line": "Token Artifact — Powerstone",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,

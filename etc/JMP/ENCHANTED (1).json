@@ -1,6 +1,17 @@
 {
   "deck_name": "ENCHANTED (1)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Knight",
+      "type_line": "Token Creature — Knight",
+      "colors": [
+        "W"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -108,7 +119,18 @@
       "colors": [
         "W"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Knight",
+          "type_line": "Token Creature — Knight",
+          "colors": [
+            "W"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,

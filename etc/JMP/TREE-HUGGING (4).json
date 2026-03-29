@@ -1,6 +1,17 @@
 {
   "deck_name": "TREE-HUGGING (4)",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Saproling",
+      "type_line": "Token Creature — Saproling",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -158,7 +169,18 @@
       "colors": [
         "G"
       ],
-      "rarity": "rare"
+      "rarity": "rare",
+      "tokens": [
+        {
+          "name": "Saproling",
+          "type_line": "Token Creature — Saproling",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

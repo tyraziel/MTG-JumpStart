@@ -1,6 +1,17 @@
 {
   "deck_name": "LILIANA",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "colors": [
+        "B"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -111,7 +122,18 @@
       ],
       "rarity": "uncommon",
       "power": "2",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Zombie",
+          "type_line": "Token Creature — Zombie",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,

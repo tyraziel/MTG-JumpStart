@@ -1,6 +1,17 @@
 {
   "deck_name": "THINK AGAIN (2)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Drake",
+      "type_line": "Token Creature — Drake",
+      "colors": [
+        "U"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +25,18 @@
       ],
       "rarity": "rare",
       "power": "2",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Drake",
+          "type_line": "Token Creature — Drake",
+          "colors": [
+            "U"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,

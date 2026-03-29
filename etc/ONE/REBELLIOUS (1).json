@@ -1,6 +1,26 @@
 {
   "deck_name": "REBELLIOUS (1)",
   "set": "ONE",
+  "tokens": [
+    {
+      "name": "Phyrexian Goblin",
+      "type_line": "Token Creature — Phyrexian Goblin",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Rebel",
+      "type_line": "Token Creature — Rebel",
+      "colors": [
+        "R"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -42,7 +62,18 @@
       ],
       "rarity": "common",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Phyrexian Goblin",
+          "type_line": "Token Creature — Phyrexian Goblin",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -118,7 +149,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Rebel",
+          "type_line": "Token Creature — Rebel",
+          "colors": [
+            "R"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -130,7 +172,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Rebel",
+          "type_line": "Token Creature — Rebel",
+          "colors": [
+            "R"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -142,7 +195,18 @@
       "colors": [
         "R"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Rebel",
+          "type_line": "Token Creature — Rebel",
+          "colors": [
+            "R"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,

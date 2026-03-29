@@ -1,6 +1,26 @@
 {
   "deck_name": "MODIFIED",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Saproling",
+      "type_line": "Token Creature — Saproling",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Wolf",
+      "type_line": "Token Creature — Wolf",
+      "colors": [
+        "G"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -28,7 +48,18 @@
       ],
       "rarity": "common",
       "power": "2",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Saproling",
+          "type_line": "Token Creature — Saproling",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -132,7 +163,18 @@
       "colors": [
         "G"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Wolf",
+          "type_line": "Token Creature — Wolf",
+          "colors": [
+            "G"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,

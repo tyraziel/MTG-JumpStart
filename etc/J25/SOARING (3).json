@@ -1,6 +1,24 @@
 {
   "deck_name": "SOARING (3)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Elemental Bird",
+      "type_line": "Token Creature — Elemental Bird",
+      "colors": [
+        "U"
+      ],
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "name": "Thopter",
+      "type_line": "Token Artifact Creature — Thopter",
+      "colors": [],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -70,7 +88,16 @@
       ],
       "rarity": "uncommon",
       "power": "2",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Thopter",
+          "type_line": "Token Artifact Creature — Thopter",
+          "colors": [],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -159,7 +186,18 @@
         "U"
       ],
       "rarity": "mythic",
-      "loyalty": "2"
+      "loyalty": "2",
+      "tokens": [
+        {
+          "name": "Elemental Bird",
+          "type_line": "Token Creature — Elemental Bird",
+          "colors": [
+            "U"
+          ],
+          "power": "4",
+          "toughness": "4"
+        }
+      ]
     },
     {
       "quantity": 1,

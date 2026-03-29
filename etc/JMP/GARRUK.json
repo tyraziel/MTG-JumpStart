@@ -1,6 +1,17 @@
 {
   "deck_name": "GARRUK",
   "set": "JMP",
+  "tokens": [
+    {
+      "name": "Beast",
+      "type_line": "Token Creature — Beast",
+      "colors": [
+        "G"
+      ],
+      "power": "3",
+      "toughness": "3"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -13,7 +24,18 @@
         "G"
       ],
       "rarity": "mythic",
-      "loyalty": "4"
+      "loyalty": "4",
+      "tokens": [
+        {
+          "name": "Beast",
+          "type_line": "Token Creature — Beast",
+          "colors": [
+            "G"
+          ],
+          "power": "3",
+          "toughness": "3"
+        }
+      ]
     },
     {
       "quantity": 1,

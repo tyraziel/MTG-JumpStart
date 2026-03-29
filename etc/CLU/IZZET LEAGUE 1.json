@@ -1,6 +1,13 @@
 {
   "deck_name": "IZZET LEAGUE 1",
   "set": "CLU",
+  "tokens": [
+    {
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -87,7 +94,14 @@
       ],
       "rarity": "rare",
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Clue",
+          "type_line": "Token Artifact — Clue",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,

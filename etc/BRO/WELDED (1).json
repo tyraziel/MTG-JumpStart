@@ -1,6 +1,13 @@
 {
   "deck_name": "WELDED (1)",
   "set": "BRO",
+  "tokens": [
+    {
+      "name": "Powerstone",
+      "type_line": "Token Artifact — Powerstone",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -28,7 +35,14 @@
       ],
       "rarity": "uncommon",
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Powerstone",
+          "type_line": "Token Artifact — Powerstone",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,

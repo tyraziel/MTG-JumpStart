@@ -1,6 +1,17 @@
 {
   "deck_name": "ILLUSIONS",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Bird Illusion",
+      "type_line": "Token Creature — Bird Illusion",
+      "colors": [
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -56,7 +67,18 @@
       ],
       "rarity": "common",
       "power": "1",
-      "toughness": "5"
+      "toughness": "5",
+      "tokens": [
+        {
+          "name": "Bird Illusion",
+          "type_line": "Token Creature — Bird Illusion",
+          "colors": [
+            "U"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

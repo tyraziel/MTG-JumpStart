@@ -1,6 +1,15 @@
 {
   "deck_name": "SPELLS",
   "set": "TLB",
+  "tokens": [
+    {
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "colors": [],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -110,7 +119,16 @@
       "colors": [
         "U"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Spirit",
+          "type_line": "Token Creature — Spirit",
+          "colors": [],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

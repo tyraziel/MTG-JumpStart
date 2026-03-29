@@ -1,6 +1,27 @@
 {
   "deck_name": "GO TO SCHOOL (2)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "colors": [
+        "R",
+        "U"
+      ],
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "name": "Wizard",
+      "type_line": "Token Creature — Wizard",
+      "colors": [
+        "U"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -108,7 +129,19 @@
       "colors": [
         "U"
       ],
-      "rarity": "rare"
+      "rarity": "rare",
+      "tokens": [
+        {
+          "name": "Elemental",
+          "type_line": "Token Creature — Elemental",
+          "colors": [
+            "R",
+            "U"
+          ],
+          "power": "4",
+          "toughness": "4"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -157,7 +190,18 @@
         "U"
       ],
       "rarity": "uncommon",
-      "loyalty": "5"
+      "loyalty": "5",
+      "tokens": [
+        {
+          "name": "Wizard",
+          "type_line": "Token Creature — Wizard",
+          "colors": [
+            "U"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,

@@ -1,6 +1,13 @@
 {
   "deck_name": "CUNNING 2",
   "set": "LTR",
+  "tokens": [
+    {
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -70,7 +77,14 @@
       ],
       "rarity": "uncommon",
       "power": "2",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,

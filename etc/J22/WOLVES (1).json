@@ -1,6 +1,31 @@
 {
   "deck_name": "WOLVES (1)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Boar",
+      "type_line": "Token Creature — Boar",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "colors": []
+    },
+    {
+      "name": "Wolf",
+      "type_line": "Token Creature — Wolf",
+      "colors": [
+        "G"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -56,7 +81,18 @@
       ],
       "rarity": "common",
       "power": "0",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Wolf",
+          "type_line": "Token Creature — Wolf",
+          "colors": [
+            "G"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -84,7 +120,14 @@
       ],
       "rarity": "common",
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Food",
+          "type_line": "Token Artifact — Food",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -110,7 +153,18 @@
       "colors": [
         "G"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Boar",
+          "type_line": "Token Creature — Boar",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -134,7 +188,18 @@
       "colors": [
         "G"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Wolf",
+          "type_line": "Token Creature — Wolf",
+          "colors": [
+            "G"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -146,7 +211,18 @@
       "colors": [
         "G"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Wolf",
+          "type_line": "Token Creature — Wolf",
+          "colors": [
+            "G"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -159,7 +235,18 @@
         "G"
       ],
       "rarity": "uncommon",
-      "loyalty": "7"
+      "loyalty": "7",
+      "tokens": [
+        {
+          "name": "Wolf",
+          "type_line": "Token Creature — Wolf",
+          "colors": [
+            "G"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,

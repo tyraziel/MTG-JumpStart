@@ -1,6 +1,18 @@
 {
   "deck_name": "EXPENDABLE 2",
   "set": "MOM",
+  "tokens": [
+    {
+      "name": "Incubator // Phyrexian",
+      "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
+      "colors": []
+    },
+    {
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +26,14 @@
       ],
       "rarity": "common",
       "power": "5",
-      "toughness": "5"
+      "toughness": "5",
+      "tokens": [
+        {
+          "name": "Incubator // Phyrexian",
+          "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -84,7 +103,14 @@
       ],
       "rarity": "uncommon",
       "power": "2",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Incubator // Phyrexian",
+          "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -122,7 +148,14 @@
       "colors": [
         "B"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -146,7 +179,14 @@
       "colors": [
         "B"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Incubator // Phyrexian",
+          "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 8,

@@ -1,6 +1,20 @@
 {
   "deck_name": "INFANTRY (2)",
   "set": "BRO",
+  "tokens": [
+    {
+      "name": "Powerstone",
+      "type_line": "Token Artifact — Powerstone",
+      "colors": []
+    },
+    {
+      "name": "Soldier",
+      "type_line": "Token Artifact Creature — Soldier",
+      "colors": [],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -82,7 +96,16 @@
       "colors": [],
       "rarity": "common",
       "power": "3",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Soldier",
+          "type_line": "Token Artifact Creature — Soldier",
+          "colors": [],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -142,7 +165,14 @@
       "colors": [
         "W"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Powerstone",
+          "type_line": "Token Artifact — Powerstone",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 6,

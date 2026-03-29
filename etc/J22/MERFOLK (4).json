@@ -1,6 +1,17 @@
 {
   "deck_name": "MERFOLK (4)",
   "set": "J22",
+  "tokens": [
+    {
+      "name": "Merfolk",
+      "type_line": "Token Creature — Merfolk",
+      "colors": [
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -148,7 +159,18 @@
       "colors": [
         "U"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Merfolk",
+          "type_line": "Token Creature — Merfolk",
+          "colors": [
+            "U"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

@@ -1,6 +1,13 @@
 {
   "deck_name": "AT THE ZOO",
   "set": "TLA",
+  "tokens": [
+    {
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -70,7 +77,14 @@
       ],
       "rarity": "uncommon",
       "power": "3",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Food",
+          "type_line": "Token Artifact — Food",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,

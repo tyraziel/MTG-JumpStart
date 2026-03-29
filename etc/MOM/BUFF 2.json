@@ -1,6 +1,13 @@
 {
   "deck_name": "BUFF 2",
   "set": "MOM",
+  "tokens": [
+    {
+      "name": "Incubator // Phyrexian",
+      "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -56,7 +63,14 @@
       ],
       "rarity": "common",
       "power": "0",
-      "toughness": "1"
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Incubator // Phyrexian",
+          "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -148,7 +162,14 @@
       "colors": [
         "G"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Incubator // Phyrexian",
+          "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 8,

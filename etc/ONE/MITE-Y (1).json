@@ -1,6 +1,15 @@
 {
   "deck_name": "MITE-Y (1)",
   "set": "ONE",
+  "tokens": [
+    {
+      "name": "Phyrexian Mite",
+      "type_line": "Token Artifact Creature — Phyrexian Mite",
+      "colors": [],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -14,7 +23,16 @@
       ],
       "rarity": "rare",
       "power": "4",
-      "toughness": "2"
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Phyrexian Mite",
+          "type_line": "Token Artifact Creature — Phyrexian Mite",
+          "colors": [],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -70,7 +88,16 @@
       ],
       "rarity": "common",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Phyrexian Mite",
+          "type_line": "Token Artifact Creature — Phyrexian Mite",
+          "colors": [],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -110,7 +137,16 @@
       "colors": [
         "W"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Phyrexian Mite",
+          "type_line": "Token Artifact Creature — Phyrexian Mite",
+          "colors": [],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -134,7 +170,16 @@
       "colors": [
         "W"
       ],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Phyrexian Mite",
+          "type_line": "Token Artifact Creature — Phyrexian Mite",
+          "colors": [],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

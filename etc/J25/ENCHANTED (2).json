@@ -1,6 +1,17 @@
 {
   "deck_name": "ENCHANTED (2)",
   "set": "J25",
+  "tokens": [
+    {
+      "name": "Warrior",
+      "type_line": "Token Creature — Warrior",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -148,7 +159,18 @@
       "colors": [
         "W"
       ],
-      "rarity": "common"
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Warrior",
+          "type_line": "Token Creature — Warrior",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
     },
     {
       "quantity": 1,

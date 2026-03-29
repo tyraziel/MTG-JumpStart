@@ -1,6 +1,22 @@
 {
   "deck_name": "GRUUL CLANS 2",
   "set": "CLU",
+  "tokens": [
+    {
+      "name": "Boar",
+      "type_line": "Token Creature — Boar",
+      "colors": [
+        "G"
+      ],
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Copy",
+      "type_line": "Token",
+      "colors": []
+    }
+  ],
   "cards": [
     {
       "quantity": 1,
@@ -100,7 +116,18 @@
       ],
       "rarity": "rare",
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Boar",
+          "type_line": "Token Creature — Boar",
+          "colors": [
+            "G"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -114,7 +141,14 @@
       ],
       "rarity": "mythic",
       "power": "7",
-      "toughness": "7"
+      "toughness": "7",
+      "tokens": [
+        {
+          "name": "Copy",
+          "type_line": "Token",
+          "colors": []
+        }
+      ]
     },
     {
       "quantity": 1,
