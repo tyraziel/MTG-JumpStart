@@ -71,6 +71,7 @@ def load_all_decks():
                 "set": set_code,
                 "set_name": SET_NAMES.get(set_code, set_code),
                 "deck_name": deck_name,
+                "tokens": deck_data.get("tokens", []),
                 "cards": deck_data["cards"]
             }
 
