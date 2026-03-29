@@ -1,49 +1,34 @@
 {
-  "deck_name": "EARTH-RUMBLE (1)",
+  "deck_name": "EARTH KINGDOM (2)",
   "set": "TLA",
   "cards": [
     {
       "quantity": 1,
-      "name": "Rebellious Captives",
+      "name": "Haru, Hidden Talent",
       "type": "Creatures",
-      "type_line": "Creature — Human Peasant Ally",
+      "type_line": "Legendary Creature — Human Peasant Ally",
       "mana_cost": "{1}{G}",
       "cmc": 2.0,
       "colors": [
         "G"
       ],
-      "rarity": "common",
-      "power": "2",
-      "toughness": "2"
-    },
-    {
-      "quantity": 1,
-      "name": "Raucous Audience",
-      "type": "Creatures",
-      "type_line": "Creature — Human Citizen",
-      "mana_cost": "{1}{G}",
-      "cmc": 2.0,
-      "colors": [
-        "G"
-      ],
-      "rarity": "common",
-      "power": "2",
+      "rarity": "uncommon",
+      "power": "1",
       "toughness": "1"
     },
     {
       "quantity": 1,
-      "name": "Uncle Iroh",
+      "name": "Great Divide Guide",
       "type": "Creatures",
-      "type_line": "Legendary Creature — Human Noble Ally",
-      "mana_cost": "{1}{R/G}{R/G}",
-      "cmc": 3.0,
+      "type_line": "Creature — Human Scout Ally",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
       "colors": [
-        "G",
-        "R"
+        "G"
       ],
-      "rarity": "uncommon",
-      "power": "4",
-      "toughness": "2"
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "3"
     },
     {
       "quantity": 1,
@@ -61,28 +46,57 @@
     },
     {
       "quantity": 1,
-      "name": "The Boulder, Ready to Rumble",
+      "name": "Walltop Sentries",
       "type": "Creatures",
-      "type_line": "Legendary Creature — Human Warrior Performer",
+      "type_line": "Creature — Human Soldier Ally",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Suki, Kyoshi Warrior",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Warrior Ally",
+      "mana_cost": "{2}{G/W}{G/W}",
+      "cmc": 4.0,
+      "colors": [
+        "G",
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "*",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Earth Kingdom General",
+      "type": "Creatures",
+      "type_line": "Creature — Human Soldier Ally",
       "mana_cost": "{3}{G}",
       "cmc": 4.0,
       "colors": [
         "G"
       ],
       "rarity": "uncommon",
-      "power": "4",
-      "toughness": "4"
+      "power": "2",
+      "toughness": "2"
     },
     {
       "quantity": 1,
-      "name": "Earth Rumble Wrestlers",
+      "name": "Earth Kingdom Soldier",
       "type": "Creatures",
-      "type_line": "Creature — Human Warrior Performer",
-      "mana_cost": "{3}{R/G}",
-      "cmc": 4.0,
+      "type_line": "Creature — Human Soldier",
+      "mana_cost": "{4}{G/W}",
+      "cmc": 5.0,
       "colors": [
         "G",
-        "R"
+        "W"
       ],
       "rarity": "common",
       "power": "3",
@@ -104,23 +118,11 @@
     },
     {
       "quantity": 1,
-      "name": "Earth Rumble",
-      "type": "Sorceries",
-      "type_line": "Sorcery",
-      "mana_cost": "{3}{G}",
-      "cmc": 4.0,
-      "colors": [
-        "G"
-      ],
-      "rarity": "uncommon"
-    },
-    {
-      "quantity": 1,
-      "name": "Pillar Launch",
+      "name": "Origin of Metalbending",
       "type": "Instants",
-      "type_line": "Instant",
-      "mana_cost": "{G}",
-      "cmc": 1.0,
+      "type_line": "Instant — Lesson",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
       "colors": [
         "G"
       ],
@@ -128,30 +130,29 @@
     },
     {
       "quantity": 1,
-      "name": "Hog-Monkey Rampage",
+      "name": "Allies at Last",
       "type": "Instants",
       "type_line": "Instant",
-      "mana_cost": "{1}{R/G}",
-      "cmc": 2.0,
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
       "colors": [
-        "G",
-        "R"
+        "G"
       ],
       "rarity": "uncommon"
     },
     {
       "quantity": 1,
-      "name": "Kyoshi Battle Fan",
+      "name": "Mechanical Glider",
       "type": "Artifacts",
       "type_line": "Artifact — Equipment",
-      "mana_cost": "{2}",
-      "cmc": 2.0,
+      "mana_cost": "{1}",
+      "cmc": 1.0,
       "colors": [],
       "rarity": "common"
     },
     {
       "quantity": 1,
-      "name": "Master's Guidance",
+      "name": "Descendants' Path",
       "type": "Enchantments",
       "type_line": "Enchantment",
       "mana_cost": "{2}{G}",

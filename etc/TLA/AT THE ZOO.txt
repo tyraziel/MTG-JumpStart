@@ -1,4 +1,4 @@
-AT-THE-ZOO
+AT THE ZOO
 //Creatures (8)
 1 Turtle-Duck
 1 Animal Attendant

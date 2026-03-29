@@ -1,74 +1,88 @@
 {
-  "deck_name": "EARTH-KINGDOM (1)",
+  "deck_name": "EARTH RUMBLE (2)",
   "set": "TLA",
   "cards": [
     {
       "quantity": 1,
-      "name": "Haru, Hidden Talent",
+      "name": "Frog-Squirrels",
       "type": "Creatures",
-      "type_line": "Legendary Creature — Human Peasant Ally",
+      "type_line": "Creature — Frog Squirrel",
       "mana_cost": "{1}{G}",
       "cmc": 2.0,
       "colors": [
         "G"
       ],
-      "rarity": "uncommon",
-      "power": "1",
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Raucous Audience",
+      "type": "Creatures",
+      "type_line": "Creature — Human Citizen",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
       "toughness": "1"
     },
     {
       "quantity": 1,
-      "name": "Toph, the Blind Bandit",
+      "name": "Uncle Iroh",
       "type": "Creatures",
-      "type_line": "Legendary Creature — Human Warrior Ally",
-      "mana_cost": "{2}{G}",
+      "type_line": "Legendary Creature — Human Noble Ally",
+      "mana_cost": "{1}{R/G}{R/G}",
       "cmc": 3.0,
       "colors": [
-        "G"
-      ],
-      "rarity": "uncommon",
-      "power": "*",
-      "toughness": "3"
-    },
-    {
-      "quantity": 1,
-      "name": "Suki, Kyoshi Warrior",
-      "type": "Creatures",
-      "type_line": "Legendary Creature — Human Warrior Ally",
-      "mana_cost": "{2}{G/W}{G/W}",
-      "cmc": 4.0,
-      "colors": [
         "G",
-        "W"
+        "R"
       ],
       "rarity": "uncommon",
-      "power": "*",
-      "toughness": "4"
+      "power": "4",
+      "toughness": "2"
     },
     {
       "quantity": 1,
-      "name": "Foggy Swamp Vinebender",
+      "name": "The Earth King",
       "type": "Creatures",
-      "type_line": "Creature — Human Plant Ally",
+      "type_line": "Legendary Creature — Human Noble Ally",
       "mana_cost": "{3}{G}",
       "cmc": 4.0,
       "colors": [
         "G"
       ],
-      "rarity": "common",
-      "power": "4",
-      "toughness": "3"
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "2"
     },
     {
       "quantity": 1,
-      "name": "Earth Kingdom Soldier",
+      "name": "The Boulder, Ready to Rumble",
       "type": "Creatures",
-      "type_line": "Creature — Human Soldier",
-      "mana_cost": "{4}{G/W}",
-      "cmc": 5.0,
+      "type_line": "Legendary Creature — Human Warrior Performer",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Earth Rumble Wrestlers",
+      "type": "Creatures",
+      "type_line": "Creature — Human Warrior Performer",
+      "mana_cost": "{3}{R/G}",
+      "cmc": 4.0,
       "colors": [
         "G",
-        "W"
+        "R"
       ],
       "rarity": "common",
       "power": "3",
@@ -76,42 +90,42 @@
     },
     {
       "quantity": 1,
-      "name": "Hippo-Cows",
+      "name": "Bosco, Just a Bear",
       "type": "Creatures",
-      "type_line": "Creature — Hippo Ox",
+      "type_line": "Legendary Creature — Bear",
       "mana_cost": "{4}{G}",
       "cmc": 5.0,
       "colors": [
         "G"
       ],
-      "rarity": "common",
-      "power": "5",
+      "rarity": "uncommon",
+      "power": "4",
       "toughness": "4"
     },
     {
       "quantity": 1,
-      "name": "Match the Odds",
-      "type": "Sorceries",
-      "type_line": "Sorcery — Lesson",
-      "mana_cost": "{2}{G}",
-      "cmc": 3.0,
+      "name": "Origin of Metalbending",
+      "type": "Instants",
+      "type_line": "Instant — Lesson",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
       "colors": [
         "G"
       ],
-      "rarity": "uncommon"
+      "rarity": "common"
     },
     {
       "quantity": 1,
-      "name": "Stand United",
+      "name": "Hog-Monkey Rampage",
       "type": "Instants",
       "type_line": "Instant",
-      "mana_cost": "{1}{G/W}",
+      "mana_cost": "{1}{R/G}",
       "cmc": 2.0,
       "colors": [
         "G",
-        "W"
+        "R"
       ],
-      "rarity": "common"
+      "rarity": "uncommon"
     },
     {
       "quantity": 1,
@@ -137,17 +151,7 @@
     },
     {
       "quantity": 1,
-      "name": "Mechanical Glider",
-      "type": "Artifacts",
-      "type_line": "Artifact — Equipment",
-      "mana_cost": "{1}",
-      "cmc": 1.0,
-      "colors": [],
-      "rarity": "common"
-    },
-    {
-      "quantity": 1,
-      "name": "Descendants' Path",
+      "name": "Master's Guidance",
       "type": "Enchantments",
       "type_line": "Enchantment",
       "mana_cost": "{2}{G}",
