@@ -1885,7 +1885,8 @@
     "tokens": []
   },
   "Artificer's Dragon (Jumpstart Booster rare)": {
-    "type": "Unknown"
+    "type": "Unknown",
+    "tokens": []
   },
   "Artificer's Epiphany": {
     "type": "Instants",
@@ -4482,7 +4483,8 @@
     "tokens": []
   },
   "Briar Hydra (Jumpstart Booster rare)": {
-    "type": "Unknown"
+    "type": "Unknown",
+    "tokens": []
   },
   "Briarbridge Tracker": {
     "type": "Creatures",
@@ -6696,7 +6698,8 @@
     "tokens": []
   },
   "Cosmic Epiphany (Jumpstart Booster rare)": {
-    "type": "Unknown"
+    "type": "Unknown",
+    "tokens": []
   },
   "Cosmic Hunger": {
     "type": "Instants",
@@ -12360,7 +12363,13 @@
     "tokens": []
   },
   "Forest Appa": {
-    "type": "Unknown"
+    "type": "Lands",
+    "type_line": "Basic Land — Forest",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "rarity": "common",
+    "tokens": []
   },
   "Forge Devil": {
     "type": "Creatures",
@@ -13220,7 +13229,8 @@
     ]
   },
   "Geology Enthusiast (Jumpstart Booster rare)": {
-    "type": "Unknown"
+    "type": "Unknown",
+    "tokens": []
   },
   "Geyser Leaper": {
     "type": "Creatures",
@@ -17167,7 +17177,13 @@
     "tokens": []
   },
   "Island Appa": {
-    "type": "Unknown"
+    "type": "Lands",
+    "type_line": "Basic Land — Island",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "rarity": "common",
+    "tokens": []
   },
   "Isolation at Orthanc": {
     "type": "Instants",
@@ -21847,7 +21863,13 @@
     "tokens": []
   },
   "Mountain Appa": {
-    "type": "Unknown"
+    "type": "Lands",
+    "type_line": "Basic Land — Mountain",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "rarity": "common",
+    "tokens": []
   },
   "Mowu, Loyal Companion": {
     "type": "Creatures",
@@ -22105,7 +22127,8 @@
     "tokens": []
   },
   "NAME": {
-    "type": "Unknown"
+    "type": "Unknown",
+    "tokens": []
   },
   "Naban, Dean of Iteration": {
     "type": "Creatures",
@@ -24669,7 +24692,13 @@
     "tokens": []
   },
   "Plains Appa": {
-    "type": "Unknown"
+    "type": "Lands",
+    "type_line": "Basic Land — Plains",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "rarity": "common",
+    "tokens": []
   },
   "Planar Atlas": {
     "type": "Artifacts",
@@ -25667,7 +25696,8 @@
     "tokens": []
   },
   "Ragefire Hellkite (Jumpstart Booster rare)": {
-    "type": "Unknown"
+    "type": "Unknown",
+    "tokens": []
   },
   "Raging Redcap": {
     "type": "Creatures",
@@ -25717,7 +25747,13 @@
     "tokens": []
   },
   "Rainbow Terramorphic Expanse": {
-    "type": "Unknown"
+    "type": "Lands",
+    "type_line": "Land",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "rarity": "common",
+    "tokens": []
   },
   "Raise the Alarm": {
     "type": "Instants",
@@ -25980,31 +26016,40 @@
     "tokens": []
   },
   "Random black rare or mythic rare": {
-    "type": "Special"
+    "type": "Special",
+    "tokens": []
   },
   "Random black rare or mythic rare, or Weatherlight Compleated": {
-    "type": "Special"
+    "type": "Special",
+    "tokens": []
   },
   "Random blue rare or mythic rare": {
-    "type": "Special"
+    "type": "Special",
+    "tokens": []
   },
   "Random blue rare or mythic rare; or Liberator, Urza's Battlethopter; or Thran Spider": {
-    "type": "Special"
+    "type": "Special",
+    "tokens": []
   },
   "Random green rare or mythic rare": {
-    "type": "Special"
+    "type": "Special",
+    "tokens": []
   },
   "Random rare or mythic rare": {
-    "type": "Special"
+    "type": "Special",
+    "tokens": []
   },
   "Random red rare or mythic rare": {
-    "type": "Special"
+    "type": "Special",
+    "tokens": []
   },
   "Random white rare or mythic rare": {
-    "type": "Special"
+    "type": "Special",
+    "tokens": []
   },
   "Random white rare or mythic rare, or Karn, Living Legacy": {
-    "type": "Special"
+    "type": "Special",
+    "tokens": []
   },
   "Ranger's Guile": {
     "type": "Instants",
@@ -26058,7 +26103,8 @@
     ]
   },
   "Rare or mythic rare": {
-    "type": "Special"
+    "type": "Special",
+    "tokens": []
   },
   "Rattlechains": {
     "type": "Creatures",
@@ -26663,7 +26709,8 @@
     "tokens": []
   },
   "Rescue Retriever (Jumpstart Booster rare)": {
-    "type": "Unknown"
+    "type": "Unknown",
+    "tokens": []
   },
   "Rescuer Sphinx": {
     "type": "Creatures",
@@ -28997,7 +29044,8 @@
     "tokens": []
   },
   "Serra Redeemer (Jumpstart Booster rare)": {
-    "type": "Unknown"
+    "type": "Unknown",
+    "tokens": []
   },
   "Serra's Embrace": {
     "type": "Enchantments",
@@ -31917,7 +31965,13 @@
     "tokens": []
   },
   "Swamp Appa": {
-    "type": "Unknown"
+    "type": "Lands",
+    "type_line": "Basic Land — Swamp",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "rarity": "common",
+    "tokens": []
   },
   "Swampsnare Trap": {
     "type": "Enchantments",
@@ -32688,7 +32742,8 @@
     "tokens": []
   },
   "Terror Ballista (Jumpstart Booster rare)": {
-    "type": "Unknown"
+    "type": "Unknown",
+    "tokens": []
   },
   "Terror of Mount Velus": {
     "type": "Creatures",
@@ -34666,7 +34721,8 @@
     "tokens": []
   },
   "Tyrannical Pitlord (Jumpstart Booster rare)": {
-    "type": "Unknown"
+    "type": "Unknown",
+    "tokens": []
   },
   "Tyvar Kell": {
     "type": "Planeswalkers",
@@ -37380,7 +37436,8 @@
     "tokens": []
   },
   "Woodcaller Automaton (Jumpstart Booster rare)": {
-    "type": "Unknown"
+    "type": "Unknown",
+    "tokens": []
   },
   "Wooded Ridgeline": {
     "type": "Lands",

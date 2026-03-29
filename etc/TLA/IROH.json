@@ -185,7 +185,12 @@
     {
       "quantity": 1,
       "name": "Mountain Appa",
-      "type": "Unknown"
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
     }
   ]
 }
