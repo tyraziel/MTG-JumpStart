@@ -117,16 +117,31 @@ def generate_json_from_txt(txt_file: Path, cache: Dict) -> Dict:
             # Planeswalker-specific fields
             if "loyalty" in card_data and card_data["loyalty"] is not None:
                 card_entry["loyalty"] = card_data["loyalty"]
+
+            # Token data — only include if card actually creates tokens
+            if card_data.get("tokens"):
+                card_entry["tokens"] = card_data["tokens"]
         else:
             # Card not in cache
             card_entry["type"] = "Unknown"
 
         cards.append(card_entry)
 
+    # Aggregate deck-level tokens: deduplicated by name, sorted alphabetically.
+    # If two cards create tokens with the same name, the first one's data is used.
+    seen_token_names: dict = {}
+    for card in cards:
+        for token in card.get("tokens", []):
+            name = token["name"]
+            if name not in seen_token_names:
+                seen_token_names[name] = token
+    deck_tokens = sorted(seen_token_names.values(), key=lambda t: t["name"])
+
     # Build final structure
     deck_json = {
         "deck_name": deck_name,
         "set": set_code,
+        "tokens": deck_tokens,
         "cards": cards
     }
 
