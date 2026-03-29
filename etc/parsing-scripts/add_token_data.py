@@ -175,15 +175,24 @@ def main():
     meta = {k: v for k, v in cache_data.items() if k.startswith("_")}
     cache = {k: v for k, v in cache_data.items() if not k.startswith("_")}
 
-    # Find cards missing the 'tokens' key
+    # Separate cards into: skip (have skip_reason), needs_update (missing tokens key)
+    skip_entries = [(name, data) for name, data in cache.items()
+                    if isinstance(data, dict) and "skip_reason" in data]
     needs_update = [name for name, data in cache.items()
-                    if isinstance(data, dict) and "tokens" not in data]
+                    if isinstance(data, dict) and "tokens" not in data
+                    and "skip_reason" not in data]
 
     total = len(needs_update)
-    already_done = len(cache) - total
+    already_done = len(cache) - total - len(skip_entries)
     print(f"Cache: {len(cache)} cards total")
     print(f"  Already have token data: {already_done}")
+    print(f"  Skipped (skip_reason):   {len(skip_entries)}")
     print(f"  Need token data:         {total}")
+
+    if verbose and skip_entries:
+        print("\n  Skipped entries:")
+        for name, data in sorted(skip_entries):
+            print(f"    [skip:{data['skip_reason']}] {name}")
 
     if total == 0:
         print("\nAll cards already have token data. Nothing to do.")
@@ -245,6 +254,7 @@ def main():
     print(f"  Updated:      {updated}")
     print(f"  With tokens:  {tokens_found_count}")
     print(f"  API errors:   {skipped} (will retry on next run)")
+    print(f"  Skipped:      {len(skip_entries)} (have skip_reason — use --verbose to list)")
     if dry_run:
         print("  (dry run — nothing written)")
 
