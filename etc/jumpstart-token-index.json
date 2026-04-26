@@ -1,0 +1,6462 @@
+{
+  "metadata": {
+    "generated": "2026-04-26T21:13:00.047620+00:00",
+    "total_tokens": 86,
+    "total_source_refs": 922,
+    "decks_scanned": 529,
+    "sets": [
+      "JMP",
+      "J22",
+      "J25",
+      "TLA",
+      "ONE",
+      "DMU",
+      "BRO",
+      "MOM",
+      "LTR",
+      "CLU",
+      "FDN",
+      "TLB"
+    ]
+  },
+  "tokens": [
+    {
+      "name": "Ajani's Pridemate",
+      "type_line": "Token Creature — Cat Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "CATS (3)",
+          "card": "Ajani, Strength of the Pride"
+        }
+      ]
+    },
+    {
+      "name": "Ally",
+      "type_line": "Token Creature — Ally",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "AANG",
+          "card": "Aang, Airbending Master"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "AANG",
+          "card": "Invasion Reinforcements"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "AANG",
+          "card": "Kyoshi Warriors"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "AANG",
+          "card": "Path to Redemption"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "ADAPTIVE",
+          "card": "Kyoshi Battle Fan"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "AIRBENDING",
+          "card": "Invasion Reinforcements"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "AIRBENDING",
+          "card": "Path to Redemption"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "ALLIANCE (1)",
+          "card": "Kyoshi Warriors"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "ALLIANCE (1)",
+          "card": "Path to Redemption"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "ALLIANCE (1)",
+          "card": "Suki, Kyoshi Warrior"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "ALLIANCE (2)",
+          "card": "Kyoshi Warriors"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "ALLIANCE (2)",
+          "card": "Suki, Kyoshi Warrior"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BOUNTY HUNTER (1)",
+          "card": "Pretending Poxbearers"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BOUNTY HUNTER (2)",
+          "card": "Pretending Poxbearers"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "EARTH KINGDOM (1)",
+          "card": "Kyoshi Battle Fan"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "EARTH KINGDOM (1)",
+          "card": "Match the Odds"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "EARTH KINGDOM (1)",
+          "card": "Suki, Kyoshi Warrior"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "EARTH KINGDOM (2)",
+          "card": "Suki, Kyoshi Warrior"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "EARTH RUMBLE (1)",
+          "card": "Kyoshi Battle Fan"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "EARTH RUMBLE (2)",
+          "card": "Kyoshi Battle Fan"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "FIREBENDING (1)",
+          "card": "Loyal Fire Sage"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "FIREBENDING (2)",
+          "card": "Loyal Fire Sage"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "FREEDOM FIGHTERS",
+          "card": "Hook Swords"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "FREEDOM FIGHTERS",
+          "card": "Path to Redemption"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "GLIDING (1)",
+          "card": "Path to Redemption"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "GLIDING (2)",
+          "card": "Path to Redemption"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "HEI BAI (1)",
+          "card": "Invasion Reinforcements"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "HEI BAI (1)",
+          "card": "Path to Redemption"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "HEI BAI (1)",
+          "card": "Pretending Poxbearers"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "HEI BAI (1)",
+          "card": "Suki, Courageous Rescuer"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "HEI BAI (2)",
+          "card": "Path to Redemption"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "HEI BAI (2)",
+          "card": "Pretending Poxbearers"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "HEI BAI (2)",
+          "card": "Suki, Courageous Rescuer"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "INSURGENT (1)",
+          "card": "Invasion Reinforcements"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "INSURGENT (1)",
+          "card": "Kyoshi Warriors"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "INSURGENT (2)",
+          "card": "Kyoshi Warriors"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "INSURGENT (2)",
+          "card": "Path to Redemption"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "KYOSHI",
+          "card": "Kyoshi Battle Fan"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "KYOSHI",
+          "card": "Suki, Kyoshi Warrior"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "MUSICIANS",
+          "card": "Founding of Omashu"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "MUSICIANS",
+          "card": "The Cave of Two Lovers"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "NIGHTMARES",
+          "card": "Pretending Poxbearers"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "REBELLING (1)",
+          "card": "Treetop Freedom Fighters"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "REBELLING (2)",
+          "card": "Hook Swords"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "REBELLING (2)",
+          "card": "Treetop Freedom Fighters"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "ROKU",
+          "card": "Loyal Fire Sage"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "SIEGE ENGINES",
+          "card": "Pretending Poxbearers"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "SWORDMASTER",
+          "card": "Kyoshi Battle Fan"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "WARRIORS",
+          "card": "Invasion Reinforcements"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "WARRIORS",
+          "card": "Kyoshi Battle Fan"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "WARRIORS",
+          "card": "Kyoshi Warriors"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "WARRIORS",
+          "card": "Path to Redemption"
+        },
+        {
+          "set": "TLB",
+          "set_name": "Avatar TLA Beginner Box",
+          "deck": "AANG TUTORIAL",
+          "card": "Path to Redemption"
+        },
+        {
+          "set": "TLB",
+          "set_name": "Avatar TLA Beginner Box",
+          "deck": "ALLIES",
+          "card": "Allied Teamwork"
+        },
+        {
+          "set": "TLB",
+          "set_name": "Avatar TLA Beginner Box",
+          "deck": "ALLIES",
+          "card": "Path to Redemption"
+        },
+        {
+          "set": "TLB",
+          "set_name": "Avatar TLA Beginner Box",
+          "deck": "ALLIES",
+          "card": "Suki, Kyoshi Warrior"
+        },
+        {
+          "set": "TLB",
+          "set_name": "Avatar TLA Beginner Box",
+          "deck": "ATTACKING",
+          "card": "Pretending Poxbearers"
+        },
+        {
+          "set": "TLB",
+          "set_name": "Avatar TLA Beginner Box",
+          "deck": "BIG CREATURES",
+          "card": "Match the Odds"
+        },
+        {
+          "set": "TLB",
+          "set_name": "Avatar TLA Beginner Box",
+          "deck": "FIREBENDING",
+          "card": "Loyal Fire Sage"
+        }
+      ]
+    },
+    {
+      "name": "Angel",
+      "type_line": "Token Creature — Angel",
+      "colors": [
+        "W"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "ANGELS (1)",
+          "card": "Angelic Ascension"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "ANGELS (2)",
+          "card": "Angelic Ascension"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DOCTOR (1)",
+          "card": "Speaker of the Heavens"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DOCTOR (2)",
+          "card": "Speaker of the Heavens"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "FEATHERED FRIENDS (2)",
+          "card": "Angelic Ascension"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "CONSTELLATION (2)",
+          "card": "Sigil of the Empty Throne"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "HOLY (3)",
+          "card": "Valkyrie Harbinger"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "LAW (2)",
+          "card": "Decree of Justice"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "HEALERS (1)",
+          "card": "Speaker of the Heavens"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "HEALERS (2)",
+          "card": "Valkyrie Harbinger"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "BOROS LEGION 1",
+          "card": "Finale of Glory"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "SELESNYA CONCLAVE 1",
+          "card": "Urbis Protector"
+        }
+      ]
+    },
+    {
+      "name": "Angel Warrior",
+      "type_line": "Token Creature — Angel Warrior",
+      "colors": [
+        "W"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "sources": [
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ARMED (1)",
+          "card": "Valkyrie's Sword"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ARMED (3)",
+          "card": "Valkyrie's Sword"
+        }
+      ]
+    },
+    {
+      "name": "Assembly-Worker",
+      "type_line": "Token Artifact Creature — Assembly-Worker",
+      "colors": [],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "URZA'S",
+          "card": "Urza's Factory"
+        }
+      ]
+    },
+    {
+      "name": "Ballistic Boulder",
+      "type_line": "Token Artifact Creature — Construct",
+      "colors": [],
+      "power": "2",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "AZULA",
+          "card": "Fire Navy Trebuchet"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BOUNTY HUNTER (2)",
+          "card": "Fire Navy Trebuchet"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "OZAI",
+          "card": "Fire Navy Trebuchet"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "SIEGE ENGINES",
+          "card": "Fire Navy Trebuchet"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ORCISH 2",
+          "card": "Mordor Trebuchet"
+        }
+      ]
+    },
+    {
+      "name": "Bat",
+      "type_line": "Token Creature — Bat",
+      "colors": [
+        "B"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "GOLGARI SWARM 1",
+          "card": "Leering Onlooker"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "ORZHOV SYNDICATE 2",
+          "card": "Leering Onlooker"
+        }
+      ]
+    },
+    {
+      "name": "Bear",
+      "type_line": "Token Creature — Bear",
+      "colors": [
+        "G"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "sources": [
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "EARTH RUMBLE (2)",
+          "card": "The Earth King"
+        }
+      ]
+    },
+    {
+      "name": "Beast",
+      "type_line": "Token Creature — Beast",
+      "colors": [
+        "G"
+      ],
+      "power": "3",
+      "toughness": "3",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "GARRUK",
+          "card": "Garruk, Unleashed"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "PLUS ONE (1)",
+          "card": "Primeval Bounty"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "PREDATORY (3)",
+          "card": "Thragtusk"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ENCOUNTER (4)",
+          "card": "Primeval Bounty"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "EXPLORERS (3)",
+          "card": "Somberwald Beastmaster"
+        }
+      ]
+    },
+    {
+      "name": "Beast",
+      "type_line": "Token Creature — Beast",
+      "colors": [
+        "G"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "LANDFALL (1)",
+          "card": "Rampaging Baloths"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "EXPLORERS (3)",
+          "card": "Somberwald Beastmaster"
+        }
+      ]
+    },
+    {
+      "name": "Bird",
+      "type_line": "Token Creature — Bird",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "FEATHERED FRIENDS (1)",
+          "card": "Falconer Adept"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "FEATHERED FRIENDS (2)",
+          "card": "Falconer Adept"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "FEATHERED FRIENDS (3)",
+          "card": "Falconer Adept"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "FEATHERED FRIENDS (4)",
+          "card": "Falconer Adept"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "LEGION (1)",
+          "card": "Falconer Adept"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "BLINK (4)",
+          "card": "Seller of Songbirds"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "WIZARDS (2)",
+          "card": "Aether Channeler"
+        },
+        {
+          "set": "DMU",
+          "set_name": "Dominaria United",
+          "deck": "COALITION CORPS",
+          "card": "Love Song of Night and Day"
+        },
+        {
+          "set": "DMU",
+          "set_name": "Dominaria United",
+          "deck": "COALITION LEGION",
+          "card": "Love Song of Night and Day"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "SELESNYA CONCLAVE 1",
+          "card": "Seller of Songbirds"
+        }
+      ]
+    },
+    {
+      "name": "Bird Illusion",
+      "type_line": "Token Creature — Bird Illusion",
+      "colors": [
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ILLUSIONS",
+          "card": "Murmuring Mystic"
+        }
+      ]
+    },
+    {
+      "name": "Blood",
+      "type_line": "Token Artifact — Blood",
+      "colors": [],
+      "sources": [
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (1)",
+          "card": "Belligerent Guest"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (1)",
+          "card": "Blood Petal Celebrant"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (1)",
+          "card": "Falkenrath Celebrants"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (1)",
+          "card": "Ivora, Insatiable Heir"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (1)",
+          "card": "Voldaren Epicure"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (2)",
+          "card": "Blood Petal Celebrant"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (2)",
+          "card": "Falkenrath Celebrants"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (2)",
+          "card": "Ivora, Insatiable Heir"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (2)",
+          "card": "Markov Enforcer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (3)",
+          "card": "Belligerent Guest"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (3)",
+          "card": "Blood Petal Celebrant"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (3)",
+          "card": "Falkenrath Celebrants"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (3)",
+          "card": "Ivora, Insatiable Heir"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (4)",
+          "card": "Belligerent Guest"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (4)",
+          "card": "Blood Petal Celebrant"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (4)",
+          "card": "Falkenrath Celebrants"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (4)",
+          "card": "Ivora, Insatiable Heir"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (4)",
+          "card": "Voldaren Epicure"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "VAMPIRES (1)",
+          "card": "Blood Fountain"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "VAMPIRES (1)",
+          "card": "Gluttonous Guest"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "VAMPIRES (2)",
+          "card": "Blood Fountain"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "VAMPIRES (2)",
+          "card": "Gluttonous Guest"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "VAMPIRES (3)",
+          "card": "Blood Fountain"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "VAMPIRES (3)",
+          "card": "Gluttonous Guest"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "VAMPIRES (4)",
+          "card": "Blood Fountain"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "VAMPIRES (4)",
+          "card": "Gluttonous Guest"
+        }
+      ]
+    },
+    {
+      "name": "Boar",
+      "type_line": "Token Creature — Boar",
+      "colors": [
+        "G"
+      ],
+      "power": "3",
+      "toughness": "3",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "PREDATORY (1)",
+          "card": "Brindle Shoat"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "PREDATORY (2)",
+          "card": "Brindle Shoat"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "PREDATORY (3)",
+          "card": "Brindle Shoat"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "PREDATORY (4)",
+          "card": "Brindle Shoat"
+        }
+      ]
+    },
+    {
+      "name": "Boar",
+      "type_line": "Token Creature — Boar",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (1)",
+          "card": "Wolf's Quarry"
+        }
+      ]
+    },
+    {
+      "name": "Boar",
+      "type_line": "Token Creature — Boar",
+      "colors": [
+        "G"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "GRUUL CLANS 2",
+          "card": "Stampede Surfer"
+        }
+      ]
+    },
+    {
+      "name": "Butterfly",
+      "type_line": "Token Creature — Insect",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INSECTS (4)",
+          "card": "Giant Caterpillar"
+        }
+      ]
+    },
+    {
+      "name": "Cat",
+      "type_line": "Token Creature — Cat",
+      "colors": [
+        "B"
+      ],
+      "power": "2",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "CATS (2)",
+          "card": "Penumbra Bobcat"
+        }
+      ]
+    },
+    {
+      "name": "Cat",
+      "type_line": "Token Creature — Cat",
+      "colors": [
+        "W"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "ENCHANTED (2)",
+          "card": "Ajani's Chosen"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "TREE-HUGGING (3)",
+          "card": "Jolrael, Mwonvuli Recluse"
+        }
+      ]
+    },
+    {
+      "name": "Cat",
+      "type_line": "Token Creature — Cat",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "CATS (1)",
+          "card": "Regal Caracal"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "CATS (4)",
+          "card": "Leonin Warleader"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "HOLY (4)",
+          "card": "Attended Healer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "STALWART (1)",
+          "card": "Ajani, Adversary of Tyrants"
+        },
+        {
+          "set": "FDN",
+          "set_name": "Foundations Beginner Box",
+          "deck": "CATS",
+          "card": "Prideful Parent"
+        }
+      ]
+    },
+    {
+      "name": "Cat Beast",
+      "type_line": "Token Creature — Cat Beast",
+      "colors": [
+        "W"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "CATS (2)",
+          "card": "Felidar Retreat"
+        }
+      ]
+    },
+    {
+      "name": "Cat Soldier",
+      "type_line": "Token Creature — Cat Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "PRIDEFUL",
+          "card": "Brimaz, King of Oreskos"
+        }
+      ]
+    },
+    {
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "colors": [],
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "BLINK (1)",
+          "card": "Thraben Inspector"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (1)",
+          "card": "Drownyard Explorers"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (1)",
+          "card": "Floodhound"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (1)",
+          "card": "Hold for Questioning"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (1)",
+          "card": "Jace's Scrutiny"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (1)",
+          "card": "Magnifying Glass"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (1)",
+          "card": "Press for Answers"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (2)",
+          "card": "Drownyard Explorers"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (2)",
+          "card": "Floodhound"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (2)",
+          "card": "Hold for Questioning"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (2)",
+          "card": "Jace's Scrutiny"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (2)",
+          "card": "Magnifying Glass"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (2)",
+          "card": "Press for Answers"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (3)",
+          "card": "Drownyard Explorers"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (3)",
+          "card": "Floodhound"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (3)",
+          "card": "Hold for Questioning"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (3)",
+          "card": "Jace's Scrutiny"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (3)",
+          "card": "Magnifying Glass"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (3)",
+          "card": "Press for Answers"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (4)",
+          "card": "Drownyard Explorers"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (4)",
+          "card": "Erdwal Illuminator"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (4)",
+          "card": "Floodhound"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (4)",
+          "card": "Hold for Questioning"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (4)",
+          "card": "Jace's Scrutiny"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (4)",
+          "card": "Magnifying Glass"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (4)",
+          "card": "Press for Answers"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (4)",
+          "card": "Tamiyo's Journal"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "EXPLORERS (2)",
+          "card": "Byway Courier"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "EXPLORERS (2)",
+          "card": "Tireless Tracker"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "EXPLORERS (2)",
+          "card": "Ulvenwald Mysteries"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "EXPLORERS (3)",
+          "card": "Briarbridge Tracker"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "EXPLORERS (3)",
+          "card": "Byway Courier"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "EXPLORERS (3)",
+          "card": "Ulvenwald Mysteries"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "NER-DO-WELLS (1)",
+          "card": "Foul Play"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "NER-DO-WELLS (2)",
+          "card": "Foul Play"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "ADEPT (1)",
+          "card": "Forecasting Fortune Teller"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "ADEPT (2)",
+          "card": "Lost Days"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "ALLIANCE (1)",
+          "card": "Sokka's Sword Training"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "AZULA",
+          "card": "Sold Out"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BAD ADVICE",
+          "card": "Sold Out"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BOUNTY HUNTER (1)",
+          "card": "Azula, On the Hunt"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BOUNTY HUNTER (1)",
+          "card": "June, Bounty Hunter"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BOUNTY HUNTER (1)",
+          "card": "Nyla, Shirshu Sleuth"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BOUNTY HUNTER (1)",
+          "card": "Sold Out"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BOUNTY HUNTER (2)",
+          "card": "Azula, On the Hunt"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BOUNTY HUNTER (2)",
+          "card": "Callous Inspector"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BOUNTY HUNTER (2)",
+          "card": "June, Bounty Hunter"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BOUNTY HUNTER (2)",
+          "card": "Nyla, Shirshu Sleuth"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BOUNTY HUNTER (2)",
+          "card": "Obsessive Pursuit"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BOUNTY HUNTER (2)",
+          "card": "Sold Out"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "FIRE NATION",
+          "card": "Cunning Maneuver"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "FIREBENDING (1)",
+          "card": "Cunning Maneuver"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "FIREBENDING (2)",
+          "card": "Cunning Maneuver"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "HEI BAI (2)",
+          "card": "Sokka's Sword Training"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "HUNTING (1)",
+          "card": "June, Bounty Hunter"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "HUNTING (1)",
+          "card": "Messenger Hawk"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "HUNTING (1)",
+          "card": "Raven Eagle"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "HUNTING (2)",
+          "card": "June, Bounty Hunter"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "HUNTING (2)",
+          "card": "Messenger Hawk"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "HUNTING (2)",
+          "card": "Raven Eagle"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "LEARNING (1)",
+          "card": "Zuko's Exile"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "LEARNING (2)",
+          "card": "True Ancestry"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "LEARNING (2)",
+          "card": "Zuko's Exile"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "LESSONS (2)",
+          "card": "Lost Days"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "LIBRARIAN",
+          "card": "Knowledge Seeker"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "LIBRARIAN",
+          "card": "Zuko's Exile"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "MUSICIANS",
+          "card": "Cunning Maneuver"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "NIGHTMARES",
+          "card": "Azula, On the Hunt"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "OZAI",
+          "card": "Callous Inspector"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "POWERFUL (1)",
+          "card": "Fire Nation Raider"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "POWERFUL (2)",
+          "card": "Fire Nation Raider"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "REBELLING (1)",
+          "card": "Cunning Maneuver"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "REINFORCED (1)",
+          "card": "Callous Inspector"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "RELENTLESS (1)",
+          "card": "Azula, On the Hunt"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "RELENTLESS (1)",
+          "card": "Sold Out"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "RELENTLESS (2)",
+          "card": "Azula, On the Hunt"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "RELENTLESS (2)",
+          "card": "Callous Inspector"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "SIEGE ENGINES",
+          "card": "Callous Inspector"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "SIEGE ENGINES",
+          "card": "Fire Nation Warship"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "SOARING (1)",
+          "card": "Forecasting Fortune Teller"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "SOARING (1)",
+          "card": "Messenger Hawk"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "SOARING (1)",
+          "card": "The Mechanist, Aerial Artisan"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "SOARING (2)",
+          "card": "Messenger Hawk"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "SPIRIT",
+          "card": "Knowledge Seeker"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "SWORDMASTER",
+          "card": "Sokka's Sword Training"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "WARRIORS",
+          "card": "Sokka's Sword Training"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "WISE (1)",
+          "card": "Forecasting Fortune Teller"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "WISE (1)",
+          "card": "Messenger Hawk"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "WISE (2)",
+          "card": "Knowledge Seeker"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "WISE (2)",
+          "card": "Messenger Hawk"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "AZORIUS SENATE 1",
+          "card": "Lavinia, Foil to Conspiracy"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "BOROS LEGION 1",
+          "card": "Novice Inspector"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "CULT OF RAKDOS 2",
+          "card": "Carnage Interpreter"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "IZZET LEAGUE 1",
+          "card": "Resonance Technician"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "ORZHOV SYNDICATE 1",
+          "card": "Syndicate Heavy"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "SIMIC COMBINE 2",
+          "card": "Lonis, Genetics Expert"
+        }
+      ]
+    },
+    {
+      "name": "Construct",
+      "type_line": "Token Artifact Creature — Construct",
+      "colors": [
+        "R"
+      ],
+      "power": "3",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (1)",
+          "card": "Sokenzan Smelter"
+        }
+      ]
+    },
+    {
+      "name": "Copy",
+      "type_line": "Token",
+      "colors": [],
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "BLINK (1)",
+          "card": "Preston, the Vanisher"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "BLINK (3)",
+          "card": "Preston, the Vanisher"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (1)",
+          "card": "Dutiful Replicator"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (1)",
+          "card": "Mechanized Production"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (3)",
+          "card": "Dutiful Replicator"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DETECTIVE (4)",
+          "card": "Dutiful Replicator"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELVES (4)",
+          "card": "Dutiful Replicator"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "EXPERIMENTAL (1)",
+          "card": "Mizzix, Replica Rider"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "EXPERIMENTAL (2)",
+          "card": "Mizzix, Replica Rider"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INVENTIVE (4)",
+          "card": "Cogwork Assembler"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INVENTIVE (4)",
+          "card": "Dutiful Replicator"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "SPEEDY",
+          "card": "Kiki-Jiki, Mirror Breaker"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (1)",
+          "card": "Dutiful Replicator"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (2)",
+          "card": "Dutiful Replicator"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (3)",
+          "card": "Dutiful Replicator"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (4)",
+          "card": "Dutiful Replicator"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BURNING",
+          "card": "Rionya, Fire Dancer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DROWNED (2)",
+          "card": "Cackling Counterpart"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GIDDYAP",
+          "card": "Thurid, Mare of Destiny"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ZEALOTS (2)",
+          "card": "Sandstorm Crasher"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ZEALOTS (4)",
+          "card": "Sandstorm Crasher"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BAD ADVICE",
+          "card": "Joo Dee, One of Many"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "NIGHTMARES",
+          "card": "Joo Dee, One of Many"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "RELENTLESS (2)",
+          "card": "Joo Dee, One of Many"
+        },
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "CORRUPTION (1)",
+          "card": "Kinzu of the Bleak Coven"
+        },
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "CORRUPTION (2)",
+          "card": "Kinzu of the Bleak Coven"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "REINFORCEMENT 1",
+          "card": "Orthion, Hero of Lavabrink"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "REINFORCEMENT 2",
+          "card": "Orthion, Hero of Lavabrink"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "GRUUL CLANS 2",
+          "card": "Giant Adephage"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "IZZET LEAGUE 2",
+          "card": "Corporeal Projection"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "SELESNYA CONCLAVE 1",
+          "card": "Conclave Evangelist"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "SELESNYA CONCLAVE 1",
+          "card": "Sumala Rumblers"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "SELESNYA CONCLAVE 2",
+          "card": "Sumala Rumblers"
+        }
+      ]
+    },
+    {
+      "name": "Demon",
+      "type_line": "Token Creature — Demon",
+      "colors": [
+        "B"
+      ],
+      "power": "5",
+      "toughness": "5",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "REANIMATED (1)",
+          "card": "Archfiend's Vessel"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "MORBID (2)",
+          "card": "Priest of the Blood Rite"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "MORBID (2)",
+          "card": "Skirsdag High Priest"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "CLERICS (1)",
+          "card": "Archfiend's Vessel"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "CLERICS (2)",
+          "card": "Archfiend's Vessel"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "CLERICS (4)",
+          "card": "Archfiend's Vessel"
+        }
+      ]
+    },
+    {
+      "name": "Demon",
+      "type_line": "Token Creature — Demon",
+      "colors": [
+        "B"
+      ],
+      "power": "*",
+      "toughness": "*",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "FANGS (3)",
+          "card": "Tivash, Gloom Summoner"
+        }
+      ]
+    },
+    {
+      "name": "Devil",
+      "type_line": "Token Creature — Devil",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DEVILISH (1)",
+          "card": "Dance with Devils"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DEVILISH (1)",
+          "card": "Zurzoth, Chaos Rider"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DEVILISH (2)",
+          "card": "Zurzoth, Chaos Rider"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DEVILISH (3)",
+          "card": "Dance with Devils"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "FIERY (3)",
+          "card": "Dance with Devils"
+        }
+      ]
+    },
+    {
+      "name": "Dinosaur",
+      "type_line": "Token Creature — Dinosaur",
+      "colors": [
+        "G"
+      ],
+      "power": "3",
+      "toughness": "3",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DINOSAURS (2)",
+          "card": "Thundering Spineback"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DINOSAURS (3)",
+          "card": "Thundering Spineback"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DINOSAURS (1)",
+          "card": "Thundering Spineback"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DINOSAURS (2)",
+          "card": "Thundering Spineback"
+        }
+      ]
+    },
+    {
+      "name": "Dog",
+      "type_line": "Token Creature — Dog",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DOGS (1)",
+          "card": "Release the Dogs"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DOGS (2)",
+          "card": "Release the Dogs"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "LEGION (2)",
+          "card": "Release the Dogs"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "LEGION (3)",
+          "card": "Release the Dogs"
+        }
+      ]
+    },
+    {
+      "name": "Dragon",
+      "type_line": "Token Creature — Dragon",
+      "colors": [
+        "R"
+      ],
+      "power": "5",
+      "toughness": "5",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DRAGONS (2)",
+          "card": "Lathliss, Dragon Queen"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DRAGONS (2)",
+          "card": "Lathliss, Dragon Queen"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DRAGONS (1)",
+          "card": "Lathliss, Dragon Queen"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DRAGONS (2)",
+          "card": "Lathliss, Dragon Queen"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DRAGONS (2)",
+          "card": "Sarkhan, Fireblood"
+        }
+      ]
+    },
+    {
+      "name": "Dragon",
+      "type_line": "Token Creature — Dragon",
+      "colors": [
+        "R"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DRAGONS (1)",
+          "card": "Dragon Egg"
+        }
+      ]
+    },
+    {
+      "name": "Drake",
+      "type_line": "Token Creature — Drake",
+      "colors": [
+        "U"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "ABOVE THE CLOUDS (2)",
+          "card": "Talrand's Invocation"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "TEFERI",
+          "card": "Talrand's Invocation"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "WIZARDS (1)",
+          "card": "Talrand's Invocation"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "WIZARDS (1)",
+          "card": "Talrand, Sky Summoner"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "WIZARDS (2)",
+          "card": "Talrand's Invocation"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "WIZARDS (3)",
+          "card": "Talrand's Invocation"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "WIZARDS (3)",
+          "card": "Talrand, Sky Summoner"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "WIZARDS (4)",
+          "card": "Talrand's Invocation"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "THINK AGAIN (2)",
+          "card": "Alandra, Sky Dreamer"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "THINK AGAIN (3)",
+          "card": "Alandra, Sky Dreamer"
+        }
+      ]
+    },
+    {
+      "name": "Eldrazi Scion",
+      "type_line": "Token Creature — Eldrazi Scion",
+      "colors": [],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELDRAZI",
+          "card": "Blisterpod"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELDRAZI",
+          "card": "Brood Monitor"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELDRAZI",
+          "card": "Scion Summoner"
+        }
+      ]
+    },
+    {
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "CHANDRA",
+          "card": "Young Pyromancer"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "SPELLCASTING (2)",
+          "card": "Young Pyromancer"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "EXPERIMENTAL (1)",
+          "card": "Young Pyromancer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "COPIED (1)",
+          "card": "Young Pyromancer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "COPIED (2)",
+          "card": "Young Pyromancer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "STOKED (3)",
+          "card": "Young Pyromancer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "STOKED (4)",
+          "card": "Young Pyromancer"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "OVERACHIEVER 1",
+          "card": "Preening Champion"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "REINFORCEMENT 1",
+          "card": "Ral's Reinforcements"
+        }
+      ]
+    },
+    {
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "colors": [
+        "G"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "LANDS (1)",
+          "card": "Zendikar's Roil"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "LANDFALL (1)",
+          "card": "Zendikar's Roil"
+        }
+      ]
+    },
+    {
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "colors": [
+        "R"
+      ],
+      "power": "*",
+      "toughness": "*",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "EXPERIMENTAL (1)",
+          "card": "Seize the Storm"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "SELESNYA CONCLAVE 2",
+          "card": "Vernal Sovereign"
+        }
+      ]
+    },
+    {
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "colors": [
+        "R",
+        "U"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "GO TO SCHOOL (2)",
+          "card": "Multiple Choice"
+        }
+      ]
+    },
+    {
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "colors": [
+        "G"
+      ],
+      "power": "7",
+      "toughness": "7",
+      "sources": [
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ELVES (4)",
+          "card": "Voice of the Woods"
+        }
+      ]
+    },
+    {
+      "name": "Elemental Bird",
+      "type_line": "Token Creature — Elemental Bird",
+      "colors": [
+        "U"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "sources": [
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "SOARING (3)",
+          "card": "Mu Yanling, Sky Dancer"
+        }
+      ]
+    },
+    {
+      "name": "Elf Warrior",
+      "type_line": "Token Creature — Elf Warrior",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "ELVES (1)",
+          "card": "Dwynen's Elite"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "ELVES (1)",
+          "card": "Presence of Gond"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "ELVES (2)",
+          "card": "Dwynen's Elite"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "ELVES (2)",
+          "card": "Presence of Gond"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "TREE-HUGGING (1)",
+          "card": "Ambassador Oak"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "TREE-HUGGING (2)",
+          "card": "Ambassador Oak"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "TREE-HUGGING (3)",
+          "card": "Ambassador Oak"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELVES (1)",
+          "card": "Dwynen's Elite"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELVES (1)",
+          "card": "Elderleaf Mentor"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELVES (1)",
+          "card": "Elven Bow"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELVES (1)",
+          "card": "Elvish Warmaster"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELVES (2)",
+          "card": "Dwynen's Elite"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELVES (2)",
+          "card": "Elderleaf Mentor"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELVES (2)",
+          "card": "Elven Bow"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELVES (2)",
+          "card": "Imperious Perfect"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELVES (3)",
+          "card": "Dwynen's Elite"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELVES (3)",
+          "card": "Elderleaf Mentor"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELVES (3)",
+          "card": "Elven Bow"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELVES (3)",
+          "card": "Lys Alana Huntmaster"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELVES (3)",
+          "card": "Wolverine Riders"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELVES (4)",
+          "card": "Dwynen's Elite"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELVES (4)",
+          "card": "Elderleaf Mentor"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELVES (4)",
+          "card": "Elven Bow"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ELVES (4)",
+          "card": "Presence of Gond"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ELVES (2)",
+          "card": "Dwynen's Elite"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ELVES (3)",
+          "card": "Dwynen's Elite"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ELVES (4)",
+          "card": "Tyvar Kell"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "EXPLORERS (3)",
+          "card": "Ambassador Oak"
+        },
+        {
+          "set": "FDN",
+          "set_name": "Foundations Beginner Box",
+          "deck": "ELVES",
+          "card": "Dwynen's Elite"
+        }
+      ]
+    },
+    {
+      "name": "Faerie",
+      "type_line": "Token Creature — Faerie",
+      "colors": [
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "FAERIES (2)",
+          "card": "Stolen by the Fae"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "THINK AGAIN (4)",
+          "card": "Faerie Formation"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "SOARING (4)",
+          "card": "Stolen by the Fae"
+        },
+        {
+          "set": "FDN",
+          "set_name": "Foundations Beginner Box",
+          "deck": "WIZARDS",
+          "card": "Mischievous Mystic"
+        }
+      ]
+    },
+    {
+      "name": "Fish",
+      "type_line": "Token Creature — Fish",
+      "colors": [
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DROWNED (1)",
+          "card": "Expendable Lackey"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DROWNED (2)",
+          "card": "Expendable Lackey"
+        }
+      ]
+    },
+    {
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "colors": [],
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "WITCHCRAFT (1)",
+          "card": "Bake into a Pie"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "WITCHCRAFT (1)",
+          "card": "Tempting Witch"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "WITCHCRAFT (2)",
+          "card": "Bake into a Pie"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "WITCHCRAFT (2)",
+          "card": "Tempting Witch"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (1)",
+          "card": "Fierce Witchstalker"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DINNER",
+          "card": "Fierce Witchstalker"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DINNER",
+          "card": "Giant Opportunity"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DINNER",
+          "card": "Hurska Sweet-Tooth"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DINNER",
+          "card": "Orchard Strider"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DINNER",
+          "card": "Tireless Provisioner"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DINNER",
+          "card": "Tough Cookie"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DINNER",
+          "card": "Trail of Crumbs"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "EXPLORERS (1)",
+          "card": "Tireless Provisioner"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "AT THE ZOO",
+          "card": "Elephant-Mandrill"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "AZULA",
+          "card": "Canyon Crawler"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BUMI",
+          "card": "Bumi's Feast Lecture"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BUMI",
+          "card": "Creeping Crystal Coating"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "CABBAGES",
+          "card": "Bosco, Just a Bear"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "CABBAGES",
+          "card": "Bumi's Feast Lecture"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "CABBAGES",
+          "card": "Elephant-Mandrill"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "CABBAGES",
+          "card": "Leaves from the Vine"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "CABBAGES",
+          "card": "Many Partings"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "CABBAGES",
+          "card": "The Art of Tea"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "CABBAGES",
+          "card": "The Cabbage Merchant"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "CABBAGES",
+          "card": "Unlucky Cabbage Merchant"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "EARTH RUMBLE (2)",
+          "card": "Bosco, Just a Bear"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "KYOSHI",
+          "card": "Elephant-Mandrill"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "LEARNING (2)",
+          "card": "The Art of Tea"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "NIGHTMARES",
+          "card": "Canyon Crawler"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "OZAI",
+          "card": "Canyon Crawler"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "RELENTLESS (1)",
+          "card": "Canyon Crawler"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "RELENTLESS (2)",
+          "card": "Canyon Crawler"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "SIEGE ENGINES",
+          "card": "Canyon Crawler"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "COURAGEOUS 1",
+          "card": "Bill the Pony"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "COURAGEOUS 1",
+          "card": "Rosie Cotton of South Lane"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "COURAGEOUS 2",
+          "card": "Bill the Pony"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "COURAGEOUS 2",
+          "card": "Eastfarthing Farmer"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "COURAGEOUS 2",
+          "card": "Rosie Cotton of South Lane"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ELVEN 1",
+          "card": "Stew the Coneys"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ELVEN 2",
+          "card": "Revive the Shire"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ELVEN 2",
+          "card": "Stew the Coneys"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "JOURNEY 1",
+          "card": "Brandywine Farmer"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "JOURNEY 1",
+          "card": "Elanor Gardner"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "JOURNEY 1",
+          "card": "Meriadoc Brandybuck"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "JOURNEY 1",
+          "card": "Revive the Shire"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "JOURNEY 2",
+          "card": "Brandywine Farmer"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "JOURNEY 2",
+          "card": "Elanor Gardner"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "JOURNEY 2",
+          "card": "Meriadoc Brandybuck"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "JOURNEY 2",
+          "card": "Peregrin Took"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "JOURNEY 2",
+          "card": "Revive the Shire"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "JOURNEY 2",
+          "card": "Stew the Coneys"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MORDOR 1",
+          "card": "Cirith Ungol Patrol"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MORDOR 1",
+          "card": "Shelob's Ambush"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MORDOR 2",
+          "card": "Cirith Ungol Patrol"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MORTALS 1",
+          "card": "Eastfarthing Farmer"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MORTALS 1",
+          "card": "Second Breakfast"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ORCISH 2",
+          "card": "Voracious Fell Beast"
+        }
+      ]
+    },
+    {
+      "name": "Frog Lizard",
+      "type_line": "Token Creature — Frog Lizard",
+      "colors": [
+        "G"
+      ],
+      "power": "3",
+      "toughness": "3",
+      "sources": [
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "SIMIC COMBINE 1",
+          "card": "Rapid Hybridization"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "SIMIC COMBINE 2",
+          "card": "Incubation"
+        }
+      ]
+    },
+    {
+      "name": "Giant",
+      "type_line": "Token Creature — Giant",
+      "colors": [
+        "G"
+      ],
+      "power": "7",
+      "toughness": "7",
+      "sources": [
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DINNER",
+          "card": "Giant Opportunity"
+        }
+      ]
+    },
+    {
+      "name": "Goblin",
+      "type_line": "Token Creature — Goblin",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DRAGONS (1)",
+          "card": "Dragon Fodder"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DRAGONS (2)",
+          "card": "Dragon Fodder"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "GOBLINS (1)",
+          "card": "Beetleback Chief"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "GOBLINS (1)",
+          "card": "Goblin Instigator"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "GOBLINS (2)",
+          "card": "Beetleback Chief"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "GOBLINS (2)",
+          "card": "Goblin Instigator"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "GOBLINS (3)",
+          "card": "Beetleback Chief"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "GOBLINS (3)",
+          "card": "Goblin Instigator"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "GOBLINS (4)",
+          "card": "Goblin Instigator"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "GOBLINS (4)",
+          "card": "Goblin Rally"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "GOBLINS (4)",
+          "card": "Krenko, Mob Boss"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "SPELLCASTING (3)",
+          "card": "Dragon Fodder"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DRAGONS (1)",
+          "card": "Dragon Fodder"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "GOBLINS (1)",
+          "card": "Dragon Fodder"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "GOBLINS (1)",
+          "card": "Hordeling Outburst"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "GOBLINS (1)",
+          "card": "Krenko, Mob Boss"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "GOBLINS (2)",
+          "card": "Dragon Fodder"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "GOBLINS (2)",
+          "card": "Goblin Rally"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "GOBLINS (2)",
+          "card": "Ib Halfheart, Goblin Tactician"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "GOBLINS (3)",
+          "card": "Dragon Fodder"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "GOBLINS (4)",
+          "card": "Ardoz, Cobbler of War"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "GOBLINS (4)",
+          "card": "Dragon Fodder"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "GOBLINS (4)",
+          "card": "Goblin Rabblemaster"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "GOBLINS (4)",
+          "card": "Goblin Rally"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "GOBLINS (4)",
+          "card": "Hordeling Outburst"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "SPEEDY",
+          "card": "Ardoz, Cobbler of War"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "UNLUCKY THIRTEEN",
+          "card": "Sling-Gang Lieutenant"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (1)",
+          "card": "Battle Cry Goblin"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (1)",
+          "card": "General Kreat, the Boltbringer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (1)",
+          "card": "Goblin Surprise"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (1)",
+          "card": "Krenko's Command"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (2)",
+          "card": "Battle Cry Goblin"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (2)",
+          "card": "General Kreat, the Boltbringer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (2)",
+          "card": "Goblin Goliath"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (2)",
+          "card": "Goblin Surprise"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (2)",
+          "card": "Krenko's Command"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (3)",
+          "card": "Beetleback Chief"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (3)",
+          "card": "General Kreat, the Boltbringer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (3)",
+          "card": "Goblin Surprise"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (3)",
+          "card": "Krenko's Command"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (3)",
+          "card": "Krenko, Tin Street Kingpin"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (4)",
+          "card": "Battle Cry Goblin"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (4)",
+          "card": "General Kreat, the Boltbringer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (4)",
+          "card": "Goblin Rabblemaster"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (4)",
+          "card": "Goblin Surprise"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GOBLINS (4)",
+          "card": "Krenko's Command"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TOO MANY",
+          "card": "Goblin Surprise"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TOO MANY",
+          "card": "Krenko's Command"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "BOROS LEGION 2",
+          "card": "Krenko's Command"
+        },
+        {
+          "set": "FDN",
+          "set_name": "Foundations Beginner Box",
+          "deck": "GOBLINS",
+          "card": "Dragon Fodder"
+        }
+      ]
+    },
+    {
+      "name": "Goblin Wizard",
+      "type_line": "Token Creature — Goblin Wizard",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "SPELLINGCASTING (1)",
+          "card": "Goblin Wizardry"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "IZZET LEAGUE 2",
+          "card": "Goblin Wizardry"
+        }
+      ]
+    },
+    {
+      "name": "Griffin",
+      "type_line": "Token Creature — Griffin",
+      "colors": [
+        "W"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DOCTOR (1)",
+          "card": "Griffin Aerie"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DOCTOR (2)",
+          "card": "Griffin Aerie"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DOCTOR (3)",
+          "card": "Griffin Aerie"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DOCTOR (4)",
+          "card": "Griffin Aerie"
+        }
+      ]
+    },
+    {
+      "name": "Human",
+      "type_line": "Token Creature — Human",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "ANGELS (1)",
+          "card": "Voice of the Provinces"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "LEGION (1)",
+          "card": "Adeline, Resplendent Cathar"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "LEGION (2)",
+          "card": "Adeline, Resplendent Cathar"
+        }
+      ]
+    },
+    {
+      "name": "Human Soldier",
+      "type_line": "Token Creature — Human Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "EXPLORERS (2)",
+          "card": "Ulvenwald Mysteries"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "EXPLORERS (3)",
+          "card": "Ulvenwald Mysteries"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TREASURES (1)",
+          "card": "Bastion of Remembrance"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BOUNTY HUNTER (1)",
+          "card": "Bastion of Remembrance"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "BOUNTY HUNTER (2)",
+          "card": "Bastion of Remembrance"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MARAUDERS 1",
+          "card": "Quarrel's End"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MARAUDERS 2",
+          "card": "Quarrel's End"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MORTALS 1",
+          "card": "Faramir, Field Commander"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MORTALS 2",
+          "card": "Faramir, Field Commander"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "RIDERS 1",
+          "card": "Quarrel's End"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "RIDERS 1",
+          "card": "Rally at the Hornburg"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "RIDERS 1",
+          "card": "Riders of the Mark"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "RIDERS 1",
+          "card": "Éomer of the Riddermark"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "RIDERS 2",
+          "card": "Rally at the Hornburg"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "RIDERS 2",
+          "card": "Riders of the Mark"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "RIDERS 2",
+          "card": "Éomer of the Riddermark"
+        }
+      ]
+    },
+    {
+      "name": "Incubator // Phyrexian",
+      "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
+      "colors": [],
+      "sources": [
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "BROOD 1",
+          "card": "Essence of Orthodoxy"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "BROOD 1",
+          "card": "Infected Defector"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "BROOD 1",
+          "card": "Norn's Inquisitor"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "BROOD 1",
+          "card": "Sunder the Gateway"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "BROOD 1",
+          "card": "Tiller of Flesh"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "BROOD 2",
+          "card": "Essence of Orthodoxy"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "BROOD 2",
+          "card": "Infected Defector"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "BROOD 2",
+          "card": "Norn's Inquisitor"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "BROOD 2",
+          "card": "Tiller of Flesh"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "BUFF 1",
+          "card": "Converter Beast"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "BUFF 2",
+          "card": "Blighted Burgeoning"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "BUFF 2",
+          "card": "Converter Beast"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "EXPENDABLE 1",
+          "card": "Gift of Compleation"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "EXPENDABLE 1",
+          "card": "Injector Crocodile"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "EXPENDABLE 2",
+          "card": "Compleated Huntmaster"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "EXPENDABLE 2",
+          "card": "Gift of Compleation"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "EXPENDABLE 2",
+          "card": "Injector Crocodile"
+        }
+      ]
+    },
+    {
+      "name": "Insect",
+      "type_line": "Token Creature — Insect",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INSECTS (1)",
+          "card": "Crawling Sensation"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INSECTS (1)",
+          "card": "Iridescent Hornbeetle"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INSECTS (1)",
+          "card": "Swarm Shambler"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INSECTS (2)",
+          "card": "Crawling Sensation"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INSECTS (3)",
+          "card": "Crawling Sensation"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INSECTS (3)",
+          "card": "Iridescent Hornbeetle"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INSECTS (4)",
+          "card": "Crawling Sensation"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ICKY (1)",
+          "card": "Fumulus, the Infestation"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ICKY (2)",
+          "card": "Fumulus, the Infestation"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "GOLGARI SWARM 1",
+          "card": "Amzu, Swarm's Hunger"
+        }
+      ]
+    },
+    {
+      "name": "Knight",
+      "type_line": "Token Creature — Knight",
+      "colors": [
+        "W"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "BASRI",
+          "card": "Basri's Lieutenant"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "ENCHANTED (1)",
+          "card": "Knightly Valor"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "ENCHANTED (2)",
+          "card": "Knightly Valor"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "LEGION (1)",
+          "card": "Valorous Steed"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "LEGION (2)",
+          "card": "Valorous Steed"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "LEGION (3)",
+          "card": "Valorous Steed"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "LEGION (4)",
+          "card": "Valorous Steed"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "UNICORNS",
+          "card": "Valorous Steed"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "BLINK (1)",
+          "card": "Gallant Cavalry"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "BLINK (2)",
+          "card": "Valorous Steed"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "BLINK (3)",
+          "card": "Valorous Steed"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "KNIGHTS",
+          "card": "The Circle of Loyalty"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "STALWART (2)",
+          "card": "Basri's Lieutenant"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "OVERACHIEVER 2",
+          "card": "Xerex Strobe-Knight"
+        }
+      ]
+    },
+    {
+      "name": "Marit Lage",
+      "type_line": "Token Legendary Creature — Avatar",
+      "colors": [
+        "B"
+      ],
+      "power": "20",
+      "toughness": "20",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "SNOW",
+          "card": "Marit Lage's Slumber"
+        }
+      ]
+    },
+    {
+      "name": "Merfolk",
+      "type_line": "Token Creature — Merfolk",
+      "colors": [
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "MERFOLK (1)",
+          "card": "Aquatic Incursion"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "MERFOLK (4)",
+          "card": "Aquatic Incursion"
+        }
+      ]
+    },
+    {
+      "name": "Minotaur",
+      "type_line": "Token Creature — Minotaur",
+      "colors": [
+        "R"
+      ],
+      "power": "2",
+      "toughness": "3",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "MINOTAURS (1)",
+          "card": "Flurry of Horns"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "MINOTAURS (1)",
+          "card": "Sethron, Hurloon General"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "MINOTAURS (2)",
+          "card": "Flurry of Horns"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "MINOTAURS (2)",
+          "card": "Sethron, Hurloon General"
+        }
+      ]
+    },
+    {
+      "name": "Monk",
+      "type_line": "Token Creature — Monk",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "ROKU",
+          "card": "Crescent Island Temple"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "SHRINES",
+          "card": "Crescent Island Temple"
+        }
+      ]
+    },
+    {
+      "name": "Orc Army",
+      "type_line": "Token Creature — Orc Army",
+      "colors": [
+        "B"
+      ],
+      "power": "0",
+      "toughness": "0",
+      "sources": [
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MARAUDERS 1",
+          "card": "Assault on Osgiliath"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MARAUDERS 1",
+          "card": "Foray of Orcs"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MARAUDERS 1",
+          "card": "Grishnákh, Brash Instigator"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MARAUDERS 1",
+          "card": "Swarming of Moria"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MARAUDERS 2",
+          "card": "Assault on Osgiliath"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MARAUDERS 2",
+          "card": "Foray of Orcs"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MARAUDERS 2",
+          "card": "Grishnákh, Brash Instigator"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MARAUDERS 2",
+          "card": "Swarming of Moria"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MORDOR 1",
+          "card": "Gothmog, Morgul Lieutenant"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MORDOR 1",
+          "card": "Mordor Muster"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MORDOR 2",
+          "card": "Dunland Crebain"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MORDOR 2",
+          "card": "Gothmog, Morgul Lieutenant"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MORDOR 2",
+          "card": "Gríma Wormtongue"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MORDOR 2",
+          "card": "Mordor Muster"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MORDOR 2",
+          "card": "Orcish Medicine"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ORCISH 1",
+          "card": "Dunland Crebain"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ORCISH 1",
+          "card": "Easterling Vanguard"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ORCISH 1",
+          "card": "Gothmog, Morgul Lieutenant"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ORCISH 1",
+          "card": "Mordor Muster"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ORCISH 1",
+          "card": "Orcish Medicine"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ORCISH 1",
+          "card": "Warg Rider"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ORCISH 2",
+          "card": "Dunland Crebain"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ORCISH 2",
+          "card": "Easterling Vanguard"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ORCISH 2",
+          "card": "Gothmog, Morgul Lieutenant"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ORCISH 2",
+          "card": "March from the Black Gate"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ORCISH 2",
+          "card": "Mordor Muster"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ORCISH 2",
+          "card": "Warg Rider"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "RIDERS 2",
+          "card": "Book of Mazarbul"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "TRICKSY 2",
+          "card": "Saruman the White"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "TRICKSY 2",
+          "card": "Saruman's Trickery"
+        }
+      ]
+    },
+    {
+      "name": "Pegasus",
+      "type_line": "Token Creature — Pegasus",
+      "colors": [
+        "W"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "CONSTELLATION (1)",
+          "card": "Archon of Sun's Grace"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ENCHANTED (4)",
+          "card": "Archon of Sun's Grace"
+        }
+      ]
+    },
+    {
+      "name": "Phyrexian Beast",
+      "type_line": "Token Creature — Phyrexian Beast",
+      "colors": [
+        "G"
+      ],
+      "power": "3",
+      "toughness": "3",
+      "sources": [
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "TOXIC (1)",
+          "card": "Goliath Hatchery"
+        },
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "TOXIC (2)",
+          "card": "Goliath Hatchery"
+        },
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "TOXIC (2)",
+          "card": "Viral Spawning"
+        }
+      ]
+    },
+    {
+      "name": "Phyrexian Goblin",
+      "type_line": "Token Creature — Phyrexian Goblin",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "REBELLIOUS (1)",
+          "card": "Chimney Rabble"
+        }
+      ]
+    },
+    {
+      "name": "Phyrexian Mite",
+      "type_line": "Token Artifact Creature — Phyrexian Mite",
+      "colors": [],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "CORRUPTION (2)",
+          "card": "Stinging Hivemaster"
+        },
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "MITE-Y (1)",
+          "card": "Basilica Shepherd"
+        },
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "MITE-Y (1)",
+          "card": "Charge of the Mites"
+        },
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "MITE-Y (1)",
+          "card": "Infested Fleshcutter"
+        },
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "MITE-Y (1)",
+          "card": "Mite Overseer"
+        },
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "MITE-Y (2)",
+          "card": "Crawling Chorus"
+        },
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "MITE-Y (2)",
+          "card": "Mite Overseer"
+        }
+      ]
+    },
+    {
+      "name": "Phyrexian Myr",
+      "type_line": "Token Artifact Creature — Phyrexian Myr",
+      "colors": [],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "PHYREXIAN",
+          "card": "Myr Sire"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "PHYREXIAN",
+          "card": "Parasitic Implant"
+        }
+      ]
+    },
+    {
+      "name": "Pirate",
+      "type_line": "Token Creature — Pirate",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "UNDER THE SEA (1)",
+          "card": "Pursued Whale"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "UNDER THE SEA (2)",
+          "card": "Pursued Whale"
+        }
+      ]
+    },
+    {
+      "name": "Plant",
+      "type_line": "Token Creature — Plant",
+      "colors": [
+        "G"
+      ],
+      "power": "0",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "LANDFALL (2)",
+          "card": "Avenger of Zendikar"
+        }
+      ]
+    },
+    {
+      "name": "Powerstone",
+      "type_line": "Token Artifact — Powerstone",
+      "colors": [],
+      "sources": [
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "INFANTRY (1)",
+          "card": "Static Net"
+        },
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "INFANTRY (2)",
+          "card": "Static Net"
+        },
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "POWERSTONES (1)",
+          "card": "Geology Enthusiast"
+        },
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "POWERSTONES (1)",
+          "card": "Koilos Roc"
+        },
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "POWERSTONES (1)",
+          "card": "Stern Lesson"
+        },
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "POWERSTONES (1)",
+          "card": "Urza, Powerstone Prodigy"
+        },
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "POWERSTONES (2)",
+          "card": "Geology Enthusiast"
+        },
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "POWERSTONES (2)",
+          "card": "Koilos Roc"
+        },
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "POWERSTONES (2)",
+          "card": "Stern Lesson"
+        },
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "POWERSTONES (2)",
+          "card": "Urza, Powerstone Prodigy"
+        },
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "TITANIC (1)",
+          "card": "Argothian Opportunist"
+        },
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "WELDED (1)",
+          "card": "Horned Stoneseeker"
+        },
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "WELDED (2)",
+          "card": "Excavation Explosion"
+        },
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "WELDED (2)",
+          "card": "Horned Stoneseeker"
+        }
+      ]
+    },
+    {
+      "name": "Ragavan",
+      "type_line": "Token Legendary Creature — Monkey",
+      "colors": [
+        "R"
+      ],
+      "power": "2",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "RAID (1)",
+          "card": "Kari Zev, Skyship Raider"
+        }
+      ]
+    },
+    {
+      "name": "Rat",
+      "type_line": "Token Creature — Rat",
+      "colors": [
+        "B"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "SPOOKY (3)",
+          "card": "Ogre Slumlord"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "CYCLING (2)",
+          "card": "Mad Ratter"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "RATS",
+          "card": "Ogre Slumlord"
+        }
+      ]
+    },
+    {
+      "name": "Rebel",
+      "type_line": "Token Creature — Rebel",
+      "colors": [
+        "R"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ARMED (1)",
+          "card": "Mirran Bardiche"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ARMED (2)",
+          "card": "Hexgold Hoverwings"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ARMED (2)",
+          "card": "Mirran Bardiche"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ARMED (3)",
+          "card": "Mirran Bardiche"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ARMED (4)",
+          "card": "Mirran Bardiche"
+        },
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "REBELLIOUS (1)",
+          "card": "Barbed Batterfist"
+        },
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "REBELLIOUS (1)",
+          "card": "Hexgold Halberd"
+        },
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "REBELLIOUS (1)",
+          "card": "Vulshok Splitter"
+        },
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "REBELLIOUS (2)",
+          "card": "Barbed Batterfist"
+        },
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "REBELLIOUS (2)",
+          "card": "Hexgold Halberd"
+        },
+        {
+          "set": "ONE",
+          "set_name": "Phyrexia: All Will Be One",
+          "deck": "REBELLIOUS (2)",
+          "card": "Vulshok Splitter"
+        }
+      ]
+    },
+    {
+      "name": "Saproling",
+      "type_line": "Token Creature — Saproling",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "LANDS (2)",
+          "card": "Sporemound"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "PREDATORY (1)",
+          "card": "Fungal Rebirth"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "PREDATORY (2)",
+          "card": "Fungal Rebirth"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "PREDATORY (3)",
+          "card": "Fungal Rebirth"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "PREDATORY (4)",
+          "card": "Fungal Rebirth"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "TREE-HUGGING (4)",
+          "card": "Verdant Embrace"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "GROSS (2)",
+          "card": "Deathbloom Thallid"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "GROSS (2)",
+          "card": "Fungal Infection"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DINNER",
+          "card": "Saurian Symbiote"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DINOSAURS (1)",
+          "card": "Saurian Symbiote"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DINOSAURS (2)",
+          "card": "Saurian Symbiote"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ENCOUNTER (2)",
+          "card": "Saurian Symbiote"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ENCOUNTER (3)",
+          "card": "Saurian Symbiote"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "FUN GUYS (1)",
+          "card": "Fungal Plots"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "FUN GUYS (1)",
+          "card": "Saproling Migration"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "FUN GUYS (1)",
+          "card": "Saurian Symbiote"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "FUN GUYS (1)",
+          "card": "Shroofus Sproutsire"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "FUN GUYS (1)",
+          "card": "Spore Swarm"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "FUN GUYS (1)",
+          "card": "Tukatongue Thallid"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "FUN GUYS (2)",
+          "card": "Fungal Plots"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "FUN GUYS (2)",
+          "card": "Saproling Migration"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "FUN GUYS (2)",
+          "card": "Saurian Symbiote"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "FUN GUYS (2)",
+          "card": "Shroofus Sproutsire"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "FUN GUYS (2)",
+          "card": "Spore Swarm"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "FUN GUYS (2)",
+          "card": "Undercellar Myconid"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "FUN GUYS (2)",
+          "card": "Verdeloth the Ancient"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "LANDFALL (4)",
+          "card": "Sporemound"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "MODIFIED",
+          "card": "Saurian Symbiote"
+        },
+        {
+          "set": "DMU",
+          "set_name": "Dominaria United",
+          "deck": "MONSTER TERRITORY",
+          "card": "The Weatherseed Treaty"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "GOLGARI SWARM 1",
+          "card": "Tribune of Rot"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "GOLGARI SWARM 2",
+          "card": "Fungal Rebirth"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "GOLGARI SWARM 2",
+          "card": "Tribune of Rot"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "SELESNYA CONCLAVE 1",
+          "card": "Selesnya Guildmage"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "SELESNYA CONCLAVE 2",
+          "card": "Selesnya Guildmage"
+        }
+      ]
+    },
+    {
+      "name": "Snake",
+      "type_line": "Token Creature — Snake",
+      "colors": [
+        "B"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "GROSS (4)",
+          "card": "Ophiomancer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "SNAKES",
+          "card": "Aphelia, Viper Whisperer"
+        }
+      ]
+    },
+    {
+      "name": "Soldier",
+      "type_line": "Token Artifact Creature — Soldier",
+      "colors": [],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "INFANTRY (2)",
+          "card": "Scrapwork Cohort"
+        },
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "WELDED (2)",
+          "card": "Mishra's Onslaught"
+        }
+      ]
+    },
+    {
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "BASRI",
+          "card": "Basri Ket"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DOCTOR (2)",
+          "card": "Secure the Scene"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DOGS (1)",
+          "card": "Secure the Scene"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DOGS (2)",
+          "card": "Secure the Scene"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "HEAVILY ARMORED (1)",
+          "card": "Secure the Scene"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "HEAVILY ARMORED (2)",
+          "card": "Secure the Scene"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "LEGION (1)",
+          "card": "Raise the Alarm"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "LEGION (2)",
+          "card": "Raise the Alarm"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "LEGION (3)",
+          "card": "Raise the Alarm"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "LEGION (4)",
+          "card": "Lena, Selfless Champion"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "LEGION (4)",
+          "card": "Raise the Alarm"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "RAINBOW",
+          "card": "Ironroot Warlord"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "HOLY (3)",
+          "card": "Dawn of Hope"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "LAW (2)",
+          "card": "Decree of Justice"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "LAW (4)",
+          "card": "Murder Investigation"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ARMED (1)",
+          "card": "Ancestral Blade"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ARMED (2)",
+          "card": "Ancestral Blade"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ARMED (3)",
+          "card": "Ancestral Blade"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ARMED (4)",
+          "card": "Ancestral Blade"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "LEGION (1)",
+          "card": "Ancestral Blade"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "LEGION (1)",
+          "card": "Raise the Alarm"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "LEGION (2)",
+          "card": "Ancestral Blade"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "LEGION (2)",
+          "card": "Memorial to Glory"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "LEGION (2)",
+          "card": "Raise the Alarm"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "STOKED (1)",
+          "card": "Frontline Heroism"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "STOKED (3)",
+          "card": "Akroan Crusader"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "STOKED (3)",
+          "card": "Frontline Heroism"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "STOKED (4)",
+          "card": "Akroan Crusader"
+        },
+        {
+          "set": "DMU",
+          "set_name": "Dominaria United",
+          "deck": "COALITION CORPS",
+          "card": "Argivian Cavalier"
+        },
+        {
+          "set": "DMU",
+          "set_name": "Dominaria United",
+          "deck": "COALITION CORPS",
+          "card": "Captain's Call"
+        },
+        {
+          "set": "DMU",
+          "set_name": "Dominaria United",
+          "deck": "COALITION CORPS",
+          "card": "Resolute Reinforcements"
+        },
+        {
+          "set": "DMU",
+          "set_name": "Dominaria United",
+          "deck": "COALITION LEGION",
+          "card": "Argivian Cavalier"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "SELESNYA CONCLAVE 1",
+          "card": "Trostani Discordant"
+        }
+      ]
+    },
+    {
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "colors": [
+        "R"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "FIRE NATION",
+          "card": "Fire Nation Attacks"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "FIREBENDING (1)",
+          "card": "Firebender Ascension"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "FIREBENDING (2)",
+          "card": "Fire Nation Attacks"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "REBELLING (1)",
+          "card": "Fire Nation Attacks"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "RELENTLESS (1)",
+          "card": "Fire Nation Occupation"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "RELENTLESS (2)",
+          "card": "Fire Nation Occupation"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "ZUKO",
+          "card": "Fire Nation Attacks"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "BOROS LEGION 1",
+          "card": "Finale of Glory"
+        },
+        {
+          "set": "TLB",
+          "set_name": "Avatar TLA Beginner Box",
+          "deck": "FIREBENDING",
+          "card": "Fire Nation Archers"
+        },
+        {
+          "set": "TLB",
+          "set_name": "Avatar TLA Beginner Box",
+          "deck": "ZUKO TUTORIAL",
+          "card": "Zuko, Avatar Hunter"
+        }
+      ]
+    },
+    {
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "SPIRITS (1)",
+          "card": "Blessed Defiance"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "SPIRITS (1)",
+          "card": "Doomed Traveler"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "SPIRITS (1)",
+          "card": "Mausoleum Guard"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "SPIRITS (1)",
+          "card": "Not Forgotten"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "SPIRITS (2)",
+          "card": "Blessed Defiance"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "SPIRITS (2)",
+          "card": "Doomed Traveler"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "SPIRITS (2)",
+          "card": "Mausoleum Guard"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "SPIRITS (2)",
+          "card": "Triplicate Spirits"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "LEGION (2)",
+          "card": "Triplicate Spirits"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "STALWART (1)",
+          "card": "Sandsteppe Outcast"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "STALWART (2)",
+          "card": "Sandsteppe Outcast"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "STALWART (3)",
+          "card": "Sandsteppe Outcast"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "STALWART (4)",
+          "card": "Sandsteppe Outcast"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "ADAPTIVE",
+          "card": "Lost in the Spirit World"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "LIBRARIAN",
+          "card": "Lost in the Spirit World"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "LIBRARIAN",
+          "card": "Wan Shi Tong, All-Knowing"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "SHRINES",
+          "card": "Hei Bai, Forest Guardian"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "SPIRIT",
+          "card": "Baboon Spirit"
+        },
+        {
+          "set": "TLA",
+          "set_name": "Avatar: The Last Airbender",
+          "deck": "SPIRIT",
+          "card": "Lost in the Spirit World"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "ORZHOV SYNDICATE 1",
+          "card": "Afterlife Insurance"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "ORZHOV SYNDICATE 1",
+          "card": "Syndicate Messenger"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "ORZHOV SYNDICATE 2",
+          "card": "Afterlife Insurance"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "ORZHOV SYNDICATE 2",
+          "card": "Orzhov Racketeers"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "ORZHOV SYNDICATE 2",
+          "card": "Seraph of the Scales"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "SELESNYA CONCLAVE 1",
+          "card": "Doomed Traveler"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "SELESNYA CONCLAVE 2",
+          "card": "Transluminant"
+        },
+        {
+          "set": "TLB",
+          "set_name": "Avatar TLA Beginner Box",
+          "deck": "SPELLS",
+          "card": "Lost in the Spirit World"
+        }
+      ]
+    },
+    {
+      "name": "Tentacle",
+      "type_line": "Token Creature — Tentacle",
+      "colors": [
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BOOKWORMS (4)",
+          "card": "Nadir Kraken"
+        }
+      ]
+    },
+    {
+      "name": "Thopter",
+      "type_line": "Token Artifact Creature — Thopter",
+      "colors": [
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "ARCHAEOLOGY (3)",
+          "card": "Sharding Sphinx"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INVENTIVE (1)",
+          "card": "Aviation Pioneer"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INVENTIVE (1)",
+          "card": "Launch Mishap"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INVENTIVE (1)",
+          "card": "Tezzeret, Artifice Master"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INVENTIVE (1)",
+          "card": "Whirler Rogue"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INVENTIVE (2)",
+          "card": "Aviation Pioneer"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INVENTIVE (2)",
+          "card": "Hangarback Walker"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INVENTIVE (2)",
+          "card": "Launch Mishap"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INVENTIVE (2)",
+          "card": "Whirler Rogue"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INVENTIVE (3)",
+          "card": "Aviation Pioneer"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INVENTIVE (3)",
+          "card": "Launch Mishap"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INVENTIVE (3)",
+          "card": "Thopter Spy Network"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INVENTIVE (3)",
+          "card": "Whirler Rogue"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INVENTIVE (3)",
+          "card": "Whirlermaker"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INVENTIVE (4)",
+          "card": "Aviation Pioneer"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INVENTIVE (4)",
+          "card": "Launch Mishap"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "INVENTIVE (4)",
+          "card": "Whirler Rogue"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BOOKWORMS (3)",
+          "card": "Thopter Mechanic"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "INVENTIVE (1)",
+          "card": "Experimental Aviator"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "INVENTIVE (1)",
+          "card": "Sai, Master Thopterist"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "INVENTIVE (1)",
+          "card": "Whirlermaker"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "INVENTIVE (2)",
+          "card": "Experimental Aviator"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "INVENTIVE (2)",
+          "card": "Sai, Master Thopterist"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "INVENTIVE (3)",
+          "card": "Experimental Aviator"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "INVENTIVE (4)",
+          "card": "Experimental Aviator"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "SOARING (3)",
+          "card": "Thopter Mechanic"
+        },
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "POWERSTONES (1)",
+          "card": "Thopter Mechanic"
+        },
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "POWERSTONES (2)",
+          "card": "Thopter Mechanic"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "AZORIUS SENATE 2",
+          "card": "Depose"
+        }
+      ]
+    },
+    {
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "colors": [],
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DRAGONS (1)",
+          "card": "Rapacious Dragon"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DRAGONS (2)",
+          "card": "Gadrak, the Crown-Scourge"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DRAGONS (2)",
+          "card": "Rapacious Dragon"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "PIRATES (1)",
+          "card": "Corsair Captain"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "PIRATES (1)",
+          "card": "Prosperous Pirates"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "PIRATES (1)",
+          "card": "Sailor of Means"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "PIRATES (2)",
+          "card": "Corsair Captain"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "PIRATES (2)",
+          "card": "Prosperous Pirates"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "PIRATES (2)",
+          "card": "Sailor of Means"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (1)",
+          "card": "Brazen Freebooter"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (1)",
+          "card": "Captain Lannery Storm"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (1)",
+          "card": "Goldvein Pick"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (1)",
+          "card": "Rapacious Dragon"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (1)",
+          "card": "Sudden Breakthrough"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (1)",
+          "card": "Trove of Temptation"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (2)",
+          "card": "Brazen Freebooter"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (2)",
+          "card": "Goldvein Pick"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (2)",
+          "card": "Improvised Weaponry"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (2)",
+          "card": "Professional Face-Breaker"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (2)",
+          "card": "Rapacious Dragon"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (3)",
+          "card": "Big Score"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (3)",
+          "card": "Brazen Freebooter"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (3)",
+          "card": "Goldspan Dragon"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (3)",
+          "card": "Goldvein Pick"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (3)",
+          "card": "Rapacious Dragon"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (3)",
+          "card": "Vault Robber"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (4)",
+          "card": "Brazen Freebooter"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (4)",
+          "card": "Gadrak, the Crown-Scourge"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (4)",
+          "card": "Gleaming Barrier"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (4)",
+          "card": "Goldvein Pick"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (4)",
+          "card": "Improvised Weaponry"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (4)",
+          "card": "Rapacious Dragon"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "TREASURE (4)",
+          "card": "Trove of Temptation"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "BLOODY (3)",
+          "card": "Scion of Opulence"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DINNER",
+          "card": "Tireless Provisioner"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DRAGONS (1)",
+          "card": "Rapacious Dragon"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DRAGONS (1)",
+          "card": "Seize the Spoils"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "DRAGONS (2)",
+          "card": "Seize the Spoils"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "EXPLORERS (1)",
+          "card": "Tireless Provisioner"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GHASTLY (3)",
+          "card": "Deadly Dispute"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GHASTLY (4)",
+          "card": "Deadly Dispute"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GHASTLY (4)",
+          "card": "Shambling Ghast"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GRAVE ROBBERS (2)",
+          "card": "Fake Your Own Death"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "NER-DO-WELLS (1)",
+          "card": "Fake Your Own Death"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "NER-DO-WELLS (1)",
+          "card": "Rev, Tithe Extractor"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "NER-DO-WELLS (1)",
+          "card": "Thieves' Tools"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "NER-DO-WELLS (2)",
+          "card": "Fake Your Own Death"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "NER-DO-WELLS (2)",
+          "card": "Grim Bounty"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "NER-DO-WELLS (2)",
+          "card": "Rev, Tithe Extractor"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "NER-DO-WELLS (2)",
+          "card": "Thieves' Tools"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "NINJAS",
+          "card": "Prosperous Thief"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TREASURES (1)",
+          "card": "Deadly Dispute"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TREASURES (1)",
+          "card": "Dire Fleet Hoarder"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TREASURES (1)",
+          "card": "Fake Your Own Death"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TREASURES (1)",
+          "card": "Grim Bounty"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TREASURES (1)",
+          "card": "Pitiless Plunderer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TREASURES (1)",
+          "card": "Ruthless Knave"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TREASURES (1)",
+          "card": "Ruthless Technomancer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TREASURES (1)",
+          "card": "Shambling Ghast"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TREASURES (1)",
+          "card": "Undercity Scrounger"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TREASURES (2)",
+          "card": "Contract Killing"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TREASURES (2)",
+          "card": "Deadly Dispute"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TREASURES (2)",
+          "card": "Dire Fleet Hoarder"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TREASURES (2)",
+          "card": "Fake Your Own Death"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TREASURES (2)",
+          "card": "Pitiless Plunderer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TREASURES (2)",
+          "card": "Ruthless Knave"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TREASURES (2)",
+          "card": "Shambling Ghast"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "TREASURES (2)",
+          "card": "Undercity Scrounger"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "EXPENDABLE 1",
+          "card": "Deadly Derision"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "EXPENDABLE 2",
+          "card": "Deadly Derision"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "REINFORCEMENT 1",
+          "card": "Axgard Artisan"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "REINFORCEMENT 2",
+          "card": "Axgard Artisan"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "CUNNING 2",
+          "card": "Bill Ferny, Bree Swindler"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MARAUDERS 1",
+          "card": "Swarming of Moria"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "MARAUDERS 2",
+          "card": "Swarming of Moria"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ORCISH 1",
+          "card": "Gorbag of Minas Morgul"
+        },
+        {
+          "set": "LTR",
+          "set_name": "The Lord of the Rings",
+          "deck": "ORCISH 2",
+          "card": "Gorbag of Minas Morgul"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "BOROS LEGION 2",
+          "card": "Shiny Impetus"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "CULT OF RAKDOS 1",
+          "card": "Deadly Dispute"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "GRUUL CLANS 1",
+          "card": "Shiny Impetus"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "ORZHOV SYNDICATE 2",
+          "card": "Covetous Elegy"
+        },
+        {
+          "set": "FDN",
+          "set_name": "Foundations Beginner Box",
+          "deck": "INFERNO",
+          "card": "Rapacious Dragon"
+        },
+        {
+          "set": "FDN",
+          "set_name": "Foundations Beginner Box",
+          "deck": "INFERNO",
+          "card": "Seize the Spoils"
+        },
+        {
+          "set": "FDN",
+          "set_name": "Foundations Beginner Box",
+          "deck": "PIRATES",
+          "card": "Corsair Captain"
+        }
+      ]
+    },
+    {
+      "name": "Vampire",
+      "type_line": "Token Creature — Vampire",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "STALWART (3)",
+          "card": "Paladin of the Bloodstained"
+        }
+      ]
+    },
+    {
+      "name": "Warrior",
+      "type_line": "Token Creature — Warrior",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ENCHANTED (2)",
+          "card": "Cartouche of Solidarity"
+        }
+      ]
+    },
+    {
+      "name": "Wizard",
+      "type_line": "Token Creature — Wizard",
+      "colors": [
+        "U"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "GO TO SCHOOL (1)",
+          "card": "Kasmina, Enigmatic Mentor"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "GO TO SCHOOL (2)",
+          "card": "Kasmina, Enigmatic Mentor"
+        }
+      ]
+    },
+    {
+      "name": "Wolf",
+      "type_line": "Token Creature — Wolf",
+      "colors": [
+        "G"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (1)",
+          "card": "Arlinn, Voice of the Pack"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (1)",
+          "card": "Ferocious Pup"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (1)",
+          "card": "Wolfkin Bond"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (1)",
+          "card": "Wolfwillow Haven"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (2)",
+          "card": "Arlinn, Voice of the Pack"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (2)",
+          "card": "Ferocious Pup"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (2)",
+          "card": "Master of the Wild Hunt"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (3)",
+          "card": "Arlinn, Voice of the Pack"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (3)",
+          "card": "Feed the Pack"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (3)",
+          "card": "Ferocious Pup"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (3)",
+          "card": "Kessig Cagebreakers"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (3)",
+          "card": "Predator's Howl"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (3)",
+          "card": "Wolfwillow Haven"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (4)",
+          "card": "Arlinn, Voice of the Pack"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (4)",
+          "card": "Ferocious Pup"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (4)",
+          "card": "Nightpack Ambusher"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "WOLVES (4)",
+          "card": "Wolfwillow Haven"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "EXPLORERS (3)",
+          "card": "Somberwald Beastmaster"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "MODIFIED",
+          "card": "Wolfrider's Saddle"
+        }
+      ]
+    },
+    {
+      "name": "Worm",
+      "type_line": "Token Creature — Worm",
+      "colors": [
+        "B",
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GHASTLY (3)",
+          "card": "Wriggling Grub"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ICKY (1)",
+          "card": "Wriggling Grub"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "ICKY (2)",
+          "card": "Wriggling Grub"
+        }
+      ]
+    },
+    {
+      "name": "Zombie",
+      "type_line": "Token Artifact Creature — Zombie",
+      "colors": [],
+      "power": "3",
+      "toughness": "3",
+      "sources": [
+        {
+          "set": "BRO",
+          "set_name": "The Brothers' War",
+          "deck": "UNEARTHED (2)",
+          "card": "Transmogrant Altar"
+        }
+      ]
+    },
+    {
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "colors": [
+        "B"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "DISCARDING (2)",
+          "card": "Liliana's Reaver"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "LILIANA",
+          "card": "Liliana's Devotee"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "MINIONS (1)",
+          "card": "Ghoulcaller's Accomplice"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "MINIONS (2)",
+          "card": "Ghoulcaller's Accomplice"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "MINIONS (3)",
+          "card": "Ghoulcaller's Accomplice"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "MINIONS (3)",
+          "card": "Liliana's Devotee"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "MINIONS (4)",
+          "card": "Ghoulcaller Gisa"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "MINIONS (4)",
+          "card": "Ghoulcaller's Accomplice"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "MINIONS (4)",
+          "card": "Liliana's Devotee"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "REANIMATED (3)",
+          "card": "Zombie Infestation"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "SPOOKY (3)",
+          "card": "Liliana's Devotee"
+        },
+        {
+          "set": "JMP",
+          "set_name": "JumpStart 2020",
+          "deck": "SPOOKY (4)",
+          "card": "Liliana's Devotee"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "BONEYARD (1)",
+          "card": "Suspicious Shambler"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "BONEYARD (2)",
+          "card": "Suspicious Shambler"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "DEMONS (2)",
+          "card": "Doomed Dissenter"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "MORBID (1)",
+          "card": "Suspicious Shambler"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "MORBID (1)",
+          "card": "Wakedancer"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "MORBID (2)",
+          "card": "Suspicious Shambler"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "MORBID (2)",
+          "card": "Wakedancer"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ZOMBIES (1)",
+          "card": "Maalfeld Twins"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ZOMBIES (1)",
+          "card": "Necromancer's Stockpile"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ZOMBIES (1)",
+          "card": "Suspicious Shambler"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ZOMBIES (2)",
+          "card": "Liliana, Death's Majesty"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ZOMBIES (2)",
+          "card": "Maalfeld Twins"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ZOMBIES (2)",
+          "card": "Suspicious Shambler"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ZOMBIES (3)",
+          "card": "Endless Ranks of the Dead"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ZOMBIES (3)",
+          "card": "Graf Harvest"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ZOMBIES (3)",
+          "card": "Maalfeld Twins"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ZOMBIES (3)",
+          "card": "Suspicious Shambler"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ZOMBIES (4)",
+          "card": "Cellar Door"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ZOMBIES (4)",
+          "card": "Liliana's Mastery"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ZOMBIES (4)",
+          "card": "Maalfeld Twins"
+        },
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "ZOMBIES (4)",
+          "card": "Suspicious Shambler"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GHASTLY (1)",
+          "card": "Doomed Dissenter"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GHASTLY (1)",
+          "card": "Moan of the Unhallowed"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GHASTLY (1)",
+          "card": "Wakedancer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GHASTLY (2)",
+          "card": "Doomed Dissenter"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GHASTLY (2)",
+          "card": "Moan of the Unhallowed"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GHASTLY (3)",
+          "card": "Boneclad Necromancer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GHASTLY (4)",
+          "card": "Army of the Damned"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GHASTLY (4)",
+          "card": "Doomed Dissenter"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GHASTLY (4)",
+          "card": "Moan of the Unhallowed"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GHASTLY (4)",
+          "card": "Wakedancer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GRAVE ROBBERS (3)",
+          "card": "Boneclad Necromancer"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "GRAVE ROBBERS (4)",
+          "card": "Liliana, Death's Majesty"
+        },
+        {
+          "set": "FDN",
+          "set_name": "Foundations Beginner Box",
+          "deck": "UNDEAD",
+          "card": "Maalfeld Twins"
+        },
+        {
+          "set": "FDN",
+          "set_name": "Foundations Beginner Box",
+          "deck": "UNDEAD",
+          "card": "Suspicious Shambler"
+        }
+      ]
+    }
+  ]
+}
