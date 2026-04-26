@@ -62,6 +62,176 @@ DECK NAME
 2 Plains
 ```
 
+## JSON & Token Data Pipeline
+
+After the `.txt` deck lists are formatted, run these scripts to generate structured JSON files and a consolidated token reference.
+
+### Full Pipeline (run in order)
+
+```bash
+cd etc/parsing-scripts
+
+# 1. Backfill token data for any cards missing it in the cache
+python add_token_data.py
+
+# 2. Backfill keywords/oracle_id for tokens that were cached before those fields existed
+python update_token_keywords.py
+
+# 3. Generate individual deck JSON files from the .txt files + cache
+python generate_json_decks.py ../JMP/ ../J22/ ../J25/ ../TLA/ ../ONE/ ../DMU/ ../BRO/ ../MOM/ ../LTR/ ../CLU/ ../FDN/ ../TLB/
+
+# 4. Generate the master combined JSON (all decks + card index)
+python generate_combined_json.py
+
+# 5. Generate the consolidated token index
+python generate_token_index.py
+```
+
+**When to re-run:** Any time you update the card cache (new set, new token backfill), re-run steps 3–5. If token data or keywords changed in the cache, re-run all 5 steps.
+
+### `generate_token_index.py`
+Scans all deck JSON files and builds a consolidated token reference.
+
+**Usage:**
+```bash
+python generate_token_index.py
+```
+
+No arguments needed. Output is written to `etc/jumpstart-token-index.json`.
+
+**What it does:**
+- Reads every `tokens` array from every card in every deck JSON across all 12 sets
+- Deduplicates tokens by `oracle_id` (fallback: `name + type_line + power/toughness`)
+- Records which set, deck, and card produces each token
+- Sorts tokens alphabetically; sources sorted by set order, then deck, then card
+
+**Output structure:**
+```json
+{
+  "metadata": { "total_tokens": 101, "total_source_refs": 921, ... },
+  "tokens": [
+    {
+      "name": "Angel",
+      "type_line": "Token Creature — Angel",
+      "colors": ["W"],
+      "power": "4",
+      "toughness": "4",
+      "keywords": ["Flying"],
+      "oracle_id": "...",
+      "sources": [
+        { "set": "JMP", "set_name": "JumpStart 2020", "deck": "ANGELS (1)", "card": "Serra Angel" },
+        ...
+      ]
+    }
+  ]
+}
+```
+
+### `generate_json_decks.py`
+Generates individual `{deck}.json` files from each `{deck}.txt` using card data from the cache.
+
+**Usage:**
+```bash
+python generate_json_decks.py <set_dir>... [--dry-run]
+```
+
+**Examples:**
+```bash
+# Single set
+python generate_json_decks.py ../TLA/
+
+# All sets at once
+python generate_json_decks.py ../JMP/ ../J22/ ../J25/ ../TLA/ ../ONE/ ../DMU/ ../BRO/ ../MOM/ ../LTR/ ../CLU/ ../FDN/ ../TLB/
+
+# Preview without writing
+python generate_json_decks.py ../J25/ --dry-run
+```
+
+Each output JSON includes `deck_name`, `set`, a top-level `tokens` array (deduplicated), and a `cards` array with full card data (type, mana cost, colors, P/T, tokens produced, etc.).
+
+### `generate_combined_json.py`
+Generates `etc/jumpstart-decks-combined.json` — a single file with all decks and a card → deck index.
+
+**Usage:**
+```bash
+python generate_combined_json.py
+```
+
+No arguments. Reads all deck JSONs from all 12 set directories and writes the combined file.
+
+### `add_token_data.py`
+Backfills token data into `card_type_cache.json` for cards that don't yet have a `tokens` key.
+
+**Usage:**
+```bash
+python add_token_data.py [options]
+
+Options:
+  --delay MS    Milliseconds between Scryfall API calls (default: 250)
+  --dry-run     Show what would change without writing
+  --limit N     Only process first N uncached cards (for testing)
+  --verbose     Print every card, not just those with tokens
+```
+
+Cards with `skip_reason` in the cache (placeholders, parse artifacts) are skipped automatically.
+
+### `update_token_keywords.py`
+Backfills `keywords` and `oracle_id` into token objects for cards that were cached before those fields were added.
+
+**Usage:**
+```bash
+python update_token_keywords.py [options]
+
+Options:
+  --delay MS    Milliseconds between Scryfall API calls (default: 250)
+  --dry-run     Show what would change without writing
+  --limit N     Only process first N cards (for testing)
+  --verbose     Print every card processed
+```
+
+Safe to re-run — skips cards whose tokens already have `keywords`.
+
+### Starting from Scratch / Repopulating the Cache
+
+If `card_type_cache.json` is lost or you need to rebuild it from the existing `.txt` deck lists:
+
+```bash
+cd etc/parsing-scripts
+
+# 1. Format all sets — this queries Scryfall for every unique card and rebuilds the cache
+#    (~2,500 unique cards; at 250ms/call expect ~10-15 min)
+python batch_reformat.py \
+  ../JMP/ ../J22/ ../J25/ ../TLA/ \
+  ../ONE/ ../DMU/ ../BRO/ ../MOM/ \
+  ../LTR/ ../CLU/ ../FDN/ ../TLB/ \
+  --load-cache --save-cache
+
+# 2. Backfill token data (which cards produce which tokens)
+python add_token_data.py
+
+# 3. Backfill keywords and oracle_id into token objects
+python update_token_keywords.py
+
+# 4. Regenerate all deck JSON files
+python generate_json_decks.py \
+  ../JMP/ ../J22/ ../J25/ ../TLA/ \
+  ../ONE/ ../DMU/ ../BRO/ ../MOM/ \
+  ../LTR/ ../CLU/ ../FDN/ ../TLB/
+
+# 5. Regenerate combined JSON
+python generate_combined_json.py
+
+# 6. Regenerate token index
+python generate_token_index.py
+```
+
+**Tips:**
+- `batch_reformat.py` uses `--load-cache` + `--save-cache` together so it picks up any partial cache and saves incrementally as it goes.
+- `add_token_data.py` and `update_token_keywords.py` both save every 25 cards, so interrupted runs can be safely resumed.
+- The `--delay` flag on all API scripts defaults to 250ms. Lower it (`--delay 100`) if Scryfall is responsive; raise it (`--delay 500`) if you're seeing errors.
+
+---
+
 ## Core Scripts (Essential)
 
 ### `compare_variants.py` — Spreadsheet Checklists
