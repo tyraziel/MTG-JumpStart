@@ -5,12 +5,18 @@
     {
       "name": "Incubator // Phyrexian",
       "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
-      "colors": []
+      "colors": [],
+      "keywords": [
+        "Transform"
+      ],
+      "oracle_id": "dd3bf75e-9ef0-4ded-9b65-1a60a78a6253"
     },
     {
       "name": "Treasure",
       "type_line": "Token Artifact — Treasure",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
     }
   ],
   "cards": [
@@ -31,7 +37,11 @@
         {
           "name": "Incubator // Phyrexian",
           "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
-          "colors": []
+          "colors": [],
+          "keywords": [
+            "Transform"
+          ],
+          "oracle_id": "dd3bf75e-9ef0-4ded-9b65-1a60a78a6253"
         }
       ]
     },
@@ -158,7 +168,9 @@
         {
           "name": "Treasure",
           "type_line": "Token Artifact — Treasure",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
         }
       ]
     },
@@ -177,7 +189,11 @@
         {
           "name": "Incubator // Phyrexian",
           "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
-          "colors": []
+          "colors": [],
+          "keywords": [
+            "Transform"
+          ],
+          "oracle_id": "dd3bf75e-9ef0-4ded-9b65-1a60a78a6253"
         }
       ]
     },

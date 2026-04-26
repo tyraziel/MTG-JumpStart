@@ -7,7 +7,11 @@
       "type_line": "Token Artifact Creature — Thopter",
       "colors": [],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "7c0b6b53-4ddb-4bb5-8a26-0041b2006d3f"
     }
   ],
   "cards": [
@@ -30,7 +34,11 @@
           "type_line": "Token Artifact Creature — Thopter",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "7c0b6b53-4ddb-4bb5-8a26-0041b2006d3f"
         }
       ]
     },
@@ -95,7 +103,11 @@
           "type_line": "Token Artifact Creature — Thopter",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "7c0b6b53-4ddb-4bb5-8a26-0041b2006d3f"
         }
       ]
     },
@@ -142,7 +154,11 @@
           "type_line": "Token Artifact Creature — Thopter",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "7c0b6b53-4ddb-4bb5-8a26-0041b2006d3f"
         }
       ]
     },
@@ -206,7 +222,11 @@
           "type_line": "Token Artifact Creature — Thopter",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "7c0b6b53-4ddb-4bb5-8a26-0041b2006d3f"
         }
       ]
     },

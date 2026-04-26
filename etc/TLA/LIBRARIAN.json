@@ -5,14 +5,18 @@
     {
       "name": "Clue",
       "type_line": "Token Artifact — Clue",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
     },
     {
       "name": "Spirit",
       "type_line": "Token Creature — Spirit",
       "colors": [],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "9d73d64b-3ef7-43b0-b0c2-203ab976d564"
     }
   ],
   "cards": [
@@ -60,7 +64,9 @@
         {
           "name": "Clue",
           "type_line": "Token Artifact — Clue",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
         }
       ]
     },
@@ -97,7 +103,9 @@
           "type_line": "Token Creature — Spirit",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "9d73d64b-3ef7-43b0-b0c2-203ab976d564"
         }
       ]
     },
@@ -132,7 +140,9 @@
           "type_line": "Token Creature — Spirit",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "9d73d64b-3ef7-43b0-b0c2-203ab976d564"
         }
       ]
     },
@@ -197,7 +207,9 @@
         {
           "name": "Clue",
           "type_line": "Token Artifact — Clue",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
         }
       ]
     },

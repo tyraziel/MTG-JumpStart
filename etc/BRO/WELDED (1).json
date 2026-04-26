@@ -5,7 +5,9 @@
     {
       "name": "Powerstone",
       "type_line": "Token Artifact — Powerstone",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "91da73fe-d028-43d7-bf75-f7ef30b45664"
     }
   ],
   "cards": [
@@ -40,7 +42,9 @@
         {
           "name": "Powerstone",
           "type_line": "Token Artifact — Powerstone",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "91da73fe-d028-43d7-bf75-f7ef30b45664"
         }
       ]
     },

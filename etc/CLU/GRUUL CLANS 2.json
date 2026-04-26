@@ -9,12 +9,16 @@
         "G"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "11734409-b03b-4905-af83-261f29a96bc2"
     },
     {
       "name": "Copy",
       "type_line": "Token",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
     }
   ],
   "cards": [
@@ -125,7 +129,9 @@
             "G"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "11734409-b03b-4905-af83-261f29a96bc2"
         }
       ]
     },
@@ -146,7 +152,9 @@
         {
           "name": "Copy",
           "type_line": "Token",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
         }
       ]
     },

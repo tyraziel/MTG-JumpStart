@@ -9,7 +9,9 @@
         "B"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "ddc8c973-c31e-463f-be45-f3fa7d632362"
     }
   ],
   "cards": [
@@ -178,7 +180,9 @@
             "B"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "ddc8c973-c31e-463f-be45-f3fa7d632362"
         }
       ]
     },

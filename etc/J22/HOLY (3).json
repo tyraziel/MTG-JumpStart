@@ -9,7 +9,12 @@
         "W"
       ],
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "keywords": [
+        "Flying",
+        "Vigilance"
+      ],
+      "oracle_id": "29ff8699-53d8-413b-8a3c-0e3ea1e13ff0"
     },
     {
       "name": "Soldier",
@@ -18,7 +23,11 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Lifelink"
+      ],
+      "oracle_id": "a5ab7f2d-a434-4342-a178-754bdd0181b6"
     }
   ],
   "cards": [
@@ -43,7 +52,12 @@
             "W"
           ],
           "power": "4",
-          "toughness": "4"
+          "toughness": "4",
+          "keywords": [
+            "Flying",
+            "Vigilance"
+          ],
+          "oracle_id": "29ff8699-53d8-413b-8a3c-0e3ea1e13ff0"
         }
       ]
     },
@@ -184,7 +198,11 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Lifelink"
+          ],
+          "oracle_id": "a5ab7f2d-a434-4342-a178-754bdd0181b6"
         }
       ]
     },

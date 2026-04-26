@@ -9,7 +9,9 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "eac25f12-6459-438c-a09e-93e23d2cf80d"
     }
   ],
   "cards": [
@@ -113,7 +115,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "eac25f12-6459-438c-a09e-93e23d2cf80d"
         }
       ]
     },
@@ -262,7 +266,12 @@
     {
       "quantity": 1,
       "name": "Rainbow Terramorphic Expanse",
-      "type": "Unknown"
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
     }
   ]
 }

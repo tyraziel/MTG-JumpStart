@@ -5,7 +5,9 @@
     {
       "name": "Copy",
       "type_line": "Token",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
     },
     {
       "name": "Elemental",
@@ -14,7 +16,9 @@
         "R"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "1a6c2152-71ca-46be-ab83-c84633442257"
     }
   ],
   "cards": [
@@ -39,7 +43,9 @@
             "R"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "1a6c2152-71ca-46be-ab83-c84633442257"
         }
       ]
     },
@@ -88,7 +94,9 @@
         {
           "name": "Copy",
           "type_line": "Token",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
         }
       ]
     },
@@ -165,7 +173,11 @@
             "R"
           ],
           "power": "*",
-          "toughness": "*"
+          "toughness": "*",
+          "keywords": [
+            "Trample"
+          ],
+          "oracle_id": "74a3dea1-6a43-4cd2-925e-0abcf076bd02"
         }
       ]
     },

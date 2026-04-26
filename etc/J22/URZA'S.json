@@ -7,7 +7,9 @@
       "type_line": "Token Artifact Creature — Assembly-Worker",
       "colors": [],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "02e1a471-36b2-4d28-a323-f4ec3d095cb9"
     }
   ],
   "cards": [
@@ -161,7 +163,9 @@
           "type_line": "Token Artifact Creature — Assembly-Worker",
           "colors": [],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "02e1a471-36b2-4d28-a323-f4ec3d095cb9"
         }
       ]
     },

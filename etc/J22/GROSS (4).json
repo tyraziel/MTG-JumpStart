@@ -9,7 +9,11 @@
         "B"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Deathtouch"
+      ],
+      "oracle_id": "c02feaa1-8540-4948-b92f-01a719218c2b"
     }
   ],
   "cards": [
@@ -34,7 +38,11 @@
             "B"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Deathtouch"
+          ],
+          "oracle_id": "c02feaa1-8540-4948-b92f-01a719218c2b"
         }
       ]
     },

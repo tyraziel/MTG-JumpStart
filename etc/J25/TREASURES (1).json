@@ -9,12 +9,16 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "a4095286-d51b-4527-b6ce-23aa539fc23a"
     },
     {
       "name": "Treasure",
       "type_line": "Token Artifact — Treasure",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
     }
   ],
   "cards": [
@@ -49,7 +53,9 @@
         {
           "name": "Treasure",
           "type_line": "Token Artifact — Treasure",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
         }
       ]
     },
@@ -70,7 +76,9 @@
         {
           "name": "Treasure",
           "type_line": "Token Artifact — Treasure",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
         }
       ]
     },
@@ -91,7 +99,9 @@
         {
           "name": "Treasure",
           "type_line": "Token Artifact — Treasure",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
         }
       ]
     },
@@ -112,7 +122,9 @@
         {
           "name": "Treasure",
           "type_line": "Token Artifact — Treasure",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
         }
       ]
     },
@@ -147,7 +159,9 @@
         {
           "name": "Treasure",
           "type_line": "Token Artifact — Treasure",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
         }
       ]
     },
@@ -168,7 +182,9 @@
         {
           "name": "Treasure",
           "type_line": "Token Artifact — Treasure",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
         }
       ]
     },
@@ -187,7 +203,9 @@
         {
           "name": "Treasure",
           "type_line": "Token Artifact — Treasure",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
         }
       ]
     },
@@ -206,7 +224,9 @@
         {
           "name": "Treasure",
           "type_line": "Token Artifact — Treasure",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
         }
       ]
     },
@@ -225,7 +245,9 @@
         {
           "name": "Treasure",
           "type_line": "Token Artifact — Treasure",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
         }
       ]
     },
@@ -248,7 +270,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "a4095286-d51b-4527-b6ce-23aa539fc23a"
         }
       ]
     },

@@ -9,7 +9,11 @@
         "B"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "b9f1e3ec-dffa-442b-a38a-1e76e59ee146"
     },
     {
       "name": "Worm",
@@ -19,7 +23,9 @@
         "G"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "318d6000-b6e0-4ef0-ad58-d470f4a271e6"
     }
   ],
   "cards": [
@@ -44,7 +50,11 @@
             "B"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "b9f1e3ec-dffa-442b-a38a-1e76e59ee146"
         }
       ]
     },
@@ -84,7 +94,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "318d6000-b6e0-4ef0-ad58-d470f4a271e6"
         }
       ]
     },

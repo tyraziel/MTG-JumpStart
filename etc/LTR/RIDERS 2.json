@@ -9,7 +9,9 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "a4095286-d51b-4527-b6ce-23aa539fc23a"
     },
     {
       "name": "Orc Army",
@@ -18,7 +20,9 @@
         "B"
       ],
       "power": "0",
-      "toughness": "0"
+      "toughness": "0",
+      "keywords": [],
+      "oracle_id": "620159f8-eb7f-4756-a136-8ad9728adbad"
     }
   ],
   "cards": [
@@ -43,7 +47,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "a4095286-d51b-4527-b6ce-23aa539fc23a"
         }
       ]
     },
@@ -124,7 +130,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "a4095286-d51b-4527-b6ce-23aa539fc23a"
         }
       ]
     },
@@ -147,7 +155,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "a4095286-d51b-4527-b6ce-23aa539fc23a"
         }
       ]
     },
@@ -206,7 +216,9 @@
             "B"
           ],
           "power": "0",
-          "toughness": "0"
+          "toughness": "0",
+          "keywords": [],
+          "oracle_id": "620159f8-eb7f-4756-a136-8ad9728adbad"
         }
       ]
     },

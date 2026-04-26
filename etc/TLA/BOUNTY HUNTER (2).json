@@ -9,19 +9,27 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "63d59a37-fd7c-4d53-a666-7db6fae2f78f"
     },
     {
       "name": "Ballistic Boulder",
       "type_line": "Token Artifact Creature — Construct",
       "colors": [],
       "power": "2",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "ba138dd6-6eab-4f97-92b0-ca47d0042216"
     },
     {
       "name": "Clue",
       "type_line": "Token Artifact — Clue",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
     },
     {
       "name": "Human Soldier",
@@ -30,7 +38,9 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "a4095286-d51b-4527-b6ce-23aa539fc23a"
     }
   ],
   "cards": [
@@ -51,7 +61,9 @@
         {
           "name": "Clue",
           "type_line": "Token Artifact — Clue",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
         }
       ]
     },
@@ -77,7 +89,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "63d59a37-fd7c-4d53-a666-7db6fae2f78f"
         }
       ]
     },
@@ -98,7 +112,9 @@
         {
           "name": "Clue",
           "type_line": "Token Artifact — Clue",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
         }
       ]
     },
@@ -135,7 +151,11 @@
           "type_line": "Token Artifact Creature — Construct",
           "colors": [],
           "power": "2",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "ba138dd6-6eab-4f97-92b0-ca47d0042216"
         }
       ]
     },
@@ -156,7 +176,9 @@
         {
           "name": "Clue",
           "type_line": "Token Artifact — Clue",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
         }
       ]
     },
@@ -192,7 +214,9 @@
         {
           "name": "Clue",
           "type_line": "Token Artifact — Clue",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
         }
       ]
     },
@@ -223,7 +247,9 @@
         {
           "name": "Clue",
           "type_line": "Token Artifact — Clue",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
         }
       ]
     },
@@ -242,7 +268,9 @@
         {
           "name": "Clue",
           "type_line": "Token Artifact — Clue",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
         }
       ]
     },
@@ -265,7 +293,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "a4095286-d51b-4527-b6ce-23aa539fc23a"
         }
       ]
     },

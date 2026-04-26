@@ -7,7 +7,9 @@
       "type_line": "Token Creature — Spirit",
       "colors": [],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "9d73d64b-3ef7-43b0-b0c2-203ab976d564"
     }
   ],
   "cards": [
@@ -126,7 +128,9 @@
           "type_line": "Token Creature — Spirit",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "9d73d64b-3ef7-43b0-b0c2-203ab976d564"
         }
       ]
     },

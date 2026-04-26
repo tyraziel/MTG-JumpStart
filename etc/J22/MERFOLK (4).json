@@ -9,7 +9,11 @@
         "U"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Hexproof"
+      ],
+      "oracle_id": "fd6663bc-49ae-4e31-b0aa-60f142dfd18c"
     }
   ],
   "cards": [
@@ -168,7 +172,11 @@
             "U"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Hexproof"
+          ],
+          "oracle_id": "fd6663bc-49ae-4e31-b0aa-60f142dfd18c"
         }
       ]
     },

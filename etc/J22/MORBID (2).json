@@ -9,7 +9,11 @@
         "B"
       ],
       "power": "5",
-      "toughness": "5"
+      "toughness": "5",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "0045c5fa-3229-4050-b139-5712fa24b308"
     },
     {
       "name": "Zombie",
@@ -18,7 +22,9 @@
         "B"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "ddc8c973-c31e-463f-be45-f3fa7d632362"
     }
   ],
   "cards": [
@@ -57,7 +63,9 @@
             "B"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "ddc8c973-c31e-463f-be45-f3fa7d632362"
         }
       ]
     },
@@ -82,7 +90,9 @@
             "B"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "ddc8c973-c31e-463f-be45-f3fa7d632362"
         }
       ]
     },
@@ -107,7 +117,11 @@
             "B"
           ],
           "power": "5",
-          "toughness": "5"
+          "toughness": "5",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "0045c5fa-3229-4050-b139-5712fa24b308"
         }
       ]
     },
@@ -132,7 +146,11 @@
             "B"
           ],
           "power": "5",
-          "toughness": "5"
+          "toughness": "5",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "0045c5fa-3229-4050-b139-5712fa24b308"
         }
       ]
     },

@@ -9,7 +9,12 @@
         "W"
       ],
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "keywords": [
+        "Flying",
+        "Vigilance"
+      ],
+      "oracle_id": "29ff8699-53d8-413b-8a3c-0e3ea1e13ff0"
     }
   ],
   "cards": [
@@ -34,7 +39,12 @@
             "W"
           ],
           "power": "4",
-          "toughness": "4"
+          "toughness": "4",
+          "keywords": [
+            "Flying",
+            "Vigilance"
+          ],
+          "oracle_id": "29ff8699-53d8-413b-8a3c-0e3ea1e13ff0"
         }
       ]
     },

@@ -5,7 +5,9 @@
     {
       "name": "Blood",
       "type_line": "Token Artifact — Blood",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "03f45075-9423-454f-a256-94dcafb2a779"
     }
   ],
   "cards": [
@@ -110,7 +112,9 @@
         {
           "name": "Blood",
           "type_line": "Token Artifact — Blood",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "03f45075-9423-454f-a256-94dcafb2a779"
         }
       ]
     },
@@ -179,7 +183,9 @@
         {
           "name": "Blood",
           "type_line": "Token Artifact — Blood",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "03f45075-9423-454f-a256-94dcafb2a779"
         }
       ]
     },

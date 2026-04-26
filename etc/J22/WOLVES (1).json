@@ -9,12 +9,18 @@
         "G"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Food"
+      ],
+      "oracle_id": "a6f7f5c7-8832-40f8-803e-f181571422f8"
     },
     {
       "name": "Food",
       "type_line": "Token Artifact — Food",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
     },
     {
       "name": "Wolf",
@@ -23,7 +29,9 @@
         "G"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "b2224843-8274-4872-a7ca-2adf69cc066b"
     }
   ],
   "cards": [
@@ -90,7 +98,9 @@
             "G"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "b2224843-8274-4872-a7ca-2adf69cc066b"
         }
       ]
     },
@@ -125,7 +135,9 @@
         {
           "name": "Food",
           "type_line": "Token Artifact — Food",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
         }
       ]
     },
@@ -162,7 +174,11 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Food"
+          ],
+          "oracle_id": "a6f7f5c7-8832-40f8-803e-f181571422f8"
         }
       ]
     },
@@ -197,7 +213,9 @@
             "G"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "b2224843-8274-4872-a7ca-2adf69cc066b"
         }
       ]
     },
@@ -220,7 +238,9 @@
             "G"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "b2224843-8274-4872-a7ca-2adf69cc066b"
         }
       ]
     },
@@ -244,7 +264,9 @@
             "G"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "b2224843-8274-4872-a7ca-2adf69cc066b"
         }
       ]
     },

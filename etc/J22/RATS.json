@@ -9,7 +9,9 @@
         "B"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "7c753b68-b519-43ba-9c58-4902f4850626"
     }
   ],
   "cards": [
@@ -62,7 +64,9 @@
             "B"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "7c753b68-b519-43ba-9c58-4902f4850626"
         }
       ]
     },

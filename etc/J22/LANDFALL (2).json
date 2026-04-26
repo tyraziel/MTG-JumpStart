@@ -9,7 +9,9 @@
         "G"
       ],
       "power": "0",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "bcd346a7-4d96-4a0c-9725-fb740e32b730"
     }
   ],
   "cards": [
@@ -90,7 +92,9 @@
             "G"
           ],
           "power": "0",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "bcd346a7-4d96-4a0c-9725-fb740e32b730"
         }
       ]
     },

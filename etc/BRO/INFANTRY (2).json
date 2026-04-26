@@ -5,14 +5,18 @@
     {
       "name": "Powerstone",
       "type_line": "Token Artifact — Powerstone",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "91da73fe-d028-43d7-bf75-f7ef30b45664"
     },
     {
       "name": "Soldier",
       "type_line": "Token Artifact Creature — Soldier",
       "colors": [],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "0410f6f6-88f6-48e2-b301-7660c86317a1"
     }
   ],
   "cards": [
@@ -103,7 +107,9 @@
           "type_line": "Token Artifact Creature — Soldier",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "0410f6f6-88f6-48e2-b301-7660c86317a1"
         }
       ]
     },
@@ -170,7 +176,9 @@
         {
           "name": "Powerstone",
           "type_line": "Token Artifact — Powerstone",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "91da73fe-d028-43d7-bf75-f7ef30b45664"
         }
       ]
     },

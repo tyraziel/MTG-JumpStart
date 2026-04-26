@@ -9,7 +9,11 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "b1a2b096-a440-4ef9-ab2a-059c79999297"
     },
     {
       "name": "Soldier",
@@ -18,7 +22,9 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "eac25f12-6459-438c-a09e-93e23d2cf80d"
     }
   ],
   "cards": [
@@ -57,7 +63,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "eac25f12-6459-438c-a09e-93e23d2cf80d"
         }
       ]
     },
@@ -82,7 +90,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "eac25f12-6459-438c-a09e-93e23d2cf80d"
         }
       ]
     },
@@ -161,7 +171,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "eac25f12-6459-438c-a09e-93e23d2cf80d"
         }
       ]
     },
@@ -208,7 +220,11 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "b1a2b096-a440-4ef9-ab2a-059c79999297"
         }
       ]
     },

@@ -9,7 +9,9 @@
         "R"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "c269bceb-0908-474c-825a-8bc4d138b3d1"
     }
   ],
   "cards": [
@@ -62,7 +64,9 @@
             "R"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "c269bceb-0908-474c-825a-8bc4d138b3d1"
         }
       ]
     },

@@ -7,17 +7,25 @@
       "type_line": "Token Artifact Creature — Construct",
       "colors": [],
       "power": "2",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "ba138dd6-6eab-4f97-92b0-ca47d0042216"
     },
     {
       "name": "Clue",
       "type_line": "Token Artifact — Clue",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
     },
     {
       "name": "Food",
       "type_line": "Token Artifact — Food",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
     }
   ],
   "cards": [
@@ -82,7 +90,11 @@
           "type_line": "Token Artifact Creature — Construct",
           "colors": [],
           "power": "2",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "ba138dd6-6eab-4f97-92b0-ca47d0042216"
         }
       ]
     },
@@ -131,7 +143,9 @@
         {
           "name": "Food",
           "type_line": "Token Artifact — Food",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
         }
       ]
     },
@@ -186,7 +200,9 @@
         {
           "name": "Clue",
           "type_line": "Token Artifact — Clue",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
         }
       ]
     },

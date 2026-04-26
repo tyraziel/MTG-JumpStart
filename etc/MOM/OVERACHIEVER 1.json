@@ -10,7 +10,9 @@
         "U"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "e1cab9f5-a094-4df4-9094-71bebf91956f"
     }
   ],
   "cards": [
@@ -64,7 +66,9 @@
             "U"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "e1cab9f5-a094-4df4-9094-71bebf91956f"
         }
       ]
     },

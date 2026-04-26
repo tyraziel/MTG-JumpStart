@@ -5,7 +5,9 @@
     {
       "name": "Food",
       "type_line": "Token Artifact — Food",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
     },
     {
       "name": "Human Soldier",
@@ -14,7 +16,9 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "a4095286-d51b-4527-b6ce-23aa539fc23a"
     }
   ],
   "cards": [
@@ -63,7 +67,9 @@
         {
           "name": "Food",
           "type_line": "Token Artifact — Food",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
         }
       ]
     },
@@ -130,7 +136,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "a4095286-d51b-4527-b6ce-23aa539fc23a"
         }
       ]
     },
@@ -161,7 +169,9 @@
         {
           "name": "Food",
           "type_line": "Token Artifact — Food",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
         }
       ]
     },

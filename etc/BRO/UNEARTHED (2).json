@@ -7,7 +7,9 @@
       "type_line": "Token Artifact Creature — Zombie",
       "colors": [],
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "keywords": [],
+      "oracle_id": "82868a85-a6f4-47db-b159-d23a9c4c9892"
     }
   ],
   "cards": [
@@ -152,7 +154,9 @@
           "type_line": "Token Artifact Creature — Zombie",
           "colors": [],
           "power": "3",
-          "toughness": "3"
+          "toughness": "3",
+          "keywords": [],
+          "oracle_id": "82868a85-a6f4-47db-b159-d23a9c4c9892"
         }
       ]
     },

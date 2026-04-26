@@ -5,7 +5,9 @@
     {
       "name": "Clue",
       "type_line": "Token Artifact — Clue",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
     }
   ],
   "cards": [
@@ -26,7 +28,9 @@
         {
           "name": "Clue",
           "type_line": "Token Artifact — Clue",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
         }
       ]
     },

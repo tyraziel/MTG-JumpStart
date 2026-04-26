@@ -9,7 +9,9 @@
         "W"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "9fcff433-c6f7-44c6-8279-04625703cb3e"
     }
   ],
   "cards": [
@@ -177,7 +179,9 @@
             "W"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "9fcff433-c6f7-44c6-8279-04625703cb3e"
         }
       ]
     },

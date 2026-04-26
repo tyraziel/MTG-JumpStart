@@ -9,7 +9,11 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Vigilance"
+      ],
+      "oracle_id": "4bd91cb2-be86-4950-8b84-7b330a8a61b9"
     }
   ],
   "cards": [
@@ -168,7 +172,11 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Vigilance"
+          ],
+          "oracle_id": "4bd91cb2-be86-4950-8b84-7b330a8a61b9"
         }
       ]
     },

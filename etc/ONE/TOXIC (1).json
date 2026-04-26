@@ -9,7 +9,11 @@
         "G"
       ],
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "keywords": [
+        "Toxic"
+      ],
+      "oracle_id": "84a60a2a-82c2-48e1-97ef-da471eb4d80b"
     }
   ],
   "cards": [
@@ -164,7 +168,11 @@
             "G"
           ],
           "power": "3",
-          "toughness": "3"
+          "toughness": "3",
+          "keywords": [
+            "Toxic"
+          ],
+          "oracle_id": "84a60a2a-82c2-48e1-97ef-da471eb4d80b"
         }
       ]
     },

@@ -9,7 +9,9 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "63d59a37-fd7c-4d53-a666-7db6fae2f78f"
     },
     {
       "name": "Soldier",
@@ -18,7 +20,9 @@
         "R"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "c269bceb-0908-474c-825a-8bc4d138b3d1"
     }
   ],
   "cards": [
@@ -100,7 +104,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "63d59a37-fd7c-4d53-a666-7db6fae2f78f"
         }
       ]
     },
@@ -139,7 +145,9 @@
             "R"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "c269bceb-0908-474c-825a-8bc4d138b3d1"
         }
       ]
     },

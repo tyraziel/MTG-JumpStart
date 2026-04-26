@@ -9,7 +9,12 @@
         "W"
       ],
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "keywords": [
+        "Flying",
+        "Vigilance"
+      ],
+      "oracle_id": "8c5015a4-35ac-43ab-b5f7-20bd2e5fbe3c"
     },
     {
       "name": "Rebel",
@@ -18,7 +23,9 @@
         "R"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "a10bb51d-a921-4f22-bb2f-677aedd2a062"
     },
     {
       "name": "Soldier",
@@ -27,7 +34,9 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "eac25f12-6459-438c-a09e-93e23d2cf80d"
     }
   ],
   "cards": [
@@ -154,7 +163,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "eac25f12-6459-438c-a09e-93e23d2cf80d"
         }
       ]
     },
@@ -177,7 +188,9 @@
             "R"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "a10bb51d-a921-4f22-bb2f-677aedd2a062"
         }
       ]
     },
@@ -200,7 +213,12 @@
             "W"
           ],
           "power": "4",
-          "toughness": "4"
+          "toughness": "4",
+          "keywords": [
+            "Flying",
+            "Vigilance"
+          ],
+          "oracle_id": "8c5015a4-35ac-43ab-b5f7-20bd2e5fbe3c"
         }
       ]
     },

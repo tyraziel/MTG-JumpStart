@@ -5,14 +5,20 @@
     {
       "name": "Copy",
       "type_line": "Token",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
     },
     {
       "name": "Phyrexian Mite",
       "type_line": "Token Artifact Creature — Phyrexian Mite",
       "colors": [],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Toxic"
+      ],
+      "oracle_id": "2667d723-01c8-4ea3-ac17-cedb3b842c3b"
     }
   ],
   "cards": [
@@ -33,7 +39,9 @@
         {
           "name": "Copy",
           "type_line": "Token",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
         }
       ]
     },
@@ -70,7 +78,11 @@
           "type_line": "Token Artifact Creature — Phyrexian Mite",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Toxic"
+          ],
+          "oracle_id": "2667d723-01c8-4ea3-ac17-cedb3b842c3b"
         }
       ]
     },

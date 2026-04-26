@@ -5,7 +5,9 @@
     {
       "name": "Copy",
       "type_line": "Token",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
     }
   ],
   "cards": [
@@ -26,7 +28,9 @@
         {
           "name": "Copy",
           "type_line": "Token",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
         }
       ]
     },

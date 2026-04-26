@@ -9,7 +9,9 @@
         "G"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "2069c2cb-3cb7-4f3b-be72-ae783de82c42"
     },
     {
       "name": "Elf Warrior",
@@ -18,7 +20,9 @@
         "G"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "dac8a765-6845-4b57-bb79-4ec463436f92"
     }
   ],
   "cards": [
@@ -57,7 +61,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "dac8a765-6845-4b57-bb79-4ec463436f92"
         }
       ]
     },
@@ -82,7 +88,9 @@
             "G"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "2069c2cb-3cb7-4f3b-be72-ae783de82c42"
         }
       ]
     },

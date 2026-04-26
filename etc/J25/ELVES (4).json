@@ -9,7 +9,11 @@
         "G"
       ],
       "power": "7",
-      "toughness": "7"
+      "toughness": "7",
+      "keywords": [
+        "Trample"
+      ],
+      "oracle_id": "ab19c684-94c6-4491-8a6b-7f31dddadae6"
     },
     {
       "name": "Elf Warrior",
@@ -18,7 +22,9 @@
         "G"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "dac8a765-6845-4b57-bb79-4ec463436f92"
     }
   ],
   "cards": [
@@ -43,7 +49,11 @@
             "G"
           ],
           "power": "7",
-          "toughness": "7"
+          "toughness": "7",
+          "keywords": [
+            "Trample"
+          ],
+          "oracle_id": "ab19c684-94c6-4491-8a6b-7f31dddadae6"
         }
       ]
     },
@@ -201,7 +211,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "dac8a765-6845-4b57-bb79-4ec463436f92"
         }
       ]
     },

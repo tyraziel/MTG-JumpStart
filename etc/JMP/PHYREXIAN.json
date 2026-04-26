@@ -7,7 +7,9 @@
       "type_line": "Token Artifact Creature — Phyrexian Myr",
       "colors": [],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "53ccb03f-a853-4df9-8c00-39279d15f3b2"
     }
   ],
   "cards": [
@@ -70,7 +72,9 @@
           "type_line": "Token Artifact Creature — Phyrexian Myr",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "53ccb03f-a853-4df9-8c00-39279d15f3b2"
         }
       ]
     },
@@ -181,7 +185,9 @@
           "type_line": "Token Artifact Creature — Phyrexian Myr",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "53ccb03f-a853-4df9-8c00-39279d15f3b2"
         }
       ]
     },

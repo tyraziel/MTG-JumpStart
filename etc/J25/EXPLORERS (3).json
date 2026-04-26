@@ -9,12 +9,16 @@
         "G"
       ],
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "keywords": [],
+      "oracle_id": "6bb61f34-5d57-4eaa-a02c-f5d08c1ee920"
     },
     {
       "name": "Clue",
       "type_line": "Token Artifact — Clue",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
     },
     {
       "name": "Elf Warrior",
@@ -23,7 +27,9 @@
         "G"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "dac8a765-6845-4b57-bb79-4ec463436f92"
     },
     {
       "name": "Human Soldier",
@@ -32,7 +38,9 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "a4095286-d51b-4527-b6ce-23aa539fc23a"
     },
     {
       "name": "Wolf",
@@ -41,7 +49,9 @@
         "G"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "b2224843-8274-4872-a7ca-2adf69cc066b"
     }
   ],
   "cards": [
@@ -62,7 +72,9 @@
         {
           "name": "Clue",
           "type_line": "Token Artifact — Clue",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
         }
       ]
     },
@@ -87,7 +99,9 @@
             "G"
           ],
           "power": "4",
-          "toughness": "4"
+          "toughness": "4",
+          "keywords": [],
+          "oracle_id": "6bb61f34-5d57-4eaa-a02c-f5d08c1ee920"
         },
         {
           "name": "Beast",
@@ -96,7 +110,9 @@
             "G"
           ],
           "power": "3",
-          "toughness": "3"
+          "toughness": "3",
+          "keywords": [],
+          "oracle_id": "6bb61f34-5d57-4eaa-a02c-f5d08c1ee920"
         },
         {
           "name": "Wolf",
@@ -105,7 +121,9 @@
             "G"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "b2224843-8274-4872-a7ca-2adf69cc066b"
         }
       ]
     },
@@ -170,7 +188,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "dac8a765-6845-4b57-bb79-4ec463436f92"
         }
       ]
     },
@@ -191,7 +211,9 @@
         {
           "name": "Clue",
           "type_line": "Token Artifact — Clue",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
         }
       ]
     },
@@ -260,7 +282,9 @@
         {
           "name": "Clue",
           "type_line": "Token Artifact — Clue",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
         },
         {
           "name": "Human Soldier",
@@ -269,7 +293,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "a4095286-d51b-4527-b6ce-23aa539fc23a"
         }
       ]
     },

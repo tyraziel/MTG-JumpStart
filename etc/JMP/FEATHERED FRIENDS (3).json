@@ -9,7 +9,11 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "b1a2b096-a440-4ef9-ab2a-059c79999297"
     }
   ],
   "cards": [
@@ -76,7 +80,11 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "b1a2b096-a440-4ef9-ab2a-059c79999297"
         }
       ]
     },

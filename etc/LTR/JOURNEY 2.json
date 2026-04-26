@@ -5,7 +5,9 @@
     {
       "name": "Food",
       "type_line": "Token Artifact — Food",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
     }
   ],
   "cards": [
@@ -26,7 +28,9 @@
         {
           "name": "Food",
           "type_line": "Token Artifact — Food",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
         }
       ]
     },
@@ -61,7 +65,9 @@
         {
           "name": "Food",
           "type_line": "Token Artifact — Food",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
         }
       ]
     },
@@ -82,7 +88,9 @@
         {
           "name": "Food",
           "type_line": "Token Artifact — Food",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
         }
       ]
     },
@@ -103,7 +111,9 @@
         {
           "name": "Food",
           "type_line": "Token Artifact — Food",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
         }
       ]
     },
@@ -150,7 +160,9 @@
         {
           "name": "Food",
           "type_line": "Token Artifact — Food",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
         }
       ]
     },
@@ -169,7 +181,9 @@
         {
           "name": "Food",
           "type_line": "Token Artifact — Food",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
         }
       ]
     },

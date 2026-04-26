@@ -9,7 +9,11 @@
         "B"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "ff86d8fc-5242-405e-b5e3-f9ff73296794"
     },
     {
       "name": "Insect",
@@ -19,7 +23,9 @@
         "G"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "ea029c48-d26e-40b1-acef-2ec47fb61101"
     },
     {
       "name": "Saproling",
@@ -28,7 +34,9 @@
         "G"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "2b7dba01-b08c-4218-9fc1-da55559d9155"
     }
   ],
   "cards": [
@@ -68,7 +76,11 @@
             "B"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "ff86d8fc-5242-405e-b5e3-f9ff73296794"
         }
       ]
     },
@@ -108,7 +120,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "2b7dba01-b08c-4218-9fc1-da55559d9155"
         }
       ]
     },
@@ -164,7 +178,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "ea029c48-d26e-40b1-acef-2ec47fb61101"
         }
       ]
     },

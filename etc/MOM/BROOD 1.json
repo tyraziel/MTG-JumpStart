@@ -5,7 +5,11 @@
     {
       "name": "Incubator // Phyrexian",
       "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
-      "colors": []
+      "colors": [],
+      "keywords": [
+        "Transform"
+      ],
+      "oracle_id": "dd3bf75e-9ef0-4ded-9b65-1a60a78a6253"
     }
   ],
   "cards": [
@@ -26,7 +30,11 @@
         {
           "name": "Incubator // Phyrexian",
           "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
-          "colors": []
+          "colors": [],
+          "keywords": [
+            "Transform"
+          ],
+          "oracle_id": "dd3bf75e-9ef0-4ded-9b65-1a60a78a6253"
         }
       ]
     },
@@ -47,7 +55,11 @@
         {
           "name": "Incubator // Phyrexian",
           "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
-          "colors": []
+          "colors": [],
+          "keywords": [
+            "Transform"
+          ],
+          "oracle_id": "dd3bf75e-9ef0-4ded-9b65-1a60a78a6253"
         }
       ]
     },
@@ -96,7 +108,11 @@
         {
           "name": "Incubator // Phyrexian",
           "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
-          "colors": []
+          "colors": [],
+          "keywords": [
+            "Transform"
+          ],
+          "oracle_id": "dd3bf75e-9ef0-4ded-9b65-1a60a78a6253"
         }
       ]
     },
@@ -145,7 +161,11 @@
         {
           "name": "Incubator // Phyrexian",
           "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
-          "colors": []
+          "colors": [],
+          "keywords": [
+            "Transform"
+          ],
+          "oracle_id": "dd3bf75e-9ef0-4ded-9b65-1a60a78a6253"
         }
       ]
     },
@@ -164,7 +184,11 @@
         {
           "name": "Incubator // Phyrexian",
           "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
-          "colors": []
+          "colors": [],
+          "keywords": [
+            "Transform"
+          ],
+          "oracle_id": "dd3bf75e-9ef0-4ded-9b65-1a60a78a6253"
         }
       ]
     },

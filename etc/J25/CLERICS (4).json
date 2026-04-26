@@ -9,7 +9,11 @@
         "B"
       ],
       "power": "5",
-      "toughness": "5"
+      "toughness": "5",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "0045c5fa-3229-4050-b139-5712fa24b308"
     }
   ],
   "cards": [
@@ -90,7 +94,11 @@
             "B"
           ],
           "power": "5",
-          "toughness": "5"
+          "toughness": "5",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "0045c5fa-3229-4050-b139-5712fa24b308"
         }
       ]
     },

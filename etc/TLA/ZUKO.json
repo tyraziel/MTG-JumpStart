@@ -9,7 +9,11 @@
         "R"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [
+        "Firebending"
+      ],
+      "oracle_id": "768c67a6-a6d0-4001-a252-72ae24b2829e"
     }
   ],
   "cards": [
@@ -102,7 +106,11 @@
             "R"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [
+            "Firebending"
+          ],
+          "oracle_id": "768c67a6-a6d0-4001-a252-72ae24b2829e"
         }
       ]
     },

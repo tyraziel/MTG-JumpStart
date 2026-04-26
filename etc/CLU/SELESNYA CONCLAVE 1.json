@@ -9,7 +9,11 @@
         "W"
       ],
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "40c64f08-ab2f-4933-8e0e-d1a1c729008f"
     },
     {
       "name": "Bird",
@@ -18,12 +22,18 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "b1a2b096-a440-4ef9-ab2a-059c79999297"
     },
     {
       "name": "Copy",
       "type_line": "Token",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
     },
     {
       "name": "Saproling",
@@ -32,7 +42,9 @@
         "G"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "2b7dba01-b08c-4218-9fc1-da55559d9155"
     },
     {
       "name": "Soldier",
@@ -41,7 +53,11 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Lifelink"
+      ],
+      "oracle_id": "a5ab7f2d-a434-4342-a178-754bdd0181b6"
     },
     {
       "name": "Spirit",
@@ -50,7 +66,11 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "dc4e2134-f0c2-49aa-9ea3-ebf83af1445c"
     }
   ],
   "cards": [
@@ -75,7 +95,11 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "dc4e2134-f0c2-49aa-9ea3-ebf83af1445c"
         }
       ]
     },
@@ -115,7 +139,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "2b7dba01-b08c-4218-9fc1-da55559d9155"
         }
       ]
     },
@@ -140,7 +166,11 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "b1a2b096-a440-4ef9-ab2a-059c79999297"
         }
       ]
     },
@@ -162,7 +192,9 @@
         {
           "name": "Copy",
           "type_line": "Token",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
         }
       ]
     },
@@ -187,7 +219,11 @@
             "W"
           ],
           "power": "4",
-          "toughness": "4"
+          "toughness": "4",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "40c64f08-ab2f-4933-8e0e-d1a1c729008f"
         }
       ]
     },
@@ -209,7 +245,9 @@
         {
           "name": "Copy",
           "type_line": "Token",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
         }
       ]
     },
@@ -235,7 +273,11 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Lifelink"
+          ],
+          "oracle_id": "a5ab7f2d-a434-4342-a178-754bdd0181b6"
         }
       ]
     },

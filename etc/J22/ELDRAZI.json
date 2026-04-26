@@ -7,7 +7,9 @@
       "type_line": "Token Creature — Eldrazi Scion",
       "colors": [],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "0eb3cd4b-c34e-448c-a9ab-e7b0b4524833"
     }
   ],
   "cards": [
@@ -52,7 +54,9 @@
           "type_line": "Token Creature — Eldrazi Scion",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "0eb3cd4b-c34e-448c-a9ab-e7b0b4524833"
         }
       ]
     },
@@ -73,7 +77,9 @@
           "type_line": "Token Creature — Eldrazi Scion",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "0eb3cd4b-c34e-448c-a9ab-e7b0b4524833"
         }
       ]
     },
@@ -106,7 +112,9 @@
           "type_line": "Token Creature — Eldrazi Scion",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "0eb3cd4b-c34e-448c-a9ab-e7b0b4524833"
         }
       ]
     },
