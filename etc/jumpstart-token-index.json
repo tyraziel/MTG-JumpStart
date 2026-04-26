@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated": "2026-04-26T21:13:00.047620+00:00",
-    "total_tokens": 86,
-    "total_source_refs": 922,
+    "generated": "2026-04-26T21:17:02.289146+00:00",
+    "total_tokens": 101,
+    "total_source_refs": 921,
     "decks_scanned": 529,
     "sets": [
       "JMP",
@@ -28,6 +28,8 @@
       ],
       "power": "2",
       "toughness": "2",
+      "keywords": [],
+      "oracle_id": "9fcff433-c6f7-44c6-8279-04625703cb3e",
       "sources": [
         {
           "set": "J22",
@@ -45,6 +47,8 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "63d59a37-fd7c-4d53-a666-7db6fae2f78f",
       "sources": [
         {
           "set": "TLA",
@@ -410,6 +414,10 @@
       ],
       "power": "4",
       "toughness": "4",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "40c64f08-ab2f-4933-8e0e-d1a1c729008f",
       "sources": [
         {
           "set": "JMP",
@@ -450,12 +458,6 @@
         {
           "set": "J22",
           "set_name": "JumpStart 2022",
-          "deck": "HOLY (3)",
-          "card": "Valkyrie Harbinger"
-        },
-        {
-          "set": "J22",
-          "set_name": "JumpStart 2022",
           "deck": "LAW (2)",
           "card": "Decree of Justice"
         },
@@ -464,6 +466,34 @@
           "set_name": "JumpStart Foundations",
           "deck": "HEALERS (1)",
           "card": "Speaker of the Heavens"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "SELESNYA CONCLAVE 1",
+          "card": "Urbis Protector"
+        }
+      ]
+    },
+    {
+      "name": "Angel",
+      "type_line": "Token Creature — Angel",
+      "colors": [
+        "W"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "keywords": [
+        "Flying",
+        "Vigilance"
+      ],
+      "oracle_id": "29ff8699-53d8-413b-8a3c-0e3ea1e13ff0",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "HOLY (3)",
+          "card": "Valkyrie Harbinger"
         },
         {
           "set": "J25",
@@ -476,12 +506,6 @@
           "set_name": "Ravnica: Clue Edition",
           "deck": "BOROS LEGION 1",
           "card": "Finale of Glory"
-        },
-        {
-          "set": "CLU",
-          "set_name": "Ravnica: Clue Edition",
-          "deck": "SELESNYA CONCLAVE 1",
-          "card": "Urbis Protector"
         }
       ]
     },
@@ -493,6 +517,11 @@
       ],
       "power": "4",
       "toughness": "4",
+      "keywords": [
+        "Flying",
+        "Vigilance"
+      ],
+      "oracle_id": "8c5015a4-35ac-43ab-b5f7-20bd2e5fbe3c",
       "sources": [
         {
           "set": "J25",
@@ -514,6 +543,8 @@
       "colors": [],
       "power": "2",
       "toughness": "2",
+      "keywords": [],
+      "oracle_id": "02e1a471-36b2-4d28-a323-f4ec3d095cb9",
       "sources": [
         {
           "set": "J22",
@@ -529,6 +560,10 @@
       "colors": [],
       "power": "2",
       "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "ba138dd6-6eab-4f97-92b0-ca47d0042216",
       "sources": [
         {
           "set": "TLA",
@@ -570,6 +605,10 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "ff86d8fc-5242-405e-b5e3-f9ff73296794",
       "sources": [
         {
           "set": "CLU",
@@ -593,6 +632,8 @@
       ],
       "power": "4",
       "toughness": "4",
+      "keywords": [],
+      "oracle_id": "af4bd34a-0a0b-4c53-8f13-579c45ab471a",
       "sources": [
         {
           "set": "TLA",
@@ -610,6 +651,8 @@
       ],
       "power": "3",
       "toughness": "3",
+      "keywords": [],
+      "oracle_id": "6bb61f34-5d57-4eaa-a02c-f5d08c1ee920",
       "sources": [
         {
           "set": "JMP",
@@ -651,18 +694,14 @@
       ],
       "power": "4",
       "toughness": "4",
+      "keywords": [],
+      "oracle_id": "695b14a0-920a-47bd-bd4a-7989862cdd0a",
       "sources": [
         {
           "set": "J22",
           "set_name": "JumpStart 2022",
           "deck": "LANDFALL (1)",
           "card": "Rampaging Baloths"
-        },
-        {
-          "set": "J25",
-          "set_name": "JumpStart Foundations",
-          "deck": "EXPLORERS (3)",
-          "card": "Somberwald Beastmaster"
         }
       ]
     },
@@ -674,6 +713,10 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "b1a2b096-a440-4ef9-ab2a-059c79999297",
       "sources": [
         {
           "set": "JMP",
@@ -745,6 +788,10 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "6c29dcc1-d7b6-4ef6-b663-0cc0e4be0529",
       "sources": [
         {
           "set": "J25",
@@ -758,6 +805,8 @@
       "name": "Blood",
       "type_line": "Token Artifact — Blood",
       "colors": [],
+      "keywords": [],
+      "oracle_id": "03f45075-9423-454f-a256-94dcafb2a779",
       "sources": [
         {
           "set": "J25",
@@ -925,6 +974,8 @@
       ],
       "power": "3",
       "toughness": "3",
+      "keywords": [],
+      "oracle_id": "e4a19155-6689-43de-8175-f28dd2cf0a9a",
       "sources": [
         {
           "set": "JMP",
@@ -960,6 +1011,10 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [
+        "Food"
+      ],
+      "oracle_id": "a6f7f5c7-8832-40f8-803e-f181571422f8",
       "sources": [
         {
           "set": "J22",
@@ -977,6 +1032,8 @@
       ],
       "power": "2",
       "toughness": "2",
+      "keywords": [],
+      "oracle_id": "11734409-b03b-4905-af83-261f29a96bc2",
       "sources": [
         {
           "set": "CLU",
@@ -994,6 +1051,10 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "5e34ad53-c154-4302-b25a-fe4bb1555a5f",
       "sources": [
         {
           "set": "J22",
@@ -1011,6 +1072,8 @@
       ],
       "power": "2",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "b1612d71-4e81-4ea7-95d9-05ed7a70e5f1",
       "sources": [
         {
           "set": "JMP",
@@ -1028,13 +1091,28 @@
       ],
       "power": "2",
       "toughness": "2",
+      "keywords": [],
+      "oracle_id": "6788478d-e157-4483-be09-9edb3f841431",
       "sources": [
         {
           "set": "JMP",
           "set_name": "JumpStart 2020",
           "deck": "ENCHANTED (2)",
           "card": "Ajani's Chosen"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Cat",
+      "type_line": "Token Creature — Cat",
+      "colors": [
+        "G"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "2069c2cb-3cb7-4f3b-be72-ae783de82c42",
+      "sources": [
         {
           "set": "JMP",
           "set_name": "JumpStart 2020",
@@ -1051,6 +1129,10 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [
+        "Lifelink"
+      ],
+      "oracle_id": "65742c00-2809-4085-a950-8f93845c03d2",
       "sources": [
         {
           "set": "J22",
@@ -1065,16 +1147,29 @@
           "card": "Leonin Warleader"
         },
         {
-          "set": "J22",
-          "set_name": "JumpStart 2022",
-          "deck": "HOLY (4)",
-          "card": "Attended Healer"
-        },
-        {
           "set": "J25",
           "set_name": "JumpStart Foundations",
           "deck": "STALWART (1)",
           "card": "Ajani, Adversary of Tyrants"
+        }
+      ]
+    },
+    {
+      "name": "Cat",
+      "type_line": "Token Creature — Cat",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "5ae6251d-cef9-4fb7-bdcd-e870a062f042",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "HOLY (4)",
+          "card": "Attended Healer"
         },
         {
           "set": "FDN",
@@ -1092,6 +1187,8 @@
       ],
       "power": "2",
       "toughness": "2",
+      "keywords": [],
+      "oracle_id": "8050907b-4007-4478-8ebd-25b8b2bf85c3",
       "sources": [
         {
           "set": "J22",
@@ -1109,6 +1206,10 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [
+        "Vigilance"
+      ],
+      "oracle_id": "53c009a1-b9b6-43d6-8543-77688fedf8ae",
       "sources": [
         {
           "set": "J25",
@@ -1122,6 +1223,8 @@
       "name": "Clue",
       "type_line": "Token Artifact — Clue",
       "colors": [],
+      "keywords": [],
+      "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e",
       "sources": [
         {
           "set": "J22",
@@ -1709,6 +1812,10 @@
       ],
       "power": "3",
       "toughness": "1",
+      "keywords": [
+        "Haste"
+      ],
+      "oracle_id": "74658c70-caa8-4172-8a65-055d327668f9",
       "sources": [
         {
           "set": "J22",
@@ -1722,6 +1829,8 @@
       "name": "Copy",
       "type_line": "Token",
       "colors": [],
+      "keywords": [],
+      "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70",
       "sources": [
         {
           "set": "J22",
@@ -1931,6 +2040,10 @@
       ],
       "power": "5",
       "toughness": "5",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "0045c5fa-3229-4050-b139-5712fa24b308",
       "sources": [
         {
           "set": "JMP",
@@ -1978,6 +2091,10 @@
       ],
       "power": "*",
       "toughness": "*",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "0f6d78a4-f330-47b5-9c30-51324a1e7fb9",
       "sources": [
         {
           "set": "J22",
@@ -1995,6 +2112,8 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "02d1dc2f-625e-4be3-9daf-e48c44bc9bf7",
       "sources": [
         {
           "set": "JMP",
@@ -2036,6 +2155,10 @@
       ],
       "power": "3",
       "toughness": "3",
+      "keywords": [
+        "Trample"
+      ],
+      "oracle_id": "240300bd-5088-43c5-a873-290507515843",
       "sources": [
         {
           "set": "JMP",
@@ -2071,6 +2194,8 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "791a992f-6f67-41a0-8100-a4a6401e6148",
       "sources": [
         {
           "set": "JMP",
@@ -2106,6 +2231,10 @@
       ],
       "power": "5",
       "toughness": "5",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "60fe4897-6760-4c5a-8074-c92bd64df52b",
       "sources": [
         {
           "set": "JMP",
@@ -2147,6 +2276,10 @@
       ],
       "power": "2",
       "toughness": "2",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "ec6df381-5ea7-4c68-8416-093b107f0784",
       "sources": [
         {
           "set": "J22",
@@ -2164,6 +2297,10 @@
       ],
       "power": "2",
       "toughness": "2",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "9e266374-80f1-458a-9417-16220d2a013a",
       "sources": [
         {
           "set": "JMP",
@@ -2233,6 +2370,8 @@
       "colors": [],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "0eb3cd4b-c34e-448c-a9ab-e7b0b4524833",
       "sources": [
         {
           "set": "J22",
@@ -2262,6 +2401,8 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "1a6c2152-71ca-46be-ab83-c84633442257",
       "sources": [
         {
           "set": "JMP",
@@ -2304,18 +2445,6 @@
           "set_name": "JumpStart Foundations",
           "deck": "STOKED (4)",
           "card": "Young Pyromancer"
-        },
-        {
-          "set": "MOM",
-          "set_name": "March of the Machine",
-          "deck": "OVERACHIEVER 1",
-          "card": "Preening Champion"
-        },
-        {
-          "set": "MOM",
-          "set_name": "March of the Machine",
-          "deck": "REINFORCEMENT 1",
-          "card": "Ral's Reinforcements"
         }
       ]
     },
@@ -2327,6 +2456,8 @@
       ],
       "power": "2",
       "toughness": "2",
+      "keywords": [],
+      "oracle_id": "e3c32eb9-508a-41d3-b85f-cb85ab2f2716",
       "sources": [
         {
           "set": "JMP",
@@ -2350,18 +2481,16 @@
       ],
       "power": "*",
       "toughness": "*",
+      "keywords": [
+        "Trample"
+      ],
+      "oracle_id": "74a3dea1-6a43-4cd2-925e-0abcf076bd02",
       "sources": [
         {
           "set": "J22",
           "set_name": "JumpStart 2022",
           "deck": "EXPERIMENTAL (1)",
           "card": "Seize the Storm"
-        },
-        {
-          "set": "CLU",
-          "set_name": "Ravnica: Clue Edition",
-          "deck": "SELESNYA CONCLAVE 2",
-          "card": "Vernal Sovereign"
         }
       ]
     },
@@ -2374,6 +2503,8 @@
       ],
       "power": "4",
       "toughness": "4",
+      "keywords": [],
+      "oracle_id": "f81c047d-de36-4aed-806b-f14a290771a4",
       "sources": [
         {
           "set": "J22",
@@ -2391,12 +2522,62 @@
       ],
       "power": "7",
       "toughness": "7",
+      "keywords": [
+        "Trample"
+      ],
+      "oracle_id": "ab19c684-94c6-4491-8a6b-7f31dddadae6",
       "sources": [
         {
           "set": "J25",
           "set_name": "JumpStart Foundations",
           "deck": "ELVES (4)",
           "card": "Voice of the Woods"
+        }
+      ]
+    },
+    {
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "colors": [
+        "R",
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "e1cab9f5-a094-4df4-9094-71bebf91956f",
+      "sources": [
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "OVERACHIEVER 1",
+          "card": "Preening Champion"
+        },
+        {
+          "set": "MOM",
+          "set_name": "March of the Machine",
+          "deck": "REINFORCEMENT 1",
+          "card": "Ral's Reinforcements"
+        }
+      ]
+    },
+    {
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "colors": [
+        "G",
+        "W"
+      ],
+      "power": "*",
+      "toughness": "*",
+      "keywords": [],
+      "oracle_id": "9f790267-5be9-41aa-be69-f87a8ce5a29e",
+      "sources": [
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "SELESNYA CONCLAVE 2",
+          "card": "Vernal Sovereign"
         }
       ]
     },
@@ -2408,6 +2589,10 @@
       ],
       "power": "4",
       "toughness": "4",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "28cd830b-def6-4aa3-a0f6-6913bcdf931e",
       "sources": [
         {
           "set": "J25",
@@ -2425,6 +2610,8 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "dac8a765-6845-4b57-bb79-4ec463436f92",
       "sources": [
         {
           "set": "JMP",
@@ -2610,6 +2797,10 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "03fc0cae-a6d3-4fae-995d-038eb32c48ac",
       "sources": [
         {
           "set": "J22",
@@ -2645,6 +2836,8 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "5bef2c1c-7215-4b01-8bb3-426e1c3dd2e0",
       "sources": [
         {
           "set": "J25",
@@ -2664,6 +2857,8 @@
       "name": "Food",
       "type_line": "Token Artifact — Food",
       "colors": [],
+      "keywords": [],
+      "oracle_id": "a468338f-635e-4206-89d6-72d723071d45",
       "sources": [
         {
           "set": "JMP",
@@ -3017,6 +3212,8 @@
       ],
       "power": "3",
       "toughness": "3",
+      "keywords": [],
+      "oracle_id": "8653c69b-99a9-4881-a14c-68ba928c34d5",
       "sources": [
         {
           "set": "CLU",
@@ -3040,6 +3237,8 @@
       ],
       "power": "7",
       "toughness": "7",
+      "keywords": [],
+      "oracle_id": "33ec3894-6ec2-4038-bed4-85e5b9cfe182",
       "sources": [
         {
           "set": "J25",
@@ -3057,6 +3256,8 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "4465eff4-5851-4721-a248-866c686c2ab8",
       "sources": [
         {
           "set": "JMP",
@@ -3368,6 +3569,10 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [
+        "Prowess"
+      ],
+      "oracle_id": "4d7a06f9-2569-4b72-bd5f-5a190337a692",
       "sources": [
         {
           "set": "JMP",
@@ -3391,6 +3596,10 @@
       ],
       "power": "2",
       "toughness": "2",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "3d395892-ef4e-41ea-a66b-99dc3affe51a",
       "sources": [
         {
           "set": "JMP",
@@ -3426,6 +3635,8 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "30272edf-097c-4918-84d2-9fa6c42dbe0a",
       "sources": [
         {
           "set": "JMP",
@@ -3455,6 +3666,8 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "a4095286-d51b-4527-b6ce-23aa539fc23a",
       "sources": [
         {
           "set": "J25",
@@ -3558,6 +3771,10 @@
       "name": "Incubator // Phyrexian",
       "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
       "colors": [],
+      "keywords": [
+        "Transform"
+      ],
+      "oracle_id": "dd3bf75e-9ef0-4ded-9b65-1a60a78a6253",
       "sources": [
         {
           "set": "MOM",
@@ -3671,6 +3888,8 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "c39cd31f-c4a2-4ca8-b4f9-b2e6289743bc",
       "sources": [
         {
           "set": "J22",
@@ -3713,7 +3932,22 @@
           "set_name": "JumpStart 2022",
           "deck": "INSECTS (4)",
           "card": "Crawling Sensation"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Insect",
+      "type_line": "Token Creature — Insect",
+      "colors": [
+        "B"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "b9f1e3ec-dffa-442b-a38a-1e76e59ee146",
+      "sources": [
         {
           "set": "J25",
           "set_name": "JumpStart Foundations",
@@ -3725,7 +3959,21 @@
           "set_name": "JumpStart Foundations",
           "deck": "ICKY (2)",
           "card": "Fumulus, the Infestation"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Insect",
+      "type_line": "Token Creature — Insect",
+      "colors": [
+        "B",
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "ea029c48-d26e-40b1-acef-2ec47fb61101",
+      "sources": [
         {
           "set": "CLU",
           "set_name": "Ravnica: Clue Edition",
@@ -3742,6 +3990,10 @@
       ],
       "power": "2",
       "toughness": "2",
+      "keywords": [
+        "Vigilance"
+      ],
+      "oracle_id": "340aaeb6-cd18-4908-9729-8c53ab02c6f8",
       "sources": [
         {
           "set": "JMP",
@@ -3820,7 +4072,23 @@
           "set_name": "JumpStart Foundations",
           "deck": "STALWART (2)",
           "card": "Basri's Lieutenant"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Knight",
+      "type_line": "Token Creature — Knight",
+      "colors": [
+        "U",
+        "W"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "keywords": [
+        "Vigilance"
+      ],
+      "oracle_id": "8d7d636d-4ae7-4411-8f45-fc57fead851e",
+      "sources": [
         {
           "set": "MOM",
           "set_name": "March of the Machine",
@@ -3837,6 +4105,11 @@
       ],
       "power": "20",
       "toughness": "20",
+      "keywords": [
+        "Flying",
+        "Indestructible"
+      ],
+      "oracle_id": "48e9147e-59f7-4693-83d7-7f514be871bc",
       "sources": [
         {
           "set": "J22",
@@ -3854,6 +4127,10 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [
+        "Hexproof"
+      ],
+      "oracle_id": "fd6663bc-49ae-4e31-b0aa-60f142dfd18c",
       "sources": [
         {
           "set": "J22",
@@ -3877,6 +4154,8 @@
       ],
       "power": "2",
       "toughness": "3",
+      "keywords": [],
+      "oracle_id": "6b8117bf-384f-4f5e-9e52-e01412ce24a9",
       "sources": [
         {
           "set": "JMP",
@@ -3912,6 +4191,10 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [
+        "Prowess"
+      ],
+      "oracle_id": "026e1dbb-bbe4-4164-af19-262a85f4a69d",
       "sources": [
         {
           "set": "TLA",
@@ -3935,6 +4218,8 @@
       ],
       "power": "0",
       "toughness": "0",
+      "keywords": [],
+      "oracle_id": "620159f8-eb7f-4756-a136-8ad9728adbad",
       "sources": [
         {
           "set": "LTR",
@@ -4126,6 +4411,10 @@
       ],
       "power": "2",
       "toughness": "2",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "246d7a00-288d-448e-9b77-8af41e40a44d",
       "sources": [
         {
           "set": "J22",
@@ -4149,6 +4438,10 @@
       ],
       "power": "3",
       "toughness": "3",
+      "keywords": [
+        "Toxic"
+      ],
+      "oracle_id": "84a60a2a-82c2-48e1-97ef-da471eb4d80b",
       "sources": [
         {
           "set": "ONE",
@@ -4178,6 +4471,8 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "b43340e3-bb76-4501-8db2-040b7cae33b7",
       "sources": [
         {
           "set": "ONE",
@@ -4193,6 +4488,10 @@
       "colors": [],
       "power": "1",
       "toughness": "1",
+      "keywords": [
+        "Toxic"
+      ],
+      "oracle_id": "2667d723-01c8-4ea3-ac17-cedb3b842c3b",
       "sources": [
         {
           "set": "ONE",
@@ -4244,6 +4543,8 @@
       "colors": [],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "53ccb03f-a853-4df9-8c00-39279d15f3b2",
       "sources": [
         {
           "set": "JMP",
@@ -4267,6 +4568,8 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "f24f68d0-6e81-4294-a084-8ec8f36fef18",
       "sources": [
         {
           "set": "JMP",
@@ -4290,6 +4593,8 @@
       ],
       "power": "0",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "bcd346a7-4d96-4a0c-9725-fb740e32b730",
       "sources": [
         {
           "set": "J22",
@@ -4303,6 +4608,8 @@
       "name": "Powerstone",
       "type_line": "Token Artifact — Powerstone",
       "colors": [],
+      "keywords": [],
+      "oracle_id": "91da73fe-d028-43d7-bf75-f7ef30b45664",
       "sources": [
         {
           "set": "BRO",
@@ -4398,6 +4705,8 @@
       ],
       "power": "2",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "e2a98673-a9c2-4579-b962-080405bbb661",
       "sources": [
         {
           "set": "J22",
@@ -4415,6 +4724,8 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "7c753b68-b519-43ba-9c58-4902f4850626",
       "sources": [
         {
           "set": "JMP",
@@ -4444,6 +4755,8 @@
       ],
       "power": "2",
       "toughness": "2",
+      "keywords": [],
+      "oracle_id": "a10bb51d-a921-4f22-bb2f-677aedd2a062",
       "sources": [
         {
           "set": "J25",
@@ -4521,6 +4834,8 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "2b7dba01-b08c-4218-9fc1-da55559d9155",
       "sources": [
         {
           "set": "JMP",
@@ -4736,6 +5051,10 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [
+        "Deathtouch"
+      ],
+      "oracle_id": "c02feaa1-8540-4948-b92f-01a719218c2b",
       "sources": [
         {
           "set": "J22",
@@ -4757,6 +5076,8 @@
       "colors": [],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "0410f6f6-88f6-48e2-b301-7660c86317a1",
       "sources": [
         {
           "set": "BRO",
@@ -4780,6 +5101,8 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "eac25f12-6459-438c-a09e-93e23d2cf80d",
       "sources": [
         {
           "set": "JMP",
@@ -4856,12 +5179,6 @@
         {
           "set": "J22",
           "set_name": "JumpStart 2022",
-          "deck": "HOLY (3)",
-          "card": "Dawn of Hope"
-        },
-        {
-          "set": "J22",
-          "set_name": "JumpStart 2022",
           "deck": "LAW (2)",
           "card": "Decree of Justice"
         },
@@ -4926,30 +5243,6 @@
           "card": "Raise the Alarm"
         },
         {
-          "set": "J25",
-          "set_name": "JumpStart Foundations",
-          "deck": "STOKED (1)",
-          "card": "Frontline Heroism"
-        },
-        {
-          "set": "J25",
-          "set_name": "JumpStart Foundations",
-          "deck": "STOKED (3)",
-          "card": "Akroan Crusader"
-        },
-        {
-          "set": "J25",
-          "set_name": "JumpStart Foundations",
-          "deck": "STOKED (3)",
-          "card": "Frontline Heroism"
-        },
-        {
-          "set": "J25",
-          "set_name": "JumpStart Foundations",
-          "deck": "STOKED (4)",
-          "card": "Akroan Crusader"
-        },
-        {
           "set": "DMU",
           "set_name": "Dominaria United",
           "deck": "COALITION CORPS",
@@ -4972,6 +5265,27 @@
           "set_name": "Dominaria United",
           "deck": "COALITION LEGION",
           "card": "Argivian Cavalier"
+        }
+      ]
+    },
+    {
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "keywords": [
+        "Lifelink"
+      ],
+      "oracle_id": "a5ab7f2d-a434-4342-a178-754bdd0181b6",
+      "sources": [
+        {
+          "set": "J22",
+          "set_name": "JumpStart 2022",
+          "deck": "HOLY (3)",
+          "card": "Dawn of Hope"
         },
         {
           "set": "CLU",
@@ -4987,8 +5301,49 @@
       "colors": [
         "R"
       ],
+      "power": "1",
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "971191ac-dedb-4cba-842e-65339a25ce44",
+      "sources": [
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "STOKED (1)",
+          "card": "Frontline Heroism"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "STOKED (3)",
+          "card": "Akroan Crusader"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "STOKED (3)",
+          "card": "Frontline Heroism"
+        },
+        {
+          "set": "J25",
+          "set_name": "JumpStart Foundations",
+          "deck": "STOKED (4)",
+          "card": "Akroan Crusader"
+        }
+      ]
+    },
+    {
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "colors": [
+        "R"
+      ],
       "power": "2",
       "toughness": "2",
+      "keywords": [
+        "Firebending"
+      ],
+      "oracle_id": "768c67a6-a6d0-4001-a252-72ae24b2829e",
       "sources": [
         {
           "set": "TLA",
@@ -5031,13 +5386,41 @@
           "set_name": "Avatar: The Last Airbender",
           "deck": "ZUKO",
           "card": "Fire Nation Attacks"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "keywords": [
+        "Vigilance"
+      ],
+      "oracle_id": "01e023e5-38bc-4203-aecb-6b2de54b03ea",
+      "sources": [
         {
           "set": "CLU",
           "set_name": "Ravnica: Clue Edition",
           "deck": "BOROS LEGION 1",
           "card": "Finale of Glory"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "colors": [
+        "R"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "c269bceb-0908-474c-825a-8bc4d138b3d1",
+      "sources": [
         {
           "set": "TLB",
           "set_name": "Avatar TLA Beginner Box",
@@ -5060,6 +5443,10 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "dc4e2134-f0c2-49aa-9ea3-ebf83af1445c",
       "sources": [
         {
           "set": "J22",
@@ -5140,6 +5527,29 @@
           "card": "Sandsteppe Outcast"
         },
         {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "SELESNYA CONCLAVE 1",
+          "card": "Doomed Traveler"
+        },
+        {
+          "set": "CLU",
+          "set_name": "Ravnica: Clue Edition",
+          "deck": "SELESNYA CONCLAVE 2",
+          "card": "Transluminant"
+        }
+      ]
+    },
+    {
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "colors": [],
+      "power": "1",
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "9d73d64b-3ef7-43b0-b0c2-203ab976d564",
+      "sources": [
+        {
           "set": "TLA",
           "set_name": "Avatar: The Last Airbender",
           "deck": "ADAPTIVE",
@@ -5176,6 +5586,28 @@
           "card": "Lost in the Spirit World"
         },
         {
+          "set": "TLB",
+          "set_name": "Avatar TLA Beginner Box",
+          "deck": "SPELLS",
+          "card": "Lost in the Spirit World"
+        }
+      ]
+    },
+    {
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "colors": [
+        "B",
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "18ef473d-f958-4bff-8045-154f6adc6b04",
+      "sources": [
+        {
           "set": "CLU",
           "set_name": "Ravnica: Clue Edition",
           "deck": "ORZHOV SYNDICATE 1",
@@ -5204,24 +5636,6 @@
           "set_name": "Ravnica: Clue Edition",
           "deck": "ORZHOV SYNDICATE 2",
           "card": "Seraph of the Scales"
-        },
-        {
-          "set": "CLU",
-          "set_name": "Ravnica: Clue Edition",
-          "deck": "SELESNYA CONCLAVE 1",
-          "card": "Doomed Traveler"
-        },
-        {
-          "set": "CLU",
-          "set_name": "Ravnica: Clue Edition",
-          "deck": "SELESNYA CONCLAVE 2",
-          "card": "Transluminant"
-        },
-        {
-          "set": "TLB",
-          "set_name": "Avatar TLA Beginner Box",
-          "deck": "SPELLS",
-          "card": "Lost in the Spirit World"
         }
       ]
     },
@@ -5233,6 +5647,8 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "82adaeee-e011-49db-af53-fda6c2b192d5",
       "sources": [
         {
           "set": "J25",
@@ -5250,13 +5666,30 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "e3c8482e-ce21-43f8-ac07-c26c01941a4d",
       "sources": [
         {
           "set": "JMP",
           "set_name": "JumpStart 2020",
           "deck": "ARCHAEOLOGY (3)",
           "card": "Sharding Sphinx"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Thopter",
+      "type_line": "Token Artifact Creature — Thopter",
+      "colors": [],
+      "power": "1",
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "7c0b6b53-4ddb-4bb5-8a26-0041b2006d3f",
+      "sources": [
         {
           "set": "J22",
           "set_name": "JumpStart 2022",
@@ -5431,6 +5864,8 @@
       "name": "Treasure",
       "type_line": "Token Artifact — Treasure",
       "colors": [],
+      "keywords": [],
+      "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d",
       "sources": [
         {
           "set": "JMP",
@@ -5946,6 +6381,10 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [
+        "Lifelink"
+      ],
+      "oracle_id": "97af46cb-6209-4ae7-81cc-792894999937",
       "sources": [
         {
           "set": "J25",
@@ -5963,6 +6402,10 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [
+        "Vigilance"
+      ],
+      "oracle_id": "4bd91cb2-be86-4950-8b84-7b330a8a61b9",
       "sources": [
         {
           "set": "J25",
@@ -5980,6 +6423,8 @@
       ],
       "power": "2",
       "toughness": "2",
+      "keywords": [],
+      "oracle_id": "3e211a1b-7115-422b-bcb5-3d6c005afd7f",
       "sources": [
         {
           "set": "J22",
@@ -6003,6 +6448,8 @@
       ],
       "power": "2",
       "toughness": "2",
+      "keywords": [],
+      "oracle_id": "b2224843-8274-4872-a7ca-2adf69cc066b",
       "sources": [
         {
           "set": "J22",
@@ -6129,6 +6576,8 @@
       ],
       "power": "1",
       "toughness": "1",
+      "keywords": [],
+      "oracle_id": "318d6000-b6e0-4ef0-ad58-d470f4a271e6",
       "sources": [
         {
           "set": "J25",
@@ -6156,6 +6605,8 @@
       "colors": [],
       "power": "3",
       "toughness": "3",
+      "keywords": [],
+      "oracle_id": "82868a85-a6f4-47db-b159-d23a9c4c9892",
       "sources": [
         {
           "set": "BRO",
@@ -6173,6 +6624,8 @@
       ],
       "power": "2",
       "toughness": "2",
+      "keywords": [],
+      "oracle_id": "ddc8c973-c31e-463f-be45-f3fa7d632362",
       "sources": [
         {
           "set": "JMP",
