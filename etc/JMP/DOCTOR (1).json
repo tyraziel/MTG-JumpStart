@@ -9,7 +9,11 @@
         "W"
       ],
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "40c64f08-ab2f-4933-8e0e-d1a1c729008f"
     },
     {
       "name": "Griffin",
@@ -18,7 +22,11 @@
         "W"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "3d395892-ef4e-41ea-a66b-99dc3affe51a"
     }
   ],
   "cards": [
@@ -85,7 +93,11 @@
             "W"
           ],
           "power": "4",
-          "toughness": "4"
+          "toughness": "4",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "40c64f08-ab2f-4933-8e0e-d1a1c729008f"
         }
       ]
     },
@@ -184,7 +196,11 @@
             "W"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "3d395892-ef4e-41ea-a66b-99dc3affe51a"
         }
       ]
     },

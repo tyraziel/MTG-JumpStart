@@ -5,12 +5,16 @@
     {
       "name": "Blood",
       "type_line": "Token Artifact — Blood",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "03f45075-9423-454f-a256-94dcafb2a779"
     },
     {
       "name": "Treasure",
       "type_line": "Token Artifact — Treasure",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
     }
   ],
   "cards": [
@@ -31,7 +35,9 @@
         {
           "name": "Treasure",
           "type_line": "Token Artifact — Treasure",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
         }
       ]
     },
@@ -52,7 +58,9 @@
         {
           "name": "Blood",
           "type_line": "Token Artifact — Blood",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "03f45075-9423-454f-a256-94dcafb2a779"
         }
       ]
     },
@@ -73,7 +81,9 @@
         {
           "name": "Blood",
           "type_line": "Token Artifact — Blood",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "03f45075-9423-454f-a256-94dcafb2a779"
         }
       ]
     },
@@ -94,7 +104,9 @@
         {
           "name": "Blood",
           "type_line": "Token Artifact — Blood",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "03f45075-9423-454f-a256-94dcafb2a779"
         }
       ]
     },
@@ -115,7 +127,9 @@
         {
           "name": "Blood",
           "type_line": "Token Artifact — Blood",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "03f45075-9423-454f-a256-94dcafb2a779"
         }
       ]
     },

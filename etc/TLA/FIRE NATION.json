@@ -5,7 +5,9 @@
     {
       "name": "Clue",
       "type_line": "Token Artifact — Clue",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
     },
     {
       "name": "Soldier",
@@ -14,7 +16,11 @@
         "R"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [
+        "Firebending"
+      ],
+      "oracle_id": "768c67a6-a6d0-4001-a252-72ae24b2829e"
     }
   ],
   "cards": [
@@ -120,7 +126,11 @@
             "R"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [
+            "Firebending"
+          ],
+          "oracle_id": "768c67a6-a6d0-4001-a252-72ae24b2829e"
         }
       ]
     },
@@ -151,7 +161,9 @@
         {
           "name": "Clue",
           "type_line": "Token Artifact — Clue",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
         }
       ]
     },

@@ -9,7 +9,11 @@
         "W"
       ],
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "40c64f08-ab2f-4933-8e0e-d1a1c729008f"
     },
     {
       "name": "Bird",
@@ -18,7 +22,11 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "b1a2b096-a440-4ef9-ab2a-059c79999297"
     }
   ],
   "cards": [
@@ -99,7 +107,11 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "b1a2b096-a440-4ef9-ab2a-059c79999297"
         }
       ]
     },
@@ -176,7 +188,11 @@
             "W"
           ],
           "power": "4",
-          "toughness": "4"
+          "toughness": "4",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "40c64f08-ab2f-4933-8e0e-d1a1c729008f"
         }
       ]
     },

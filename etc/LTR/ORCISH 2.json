@@ -7,12 +7,18 @@
       "type_line": "Token Artifact Creature — Construct",
       "colors": [],
       "power": "2",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "ba138dd6-6eab-4f97-92b0-ca47d0042216"
     },
     {
       "name": "Food",
       "type_line": "Token Artifact — Food",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
     },
     {
       "name": "Orc Army",
@@ -21,12 +27,16 @@
         "B"
       ],
       "power": "0",
-      "toughness": "0"
+      "toughness": "0",
+      "keywords": [],
+      "oracle_id": "620159f8-eb7f-4756-a136-8ad9728adbad"
     },
     {
       "name": "Treasure",
       "type_line": "Token Artifact — Treasure",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
     }
   ],
   "cards": [
@@ -51,7 +61,9 @@
             "B"
           ],
           "power": "0",
-          "toughness": "0"
+          "toughness": "0",
+          "keywords": [],
+          "oracle_id": "620159f8-eb7f-4756-a136-8ad9728adbad"
         }
       ]
     },
@@ -76,7 +88,9 @@
             "B"
           ],
           "power": "0",
-          "toughness": "0"
+          "toughness": "0",
+          "keywords": [],
+          "oracle_id": "620159f8-eb7f-4756-a136-8ad9728adbad"
         }
       ]
     },
@@ -101,7 +115,9 @@
             "B"
           ],
           "power": "0",
-          "toughness": "0"
+          "toughness": "0",
+          "keywords": [],
+          "oracle_id": "620159f8-eb7f-4756-a136-8ad9728adbad"
         }
       ]
     },
@@ -124,7 +140,11 @@
           "type_line": "Token Artifact Creature — Construct",
           "colors": [],
           "power": "2",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "ba138dd6-6eab-4f97-92b0-ca47d0042216"
         }
       ]
     },
@@ -145,7 +165,9 @@
         {
           "name": "Treasure",
           "type_line": "Token Artifact — Treasure",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
         }
       ]
     },
@@ -170,7 +192,9 @@
             "B"
           ],
           "power": "0",
-          "toughness": "0"
+          "toughness": "0",
+          "keywords": [],
+          "oracle_id": "620159f8-eb7f-4756-a136-8ad9728adbad"
         }
       ]
     },
@@ -191,7 +215,9 @@
         {
           "name": "Food",
           "type_line": "Token Artifact — Food",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
         }
       ]
     },
@@ -214,7 +240,9 @@
             "B"
           ],
           "power": "0",
-          "toughness": "0"
+          "toughness": "0",
+          "keywords": [],
+          "oracle_id": "620159f8-eb7f-4756-a136-8ad9728adbad"
         }
       ]
     },
@@ -261,7 +289,9 @@
             "B"
           ],
           "power": "0",
-          "toughness": "0"
+          "toughness": "0",
+          "keywords": [],
+          "oracle_id": "620159f8-eb7f-4756-a136-8ad9728adbad"
         }
       ]
     },

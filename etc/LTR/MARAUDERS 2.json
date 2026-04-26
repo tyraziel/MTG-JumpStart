@@ -9,7 +9,9 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "a4095286-d51b-4527-b6ce-23aa539fc23a"
     },
     {
       "name": "Orc Army",
@@ -18,12 +20,16 @@
         "B"
       ],
       "power": "0",
-      "toughness": "0"
+      "toughness": "0",
+      "keywords": [],
+      "oracle_id": "620159f8-eb7f-4756-a136-8ad9728adbad"
     },
     {
       "name": "Treasure",
       "type_line": "Token Artifact — Treasure",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
     }
   ],
   "cards": [
@@ -76,7 +82,9 @@
             "B"
           ],
           "power": "0",
-          "toughness": "0"
+          "toughness": "0",
+          "keywords": [],
+          "oracle_id": "620159f8-eb7f-4756-a136-8ad9728adbad"
         }
       ]
     },
@@ -127,7 +135,9 @@
             "B"
           ],
           "power": "0",
-          "toughness": "0"
+          "toughness": "0",
+          "keywords": [],
+          "oracle_id": "620159f8-eb7f-4756-a136-8ad9728adbad"
         }
       ]
     },
@@ -146,7 +156,9 @@
         {
           "name": "Treasure",
           "type_line": "Token Artifact — Treasure",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
         },
         {
           "name": "Orc Army",
@@ -155,7 +167,9 @@
             "B"
           ],
           "power": "0",
-          "toughness": "0"
+          "toughness": "0",
+          "keywords": [],
+          "oracle_id": "620159f8-eb7f-4756-a136-8ad9728adbad"
         }
       ]
     },
@@ -178,7 +192,9 @@
             "B"
           ],
           "power": "0",
-          "toughness": "0"
+          "toughness": "0",
+          "keywords": [],
+          "oracle_id": "620159f8-eb7f-4756-a136-8ad9728adbad"
         }
       ]
     },
@@ -201,7 +217,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "a4095286-d51b-4527-b6ce-23aa539fc23a"
         }
       ]
     },

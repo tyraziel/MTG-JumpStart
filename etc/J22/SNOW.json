@@ -9,7 +9,12 @@
         "B"
       ],
       "power": "20",
-      "toughness": "20"
+      "toughness": "20",
+      "keywords": [
+        "Flying",
+        "Indestructible"
+      ],
+      "oracle_id": "48e9147e-59f7-4693-83d7-7f514be871bc"
     }
   ],
   "cards": [
@@ -162,7 +167,12 @@
             "B"
           ],
           "power": "20",
-          "toughness": "20"
+          "toughness": "20",
+          "keywords": [
+            "Flying",
+            "Indestructible"
+          ],
+          "oracle_id": "48e9147e-59f7-4693-83d7-7f514be871bc"
         }
       ]
     },

@@ -5,7 +5,9 @@
     {
       "name": "Clue",
       "type_line": "Token Artifact — Clue",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
     },
     {
       "name": "Frog Lizard",
@@ -14,7 +16,9 @@
         "G"
       ],
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "keywords": [],
+      "oracle_id": "8653c69b-99a9-4881-a14c-68ba928c34d5"
     }
   ],
   "cards": [
@@ -136,7 +140,9 @@
         {
           "name": "Clue",
           "type_line": "Token Artifact — Clue",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
         }
       ]
     },
@@ -175,7 +181,9 @@
             "G"
           ],
           "power": "3",
-          "toughness": "3"
+          "toughness": "3",
+          "keywords": [],
+          "oracle_id": "8653c69b-99a9-4881-a14c-68ba928c34d5"
         }
       ]
     },

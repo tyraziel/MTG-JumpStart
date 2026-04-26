@@ -10,7 +10,9 @@
         "U"
       ],
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "keywords": [],
+      "oracle_id": "f81c047d-de36-4aed-806b-f14a290771a4"
     },
     {
       "name": "Wizard",
@@ -19,7 +21,9 @@
         "U"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "3e211a1b-7115-422b-bcb5-3d6c005afd7f"
     }
   ],
   "cards": [
@@ -139,7 +143,9 @@
             "U"
           ],
           "power": "4",
-          "toughness": "4"
+          "toughness": "4",
+          "keywords": [],
+          "oracle_id": "f81c047d-de36-4aed-806b-f14a290771a4"
         }
       ]
     },
@@ -199,7 +205,9 @@
             "U"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "3e211a1b-7115-422b-bcb5-3d6c005afd7f"
         }
       ]
     },

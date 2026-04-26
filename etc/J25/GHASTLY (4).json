@@ -5,7 +5,9 @@
     {
       "name": "Treasure",
       "type_line": "Token Artifact — Treasure",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
     },
     {
       "name": "Zombie",
@@ -14,7 +16,9 @@
         "B"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "ddc8c973-c31e-463f-be45-f3fa7d632362"
     }
   ],
   "cards": [
@@ -49,7 +53,9 @@
         {
           "name": "Treasure",
           "type_line": "Token Artifact — Treasure",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
         }
       ]
     },
@@ -74,7 +80,9 @@
             "B"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "ddc8c973-c31e-463f-be45-f3fa7d632362"
         }
       ]
     },
@@ -127,7 +135,9 @@
             "B"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "ddc8c973-c31e-463f-be45-f3fa7d632362"
         }
       ]
     },
@@ -150,7 +160,9 @@
             "B"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "ddc8c973-c31e-463f-be45-f3fa7d632362"
         }
       ]
     },
@@ -185,7 +197,9 @@
             "B"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "ddc8c973-c31e-463f-be45-f3fa7d632362"
         }
       ]
     },
@@ -204,7 +218,9 @@
         {
           "name": "Treasure",
           "type_line": "Token Artifact — Treasure",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
         }
       ]
     },

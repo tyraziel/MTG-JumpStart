@@ -9,7 +9,11 @@
         "B"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "ff86d8fc-5242-405e-b5e3-f9ff73296794"
     },
     {
       "name": "Spirit",
@@ -19,12 +23,18 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "18ef473d-f958-4bff-8045-154f6adc6b04"
     },
     {
       "name": "Treasure",
       "type_line": "Token Artifact — Treasure",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
     }
   ],
   "cards": [
@@ -78,7 +88,11 @@
             "B"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "ff86d8fc-5242-405e-b5e3-f9ff73296794"
         }
       ]
     },
@@ -132,7 +146,11 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "18ef473d-f958-4bff-8045-154f6adc6b04"
         }
       ]
     },
@@ -159,7 +177,11 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "18ef473d-f958-4bff-8045-154f6adc6b04"
         }
       ]
     },
@@ -179,7 +201,9 @@
         {
           "name": "Treasure",
           "type_line": "Token Artifact — Treasure",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
         }
       ]
     },
@@ -204,7 +228,11 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "18ef473d-f958-4bff-8045-154f6adc6b04"
         }
       ]
     },

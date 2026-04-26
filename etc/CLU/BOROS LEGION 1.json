@@ -9,12 +9,19 @@
         "W"
       ],
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "keywords": [
+        "Flying",
+        "Vigilance"
+      ],
+      "oracle_id": "29ff8699-53d8-413b-8a3c-0e3ea1e13ff0"
     },
     {
       "name": "Clue",
       "type_line": "Token Artifact — Clue",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
     },
     {
       "name": "Soldier",
@@ -23,7 +30,11 @@
         "W"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [
+        "Vigilance"
+      ],
+      "oracle_id": "01e023e5-38bc-4203-aecb-6b2de54b03ea"
     }
   ],
   "cards": [
@@ -44,7 +55,9 @@
         {
           "name": "Clue",
           "type_line": "Token Artifact — Clue",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
         }
       ]
     },
@@ -139,7 +152,11 @@
             "W"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [
+            "Vigilance"
+          ],
+          "oracle_id": "01e023e5-38bc-4203-aecb-6b2de54b03ea"
         },
         {
           "name": "Angel",
@@ -148,7 +165,12 @@
             "W"
           ],
           "power": "4",
-          "toughness": "4"
+          "toughness": "4",
+          "keywords": [
+            "Flying",
+            "Vigilance"
+          ],
+          "oracle_id": "29ff8699-53d8-413b-8a3c-0e3ea1e13ff0"
         }
       ]
     },

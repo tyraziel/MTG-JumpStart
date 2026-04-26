@@ -7,7 +7,11 @@
       "type_line": "Token Artifact Creature — Phyrexian Mite",
       "colors": [],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Toxic"
+      ],
+      "oracle_id": "2667d723-01c8-4ea3-ac17-cedb3b842c3b"
     }
   ],
   "cards": [
@@ -30,7 +34,11 @@
           "type_line": "Token Artifact Creature — Phyrexian Mite",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Toxic"
+          ],
+          "oracle_id": "2667d723-01c8-4ea3-ac17-cedb3b842c3b"
         }
       ]
     },
@@ -67,7 +75,11 @@
           "type_line": "Token Artifact Creature — Phyrexian Mite",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Toxic"
+          ],
+          "oracle_id": "2667d723-01c8-4ea3-ac17-cedb3b842c3b"
         }
       ]
     },

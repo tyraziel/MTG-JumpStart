@@ -9,7 +9,9 @@
         "G"
       ],
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "keywords": [],
+      "oracle_id": "6bb61f34-5d57-4eaa-a02c-f5d08c1ee920"
     }
   ],
   "cards": [
@@ -168,7 +170,9 @@
             "G"
           ],
           "power": "3",
-          "toughness": "3"
+          "toughness": "3",
+          "keywords": [],
+          "oracle_id": "6bb61f34-5d57-4eaa-a02c-f5d08c1ee920"
         }
       ]
     },

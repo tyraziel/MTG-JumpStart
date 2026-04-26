@@ -5,7 +5,9 @@
     {
       "name": "Treasure",
       "type_line": "Token Artifact — Treasure",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
     },
     {
       "name": "Worm",
@@ -15,7 +17,9 @@
         "G"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "318d6000-b6e0-4ef0-ad58-d470f4a271e6"
     },
     {
       "name": "Zombie",
@@ -24,7 +28,9 @@
         "B"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "ddc8c973-c31e-463f-be45-f3fa7d632362"
     }
   ],
   "cards": [
@@ -64,7 +70,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "318d6000-b6e0-4ef0-ad58-d470f4a271e6"
         }
       ]
     },
@@ -103,7 +111,9 @@
             "B"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "ddc8c973-c31e-463f-be45-f3fa7d632362"
         }
       ]
     },
@@ -190,7 +200,9 @@
         {
           "name": "Treasure",
           "type_line": "Token Artifact — Treasure",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
         }
       ]
     },

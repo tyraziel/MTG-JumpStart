@@ -9,7 +9,11 @@
         "W"
       ],
       "power": "4",
-      "toughness": "4"
+      "toughness": "4",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "40c64f08-ab2f-4933-8e0e-d1a1c729008f"
     },
     {
       "name": "Human",
@@ -18,7 +22,9 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "30272edf-097c-4918-84d2-9fa6c42dbe0a"
     }
   ],
   "cards": [
@@ -85,7 +91,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "30272edf-097c-4918-84d2-9fa6c42dbe0a"
         }
       ]
     },
@@ -162,7 +170,11 @@
             "W"
           ],
           "power": "4",
-          "toughness": "4"
+          "toughness": "4",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "40c64f08-ab2f-4933-8e0e-d1a1c729008f"
         }
       ]
     },

@@ -9,7 +9,9 @@
         "G"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "2b7dba01-b08c-4218-9fc1-da55559d9155"
     },
     {
       "name": "Wolf",
@@ -18,7 +20,9 @@
         "G"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "b2224843-8274-4872-a7ca-2adf69cc066b"
     }
   ],
   "cards": [
@@ -57,7 +61,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "2b7dba01-b08c-4218-9fc1-da55559d9155"
         }
       ]
     },
@@ -172,7 +178,9 @@
             "G"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "b2224843-8274-4872-a7ca-2adf69cc066b"
         }
       ]
     },

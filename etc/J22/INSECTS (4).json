@@ -9,7 +9,11 @@
         "G"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "5e34ad53-c154-4302-b25a-fe4bb1555a5f"
     },
     {
       "name": "Insect",
@@ -18,7 +22,9 @@
         "G"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "c39cd31f-c4a2-4ca8-b4f9-b2e6289743bc"
     }
   ],
   "cards": [
@@ -141,7 +147,11 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "5e34ad53-c154-4302-b25a-fe4bb1555a5f"
         }
       ]
     },
@@ -200,7 +210,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "c39cd31f-c4a2-4ca8-b4f9-b2e6289743bc"
         }
       ]
     },

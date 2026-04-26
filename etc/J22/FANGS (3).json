@@ -9,7 +9,11 @@
         "B"
       ],
       "power": "*",
-      "toughness": "*"
+      "toughness": "*",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "0f6d78a4-f330-47b5-9c30-51324a1e7fb9"
     }
   ],
   "cards": [
@@ -34,7 +38,11 @@
             "B"
           ],
           "power": "*",
-          "toughness": "*"
+          "toughness": "*",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "0f6d78a4-f330-47b5-9c30-51324a1e7fb9"
         }
       ]
     },

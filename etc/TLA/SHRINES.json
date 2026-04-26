@@ -9,14 +9,20 @@
         "R"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Prowess"
+      ],
+      "oracle_id": "026e1dbb-bbe4-4164-af19-262a85f4a69d"
     },
     {
       "name": "Spirit",
       "type_line": "Token Creature — Spirit",
       "colors": [],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "9d73d64b-3ef7-43b0-b0c2-203ab976d564"
     }
   ],
   "cards": [
@@ -67,7 +73,9 @@
           "type_line": "Token Creature — Spirit",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "9d73d64b-3ef7-43b0-b0c2-203ab976d564"
         }
       ]
     },
@@ -187,7 +195,11 @@
             "R"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Prowess"
+          ],
+          "oracle_id": "026e1dbb-bbe4-4164-af19-262a85f4a69d"
         }
       ]
     },

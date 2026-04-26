@@ -9,7 +9,9 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "63d59a37-fd7c-4d53-a666-7db6fae2f78f"
     },
     {
       "name": "Monk",
@@ -18,7 +20,11 @@
         "R"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Prowess"
+      ],
+      "oracle_id": "026e1dbb-bbe4-4164-af19-262a85f4a69d"
     }
   ],
   "cards": [
@@ -85,7 +91,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "63d59a37-fd7c-4d53-a666-7db6fae2f78f"
         }
       ]
     },
@@ -186,7 +194,11 @@
             "R"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Prowess"
+          ],
+          "oracle_id": "026e1dbb-bbe4-4164-af19-262a85f4a69d"
         }
       ]
     },

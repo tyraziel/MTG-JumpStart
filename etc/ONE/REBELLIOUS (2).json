@@ -9,7 +9,9 @@
         "R"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "a10bb51d-a921-4f22-bb2f-677aedd2a062"
     }
   ],
   "cards": [
@@ -124,7 +126,9 @@
             "R"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "a10bb51d-a921-4f22-bb2f-677aedd2a062"
         }
       ]
     },
@@ -147,7 +151,9 @@
             "R"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "a10bb51d-a921-4f22-bb2f-677aedd2a062"
         }
       ]
     },
@@ -170,7 +176,9 @@
             "R"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "a10bb51d-a921-4f22-bb2f-677aedd2a062"
         }
       ]
     },

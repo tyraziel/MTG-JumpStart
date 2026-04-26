@@ -9,7 +9,9 @@
         "R"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "4465eff4-5851-4721-a248-866c686c2ab8"
     }
   ],
   "cards": [
@@ -34,7 +36,9 @@
             "R"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "4465eff4-5851-4721-a248-866c686c2ab8"
         }
       ]
     },
@@ -73,7 +77,9 @@
             "R"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "4465eff4-5851-4721-a248-866c686c2ab8"
         }
       ]
     },

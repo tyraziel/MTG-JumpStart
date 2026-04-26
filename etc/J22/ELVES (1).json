@@ -9,7 +9,9 @@
         "G"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "dac8a765-6845-4b57-bb79-4ec463436f92"
     }
   ],
   "cards": [
@@ -34,7 +36,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "dac8a765-6845-4b57-bb79-4ec463436f92"
         }
       ]
     },
@@ -59,7 +63,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "dac8a765-6845-4b57-bb79-4ec463436f92"
         }
       ]
     },
@@ -154,7 +160,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "dac8a765-6845-4b57-bb79-4ec463436f92"
         }
       ]
     },
@@ -213,7 +221,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "dac8a765-6845-4b57-bb79-4ec463436f92"
         }
       ]
     },

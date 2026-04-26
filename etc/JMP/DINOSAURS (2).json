@@ -9,7 +9,11 @@
         "G"
       ],
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "keywords": [
+        "Trample"
+      ],
+      "oracle_id": "240300bd-5088-43c5-a873-290507515843"
     }
   ],
   "cards": [
@@ -62,7 +66,11 @@
             "G"
           ],
           "power": "3",
-          "toughness": "3"
+          "toughness": "3",
+          "keywords": [
+            "Trample"
+          ],
+          "oracle_id": "240300bd-5088-43c5-a873-290507515843"
         }
       ]
     },

@@ -9,7 +9,9 @@
         "G"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "c39cd31f-c4a2-4ca8-b4f9-b2e6289743bc"
     }
   ],
   "cards": [
@@ -34,7 +36,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "c39cd31f-c4a2-4ca8-b4f9-b2e6289743bc"
         }
       ]
     },
@@ -87,7 +91,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "c39cd31f-c4a2-4ca8-b4f9-b2e6289743bc"
         }
       ]
     },
@@ -204,7 +210,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "c39cd31f-c4a2-4ca8-b4f9-b2e6289743bc"
         }
       ]
     },

@@ -9,7 +9,11 @@
         "W"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [
+        "Vigilance"
+      ],
+      "oracle_id": "340aaeb6-cd18-4908-9729-8c53ab02c6f8"
     },
     {
       "name": "Soldier",
@@ -18,7 +22,9 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "eac25f12-6459-438c-a09e-93e23d2cf80d"
     }
   ],
   "cards": [
@@ -42,7 +48,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "eac25f12-6459-438c-a09e-93e23d2cf80d"
         }
       ]
     },
@@ -95,7 +103,11 @@
             "W"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [
+            "Vigilance"
+          ],
+          "oracle_id": "340aaeb6-cd18-4908-9729-8c53ab02c6f8"
         }
       ]
     },

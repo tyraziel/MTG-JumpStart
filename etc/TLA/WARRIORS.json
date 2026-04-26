@@ -9,12 +9,16 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "63d59a37-fd7c-4d53-a666-7db6fae2f78f"
     },
     {
       "name": "Clue",
       "type_line": "Token Artifact — Clue",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
     }
   ],
   "cards": [
@@ -53,7 +57,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "63d59a37-fd7c-4d53-a666-7db6fae2f78f"
         }
       ]
     },
@@ -121,7 +127,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "63d59a37-fd7c-4d53-a666-7db6fae2f78f"
         }
       ]
     },
@@ -154,7 +162,9 @@
         {
           "name": "Clue",
           "type_line": "Token Artifact — Clue",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
         }
       ]
     },
@@ -187,7 +197,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "63d59a37-fd7c-4d53-a666-7db6fae2f78f"
         }
       ]
     },
@@ -210,7 +222,9 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "63d59a37-fd7c-4d53-a666-7db6fae2f78f"
         }
       ]
     },

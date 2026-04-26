@@ -9,7 +9,9 @@
         "G"
       ],
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "keywords": [],
+      "oracle_id": "6bb61f34-5d57-4eaa-a02c-f5d08c1ee920"
     },
     {
       "name": "Boar",
@@ -18,7 +20,9 @@
         "G"
       ],
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "keywords": [],
+      "oracle_id": "e4a19155-6689-43de-8175-f28dd2cf0a9a"
     },
     {
       "name": "Saproling",
@@ -27,7 +31,9 @@
         "G"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "2b7dba01-b08c-4218-9fc1-da55559d9155"
     }
   ],
   "cards": [
@@ -52,7 +58,9 @@
             "G"
           ],
           "power": "3",
-          "toughness": "3"
+          "toughness": "3",
+          "keywords": [],
+          "oracle_id": "6bb61f34-5d57-4eaa-a02c-f5d08c1ee920"
         }
       ]
     },
@@ -91,7 +99,9 @@
             "G"
           ],
           "power": "3",
-          "toughness": "3"
+          "toughness": "3",
+          "keywords": [],
+          "oracle_id": "e4a19155-6689-43de-8175-f28dd2cf0a9a"
         }
       ]
     },
@@ -204,7 +214,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "2b7dba01-b08c-4218-9fc1-da55559d9155"
         }
       ]
     },

@@ -9,7 +9,9 @@
         "R"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "971191ac-dedb-4cba-842e-65339a25ce44"
     }
   ],
   "cards": [
@@ -176,7 +178,9 @@
             "R"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "971191ac-dedb-4cba-842e-65339a25ce44"
         }
       ]
     },

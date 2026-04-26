@@ -5,14 +5,20 @@
     {
       "name": "Copy",
       "type_line": "Token",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
     },
     {
       "name": "Thopter",
       "type_line": "Token Artifact Creature — Thopter",
       "colors": [],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "7c0b6b53-4ddb-4bb5-8a26-0041b2006d3f"
     }
   ],
   "cards": [
@@ -47,7 +53,11 @@
           "type_line": "Token Artifact Creature — Thopter",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "7c0b6b53-4ddb-4bb5-8a26-0041b2006d3f"
         }
       ]
     },
@@ -66,7 +76,9 @@
         {
           "name": "Copy",
           "type_line": "Token",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
         }
       ]
     },
@@ -85,7 +97,9 @@
         {
           "name": "Copy",
           "type_line": "Token",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
         }
       ]
     },
@@ -122,7 +136,11 @@
           "type_line": "Token Artifact Creature — Thopter",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "7c0b6b53-4ddb-4bb5-8a26-0041b2006d3f"
         }
       ]
     },
@@ -181,7 +199,11 @@
           "type_line": "Token Artifact Creature — Thopter",
           "colors": [],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "7c0b6b53-4ddb-4bb5-8a26-0041b2006d3f"
         }
       ]
     },

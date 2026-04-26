@@ -9,7 +9,9 @@
         "W"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "6788478d-e157-4483-be09-9edb3f841431"
     },
     {
       "name": "Knight",
@@ -18,7 +20,11 @@
         "W"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [
+        "Vigilance"
+      ],
+      "oracle_id": "340aaeb6-cd18-4908-9729-8c53ab02c6f8"
     }
   ],
   "cards": [
@@ -43,7 +49,9 @@
             "W"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "6788478d-e157-4483-be09-9edb3f841431"
         }
       ]
     },
@@ -160,7 +168,11 @@
             "W"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [
+            "Vigilance"
+          ],
+          "oracle_id": "340aaeb6-cd18-4908-9729-8c53ab02c6f8"
         }
       ]
     },

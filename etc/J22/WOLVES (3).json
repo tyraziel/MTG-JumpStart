@@ -9,7 +9,9 @@
         "G"
       ],
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "keywords": [],
+      "oracle_id": "b2224843-8274-4872-a7ca-2adf69cc066b"
     }
   ],
   "cards": [
@@ -34,7 +36,9 @@
             "G"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "b2224843-8274-4872-a7ca-2adf69cc066b"
         }
       ]
     },
@@ -87,7 +91,9 @@
             "G"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "b2224843-8274-4872-a7ca-2adf69cc066b"
         }
       ]
     },
@@ -150,7 +156,9 @@
             "G"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "b2224843-8274-4872-a7ca-2adf69cc066b"
         }
       ]
     },
@@ -185,7 +193,9 @@
             "G"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "b2224843-8274-4872-a7ca-2adf69cc066b"
         }
       ]
     },
@@ -208,7 +218,9 @@
             "G"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "b2224843-8274-4872-a7ca-2adf69cc066b"
         }
       ]
     },
@@ -232,7 +244,9 @@
             "G"
           ],
           "power": "2",
-          "toughness": "2"
+          "toughness": "2",
+          "keywords": [],
+          "oracle_id": "b2224843-8274-4872-a7ca-2adf69cc066b"
         }
       ]
     },

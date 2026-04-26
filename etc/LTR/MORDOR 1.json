@@ -5,7 +5,9 @@
     {
       "name": "Food",
       "type_line": "Token Artifact — Food",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
     },
     {
       "name": "Orc Army",
@@ -14,7 +16,9 @@
         "B"
       ],
       "power": "0",
-      "toughness": "0"
+      "toughness": "0",
+      "keywords": [],
+      "oracle_id": "620159f8-eb7f-4756-a136-8ad9728adbad"
     }
   ],
   "cards": [
@@ -95,7 +99,9 @@
             "B"
           ],
           "power": "0",
-          "toughness": "0"
+          "toughness": "0",
+          "keywords": [],
+          "oracle_id": "620159f8-eb7f-4756-a136-8ad9728adbad"
         }
       ]
     },
@@ -116,7 +122,9 @@
         {
           "name": "Food",
           "type_line": "Token Artifact — Food",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
         }
       ]
     },
@@ -139,7 +147,9 @@
             "B"
           ],
           "power": "0",
-          "toughness": "0"
+          "toughness": "0",
+          "keywords": [],
+          "oracle_id": "620159f8-eb7f-4756-a136-8ad9728adbad"
         }
       ]
     },
@@ -194,7 +204,9 @@
         {
           "name": "Food",
           "type_line": "Token Artifact — Food",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "a468338f-635e-4206-89d6-72d723071d45"
         }
       ]
     },

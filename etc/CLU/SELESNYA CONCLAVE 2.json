@@ -5,7 +5,9 @@
     {
       "name": "Copy",
       "type_line": "Token",
-      "colors": []
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
     },
     {
       "name": "Elemental",
@@ -15,7 +17,9 @@
         "W"
       ],
       "power": "*",
-      "toughness": "*"
+      "toughness": "*",
+      "keywords": [],
+      "oracle_id": "9f790267-5be9-41aa-be69-f87a8ce5a29e"
     },
     {
       "name": "Saproling",
@@ -24,7 +28,9 @@
         "G"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "2b7dba01-b08c-4218-9fc1-da55559d9155"
     },
     {
       "name": "Spirit",
@@ -33,7 +39,11 @@
         "W"
       ],
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "dc4e2134-f0c2-49aa-9ea3-ebf83af1445c"
     }
   ],
   "cards": [
@@ -58,7 +68,11 @@
             "W"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "dc4e2134-f0c2-49aa-9ea3-ebf83af1445c"
         }
       ]
     },
@@ -99,7 +113,9 @@
             "G"
           ],
           "power": "1",
-          "toughness": "1"
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "2b7dba01-b08c-4218-9fc1-da55559d9155"
         }
       ]
     },
@@ -135,7 +151,9 @@
         {
           "name": "Copy",
           "type_line": "Token",
-          "colors": []
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
         }
       ]
     },
@@ -176,7 +194,9 @@
             "W"
           ],
           "power": "*",
-          "toughness": "*"
+          "toughness": "*",
+          "keywords": [],
+          "oracle_id": "9f790267-5be9-41aa-be69-f87a8ce5a29e"
         }
       ]
     },
