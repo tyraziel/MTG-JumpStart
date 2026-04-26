@@ -255,6 +255,9 @@ def fetch_token_details(token_uri: str) -> Dict:
             details["power"] = data["power"]
         if data.get("toughness") is not None:
             details["toughness"] = data["toughness"]
+        details["keywords"] = data.get("keywords", [])
+        if data.get("oracle_id"):
+            details["oracle_id"] = data["oracle_id"]
 
         token_detail_cache[token_uri] = details
         return details
