@@ -157,7 +157,9 @@ Generates `etc/jumpstart-decks-combined.json` — a single file with all decks a
 python generate_combined_json.py
 ```
 
-No arguments. Reads all deck JSONs from all 12 set directories and writes the combined file.
+No arguments. Reads all deck JSONs from all 12 set directories and writes the combined file (~3 MB).
+
+Each deck entry includes `deck_name`, `set`, `set_name`, a top-level `tokens` array (with `keywords` and `oracle_id`), and the full `cards` array. A `card_index` at the top level maps every card name to the list of deck keys that contain it.
 
 ### `add_token_data.py`
 Backfills token data into `card_type_cache.json` for cards that don't yet have a `tokens` key.
