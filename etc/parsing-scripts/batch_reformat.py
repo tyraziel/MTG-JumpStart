@@ -254,7 +254,7 @@ def scryfall_get(url: str, **kwargs) -> requests.Response:
                 print("✗ RATE LIMITED — all retries exhausted.", file=sys.stderr)
                 print("Double-check current Scryfall API rate limits:", file=sys.stderr)
                 print("  https://scryfall.com/docs/api/rate-limits", file=sys.stderr)
-                print("The script has stopped. Lower --delay or wait before retrying.", file=sys.stderr)
+                print("The script has stopped. Increase --delay or wait before retrying.", file=sys.stderr)
                 print("="*60, file=sys.stderr)
                 sys.exit(1)
             retry_after = int(response.headers.get("Retry-After", backoff))
