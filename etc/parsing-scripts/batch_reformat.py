@@ -381,9 +381,7 @@ def get_card_data(card_name: str) -> Dict:
 
     except requests.exceptions.RequestException as e:
         print(f"✗ Error fetching {card_name}: {e}", file=sys.stderr)
-        card_data = {"type": "Unknown"}
-        card_cache[card_name] = card_data
-        return card_data
+        return {"type": "Unknown"}
 
 
 def get_card_type(card_name: str) -> str:
