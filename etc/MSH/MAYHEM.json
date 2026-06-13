@@ -1,0 +1,195 @@
+{
+  "deck_name": "MAYHEM",
+  "set": "MSH",
+  "tokens": [
+    {
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "colors": []
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Project Deathlok Soldier",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Zombie Soldier",
+      "mana_cost": "{B}",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Red Room Recruit",
+      "type": "Creatures",
+      "type_line": "Creature — Human Spy Villain",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Yellowjacket, Heartless Marauder",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Rogue Villain",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Swarm, Being of Bees",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Insect Villain",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Inner Demons Gangsters",
+      "type": "Creatures",
+      "type_line": "Creature — Human Rogue Villain",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Roxxon Brutes",
+      "type": "Creatures",
+      "type_line": "Creature — Human Berserker Villain",
+      "mana_cost": "{4}{B}",
+      "cmc": 5.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Green Goblin, Back for More",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Goblin Human Villain",
+      "mana_cost": "{3}{B}{B}",
+      "cmc": 5.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Pumpkin Bombardment",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{B/R}",
+      "cmc": 1.0,
+      "colors": [
+        "B",
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Sadistic Slash",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Daily Bugle Newspaper",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Rocket-Powered Goblin Glider",
+      "type": "Artifacts",
+      "type_line": "Artifact — Equipment",
+      "mana_cost": "{3}",
+      "cmc": 3.0,
+      "colors": [],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Alien Symbiosis",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Moor",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

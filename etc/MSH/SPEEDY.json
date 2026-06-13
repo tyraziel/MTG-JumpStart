@@ -1,0 +1,187 @@
+{
+  "deck_name": "SPEEDY",
+  "set": "MSH",
+  "tokens": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Masked Meower",
+      "type": "Creatures",
+      "type_line": "Creature — Spider Cat Hero",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Quicksilver, Brash Blur",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Mutant Hero",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Taxi Driver",
+      "type": "Creatures",
+      "type_line": "Creature — Human Pilot",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Speed, Young Avenger",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Mutant Hero",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Whirlwind, Killer Cyclone",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Mutant Villain",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Volcanic Villain",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental Villain",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "The Whizzer, Classic Speedster",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Hero",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Living Lightning, Charged Up",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Elemental Hero",
+      "mana_cost": "{4}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Lightning Strike",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Marvelous Melee",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{4}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Super Speed",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Pick Up the Pace",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Bluff",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

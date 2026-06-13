@@ -1,15 +1,20 @@
 TRICKSTERS
-Kid Loki
-Living Lies of Loki
-Ant-Man's Air Force
-Impossible Man
-Ghost, Spectral Saboteur
-Loki, Lord of Misrule
-A.I.M. Scientists
-We Say Thee Nay!
-Quantum Reduction
-Trickster's Stratagem
-Multiversal Recruitment
-The Clone Saga
-Thriving Isle
+//Creatures (7)
+1 Kid Loki
+1 Living Lies of Loki
+1 Ant-Man's Air Force
+1 Impossible Man
+1 Ghost, Spectral Saboteur
+1 Loki, Lord of Misrule
+1 A.I.M. Scientists
+//Sorceries (2)
+1 Trickster's Stratagem
+1 Multiversal Recruitment
+//Instants (1)
+1 We Say Thee Nay!
+//Enchantments (2)
+1 Quantum Reduction
+1 The Clone Saga
+//Lands (8)
+1 Thriving Isle
 7 Island

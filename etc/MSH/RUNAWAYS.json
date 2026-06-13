@@ -1,0 +1,197 @@
+{
+  "deck_name": "RUNAWAYS",
+  "set": "MSH",
+  "tokens": [
+    {
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "colors": []
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Chase Stein, Runaway",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Hero",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Alex Wilder, Runaway",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Hero Villain",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Molly Hayes, Runaway",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Mutant Hero",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Gert and Old Lace, Runaways",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Dinosaur Hero",
+      "mana_cost": "{2}{R/G}",
+      "cmc": 3.0,
+      "colors": [
+        "G",
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Karolina Dean, Runaway",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Alien Hero",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Nico Minoru, Runaway",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Warlock Hero",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "mythic",
+      "power": "2",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Victor Mancha, Runaway",
+      "type": "Creatures",
+      "type_line": "Legendary Artifact Creature — Human Hero",
+      "mana_cost": "{5}",
+      "cmc": 5.0,
+      "colors": [],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Hex Magic",
+      "type": "Sorceries",
+      "type_line": "Sorcery — Arcane",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Shock",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Blazing Crescendo",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Crossover Collaboration",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Marvelous Melee",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{4}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Bluff",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

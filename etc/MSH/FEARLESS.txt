@@ -1,15 +1,19 @@
 FEARLESS
-Unlucky Witness
-Taxi Driver
-Stick, Fearless Mentor
-Daredevil, Fearless Fighter
-Jessica Jones, Private Eye
-Elektra, Femme Fatale
-Stegron the Dinosaur Man
-Blazing Crescendo
-Daredevil's Billy Club
-HULK SMASH!
-Hire a Crew
-Fogwell's Gym
-Thriving Bluff
+//Creatures (7)
+1 Unlucky Witness
+1 Taxi Driver
+1 Stick, Fearless Mentor
+1 Daredevil, Fearless Fighter
+1 Jessica Jones, Private Eye
+1 Elektra, Femme Fatale
+1 Stegron the Dinosaur Man
+//Instants (3)
+1 Blazing Crescendo
+1 HULK SMASH!
+1 Hire a Crew
+//Artifacts (1)
+1 Daredevil's Billy Club
+//Lands (9)
+1 Fogwell's Gym
+1 Thriving Bluff
 7 Mountain

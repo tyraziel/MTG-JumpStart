@@ -1,0 +1,289 @@
+{
+  "deck_name": "FANTASTIC",
+  "set": "MSH",
+  "tokens": [
+    {
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "colors": []
+    },
+    {
+      "name": "Wall",
+      "type_line": "Token Creature — Wall",
+      "colors": [],
+      "power": "0",
+      "toughness": "4"
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Human Torch, Johnny Storm",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Hero",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "H.E.R.B.I.E. Scout Unit",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Robot Scout",
+      "mana_cost": "{4}",
+      "cmc": 4.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Mister Fantastic, Reed Richards",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Scientist Hero",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Invisible Woman, Sue Storm",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Hero",
+      "mana_cost": "{4}{W}",
+      "cmc": 5.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "5",
+      "tokens": [
+        {
+          "name": "Wall",
+          "type_line": "Token Creature — Wall",
+          "colors": [],
+          "power": "0",
+          "toughness": "4"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "The Thing, Ben Grimm",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Hero",
+      "mana_cost": "{5}{G}",
+      "cmc": 6.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "7",
+      "toughness": "7"
+    },
+    {
+      "quantity": 1,
+      "name": "The Fantastic Four",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Hero",
+      "mana_cost": "{R}{G}{W}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "rarity": "mythic",
+      "power": "4",
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Wall",
+          "type_line": "Token Creature — Wall",
+          "colors": [],
+          "power": "0",
+          "toughness": "4"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Farseek",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Fantastic Bounce",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Wall Off",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{W}",
+      "cmc": 4.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Wall",
+          "type_line": "Token Creature — Wall",
+          "colors": [],
+          "power": "0",
+          "toughness": "4"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Inspired Fire",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thing Swing",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Daily Bugle Newspaper",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Baxter Building",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Grove",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Pym Technologies",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Forest",
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Plains",
+      "type": "Lands",
+      "type_line": "Basic Land — Plains",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Terramorphic Expanse",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

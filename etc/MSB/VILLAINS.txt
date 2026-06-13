@@ -1,15 +1,18 @@
 VILLAINS
-Red Room Recruit
-Boomerang, Blade Flinger
-Ninja of the Hand
-Baron Strucker, HYDRA Overlord
-Tombstone, Career Criminal
-Crossbones, Malicious Mercenary
-Glamorous Grapplers
-Roxxon Brutes
-Minotaur, Roxxon CEO
-Dark Deed
-Visions of Villainy
-Hour of Defeat
-Thriving Moor
+//Creatures (9)
+1 Red Room Recruit
+1 Boomerang, Blade Flinger
+1 Ninja of the Hand
+1 Baron Strucker, HYDRA Overlord
+1 Tombstone, Career Criminal
+1 Crossbones, Malicious Mercenary
+1 Glamorous Grapplers
+1 Roxxon Brutes
+1 Minotaur, Roxxon CEO
+//Instants (3)
+1 Dark Deed
+1 Visions of Villainy
+1 Hour of Defeat
+//Lands (8)
+1 Thriving Moor
 7 Swamp

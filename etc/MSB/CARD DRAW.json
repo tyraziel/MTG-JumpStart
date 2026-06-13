@@ -1,0 +1,186 @@
+{
+  "deck_name": "CARD DRAW",
+  "set": "MSB",
+  "tokens": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "A.I.M. Bot",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Robot Villain",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Brawn, Amadeus Cho",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Gamma Scientist Hero",
+      "mana_cost": "{1}{G/U}",
+      "cmc": 2.0,
+      "colors": [
+        "G",
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Bold Biochemist",
+      "type": "Creatures",
+      "type_line": "Creature — Human Scientist",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Atlantean Cavalry",
+      "type": "Creatures",
+      "type_line": "Creature — Merfolk Soldier",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Graviton, Fundamental Force",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Villain",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Blue Marvel, Adam Brashear",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Scientist Hero",
+      "mana_cost": "{3}{U}{U}",
+      "cmc": 5.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "A.I.M. Scientists",
+      "type": "Creatures",
+      "type_line": "Creature — Human Scientist Villain",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "H.E.R.B.I.E. Scout Unit",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Robot Scout",
+      "mana_cost": "{4}",
+      "cmc": 4.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Trickster's Stratagem",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Depower",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Super Intelligence",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Stark's Ingenuity",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

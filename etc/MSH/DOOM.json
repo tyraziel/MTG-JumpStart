@@ -1,0 +1,207 @@
+{
+  "deck_name": "DOOM",
+  "set": "MSH",
+  "tokens": [
+    {
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "colors": []
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Project Deathlok Soldier",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Zombie Soldier",
+      "mana_cost": "{B}",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Common Crook",
+      "type": "Creatures",
+      "type_line": "Creature — Human Rogue Villain",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Doom's Servo-Guards",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Robot Villain",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Doombot Harbinger",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Robot Villain",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Ninja of the Hand",
+      "type": "Creatures",
+      "type_line": "Creature — Human Ninja Villain",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Doctor Doom, Unrivaled",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Sorcerer Villain",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "mythic",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Roxxon Brutes",
+      "type": "Creatures",
+      "type_line": "Creature — Human Berserker Villain",
+      "mana_cost": "{4}{B}",
+      "cmc": 5.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Doomfall",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Doomsday",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{B}{B}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Dark Ritual",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{B}",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Doom Blade",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Deadly Dispute",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Moor",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

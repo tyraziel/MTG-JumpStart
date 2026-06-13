@@ -1,15 +1,20 @@
 SQUADRON
-Agent of Atlas
-Brave Brawler
-Nighthawk, Dark Defender
-Hero in Training
-Zarda, the Power Princess
-Doctor Spectrum
-Borough Backup
-Hyperion, Supreme Hero
-Hyperion’s Atomic Vision
-Heroic Teamwork
-Web Up
-Blur of Heroism
-Thriving Heath
+//Creatures (7)
+1 Agent of Atlas
+1 Brave Brawler
+1 Nighthawk, Dark Defender
+1 Hero in Training
+1 Zarda, the Power Princess
+1 Doctor Spectrum
+1 Hyperion, Supreme Hero
+//Sorceries (1)
+1 Borough Backup
+//Instants (2)
+1 Hyperion’s Atomic Vision
+1 Heroic Teamwork
+//Enchantments (2)
+1 Web Up
+1 Blur of Heroism
+//Lands (8)
+1 Thriving Heath
 7 Plains

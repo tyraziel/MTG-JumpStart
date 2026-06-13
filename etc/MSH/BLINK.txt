@@ -1,15 +1,19 @@
 BLINK
-Shi'ar Soldier
-Mob Lookout
-Imperial Cosmographer
-S.H.I.E.L.D. Deployment Drone
-Justice, Vance Astrovik
-Victor Timely, Wily Tycoon
-Shipwreck Patrol
-Silver Surfer, Cosmic Voyager
-Spaceshift
-We Say Thee Nay!
-Collector's Case
-Dismissive Denial
-Thriving Isle
+//Creatures (8)
+1 Shi'ar Soldier
+1 Mob Lookout
+1 Imperial Cosmographer
+1 S.H.I.E.L.D. Deployment Drone
+1 Justice, Vance Astrovik
+1 Victor Timely, Wily Tycoon
+1 Shipwreck Patrol
+1 Silver Surfer, Cosmic Voyager
+//Instants (3)
+1 Spaceshift
+1 We Say Thee Nay!
+1 Dismissive Denial
+//Artifacts (1)
+1 Collector's Case
+//Lands (8)
+1 Thriving Isle
 7 Island

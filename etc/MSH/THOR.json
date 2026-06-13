@@ -1,0 +1,206 @@
+{
+  "deck_name": "THOR",
+  "set": "MSH",
+  "tokens": [
+    {
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "K'un-Lun Warrior",
+      "type": "Creatures",
+      "type_line": "Creature — Human Warrior Hero",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Loki Laufeyson",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — God Sorcerer Villain",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Sif's Spearmaster",
+      "type": "Creatures",
+      "type_line": "Creature — God Warrior Hero",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Molten Lavamancer",
+      "type": "Creatures",
+      "type_line": "Creature — Elemental Warlock Villain",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Elemental",
+          "type_line": "Token Creature — Elemental",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Crimson Operative",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Human Villain",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Thor, Asgard's Avenger",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — God Warrior Hero",
+      "mana_cost": "{2}{R}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Kree Sentinel",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Kree Robot Villain",
+      "mana_cost": "{4}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "5",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Asgardian Inspiration",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Mjölnir's Might",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Lightning Bolt",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Lightning Strike",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Origin of Thor",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Saga",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Bluff",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

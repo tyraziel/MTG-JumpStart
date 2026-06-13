@@ -1,15 +1,20 @@
 CARETAKERS
-Crowd of True Believers
-Night Nurse, Healer of Heroes
-Donald Blake, Guise of Thor
-MJ, Rising Star
-Virtuous Variant
-Doctor Jane Foster
-Valkyrior Skyrider
-Doctor Strange, Surgeon
-Take Up the Shield
-Super Villain Lockup
-Infinity Formula
-Fall to Earth
-Thriving Heath
+//Creatures (8)
+1 Crowd of True Believers
+1 Night Nurse, Healer of Heroes
+1 Donald Blake, Guise of Thor
+1 MJ, Rising Star
+1 Virtuous Variant
+1 Doctor Jane Foster
+1 Valkyrior Skyrider
+1 Doctor Strange, Surgeon
+//Instants (2)
+1 Take Up the Shield
+1 Fall to Earth
+//Artifacts (1)
+1 Infinity Formula
+//Enchantments (1)
+1 Super Villain Lockup
+//Lands (8)
+1 Thriving Heath
 7 Plains

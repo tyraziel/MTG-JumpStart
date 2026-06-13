@@ -1,15 +1,20 @@
 ANALYZED
-Virtual Assistant
-TVA Bureaucrat
-Viv Vision, Teen Synthezoid
-Echo, Perceptive Prodigy
-Machine Man, Model X-51
-Victor Mancha, Runaway
-Vision, Spectral Synthezoid
-We Say Thee Nay!
-Quantum Reduction
-Frozen in Ice
-Timeline Inquiry
-Atlantis Attacks
-Thriving Isle
+//Creatures (7)
+1 Virtual Assistant
+1 TVA Bureaucrat
+1 Viv Vision, Teen Synthezoid
+1 Echo, Perceptive Prodigy
+1 Machine Man, Model X-51
+1 Victor Mancha, Runaway
+1 Vision, Spectral Synthezoid
+//Sorceries (1)
+1 Atlantis Attacks
+//Instants (2)
+1 We Say Thee Nay!
+1 Timeline Inquiry
+//Enchantments (2)
+1 Quantum Reduction
+1 Frozen in Ice
+//Lands (8)
+1 Thriving Isle
 7 Island

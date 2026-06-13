@@ -1,16 +1,21 @@
 TENACIOUS
-Undercover Skrull
-White Tiger, Amulet Keeper
-Hellcat, Undying Vigilante
-Gert and Old Lace, Runaways
-Voracious Brood
-Pet Avengers
-Savage Land Dinosaur
-Return of the Mole Man
-Scout the City
-Call Damage Control
-Accelerated Evolution
-Punishing Punch
-Thriving Grove
-Terramorphic Expanse
+//Creatures (7)
+1 Undercover Skrull
+1 White Tiger, Amulet Keeper
+1 Hellcat, Undying Vigilante
+1 Gert and Old Lace, Runaways
+1 Voracious Brood
+1 Pet Avengers
+1 Savage Land Dinosaur
+//Sorceries (2)
+1 Scout the City
+1 Call Damage Control
+//Instants (1)
+1 Punishing Punch
+//Enchantments (2)
+1 Return of the Mole Man
+1 Accelerated Evolution
+//Lands (8)
+1 Thriving Grove
+1 Terramorphic Expanse
 6 Forest

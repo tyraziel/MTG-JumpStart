@@ -1,0 +1,220 @@
+{
+  "deck_name": "GREAT LAKES AVENGERS",
+  "set": "MSH",
+  "tokens": [
+    {
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "colors": []
+    },
+    {
+      "name": "Squirrel",
+      "type_line": "Token Creature — Squirrel",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Guerrilla Gorilla",
+      "type": "Creatures",
+      "type_line": "Creature — Ape Soldier Hero",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Doorman",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Mutant Hero",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Mister Immortal",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Mutant Hero",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Tippy-Toe, Terrific Partner",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Squirrel Hero",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Food",
+          "type_line": "Token Artifact — Food",
+          "colors": []
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Flatman",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Mutant Hero",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "10"
+    },
+    {
+      "quantity": 1,
+      "name": "The Unbeatable Squirrel Girl",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Squirrel Human Hero",
+      "mana_cost": "{1}{G}{G}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Squirrel",
+          "type_line": "Token Creature — Squirrel",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Big Bertha",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Mutant Hero",
+      "mana_cost": "{X}{G}",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Savage Land Dinosaur",
+      "type": "Creatures",
+      "type_line": "Creature — Dinosaur",
+      "mana_cost": "{4}{G}{G}",
+      "cmc": 6.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "7",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Go Nuts!",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{G}",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Rapid Rescue",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{G}",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Beast Mode",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Training Regimen",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Grove",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Forest",
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

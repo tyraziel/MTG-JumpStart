@@ -1,15 +1,19 @@
 PRECISE
-Colleen Wing, Street Samurai
-Agent of Atlas
-Raft Security Officer
-Kree Commandos
-Hawkeye, Bowslinger
-Mockingbird, Ace Agent
-Valkyrior Skyrider
-Panther Pounce
-Stunning Shot
-Sudden Strike
-Heroic Teamwork
-Fall to Earth
-Thriving Heath
+//Creatures (7)
+1 Colleen Wing, Street Samurai
+1 Agent of Atlas
+1 Raft Security Officer
+1 Kree Commandos
+1 Hawkeye, Bowslinger
+1 Mockingbird, Ace Agent
+1 Valkyrior Skyrider
+//Sorceries (1)
+1 Stunning Shot
+//Instants (4)
+1 Panther Pounce
+1 Sudden Strike
+1 Heroic Teamwork
+1 Fall to Earth
+//Lands (8)
+1 Thriving Heath
 7 Plains

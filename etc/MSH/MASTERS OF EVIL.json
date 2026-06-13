@@ -1,0 +1,210 @@
+{
+  "deck_name": "MASTERS OF EVIL",
+  "set": "MSH",
+  "tokens": [
+    {
+      "name": "Villain",
+      "type_line": "Token Creature — Villain",
+      "colors": [
+        "B"
+      ],
+      "power": "2",
+      "toughness": "1"
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Boomerang, Blade Flinger",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Villain",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Yellowjacket, Heartless Marauder",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Rogue Villain",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Titania, Rugged Rumbler",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Villain",
+      "mana_cost": "{2}{B/G}",
+      "cmc": 3.0,
+      "colors": [
+        "B",
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "5",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Klaw, Sonic Subjugator",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Rogue Villain",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Crimson Cowl, Master of Evil",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Villain",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "rare",
+      "power": "1",
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Villain",
+          "type_line": "Token Creature — Villain",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "1"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Tiger Shark, Abyssal Hunter",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Shark Human Villain",
+      "mana_cost": "{2}{U/B}{U/B}",
+      "cmc": 4.0,
+      "colors": [
+        "B",
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Radioactive Man",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Scientist Villain",
+      "mana_cost": "{4}{B}",
+      "cmc": 5.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "The Masters of Evil",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Villain",
+      "mana_cost": "{5}{B}",
+      "cmc": 6.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "5",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Cruel Alliance",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Visions of Villainy",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Hour of Defeat",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Villainous Syndication",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Plan",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Moor",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

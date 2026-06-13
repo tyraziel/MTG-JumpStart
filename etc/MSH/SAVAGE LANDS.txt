@@ -1,16 +1,21 @@
 SAVAGE LANDS
-Reptil, Dinomorpher
-Lurking Lizards
-Moon-Boy, Dino Rider
-Gert and Old Lace, Runaways
-Devil Dinosaur
-Ka-Zar of the Savage Land
-Sauron, Dino Devotee
-Savage Land Dinosaur
-Commune with Dinosaurs
-Go Nuts!
-Accelerated Evolution
-Terrific Team-Up
-Thriving Grove
-Savage Lands
+//Creatures (8)
+1 Reptil, Dinomorpher
+1 Lurking Lizards
+1 Moon-Boy, Dino Rider
+1 Gert and Old Lace, Runaways
+1 Devil Dinosaur
+1 Ka-Zar of the Savage Land
+1 Sauron, Dino Devotee
+1 Savage Land Dinosaur
+//Sorceries (2)
+1 Commune with Dinosaurs
+1 Go Nuts!
+//Instants (1)
+1 Terrific Team-Up
+//Enchantments (1)
+1 Accelerated Evolution
+//Lands (8)
+1 Thriving Grove
+1 Savage Lands
 6 Forest

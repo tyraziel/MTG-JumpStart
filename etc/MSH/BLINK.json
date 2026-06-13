@@ -1,0 +1,209 @@
+{
+  "deck_name": "BLINK",
+  "set": "MSH",
+  "tokens": [
+    {
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Shi'ar Soldier",
+      "type": "Creatures",
+      "type_line": "Creature — Shi'ar Soldier",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Mob Lookout",
+      "type": "Creatures",
+      "type_line": "Creature — Human Rogue Villain",
+      "mana_cost": "{1}{U/B}",
+      "cmc": 2.0,
+      "colors": [
+        "B",
+        "U"
+      ],
+      "rarity": "common",
+      "power": "0",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Imperial Cosmographer",
+      "type": "Creatures",
+      "type_line": "Creature — Kree Scientist",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "S.H.I.E.L.D. Deployment Drone",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Robot",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Soldier",
+          "type_line": "Token Creature — Soldier",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Justice, Vance Astrovik",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Mutant Hero",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Victor Timely, Wily Tycoon",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Artificer Villain",
+      "mana_cost": "{4}{U}",
+      "cmc": 5.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Shipwreck Patrol",
+      "type": "Creatures",
+      "type_line": "Creature — Merfolk Warrior",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Silver Surfer, Cosmic Voyager",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Alien Hero",
+      "mana_cost": "{4}{U}{U}",
+      "cmc": 6.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "rare",
+      "power": "5",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Spaceshift",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "We Say Thee Nay!",
+      "type": "Instants",
+      "type_line": "Instant — Arcane",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Dismissive Denial",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{U}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Collector's Case",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

@@ -1,15 +1,21 @@
 HEROES
-Agent of Atlas
-Peggy Carter, Secret Agent
-Brave Brawler
-Agents of S.H.I.E.L.D.
-Hero in Training
-Hawkeye, Clint Barton
-Okoye, Dora Milaje Leader
-Valkyrior Skyrider
-Wondrous Revival
-Iconic Shield
-Fall to Earth
-Pacifism
-Thriving Heath
+//Creatures (8)
+1 Agent of Atlas
+1 Peggy Carter, Secret Agent
+1 Brave Brawler
+1 Agents of S.H.I.E.L.D.
+1 Hero in Training
+1 Hawkeye, Clint Barton
+1 Okoye, Dora Milaje Leader
+1 Valkyrior Skyrider
+//Sorceries (1)
+1 Wondrous Revival
+//Instants (1)
+1 Fall to Earth
+//Artifacts (1)
+1 Iconic Shield
+//Enchantments (1)
+1 Pacifism
+//Lands (8)
+1 Thriving Heath
 7 Plains

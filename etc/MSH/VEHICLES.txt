@@ -1,15 +1,19 @@
 VEHICLES
-Intrepid Ace
-HYDRA Assault Robot
-Extremis Elite
-Taxi Driver
-Machinesmith Automaton
-Bullseye, Death Dealer
-Captain America's Motorcycle
-Big Wheel
-S.H.I.E.L.D. Helicarrier
-Sky Cycle
-The Thanos-Copter
-Truck Toss
-Thriving Bluff
+//Creatures (6)
+1 Intrepid Ace
+1 HYDRA Assault Robot
+1 Extremis Elite
+1 Taxi Driver
+1 Machinesmith Automaton
+1 Bullseye, Death Dealer
+//Instants (1)
+1 Truck Toss
+//Artifacts (5)
+1 Captain America's Motorcycle
+1 Big Wheel
+1 S.H.I.E.L.D. Helicarrier
+1 Sky Cycle
+1 The Thanos-Copter
+//Lands (8)
+1 Thriving Bluff
 7 Mountain

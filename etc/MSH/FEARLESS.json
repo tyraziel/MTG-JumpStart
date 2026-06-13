@@ -1,0 +1,204 @@
+{
+  "deck_name": "FEARLESS",
+  "set": "MSH",
+  "tokens": [
+    {
+      "name": "Villain",
+      "type_line": "Token Creature — Villain",
+      "colors": [
+        "B"
+      ],
+      "power": "2",
+      "toughness": "1"
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Unlucky Witness",
+      "type": "Creatures",
+      "type_line": "Creature — Human Citizen",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Taxi Driver",
+      "type": "Creatures",
+      "type_line": "Creature — Human Pilot",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Stick, Fearless Mentor",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Monk Hero",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Daredevil, Fearless Fighter",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Hero",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Jessica Jones, Private Eye",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Detective Hero",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Elektra, Femme Fatale",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Assassin Hero",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Stegron the Dinosaur Man",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Dinosaur Villain",
+      "mana_cost": "{4}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "5",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Blazing Crescendo",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "HULK SMASH!",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Hire a Crew",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Villain",
+          "type_line": "Token Creature — Villain",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "1"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Daredevil's Billy Club",
+      "type": "Artifacts",
+      "type_line": "Artifact — Equipment",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Fogwell's Gym",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Bluff",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

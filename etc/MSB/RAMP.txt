@@ -1,15 +1,20 @@
 RAMP
-Undercover Skrull
-Moon-Boy, Dino Rider
-Gert and Old Lace, Runaways
-The Fabulous Frog-Man
-Warriors of Wakanda
-Atlas, Sizable Stooge
-Wakandan Royal Guard
-Savage Land Dinosaur
-Flora Colossus
-Team Transmitter
-Thing Swing
-Colossal Collision
-Thriving Grove
+//Creatures (9)
+1 Undercover Skrull
+1 Moon-Boy, Dino Rider
+1 Gert and Old Lace, Runaways
+1 The Fabulous Frog-Man
+1 Warriors of Wakanda
+1 Atlas, Sizable Stooge
+1 Wakandan Royal Guard
+1 Savage Land Dinosaur
+1 Flora Colossus
+//Sorceries (1)
+1 Colossal Collision
+//Instants (1)
+1 Thing Swing
+//Artifacts (1)
+1 Team Transmitter
+//Lands (8)
+1 Thriving Grove
 7 Forest

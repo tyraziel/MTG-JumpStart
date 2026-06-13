@@ -1,15 +1,19 @@
 YOUNG AVENGERS
-Stature, Young Avenger
-Speed, Young Avenger
-Patriot, Young Avenger
-Iron Lad, Young Avenger
-Wiccan, Young Avenger
-Hawkeye, Young Avenger
-Hulkling, Young Avenger
-Hawkeye's Bow
-Team Tactics
-Lightning Strike
-Crossover Collaboration
-Marvelous Melee
-Thriving Bluff
+//Creatures (7)
+1 Stature, Young Avenger
+1 Speed, Young Avenger
+1 Patriot, Young Avenger
+1 Iron Lad, Young Avenger
+1 Wiccan, Young Avenger
+1 Hawkeye, Young Avenger
+1 Hulkling, Young Avenger
+//Instants (4)
+1 Team Tactics
+1 Lightning Strike
+1 Crossover Collaboration
+1 Marvelous Melee
+//Artifacts (1)
+1 Hawkeye's Bow
+//Lands (8)
+1 Thriving Bluff
 7 Mountain

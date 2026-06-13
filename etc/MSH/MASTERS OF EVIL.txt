@@ -1,15 +1,20 @@
 MASTERS OF EVIL
-Boomerang, Blade Flinger
-Yellowjacket, Heartless Marauder
-Titania, Rugged Rumbler
-Klaw, Sonic Subjugator
-Crimson Cowl, Master of Evil
-Tiger Shark, Abyssal Hunter
-Radioactive Man
-The Masters of Evil
-Villainous Syndication
-Cruel Alliance
-Visions of Villainy
-Hour of Defeat
-Thriving Moor
+//Creatures (8)
+1 Boomerang, Blade Flinger
+1 Yellowjacket, Heartless Marauder
+1 Titania, Rugged Rumbler
+1 Klaw, Sonic Subjugator
+1 Crimson Cowl, Master of Evil
+1 Tiger Shark, Abyssal Hunter
+1 Radioactive Man
+1 The Masters of Evil
+//Sorceries (1)
+1 Cruel Alliance
+//Instants (2)
+1 Visions of Villainy
+1 Hour of Defeat
+//Enchantments (1)
+1 Villainous Syndication
+//Lands (8)
+1 Thriving Moor
 7 Swamp

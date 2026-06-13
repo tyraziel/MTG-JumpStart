@@ -1,15 +1,21 @@
 HYDRA
-Bob, Reluctant HYDRA Agent
-Viper, Cruel Conspirator
-Agents of HYDRA
-HYDRA Troopers
-Baron Strucker, HYDRA Overlord
-Arnim Zola, Bio-Fanatic
-Crossbones, Malicious Mercenary
-HYDRA Disintegrator
-Dark Deed
-Cruel Alliance
-HYDRA Infiltration
-Infernal Rebirth
-Thriving Moor
+//Creatures (7)
+1 Bob, Reluctant HYDRA Agent
+1 Viper, Cruel Conspirator
+1 Agents of HYDRA
+1 HYDRA Troopers
+1 Baron Strucker, HYDRA Overlord
+1 Arnim Zola, Bio-Fanatic
+1 Crossbones, Malicious Mercenary
+//Sorceries (1)
+1 Cruel Alliance
+//Instants (2)
+1 Dark Deed
+1 Infernal Rebirth
+//Artifacts (1)
+1 HYDRA Disintegrator
+//Enchantments (1)
+1 HYDRA Infiltration
+//Lands (8)
+1 Thriving Moor
 7 Swamp
