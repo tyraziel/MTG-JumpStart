@@ -25,7 +25,7 @@ SETS = [
     "JMP", "J22", "J25", "TLA",
     "ONE", "DMU", "BRO", "MOM",
     "LTR", "CLU", "FDN", "TLB",
-    "FIN",
+    "MSH", "MSB",
 ]
 
 SET_NAMES = {
@@ -41,7 +41,8 @@ SET_NAMES = {
     "CLU": "Ravnica: Clue Edition",
     "FDN": "Foundations Beginner Box",
     "TLB": "Avatar TLA Beginner Box",
-    "FIN": "Final Fantasy",
+    "MSH": "Marvel Super Heroes",
+    "MSB": "Marvel Super Heroes Beginner Box",
 }
 
 
