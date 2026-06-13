@@ -1,15 +1,20 @@
 EQUIPPED
-Bucky Barnes, Eager Ally
-Peggy Carter, Secret Agent
-The Howling Commandos
-Agent 13, Sharon Carter
-Patriot, Young Avenger
-U.S.Agent, John Walker
-Captain America, Liberator
-Captain America’s Shield
-Take Up the Shield
-Infinity Formula
-Origin of Captain America
-Secure Detention
-Thriving Heath
+//Creatures (7)
+1 Bucky Barnes, Eager Ally
+1 Peggy Carter, Secret Agent
+1 The Howling Commandos
+1 Agent 13, Sharon Carter
+1 Patriot, Young Avenger
+1 U.S.Agent, John Walker
+1 Captain America, Liberator
+//Instants (1)
+1 Take Up the Shield
+//Artifacts (2)
+1 Captain America’s Shield
+1 Infinity Formula
+//Enchantments (2)
+1 Origin of Captain America
+1 Secure Detention
+//Lands (8)
+1 Thriving Heath
 7 Plains

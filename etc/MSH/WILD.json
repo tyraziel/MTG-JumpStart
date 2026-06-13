@@ -1,0 +1,205 @@
+{
+  "deck_name": "WILD",
+  "set": "MSH",
+  "tokens": [
+    {
+      "name": "Zabu",
+      "type_line": "Token Legendary Creature — Cat",
+      "colors": [
+        "G"
+      ],
+      "power": "2",
+      "toughness": "2"
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Hellcat, Undying Vigilante",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Hero",
+      "mana_cost": "{G}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "White Tiger, Amulet Keeper",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Hero",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "The Fabulous Frog-Man",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Hero",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Gert and Old Lace, Runaways",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Dinosaur Hero",
+      "mana_cost": "{2}{R/G}",
+      "cmc": 3.0,
+      "colors": [
+        "G",
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Mole Man, Moloid Master",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Villain",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "rare",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Hit-Monkey",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Monkey Assassin",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "rare",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Ka-Zar of the Savage Land",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Barbarian Hero",
+      "mana_cost": "{4}{G}",
+      "cmc": 5.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Zabu",
+          "type_line": "Token Legendary Creature — Cat",
+          "colors": [
+            "G"
+          ],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Restorative Technique",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Colossal Collision",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Claim the Kingdom",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Plan",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Accelerated Evolution",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Terramorphic Expanse",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Grove",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Forest",
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "deck_name": "RAMPAGING",
+  "set": "MSH",
+  "tokens": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Serpent Specialist",
+      "type": "Creatures",
+      "type_line": "Creature — Human Snake Villain",
+      "mana_cost": "{G}",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Knight of Wundagore",
+      "type": "Creatures",
+      "type_line": "Creature — Cat Knight Villain",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Bushmaster, Coiled Henchman",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Snake Human Villain",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Titania, Rugged Rumbler",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Villain",
+      "mana_cost": "{2}{B/G}",
+      "cmc": 3.0,
+      "colors": [
+        "B",
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "5",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Powerful Broker",
+      "type": "Creatures",
+      "type_line": "Creature — Human Villain",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Mister Hyde, Monster Within",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Villain",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Atlas, Sizable Stooge",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Villain",
+      "mana_cost": "{2}{B/G}{B/G}",
+      "cmc": 4.0,
+      "colors": [
+        "B",
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "5",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Rhino, Terrible Trampler",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Villain",
+      "mana_cost": "{4}{G}{G}",
+      "cmc": 6.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "rare",
+      "power": "7",
+      "toughness": "6"
+    },
+    {
+      "quantity": 1,
+      "name": "Rhino's Rampage",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{R/G}",
+      "cmc": 1.0,
+      "colors": [
+        "G",
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Colossal Collision",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Beast Mode",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Claim the Kingdom",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Plan",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Grove",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Forest",
+      "type": "Lands",
+      "type_line": "Basic Land — Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

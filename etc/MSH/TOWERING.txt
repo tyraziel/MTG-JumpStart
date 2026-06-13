@@ -1,15 +1,19 @@
 TOWERING
-Reptil, Dinomorpher
-Stature, Young Avenger
-Goliath, Mass Manipulator
-Ms. Marvel, Elastic Ally
-Ant-Man, Reformed Rogue
-Atlas, Sizable Stooge
-Giant-Man, Gargantuan Genius
-Spider-Rex, Daring Dino
-Giant Growth
-Rapid Rescue
-Terrific Team-Up
-Colossal Collision
-Thriving Grove
+//Creatures (8)
+1 Reptil, Dinomorpher
+1 Stature, Young Avenger
+1 Goliath, Mass Manipulator
+1 Ms. Marvel, Elastic Ally
+1 Ant-Man, Reformed Rogue
+1 Atlas, Sizable Stooge
+1 Giant-Man, Gargantuan Genius
+1 Spider-Rex, Daring Dino
+//Sorceries (1)
+1 Colossal Collision
+//Instants (3)
+1 Giant Growth
+1 Rapid Rescue
+1 Terrific Team-Up
+//Lands (8)
+1 Thriving Grove
 7 Forest

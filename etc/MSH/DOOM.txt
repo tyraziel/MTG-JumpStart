@@ -1,15 +1,19 @@
 DOOM
-Project Deathlok Soldier
-Common Crook
-Doom's Servo-Guards
-Doombot Harbinger
-Ninja of the Hand
-Doctor Doom, Unrivaled
-Roxxon Brutes
-Dark Ritual
-Doom Blade
-Deadly Dispute
-Doomfall
-Doomsday
-Thriving Moor
+//Creatures (7)
+1 Project Deathlok Soldier
+1 Common Crook
+1 Doom's Servo-Guards
+1 Doombot Harbinger
+1 Ninja of the Hand
+1 Doctor Doom, Unrivaled
+1 Roxxon Brutes
+//Sorceries (2)
+1 Doomfall
+1 Doomsday
+//Instants (3)
+1 Dark Ritual
+1 Doom Blade
+1 Deadly Dispute
+//Lands (8)
+1 Thriving Moor
 7 Swamp

@@ -1,16 +1,21 @@
 CONNIVING
-Kid Loki
-Mob Lookout
-Flying Octobot
-Graviton, Fundamental Force
-Doc Ock's Henchmen
-Tiger Shark, Abyssal Hunter
-Leader, Super-Genius
-Doc Ock, Sinister Scientist
-Unstable Experiment
-Mysterio's Mirage
-Trickster's Stratagem
-Dismissive Denial
-Thriving Isle
-Villainous Hideout
+//Creatures (8)
+1 Kid Loki
+1 Mob Lookout
+1 Flying Octobot
+1 Graviton, Fundamental Force
+1 Doc Ock's Henchmen
+1 Tiger Shark, Abyssal Hunter
+1 Leader, Super-Genius
+1 Doc Ock, Sinister Scientist
+//Sorceries (1)
+1 Trickster's Stratagem
+//Instants (2)
+1 Unstable Experiment
+1 Dismissive Denial
+//Enchantments (1)
+1 Mysterio's Mirage
+//Lands (8)
+1 Thriving Isle
+1 Villainous Hideout
 6 Island

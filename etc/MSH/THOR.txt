@@ -1,15 +1,20 @@
 THOR
-K'un-Lun Warrior
-Loki Laufeyson
-Sif's Spearmaster
-Molten Lavamancer
-Crimson Operative
-Thor, Asgard's Avenger
-Kree Sentinel
-Asgardian Inspiration
-Lightning Bolt
-Lightning Strike
-Origin of Thor
-Mjölnir's Might
-Thriving Bluff
+//Creatures (7)
+1 K'un-Lun Warrior
+1 Loki Laufeyson
+1 Sif's Spearmaster
+1 Molten Lavamancer
+1 Crimson Operative
+1 Thor, Asgard's Avenger
+1 Kree Sentinel
+//Sorceries (2)
+1 Asgardian Inspiration
+1 Mjölnir's Might
+//Instants (2)
+1 Lightning Bolt
+1 Lightning Strike
+//Enchantments (1)
+1 Origin of Thor
+//Lands (8)
+1 Thriving Bluff
 7 Mountain

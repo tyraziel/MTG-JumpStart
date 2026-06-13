@@ -1,0 +1,239 @@
+{
+  "deck_name": "HYDRA",
+  "set": "MSH",
+  "tokens": [
+    {
+      "name": "Villain",
+      "type_line": "Token Creature — Villain",
+      "colors": [
+        "B"
+      ],
+      "power": "2",
+      "toughness": "1"
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Bob, Reluctant HYDRA Agent",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Coward Villain",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Viper, Cruel Conspirator",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Assassin Villain",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Agents of HYDRA",
+      "type": "Creatures",
+      "type_line": "Creature — Human Spy Villain",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Villain",
+          "type_line": "Token Creature — Villain",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "1"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "HYDRA Troopers",
+      "type": "Creatures",
+      "type_line": "Creature — Human Soldier Villain",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Villain",
+          "type_line": "Token Creature — Villain",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "1"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Baron Strucker, HYDRA Overlord",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Villain",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Arnim Zola, Bio-Fanatic",
+      "type": "Creatures",
+      "type_line": "Legendary Artifact Creature — Scientist Villain",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Villain",
+          "type_line": "Token Creature — Villain",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "1"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Crossbones, Malicious Mercenary",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Mercenary Villain",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Cruel Alliance",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{2}{B}",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Dark Deed",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{B}",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Infernal Rebirth",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "HYDRA Disintegrator",
+      "type": "Artifacts",
+      "type_line": "Artifact — Equipment",
+      "mana_cost": "{4}{B}",
+      "cmc": 5.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Villain",
+          "type_line": "Token Creature — Villain",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "1"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "HYDRA Infiltration",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{3}{B}",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Moor",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Swamp",
+      "type": "Lands",
+      "type_line": "Basic Land — Swamp",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

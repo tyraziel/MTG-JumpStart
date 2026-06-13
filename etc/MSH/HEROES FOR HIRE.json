@@ -1,0 +1,230 @@
+{
+  "deck_name": "HEROES FOR HIRE",
+  "set": "MSH",
+  "tokens": [
+    {
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "colors": []
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Stark Industries Executive",
+      "type": "Creatures",
+      "type_line": "Creature — Human Advisor",
+      "mana_cost": "{R}",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "K'un-Lun Warrior",
+      "type": "Creatures",
+      "type_line": "Creature — Human Warrior Hero",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Misty Knight, Hero for Hire",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Detective Hero",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Iron Fist, Hero for Hire",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Mercenary Hero",
+      "mana_cost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Contract Hero",
+      "type": "Creatures",
+      "type_line": "Creature — Human Mercenary Hero",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Jessica Jones, Private Eye",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Detective Hero",
+      "mana_cost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Luke Cage, Hero for Hire",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Mercenary Hero",
+      "mana_cost": "{2}{R}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Red Hulk",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Gamma Berserker Villain",
+      "mana_cost": "{4}{R}{R}",
+      "cmc": 6.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "power": "6",
+      "toughness": "7"
+    },
+    {
+      "quantity": 1,
+      "name": "Bionic Blow",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{X}{R}{R}",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Big Score",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Marvelous Melee",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{4}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Heroes for Hire",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{3}{R}{R}",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "colors": []
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Bluff",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Mountain",
+      "type": "Lands",
+      "type_line": "Basic Land — Mountain",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

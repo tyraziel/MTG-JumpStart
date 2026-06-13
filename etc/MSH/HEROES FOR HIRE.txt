@@ -1,15 +1,20 @@
 HEROES FOR HIRE
-Stark Industries Executive
-K'un-Lun Warrior
-Misty Knight, Hero for Hire
-Iron Fist, Hero for Hire
-Contract Hero
-Jessica Jones, Private Eye
-Luke Cage, Hero for Hire
-Red Hulk
-Bionic Blow
-Big Score
-Heroes for Hire
-Marvelous Melee
-Thriving Bluff
+//Creatures (8)
+1 Stark Industries Executive
+1 K'un-Lun Warrior
+1 Misty Knight, Hero for Hire
+1 Iron Fist, Hero for Hire
+1 Contract Hero
+1 Jessica Jones, Private Eye
+1 Luke Cage, Hero for Hire
+1 Red Hulk
+//Sorceries (1)
+1 Bionic Blow
+//Instants (2)
+1 Big Score
+1 Marvelous Melee
+//Enchantments (1)
+1 Heroes for Hire
+//Lands (8)
+1 Thriving Bluff
 7 Mountain

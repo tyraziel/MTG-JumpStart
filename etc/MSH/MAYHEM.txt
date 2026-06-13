@@ -1,15 +1,21 @@
 MAYHEM
-Project Deathlok Soldier
-Red Room Recruit
-Yellowjacket, Heartless Marauder
-Swarm, Being of Bees
-Inner Demons Gangsters
-Roxxon Brutes
-Green Goblin, Back for More
-Pumpkin Bombardment
-Alien Symbiosis
-Daily Bugle Newspaper
-Rocket-Powered Goblin Glider
-Sadistic Slash
-Thriving Moor
+//Creatures (7)
+1 Project Deathlok Soldier
+1 Red Room Recruit
+1 Yellowjacket, Heartless Marauder
+1 Swarm, Being of Bees
+1 Inner Demons Gangsters
+1 Roxxon Brutes
+1 Green Goblin, Back for More
+//Sorceries (1)
+1 Pumpkin Bombardment
+//Instants (1)
+1 Sadistic Slash
+//Artifacts (2)
+1 Daily Bugle Newspaper
+1 Rocket-Powered Goblin Glider
+//Enchantments (1)
+1 Alien Symbiosis
+//Lands (8)
+1 Thriving Moor
 7 Swamp

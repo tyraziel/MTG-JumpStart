@@ -1,15 +1,20 @@
 ARTIFACTS
-Aerial Doombot
-Hydraulic Helper
-S.H.I.E.L.D. Deployment Drone
-Ultron Drone
-A.I.M. Bot
-Victor Mancha, Runaway
-War Machine, James Rhodes
-Repulsor Bots
-Vibranium Energy Daggers
-Futurist Forge
-Thirst for Knowledge
-Frozen in Ice
-Thriving Isle
+//Creatures (8)
+1 Aerial Doombot
+1 Hydraulic Helper
+1 S.H.I.E.L.D. Deployment Drone
+1 Ultron Drone
+1 A.I.M. Bot
+1 Victor Mancha, Runaway
+1 War Machine, James Rhodes
+1 Repulsor Bots
+//Instants (1)
+1 Thirst for Knowledge
+//Artifacts (2)
+1 Vibranium Energy Daggers
+1 Futurist Forge
+//Enchantments (1)
+1 Frozen in Ice
+//Lands (8)
+1 Thriving Isle
 7 Island

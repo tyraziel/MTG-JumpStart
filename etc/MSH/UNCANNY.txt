@@ -1,15 +1,19 @@
 UNCANNY
-Black Tom Cassidy
-Darwin, Adaptive Mutant
-Wolfsbane, Highland Hero
-X-23, Deadly Weapon
-Wolverine, Claws Out
-Beast, Erudite Aerialist
-Colossus, Steel Stalwart
-Storm, Shaker of Skies
-Go Nuts!
-Accelerated Evolution
-Colossal Collision
-Training Regimen
-Thriving Grove
+//Creatures (8)
+1 Black Tom Cassidy
+1 Darwin, Adaptive Mutant
+1 Wolfsbane, Highland Hero
+1 X-23, Deadly Weapon
+1 Wolverine, Claws Out
+1 Beast, Erudite Aerialist
+1 Colossus, Steel Stalwart
+1 Storm, Shaker of Skies
+//Sorceries (2)
+1 Go Nuts!
+1 Colossal Collision
+//Enchantments (2)
+1 Accelerated Evolution
+1 Training Regimen
+//Lands (8)
+1 Thriving Grove
 7 Forest

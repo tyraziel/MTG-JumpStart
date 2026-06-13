@@ -1,0 +1,239 @@
+{
+  "deck_name": "ATLANTIS",
+  "set": "MSH",
+  "tokens": [
+    {
+      "name": "Leviathan",
+      "type_line": "Token Creature — Leviathan",
+      "colors": [
+        "U"
+      ],
+      "power": "6",
+      "toughness": "5"
+    },
+    {
+      "name": "Merfolk",
+      "type_line": "Token Creature — Merfolk",
+      "colors": [
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Mist-Cloaked Herald",
+      "type": "Creatures",
+      "type_line": "Creature — Merfolk Warrior",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Daughter of the Deep",
+      "type": "Creatures",
+      "type_line": "Creature — Merfolk Noble",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Merfolk",
+          "type_line": "Token Creature — Merfolk",
+          "colors": [
+            "U"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Atlantean Skirmisher",
+      "type": "Creatures",
+      "type_line": "Creature — Merfolk Rogue",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Atlantean Cavalry",
+      "type": "Creatures",
+      "type_line": "Creature — Merfolk Soldier",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Namora, the Sea Queen",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Mutant Merfolk Hero",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Merfolk",
+          "type_line": "Token Creature — Merfolk",
+          "colors": [
+            "U"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Attuma, Atlantean Warlord",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Merfolk Warrior Villain",
+      "mana_cost": "{2}{U}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Shipwreck Patrol",
+      "type": "Creatures",
+      "type_line": "Creature — Merfolk Warrior",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Namor, Scourge of the Seas",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Mutant Merfolk Villain",
+      "mana_cost": "{3}{U}{U}",
+      "cmc": 5.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Atlantis Attacks",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{5}{U}{U}",
+      "cmc": 7.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "tokens": [
+        {
+          "name": "Leviathan",
+          "type_line": "Token Creature — Leviathan",
+          "colors": [
+            "U"
+          ],
+          "power": "6",
+          "toughness": "5"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Unstable Experiment",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Quantum Reduction",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Frozen in Ice",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

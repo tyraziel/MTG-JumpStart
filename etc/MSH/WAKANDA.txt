@@ -1,15 +1,21 @@
 WAKANDA
-Wakandan Shield Guard
-Wakandan Tusker
-Black Panther, Most Dangerous
-Shuri, Vibranium Technologist
-Okoye, Dora Milaje Leader
-Wakandan Drone Flock
-Borough Backup
-Vibranium Energy Daggers
-Ultimate Alliance
-Panther Pounce
-Heroic Teamwork
-Secure Detention
-Thriving Heath
+//Creatures (6)
+1 Wakandan Shield Guard
+1 Wakandan Tusker
+1 Black Panther, Most Dangerous
+1 Shuri, Vibranium Technologist
+1 Okoye, Dora Milaje Leader
+1 Wakandan Drone Flock
+//Sorceries (1)
+1 Borough Backup
+//Instants (3)
+1 Ultimate Alliance
+1 Panther Pounce
+1 Heroic Teamwork
+//Artifacts (1)
+1 Vibranium Energy Daggers
+//Enchantments (1)
+1 Secure Detention
+//Lands (8)
+1 Thriving Heath
 7 Plains

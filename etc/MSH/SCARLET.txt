@@ -1,15 +1,20 @@
 SCARLET
-Stark Industries Executive
-Loki Laufeyson
-Speed, Young Avenger
-Molten Lavamancer
-Wiccan, Young Avenger
-The Vision and Scarlet Witch
-Kree Sentinel
-Lightning Bolt
-Vision of Love
-Grapeshot
-Hex Magic
-Wanda's Vision
-Thriving Bluff
+//Creatures (7)
+1 Stark Industries Executive
+1 Loki Laufeyson
+1 Speed, Young Avenger
+1 Molten Lavamancer
+1 Wiccan, Young Avenger
+1 The Vision and Scarlet Witch
+1 Kree Sentinel
+//Sorceries (2)
+1 Grapeshot
+1 Hex Magic
+//Instants (2)
+1 Lightning Bolt
+1 Vision of Love
+//Enchantments (1)
+1 Wanda's Vision
+//Lands (8)
+1 Thriving Bluff
 7 Mountain

@@ -1,15 +1,20 @@
 GENIUSES
-Kid Loki
-Bold Biochemist
-Brawn, Amadeus Cho
-Shuri, Vibranium Technologist
-Ant-Man, Reformed Rogue
-Beast, Erudite Aerialist
-Blue Marvel, Adam Brashear
-Reed Richards, Smartest Man
-Super Intelligence
-Futurist Forge
-Frozen in Ice
-Fantastic Bounce
-Thriving Isle
+//Creatures (8)
+1 Kid Loki
+1 Bold Biochemist
+1 Brawn, Amadeus Cho
+1 Shuri, Vibranium Technologist
+1 Ant-Man, Reformed Rogue
+1 Beast, Erudite Aerialist
+1 Blue Marvel, Adam Brashear
+1 Reed Richards, Smartest Man
+//Sorceries (1)
+1 Fantastic Bounce
+//Artifacts (1)
+1 Futurist Forge
+//Enchantments (2)
+1 Super Intelligence
+1 Frozen in Ice
+//Lands (8)
+1 Thriving Isle
 7 Island

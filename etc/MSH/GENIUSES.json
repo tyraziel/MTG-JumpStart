@@ -1,0 +1,191 @@
+{
+  "deck_name": "GENIUSES",
+  "set": "MSH",
+  "tokens": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Kid Loki",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — God Hero Villain",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Bold Biochemist",
+      "type": "Creatures",
+      "type_line": "Creature — Human Scientist",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Brawn, Amadeus Cho",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Gamma Scientist Hero",
+      "mana_cost": "{1}{G/U}",
+      "cmc": 2.0,
+      "colors": [
+        "G",
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Shuri, Vibranium Technologist",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Artificer Hero",
+      "mana_cost": "{2}{W/U}",
+      "cmc": 3.0,
+      "colors": [
+        "U",
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Ant-Man, Reformed Rogue",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Rogue Hero",
+      "mana_cost": "{2}{G/U}",
+      "cmc": 3.0,
+      "colors": [
+        "G",
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Beast, Erudite Aerialist",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Mutant Scientist Hero",
+      "mana_cost": "{3}{G/U}",
+      "cmc": 4.0,
+      "colors": [
+        "G",
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Blue Marvel, Adam Brashear",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Scientist Hero",
+      "mana_cost": "{3}{U}{U}",
+      "cmc": 5.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Reed Richards, Smartest Man",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Scientist Hero",
+      "mana_cost": "{5}{U}",
+      "cmc": 6.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Fantastic Bounce",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Futurist Forge",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Super Intelligence",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Frozen in Ice",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}
