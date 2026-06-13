@@ -554,10 +554,14 @@ Run `/process-new-set` once HTML is saved to `raw/`:
 ## Troubleshooting
 
 **Scryfall rate limiting:**
-- `/cards/named` hard limit is 2 req/s (500ms). Default delay is 1000ms — double that for safety.
-- Use `--delay 500` if you need speed and are confident you won't hit limits.
+
+> ⚠️ Always check the current limits before running API scripts: https://scryfall.com/docs/api/rate-limits
+
+- `/cards/named` hard limit is 2 req/s (500ms). Default delay is **1000ms** — double that for safety.
+- Do not lower `--delay` below 500ms without checking the current limits at the link above.
 - Use cache (`--load-cache`) to minimize API calls — cached cards skip Scryfall entirely.
 - If you see 429 errors, the scripts will auto-retry with backoff. Wait a minute before restarting.
+- Transient errors (400, 429, timeout) are **not** cached — run `manage_unknowns.py --list` after any failed run to check for gaps, then `--remove` to clear them for retry.
 
 **Proxy errors:**
 - Network environment may block Scryfall

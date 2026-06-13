@@ -30,4 +30,4 @@ Compare variant decks within a JumpStart set and output key differentiating card
 - Single-variant themes show one row with their single most notable card
 - Card selection priority: Legendary > Rare > Uncommon > Common, with named characters (those with commas or apostrophes in the name) preferred at each tier
 - The script reads `.json` files, not `.txt` files — make sure JSON files exist for the set
-- If JSON files are missing, they can be generated with `generate_json_decks.py`
+- If JSON files are missing, generate them first with `generate_json_decks.py` (no Scryfall API required)
