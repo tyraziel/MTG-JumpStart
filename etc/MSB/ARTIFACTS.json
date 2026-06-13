@@ -1,0 +1,219 @@
+{
+  "deck_name": "ARTIFACTS",
+  "set": "MSB",
+  "tokens": [
+    {
+      "name": "Robot Villain",
+      "type_line": "Token Artifact Creature — Robot Villain",
+      "colors": [],
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1"
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Aerial Doombot",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Robot Villain",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Hydraulic Helper",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Robot",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "S.H.I.E.L.D. Deployment Drone",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Robot",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Soldier",
+          "type_line": "Token Creature — Soldier",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Ultron Drone",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Robot Villain",
+      "mana_cost": "{3}",
+      "cmc": 3.0,
+      "colors": [],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3",
+      "tokens": [
+        {
+          "name": "Robot Villain",
+          "type_line": "Token Artifact Creature — Robot Villain",
+          "colors": [],
+          "power": "2",
+          "toughness": "2"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "A.I.M. Bot",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Robot Villain",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Victor Mancha, Runaway",
+      "type": "Creatures",
+      "type_line": "Legendary Artifact Creature — Human Hero",
+      "mana_cost": "{5}",
+      "cmc": 5.0,
+      "colors": [],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "War Machine, James Rhodes",
+      "type": "Creatures",
+      "type_line": "Legendary Artifact Creature — Human Hero",
+      "mana_cost": "{3}{W/U}",
+      "cmc": 4.0,
+      "colors": [
+        "U",
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Repulsor Bots",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Robot Hero",
+      "mana_cost": "{4}{U}{U}",
+      "cmc": 6.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Thirst for Knowledge",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Vibranium Energy Daggers",
+      "type": "Artifacts",
+      "type_line": "Artifact — Equipment",
+      "mana_cost": "{1}",
+      "cmc": 1.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Futurist Forge",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Frozen in Ice",
+      "type": "Enchantments",
+      "type_line": "Enchantment — Aura",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 7,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+MARVELOUS
+//Creatures (8)
+1 Wakandan Shield Guard
+1 Raft Security Officer
+1 Marvel Boy, Noh-Varr
+1 Hero in Training
+1 Ms. Marvel, Elastic Ally
+1 Photon, Lady of Light
+1 Captain Mar-Vell, Space-Born
+1 Captain Marvel, Shooting Star
+//Instants (2)
+1 Helicarrier Strike
+1 Fall to Earth
+//Enchantments (2)
+1 Quantum Entanglement
+1 Super Villain Lockup
+//Lands (8)
+1 Thriving Heath
+7 Plains

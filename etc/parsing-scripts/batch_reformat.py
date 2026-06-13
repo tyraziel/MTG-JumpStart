@@ -34,9 +34,14 @@ from typing import Dict, List, Tuple, Optional
 # Scryfall API endpoint
 SCRYFALL_API = "https://api.scryfall.com/cards/named"
 
-# Rate limiting: 250ms default — well within Scryfall's 50-100ms guideline,
-# giving extra headroom to be a good API citizen. Configurable via --delay.
-REQUEST_DELAY = 250 / 1000  # 250ms between requests
+# Scryfall requires a descriptive User-Agent per their API guidelines
+HEADERS = {
+    "User-Agent": "MTG-JumpStart-DeckTracker/1.0 (github.com/vibecoder-1z3r0/mtg-jumpstart)"
+}
+
+# Rate limiting: /cards/named has a hard limit of 2 req/s (500ms).
+# Default is 1000ms to stay well within the limit. Configurable via --delay.
+REQUEST_DELAY = 1000 / 1000  # 1000ms between requests
 
 # Card type categories in order
 TYPE_ORDER = [
@@ -231,7 +236,39 @@ def classify_card_type(type_line: str) -> str:
         return "Unknown"
 
 
-def fetch_token_details(token_uri: str) -> Dict:
+def scryfall_get(url: str, **kwargs) -> requests.Response:
+    """
+    GET a Scryfall URL with rate-limit delay and automatic 429 backoff.
+
+    Retries up to 4 times on 429, doubling the wait each time starting at 5s.
+    Exits with an error message if all retries are exhausted.
+    Raises on any other HTTP error.
+    """
+    time.sleep(REQUEST_DELAY)
+    backoff = 5
+    for attempt in range(5):
+        response = requests.get(url, headers=HEADERS, timeout=10, **kwargs)
+        if response.status_code == 429:
+            if attempt == 4:
+                print("\n" + "="*60, file=sys.stderr)
+                print("✗ RATE LIMITED — all retries exhausted.", file=sys.stderr)
+                print("Double-check current Scryfall API rate limits:", file=sys.stderr)
+                print("  https://scryfall.com/docs/api/rate-limits", file=sys.stderr)
+                print("The script has stopped. Increase --delay or wait before retrying.", file=sys.stderr)
+                print("="*60, file=sys.stderr)
+                sys.exit(1)
+            retry_after = int(response.headers.get("Retry-After", backoff))
+            wait = max(retry_after, backoff)
+            print(f"  [429] Rate limited — waiting {wait}s before retry {attempt + 1}/4...", file=sys.stderr)
+            time.sleep(wait)
+            backoff *= 2
+        else:
+            response.raise_for_status()
+            return response
+    sys.exit(1)  # unreachable
+
+
+def fetch_token_details(token_uri: str, token_name: str = "") -> Dict:
     """
     Fetch P/T and colors for a token card from Scryfall using its URI.
 
@@ -245,9 +282,9 @@ def fetch_token_details(token_uri: str) -> Dict:
         return token_detail_cache[token_uri]
 
     try:
-        time.sleep(REQUEST_DELAY)
-        response = requests.get(token_uri, timeout=10)
-        response.raise_for_status()
+        label = token_name or token_uri.split("/")[-1]
+        print(f"  ⟳ Scryfall (token): {label}", file=sys.stderr)
+        response = scryfall_get(token_uri)
         data = response.json()
 
         details: Dict = {"colors": data.get("colors", [])}
@@ -304,6 +341,7 @@ def get_card_data(card_name: str) -> Dict:
 
     # Check cache first
     if card_name in card_cache:
+        print(f"  [cache] {card_name}", file=sys.stderr)
         return card_cache[card_name]
 
     # Skip special placeholder cards — set skip_reason so future runs don't retry
@@ -315,11 +353,10 @@ def get_card_data(card_name: str) -> Dict:
         print(f"  [skip] '{card_name}' — placeholder_slot", file=sys.stderr)
         return card_data
 
-    # Query Scryfall
+    # Query Scryfall (1000ms delay enforced inside scryfall_get)
+    print(f"  ⟳ Scryfall: {card_name}", file=sys.stderr)
     try:
-        time.sleep(REQUEST_DELAY)  # Rate limiting
-        response = requests.get(SCRYFALL_API, params={"exact": card_name}, timeout=10)
-        response.raise_for_status()
+        response = scryfall_get(SCRYFALL_API, params={"exact": card_name})
 
         data = response.json()
 
@@ -356,7 +393,7 @@ def get_card_data(card_name: str) -> Dict:
                 # Fetch P/T and colors from the token's own card object
                 token_uri = part.get("uri", "")
                 if token_uri:
-                    details = fetch_token_details(token_uri)
+                    details = fetch_token_details(token_uri, token_name=token_info["name"])
                     if details.get("colors") is not None:
                         token_info["colors"] = details["colors"]
                     if details.get("power") is not None:
@@ -370,15 +407,16 @@ def get_card_data(card_name: str) -> Dict:
 
         card_cache[card_name] = card_data
 
-        token_note = f" [{len(tokens)} token(s)]" if tokens else ""
-        print(f"✓ {card_name}: {type_line} -> {card_type}{token_note}", file=sys.stderr)
+        print(f"✓ {card_name}: {type_line} -> {card_type}", file=sys.stderr)
+        for token in tokens:
+            colors = "".join(token.get("colors", [])) or "C"
+            pt = f" {token['power']}/{token['toughness']}" if "power" in token else ""
+            print(f"  → token: {token['name']} [{colors}{pt}]", file=sys.stderr)
         return card_data
 
     except requests.exceptions.RequestException as e:
         print(f"✗ Error fetching {card_name}: {e}", file=sys.stderr)
-        card_data = {"type": "Unknown"}
-        card_cache[card_name] = card_data
-        return card_data
+        return {"type": "Unknown"}
 
 
 def get_card_type(card_name: str) -> str:
@@ -594,7 +632,7 @@ def main():
         print("  --dry-run           Preview changes without modifying files", file=sys.stderr)
         print("  --save-cache        Save cache to disk after processing", file=sys.stderr)
         print("  --load-cache        Load existing cache before processing", file=sys.stderr)
-        print("  --delay MS          Milliseconds between Scryfall API calls (default: 250)", file=sys.stderr)
+        print("  --delay MS          Milliseconds between Scryfall API calls (default: 1000)", file=sys.stderr)
         print("\nExamples:", file=sys.stderr)
         print("  # Build cache from all decks:", file=sys.stderr)
         print("  python batch_reformat.py ../../etc/*/ --build-cache-only --save-cache", file=sys.stderr)

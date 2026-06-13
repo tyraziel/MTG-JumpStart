@@ -1,0 +1,20 @@
+CARD DRAW
+//Creatures (8)
+1 A.I.M. Bot
+1 Brawn, Amadeus Cho
+1 Bold Biochemist
+1 Atlantean Cavalry
+1 Graviton, Fundamental Force
+1 Blue Marvel, Adam Brashear
+1 A.I.M. Scientists
+1 H.E.R.B.I.E. Scout Unit
+//Sorceries (1)
+1 Trickster's Stratagem
+//Instants (1)
+1 Depower
+//Enchantments (2)
+1 Super Intelligence
+1 Stark's Ingenuity
+//Lands (8)
+1 Thriving Isle
+7 Island

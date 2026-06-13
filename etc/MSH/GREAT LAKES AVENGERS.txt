@@ -1,0 +1,20 @@
+GREAT LAKES AVENGERS
+//Creatures (8)
+1 Guerrilla Gorilla
+1 Doorman
+1 Mister Immortal
+1 Tippy-Toe, Terrific Partner
+1 Flatman
+1 The Unbeatable Squirrel Girl
+1 Big Bertha
+1 Savage Land Dinosaur
+//Sorceries (1)
+1 Go Nuts!
+//Instants (2)
+1 Rapid Rescue
+1 Beast Mode
+//Enchantments (1)
+1 Training Regimen
+//Lands (8)
+1 Thriving Grove
+7 Forest

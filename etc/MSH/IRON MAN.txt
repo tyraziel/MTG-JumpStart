@@ -1,0 +1,20 @@
+IRON MAN
+//Creatures (7)
+1 Hydraulic Helper
+1 Rescue, Pepper Potts
+1 S.H.I.E.L.D. Deployment Drone
+1 Iron Lad, Young Avenger
+1 War Machine, James Rhodes
+1 Iron Man, Bleeding Edge
+1 Happy Hogan, Bodyguard
+//Instants (1)
+1 I Am Iron Man
+//Artifacts (3)
+1 Iron Suitcase
+1 Collector's Case
+1 Futurist Forge
+//Enchantments (1)
+1 Origin of Iron Man
+//Lands (8)
+1 Thriving Isle
+7 Island

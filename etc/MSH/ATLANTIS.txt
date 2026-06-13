@@ -1,0 +1,20 @@
+ATLANTIS
+//Creatures (8)
+1 Mist-Cloaked Herald
+1 Daughter of the Deep
+1 Atlantean Skirmisher
+1 Atlantean Cavalry
+1 Namora, the Sea Queen
+1 Attuma, Atlantean Warlord
+1 Shipwreck Patrol
+1 Namor, Scourge of the Seas
+//Sorceries (1)
+1 Atlantis Attacks
+//Instants (1)
+1 Unstable Experiment
+//Enchantments (2)
+1 Quantum Reduction
+1 Frozen in Ice
+//Lands (8)
+1 Thriving Isle
+7 Island

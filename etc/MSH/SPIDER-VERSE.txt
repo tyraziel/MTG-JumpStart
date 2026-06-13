@@ -1,0 +1,21 @@
+SPIDER-VERSE
+//Creatures (8)
+1 Masked Meower
+1 Hobgoblin, Mantled Marauder
+1 Lady Spider, Maybelle Reilly
+1 Spider-Gwen, Free Spirit
+1 Spider-Man, New Champion
+1 Iceman and Firestar
+1 Astonishing Spider-Man
+1 Stegron the Dinosaur Man
+//Sorceries (1)
+1 Romantic Rendezvous
+//Instants (2)
+1 Wisecrack
+1 Marvelous Melee
+//Artifacts (1)
+1 Daily Bugle Newspaper
+//Lands (8)
+1 Thriving Bluff
+1 Fogwell's Gym
+6 Mountain

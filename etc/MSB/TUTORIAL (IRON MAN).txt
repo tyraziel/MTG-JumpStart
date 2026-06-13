@@ -1,0 +1,19 @@
+TUTORIAL (IRON MAN)
+//Creatures (8)
+1 Crimson Operative
+1 Hulk, Bruce Banner
+1 Iron Man, Tony Stark
+1 Spider-Man, Hometown Hero
+1 Scarlet Witch, Wanda Maximoff
+1 Quicksilver, Pietro Maximoff
+1 Black Widow, Natasha Romanoff
+1 Happy Hogan, Dauntless Driver
+//Sorceries (1)
+1 Repulsor Rays
+//Instants (2)
+1 Smashing Spree
+1 Concentrated Fire
+//Enchantments (1)
+1 Power Boost
+//Lands (8)
+8 Mountain

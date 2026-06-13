@@ -1,0 +1,20 @@
+YOUNG AVENGERS
+//Creatures (7)
+1 Speed, Young Avenger
+1 Stature, Young Avenger
+1 Patriot, Young Avenger
+1 Iron Lad, Young Avenger
+1 Wiccan, Young Avenger
+1 She-Hulk, Jennifer Walters
+1 The Immortal Weapons
+//Instants (3)
+1 Lightning Strike
+1 Hire a Crew
+1 Marvelous Melee
+//Artifacts (1)
+1 Experimental Armor
+//Enchantments (1)
+1 Furious Strength
+//Lands (8)
+1 Thriving Bluff
+7 Mountain

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated": "2026-04-26T21:17:02.289146+00:00",
-    "total_tokens": 101,
-    "total_source_refs": 921,
-    "decks_scanned": 529,
+    "generated": "2026-06-13T15:22:45.189891+00:00",
+    "total_tokens": 123,
+    "total_source_refs": 1012,
+    "decks_scanned": 590,
     "sets": [
       "JMP",
       "J22",
@@ -16,8 +16,11 @@
       "LTR",
       "CLU",
       "FDN",
-      "TLB"
-    ]
+      "TLB",
+      "MSH",
+      "MSB"
+    ],
+    "scope": "Official tokens only — entries require a Scryfall oracle_id, meaning WotC has printed a physical token card for them. Tokens created by card text that have no official printed token card (e.g. Monkey, Banana, Zeppelin) are tracked separately as 'unofficial_tokens' on the individual deck JSON files."
   },
   "tokens": [
     {
@@ -1220,6 +1223,24 @@
       ]
     },
     {
+      "name": "Citizen",
+      "type_line": "Token Creature — Citizen",
+      "colors": [
+        "G",
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "INCREDIBLE",
+          "card": "Origin of the Hulk"
+        }
+      ]
+    },
+    {
       "name": "Clue",
       "type_line": "Token Artifact — Clue",
       "colors": [],
@@ -1805,6 +1826,37 @@
       ]
     },
     {
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "colors": [],
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "AGENTS OF S.H.I.E.L.D.",
+          "card": "Agent 13, Sharon Carter"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "EQUIPPED",
+          "card": "Agent 13, Sharon Carter"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "PRECISE",
+          "card": "Panther Pounce"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "WAKANDA",
+          "card": "Panther Pounce"
+        }
+      ]
+    },
+    {
       "name": "Construct",
       "type_line": "Token Artifact Creature — Construct",
       "colors": [
@@ -2029,6 +2081,31 @@
           "set_name": "Ravnica: Clue Edition",
           "deck": "SELESNYA CONCLAVE 2",
           "card": "Sumala Rumblers"
+        }
+      ]
+    },
+    {
+      "name": "Copy",
+      "type_line": "Token",
+      "colors": [],
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "KANG DYNASTY",
+          "card": "Multiversal Recruitment"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "TRICKSTERS",
+          "card": "Multiversal Recruitment"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "TRICKSTERS",
+          "card": "The Clone Saga"
         }
       ]
     },
@@ -2578,6 +2655,29 @@
           "set_name": "Ravnica: Clue Edition",
           "deck": "SELESNYA CONCLAVE 2",
           "card": "Vernal Sovereign"
+        }
+      ]
+    },
+    {
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "colors": [
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "SCARLET",
+          "card": "Molten Lavamancer"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "THOR",
+          "card": "Molten Lavamancer"
         }
       ]
     },
@@ -3205,6 +3305,49 @@
       ]
     },
     {
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "colors": [],
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "ANIMAL",
+          "card": "Ant-Man's Army"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "ANIMAL",
+          "card": "Heroic Feast"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "ANIMAL",
+          "card": "Lucky the Pizza Dog"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "ANIMAL",
+          "card": "Tippy-Toe, Terrific Partner"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "COUNTERARGUMENT",
+          "card": "City Pigeon"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "GREAT LAKES AVENGERS",
+          "card": "Tippy-Toe, Terrific Partner"
+        }
+      ]
+    },
+    {
       "name": "Frog Lizard",
       "type_line": "Token Creature — Frog Lizard",
       "colors": [
@@ -3768,6 +3911,23 @@
       ]
     },
     {
+      "name": "Illusion Villain",
+      "type_line": "Token Creature — Illusion Villain",
+      "colors": [
+        "U"
+      ],
+      "power": "3",
+      "toughness": "3",
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "CONNIVING",
+          "card": "Mysterio's Mirage"
+        }
+      ]
+    },
+    {
       "name": "Incubator // Phyrexian",
       "type_line": "Token Artifact — Incubator // Token Artifact Creature — Phyrexian",
       "colors": [],
@@ -4098,6 +4258,29 @@
       ]
     },
     {
+      "name": "Leviathan",
+      "type_line": "Token Creature — Leviathan",
+      "colors": [
+        "U"
+      ],
+      "power": "6",
+      "toughness": "5",
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "ANALYZED",
+          "card": "Atlantis Attacks"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "ATLANTIS",
+          "card": "Atlantis Attacks"
+        }
+      ]
+    },
+    {
       "name": "Marit Lage",
       "type_line": "Token Legendary Creature — Avatar",
       "colors": [
@@ -4147,6 +4330,35 @@
       ]
     },
     {
+      "name": "Merfolk",
+      "type_line": "Token Creature — Merfolk",
+      "colors": [
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "ATLANTIS",
+          "card": "Daughter of the Deep"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "ATLANTIS",
+          "card": "Namora, the Sea Queen"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "SOARING",
+          "card": "Namora, the Sea Queen"
+        }
+      ]
+    },
+    {
       "name": "Minotaur",
       "type_line": "Token Creature — Minotaur",
       "colors": [
@@ -4180,6 +4392,23 @@
           "set_name": "JumpStart 2020",
           "deck": "MINOTAURS (2)",
           "card": "Sethron, Hurloon General"
+        }
+      ]
+    },
+    {
+      "name": "Moloid",
+      "type_line": "Token Creature — Minion",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "TENACIOUS",
+          "card": "Return of the Mole Man"
         }
       ]
     },
@@ -4827,6 +5056,86 @@
       ]
     },
     {
+      "name": "Redwing",
+      "type_line": "Token Legendary Creature — Bird Scout",
+      "colors": [
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "SOARING",
+          "card": "Falcon, Winged Wonder"
+        }
+      ]
+    },
+    {
+      "name": "Robot",
+      "type_line": "Token Artifact Creature — Robot",
+      "colors": [],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "PYM PARTICLES",
+          "card": "Robotics Mastery"
+        }
+      ]
+    },
+    {
+      "name": "Robot Hero",
+      "type_line": "Token Artifact Creature — Robot Hero",
+      "colors": [],
+      "power": "2",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "MSB",
+          "set_name": "Marvel Super Heroes Beginner Box",
+          "deck": "TUTORIAL (IRON MAN)",
+          "card": "Iron Man, Tony Stark"
+        }
+      ]
+    },
+    {
+      "name": "Robot Villain",
+      "type_line": "Token Artifact Creature — Robot Villain",
+      "colors": [],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "ULTRON",
+          "card": "Robot Domination"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "ULTRON",
+          "card": "Ultron Drone"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "ULTRON",
+          "card": "Ultron the Annihilator"
+        },
+        {
+          "set": "MSB",
+          "set_name": "Marvel Super Heroes Beginner Box",
+          "deck": "ARTIFACTS",
+          "card": "Ultron Drone"
+        }
+      ]
+    },
+    {
       "name": "Saproling",
       "type_line": "Token Creature — Saproling",
       "colors": [
@@ -5436,6 +5745,107 @@
       ]
     },
     {
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "AGENTS OF S.H.I.E.L.D.",
+          "card": "S.H.I.E.L.D. Helicarrier"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "BATTALION",
+          "card": "Wakandan Shield Guard"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "BLINK",
+          "card": "S.H.I.E.L.D. Deployment Drone"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "EQUIPPED",
+          "card": "Captain America, Liberator"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "EQUIPPED",
+          "card": "Secure Detention"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "IRON MAN",
+          "card": "S.H.I.E.L.D. Deployment Drone"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "KANG DYNASTY",
+          "card": "S.H.I.E.L.D. Deployment Drone"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "MARVELOUS",
+          "card": "Wakandan Shield Guard"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "SOARING",
+          "card": "S.H.I.E.L.D. Deployment Drone"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "VEHICLES",
+          "card": "S.H.I.E.L.D. Helicarrier"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "WAKANDA",
+          "card": "Okoye, Dora Milaje Leader"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "WAKANDA",
+          "card": "Secure Detention"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "WAKANDA",
+          "card": "Wakandan Shield Guard"
+        },
+        {
+          "set": "MSB",
+          "set_name": "Marvel Super Heroes Beginner Box",
+          "deck": "ARTIFACTS",
+          "card": "S.H.I.E.L.D. Deployment Drone"
+        },
+        {
+          "set": "MSB",
+          "set_name": "Marvel Super Heroes Beginner Box",
+          "deck": "HEROES",
+          "card": "Okoye, Dora Milaje Leader"
+        }
+      ]
+    },
+    {
       "name": "Spirit",
       "type_line": "Token Creature — Spirit",
       "colors": [
@@ -5640,6 +6050,54 @@
       ]
     },
     {
+      "name": "Squirrel",
+      "type_line": "Token Creature — Squirrel",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "GREAT LAKES AVENGERS",
+          "card": "The Unbeatable Squirrel Girl"
+        }
+      ]
+    },
+    {
+      "name": "Sturdy Shield",
+      "type_line": "Token Artifact — Equipment",
+      "colors": [],
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "ARMED",
+          "card": "U.S.Agent, John Walker"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "BATTALION",
+          "card": "U.S.Agent, John Walker"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "EQUIPPED",
+          "card": "Origin of Captain America"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "EQUIPPED",
+          "card": "U.S.Agent, John Walker"
+        }
+      ]
+    },
+    {
       "name": "Tentacle",
       "type_line": "Token Creature — Tentacle",
       "colors": [
@@ -5655,6 +6113,23 @@
           "set_name": "JumpStart Foundations",
           "deck": "BOOKWORMS (4)",
           "card": "Nadir Kraken"
+        }
+      ]
+    },
+    {
+      "name": "The Tiger God",
+      "type_line": "Token Legendary Creature — Cat God",
+      "colors": [
+        "G"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "TRAINED",
+          "card": "White Tiger, Ava Ayala"
         }
       ]
     },
@@ -6370,6 +6845,115 @@
           "set_name": "Foundations Beginner Box",
           "deck": "PIRATES",
           "card": "Corsair Captain"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "DOOM",
+          "card": "Deadly Dispute"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "HEROES FOR HIRE",
+          "card": "Big Score"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "STREET LEVEL VILLAINS",
+          "card": "Deadly Dispute"
+        }
+      ]
+    },
+    {
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "colors": [],
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "ANIMAL",
+          "card": "Ant-Man's Army"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "DOOM",
+          "card": "Common Crook"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "FANTASTIC",
+          "card": "Daily Bugle Newspaper"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "HEROES FOR HIRE",
+          "card": "Contract Hero"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "HEROES FOR HIRE",
+          "card": "Heroes for Hire"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "HEROES FOR HIRE",
+          "card": "Luke Cage, Hero for Hire"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "HEROES FOR HIRE",
+          "card": "Stark Industries Executive"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "MAYHEM",
+          "card": "Daily Bugle Newspaper"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "RUNAWAYS",
+          "card": "Crossover Collaboration"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "SCARLET",
+          "card": "Stark Industries Executive"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "SPIDER-VERSE",
+          "card": "Daily Bugle Newspaper"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "STREET LEVEL VILLAINS",
+          "card": "Common Crook"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "STREET LEVEL VILLAINS",
+          "card": "Kingpin, Wilson Fisk"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "YOUNG AVENGERS",
+          "card": "Crossover Collaboration"
         }
       ]
     },
@@ -6391,6 +6975,146 @@
           "set_name": "JumpStart Foundations",
           "deck": "STALWART (3)",
           "card": "Paladin of the Bloodstained"
+        }
+      ]
+    },
+    {
+      "name": "Villain",
+      "type_line": "Token Creature — Villain",
+      "colors": [
+        "B"
+      ],
+      "power": "2",
+      "toughness": "1",
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "ARMED",
+          "card": "HYDRA Disintegrator"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "FEARLESS",
+          "card": "Hire a Crew"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "HYDRA",
+          "card": "Agents of HYDRA"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "HYDRA",
+          "card": "Arnim Zola, Bio-Fanatic"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "HYDRA",
+          "card": "HYDRA Disintegrator"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "HYDRA",
+          "card": "HYDRA Troopers"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "MASTERS OF EVIL",
+          "card": "Crimson Cowl, Master of Evil"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "RETURNED",
+          "card": "Arnim Zola, Bio-Fanatic"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "STREET LEVEL VILLAINS",
+          "card": "Agents of HYDRA"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "STREET LEVEL VILLAINS",
+          "card": "Criminal Enterprise"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "STREET LEVEL VILLAINS",
+          "card": "Madame Masque"
+        },
+        {
+          "set": "MSB",
+          "set_name": "Marvel Super Heroes Beginner Box",
+          "deck": "HYDRA",
+          "card": "Agents of HYDRA"
+        },
+        {
+          "set": "MSB",
+          "set_name": "Marvel Super Heroes Beginner Box",
+          "deck": "HYDRA",
+          "card": "Arnim Zola, Bio-Fanatic"
+        },
+        {
+          "set": "MSB",
+          "set_name": "Marvel Super Heroes Beginner Box",
+          "deck": "HYDRA",
+          "card": "HYDRA Troopers"
+        },
+        {
+          "set": "MSB",
+          "set_name": "Marvel Super Heroes Beginner Box",
+          "deck": "VILLAINS",
+          "card": "Minotaur, Roxxon CEO"
+        },
+        {
+          "set": "MSB",
+          "set_name": "Marvel Super Heroes Beginner Box",
+          "deck": "YOUNG AVENGERS",
+          "card": "Hire a Crew"
+        }
+      ]
+    },
+    {
+      "name": "Wall",
+      "type_line": "Token Creature — Wall",
+      "colors": [],
+      "power": "0",
+      "toughness": "4",
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "FANTASTIC",
+          "card": "Invisible Woman, Sue Storm"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "FANTASTIC",
+          "card": "The Fantastic Four"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "FANTASTIC",
+          "card": "Wall Off"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "SQUADRON",
+          "card": "Doctor Spectrum"
         }
       ]
     },
@@ -6596,6 +7320,29 @@
           "set_name": "JumpStart Foundations",
           "deck": "ICKY (2)",
           "card": "Wriggling Grub"
+        }
+      ]
+    },
+    {
+      "name": "Zabu",
+      "type_line": "Token Legendary Creature — Cat",
+      "colors": [
+        "G"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "SAVAGE LANDS",
+          "card": "Ka-Zar of the Savage Land"
+        },
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "WILD",
+          "card": "Ka-Zar of the Savage Land"
         }
       ]
     },
@@ -6908,6 +7655,23 @@
           "set_name": "Foundations Beginner Box",
           "deck": "UNDEAD",
           "card": "Suspicious Shambler"
+        }
+      ]
+    },
+    {
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "colors": [
+        "B"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "sources": [
+        {
+          "set": "MSH",
+          "set_name": "Marvel Super Heroes",
+          "deck": "RETURNED",
+          "card": "Grim Reaper's Scythe"
         }
       ]
     }

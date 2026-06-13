@@ -1,0 +1,20 @@
+COUNTERS
+//Creatures (8)
+1 Serpent Specialist
+1 Knight of Wundagore
+1 Hellcat, Undying Vigilante
+1 Gamma Grotesque
+1 Warriors of Wakanda
+1 Mister Hyde, Monster Within
+1 Beast, Erudite Aerialist
+1 The Thing, Ben Grimm
+//Sorceries (1)
+1 Colossal Collision
+//Instants (2)
+1 Feral Ferocity
+1 Punishing Punch
+//Enchantments (1)
+1 Training Regimen
+//Lands (8)
+1 Thriving Grove
+7 Forest

@@ -1,0 +1,1322 @@
+<p><i>Magic: The Gathering</i> | <i>Marvel Super Heroes</i> Jumpstart Booster boxes contain 24 Jumpstart Boosters with at least 1 new-to<i>-Magic</i> card from MSC in each booster. Each Jumpstart Booster also contains 1 full-art city chaos or city calm basic land.</p>
+
+<p>To play, open two Jumpstart Boosters and shuffle them together for a complete deck. It's as easy as that! Jumpstart Boosters are perfect for players who are learning to play or want to expand their collection with cards from across the Marvel Universe. With 51 different booster themes, there's something for every player.</p>
+
+<p>Check out all the cards from Jumpstart Boosters in the <a href="https://magic.wizards.com/en/products/marvel/marvel-super-heroes/card-image-gallery" target="_blank"><i>Magic: The Gathering</i> | <i>Marvel Super Heroes</i> Card Image Gallery</a>. Below, you can find all the booster themes from <i>Magic: The Gathering</i> | <i>Marvel Super Heroes</i> Jumpstart Boosters. The set releases on June 26 and is available for preorder now from <a href="https://locator.wizards.com/" target="_blank">your local game store</a>, <a href="https://partner.tcgplayer.com/e1d7gz" target="_blank">TCGplayer</a>, <a href="	https://gtly.ink/bdrkd9WKTp" gtm-event="retailer_cta_click" gtm-link-text="Amazon" gtm-section="Daily Article" target="_blank">Amazon</a>, and elsewhere <i>Magic</i> is sold.</p>
+
+<!-- Update background with HEX color as needed-->
+<div style="background:#ffffff; padding:12px; text-align:center;">
+
+<!--update background to manage button main color, color for text color, and solid for border color -->
+  <a href="https://locator.wizards.com/" target="_blank"
+     style="display:inline-flex; align-items:center; justify-content:center; height:42px; padding:0 18px; margin:6px; background:#f8d94d; color:#000000; border:2px solid #000000; border-radius:18px; text-decoration:none; font-weight:bold; font-size:16px; line-height:1; white-space:nowrap;">
+    <img src="https://images.ctfassets.net/s5n2t79q9icq/4f9TSh1w5TFjnuh6b5oKSK/da28cf36b440204653dd9901934f7b59/icon-store-White.svg" alt="" style="height:20px; width:auto; vertical-align:middle; margin-right:10px;">YOUR LOCAL STORE</a>
+
+ <a href="https://partner.tcgplayer.com/e1d7gz" target="_blank"
+     style="display:inline-flex; align-items:center; justify-content:center; height:42px; padding:0 18px; margin:6px; background:#f8d94d; color:#000000; border:2px solid #000000; border-radius:18px; text-decoration:none; font-weight:bold; font-size:16px; line-height:1; white-space:nowrap;"><img src="https://images.ctfassets.net/s5n2t79q9icq/3iikVZ5Dn6y9DdoyKsobfY/42eb34559893ea35d2fb1bd439da3d51/tcg-icon-white.png" alt="" style="height:20px; width:auto; vertical-align:middle; margin-right:10px;">TCGPLAYER ↗</a>
+
+ <a href="https://gtly.ink/bdrkd9WKTp" gtm-event="retailer_cta_click" gtm-link-text="Amazon" gtm-section="Daily Article" target="_blank"
+     style="display:inline-flex; align-items:center; justify-content:center; height:42px; padding:0 18px; margin:6px; background:#f8d94d; color:#000000; border:2px solid #000000; border-radius:18px; text-decoration:none; font-weight:bold; font-size:16px; line-height:1; white-space:nowrap;">
+    <img src="https://images.ctfassets.net/s5n2t79q9icq/3R13qXOFk919waqt96xT01/de1e2a516bd0bf878c473d2012163cc4/icon-amazon.svg" alt="" style="height:20px; width:auto; vertical-align:middle; margin-right:10px;">AMAZON ↗</a>
+</div>
+
+<h2 class="strike-through"><span>White</span></h2>
+
+<!--Agents of S.H.I.E.L.D.-->
+
+<div style="text-align: center;">
+  <cig-card entry="5ylMKhXCNBsdgcDca0Nhwy">0011_MTGMSH_JSTheme: Agents of S.H.I.E.L.D. Theme</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Agents of S.H.I.E.L.D.">
+<main-deck>
+Agent Phil Coulson
+Peggy Carter, Secret Agent
+Agent 13, Sharon Carter
+Agents of S.H.I.E.L.D.
+Quake, Agent of S.H.I.E.L.D.
+S.H.I.E.L.D. Helicarrier
+Borough Backup
+Nick Fury, Spymaster
+S.H.I.E.L.D. Spy Kit
+Helicarrier Strike
+Strategic Intervention
+Web Up
+Thriving Heath
+7 Plains
+</main-deck>
+</deck-list>
+
+<!--Battalion-->
+
+<div style="text-align: center;">
+  <cig-card entry="2xEzlC6D2LeUqKsiosThTv">0012_MTGMSH_JSTheme: Battalion Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Battalion">
+<main-deck>
+General Thunderbolt Ross
+The Howling Commandos
+Wakandan Shield Guard
+Wild Pack Squad
+Falcon, Joaquin Torres
+War Machine, James Rhodes
+U.S.Agent, John Walker
+Captain America, Skybound
+Ultimate Alliance
+Helicarrier Strike
+Heroic Teamwork
+Fall to Earth
+Thriving Heath
+7 Plains
+</main-deck>
+</deck-list>
+
+<!--Caretakers-->
+
+<div style="text-align: center;">
+  <cig-card entry="5wndsj1Q1bdl3EsjfyfCdT">0013_MTGMSH_JSTheme: Caretakers Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Caretakers">
+<main-deck>
+Crowd of True Believers
+Night Nurse, Healer of Heroes
+Donald Blake, Guise of Thor
+MJ, Rising Star
+Virtuous Variant
+Doctor Jane Foster
+Valkyrior Skyrider
+Doctor Strange, Surgeon
+Take Up the Shield
+Super Villain Lockup
+Infinity Formula
+Fall to Earth
+Thriving Heath
+7 Plains
+</main-deck>
+</deck-list>
+
+<!--Counterargument-->
+
+<div style="text-align: center;">
+  <cig-card entry="2qHZYjtSi5gmB4CTKvUV2A">0014_MTGMSH_JSTheme: Counterargument Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Counterargument">
+<main-deck>
+City Pigeon
+Selfless Police Captain
+Matt Murdock, Justice Seeker
+She-Hulk, Attorney-at-Law
+Foggy Nelson, On Retainer
+Daily Bugle Reporters
+Starling, Aerial Ally
+Vault Guardsman
+Political Triumph
+Costume Closet
+Murdock’s Crusade
+Web Up
+Thriving Heath
+7 Plains
+</main-deck>
+</deck-list>
+
+<!--Equipped-->
+
+<div style="text-align: center;">
+  <cig-card entry="6fFK4bMElvP8bSQp67fLDp">0015_MTGMSH_JSTheme: Equipped Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Equipped">
+<main-deck>
+Bucky Barnes, Eager Ally
+Peggy Carter, Secret Agent
+The Howling Commandos
+Agent 13, Sharon Carter
+Patriot, Young Avenger
+U.S.Agent, John Walker
+Captain America, Liberator
+Captain America’s Shield
+Take Up the Shield
+Infinity Formula
+Origin of Captain America
+Secure Detention
+Thriving Heath
+7 Plains
+</main-deck>
+</deck-list>
+
+<!--Marvelous-->
+
+<div style="text-align: center;">
+  <cig-card entry="61SQM8DlU72sDT5s4CCIba">0016_MTGMSH_JSTheme: Marvelous Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Marvelous">
+<main-deck>
+Wakandan Shield Guard
+Raft Security Officer
+Marvel Boy, Noh-Varr
+Hero in Training
+Ms. Marvel, Elastic Ally
+Photon, Lady of Light
+Captain Mar-Vell, Space-Born
+Captain Marvel, Shooting Star
+Helicarrier Strike
+Quantum Entanglement
+Super Villain Lockup
+Fall to Earth
+Thriving Heath
+7 Plains
+</main-deck>
+</deck-list>
+
+<!--Precise-->
+
+<div style="text-align: center;">
+  <cig-card entry="5GY0d3GU65Q89jULQiuZHi">0017_MTGMSH_JSTheme: Precise Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Precise">
+<main-deck>
+Colleen Wing, Street Samurai
+Agent of Atlas
+Raft Security Officer
+Kree Commandos
+Hawkeye, Bowslinger
+Mockingbird, Ace Agent
+Valkyrior Skyrider
+Panther Pounce
+Stunning Shot
+Sudden Strike
+Heroic Teamwork
+Fall to Earth
+Thriving Heath
+7 Plains
+</main-deck>
+</deck-list>
+
+<!--Squadron-->
+
+<div style="text-align: center;">
+  <cig-card entry="2lhtYLj0mYX8rk06sG7QWv">0018_MTGMSH_JSTheme: Squadron Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Squadron">
+<main-deck>
+Agent of Atlas
+Brave Brawler
+Nighthawk, Dark Defender
+Hero in Training
+Zarda, the Power Princess
+Doctor Spectrum
+Borough Backup
+Hyperion, Supreme Hero
+Hyperion’s Atomic Vision
+Heroic Teamwork
+Web Up
+Blur of Heroism
+Thriving Heath
+7 Plains
+</main-deck>
+</deck-list>
+
+<!--Wakanda-->
+
+<div style="text-align: center;">
+  <cig-card entry="KJK5Yes1mQEb460gfwK2e">0019_MTGMSH_JSTheme: Wakanda Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Wakanda">
+<main-deck>
+Wakandan Shield Guard
+Wakandan Tusker
+Black Panther, Most Dangerous
+Shuri, Vibranium Technologist
+Okoye, Dora Milaje Leader
+Wakandan Drone Flock
+Borough Backup
+Vibranium Energy Daggers
+Ultimate Alliance
+Panther Pounce
+Heroic Teamwork
+Secure Detention
+Thriving Heath
+7 Plains
+</main-deck>
+</deck-list>
+
+<!--Web-Slinging-->
+
+<div style="text-align: center;">
+  <cig-card entry="21H8IPtW3UtC76LB5Hx8xo">0020_MTGMSH_JSTheme: Web-Slinging Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Web-Slinging">
+<main-deck>
+Aunt May
+Flash Thompson, Spider-Fan
+Gallant Citizen
+Spider-Man, Web-Slinger
+Virtuous Variant
+Spider-UK
+Amazing Spider-Girl
+Vault Guardsman
+Thwip!
+Spectacular Tactics
+Web Up
+Spider-Mobile
+Thriving Heath
+7 Plains
+</main-deck>
+</deck-list>
+
+<h2 class="strike-through"><span>Blue</span></h2>
+
+<!--Analyzed-->
+
+<div style="text-align: center;">
+  <cig-card entry="3sOPmIJIRfgjdG8lsZbpHS">0021_MTGMSH_JSTheme: Analyzed Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Analyzed">
+<main-deck>
+Virtual Assistant
+TVA Bureaucrat
+Viv Vision, Teen Synthezoid
+Echo, Perceptive Prodigy
+Machine Man, Model X-51
+Victor Mancha, Runaway
+Vision, Spectral Synthezoid
+We Say Thee Nay!
+Quantum Reduction
+Frozen in Ice
+Timeline Inquiry
+Atlantis Attacks
+Thriving Isle
+7 Island
+</main-deck>
+</deck-list>
+
+<!--Atlantis-->
+
+<div style="text-align: center;">
+  <cig-card entry="714i5MG6h0JLEQueBafvTb">0022_MTGMSH_JSTheme: Atlantis Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Atlantis">
+<main-deck>
+Mist-Cloaked Herald
+Daughter of the Deep
+Atlantean Skirmisher
+Atlantean Cavalry
+Namora, the Sea Queen
+Attuma, Atlantean Warlord
+Shipwreck Patrol
+Namor, Scourge of the Seas
+Quantum Reduction
+Unstable Experiment
+Frozen in Ice
+Atlantis Attacks
+Thriving Isle
+7 Island
+</main-deck>
+</deck-list>
+
+<!--Blink-->
+
+<div style="text-align: center;">
+  <cig-card entry="1XNjgfUcEFaAaPaaVIYbdC">0023_MTGMSH_JSTheme: Blink Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Blink">
+<main-deck>
+Shi'ar Soldier
+Mob Lookout
+Imperial Cosmographer
+S.H.I.E.L.D. Deployment Drone
+Justice, Vance Astrovik
+Victor Timely, Wily Tycoon
+Shipwreck Patrol
+Silver Surfer, Cosmic Voyager
+Spaceshift
+We Say Thee Nay!
+Collector's Case
+Dismissive Denial
+Thriving Isle
+7 Island
+</main-deck>
+</deck-list>
+
+<!--Conniving-->
+
+<div style="text-align: center;">
+  <cig-card entry="4ACxTrAGJ5sNARYrrk5G2R">0024_MTGMSH_JSTheme: Conniving Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Conniving">
+<main-deck>
+Kid Loki
+Mob Lookout
+Flying Octobot
+Graviton, Fundamental Force
+Doc Ock's Henchmen
+Tiger Shark, Abyssal Hunter
+Leader, Super-Genius
+Doc Ock, Sinister Scientist
+Unstable Experiment
+Mysterio's Mirage
+Trickster's Stratagem
+Dismissive Denial
+Thriving Isle
+Villainous Hideout
+6 Island
+</main-deck>
+</deck-list>
+
+<!--Geniuses-->
+
+<div style="text-align: center;">
+  <cig-card entry="3OgGRyGL1Fv2mMMs2IjqtK">0025_MTGMSH_JSTheme: Geniuses Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Geniuses">
+<main-deck>
+Kid Loki
+Bold Biochemist
+Brawn, Amadeus Cho
+Shuri, Vibranium Technologist
+Ant-Man, Reformed Rogue
+Beast, Erudite Aerialist
+Blue Marvel, Adam Brashear
+Reed Richards, Smartest Man
+Super Intelligence
+Futurist Forge
+Frozen in Ice
+Fantastic Bounce
+Thriving Isle
+7 Island
+</main-deck>
+</deck-list>
+
+<!--Iron Man-->
+
+<div style="text-align: center;">
+  <cig-card entry="1HGwp4FaCXF3TMrAY11bkC">0026_MTGMSH_JSTheme: Iron Man Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Iron Man">
+<main-deck>
+Hydraulic Helper
+Rescue, Pepper Potts
+S.H.I.E.L.D. Deployment Drone
+Iron Lad, Young Avenger
+War Machine, James Rhodes
+Iron Man, Bleeding Edge
+Happy Hogan, Bodyguard
+Iron Suitcase
+Collector's Case
+Futurist Forge
+I Am Iron Man
+Origin of Iron Man
+Thriving Isle
+7 Island
+</main-deck>
+</deck-list>
+
+<!--Kang Dynasty-->
+
+<div style="text-align: center;">
+  <cig-card entry="7Fs4t61sAmaK9A0bdZfw3E">0027_MTGMSH_JSTheme: Kang Dynasty Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Kang Dynasty">
+<main-deck>
+Bold Biochemist
+TVA Bureaucrat
+S.H.I.E.L.D. Deployment Drone
+Iron Lad, Young Avenger
+Immortus, Master of Eternity
+Victor Timely, Wily Tycoon
+Pharaoh Rama-Tut
+Think Twice
+Depower
+Timeline Inquiry
+Multiversal Recruitment
+Time Warp
+Thriving Isle
+7 Island
+</main-deck>
+</deck-list>
+
+<!--Pym Particles-->
+
+<div style="text-align: center;">
+  <cig-card entry="70zcaRNqyxoXh054xOHCH3">0028_MTGMSH_JSTheme: Pym Particles Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Pym Particles">
+<main-deck>
+Aerial Doombot
+Bold Biochemist
+Ant-Man’s Air Force
+Ant-Man, Reformed Rogue
+Wasp, Shrinking Savior
+A.I.M. Scientists
+Giant-Sized Flying Ant
+Pym Particles
+Super Suit
+Quantum Reduction
+Depower
+Robotics Mastery
+Thriving Isle
+7 Island
+</main-deck>
+</deck-list>
+
+<!--Soaring-->
+
+<div style="text-align: center;">
+  <cig-card entry="5cm6KxFaWMbl6BypmavOS9">0029_MTGMSH_JSTheme: Soaring Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Soaring">
+<main-deck>
+Aerial Doombot
+Rescue, Pepper Potts
+Flying Drone
+Namora, the Sea Queen
+S.H.I.E.L.D. Deployment Drone
+Justice, Vance Astrovik
+Vulture, Feathered Fiend
+Falcon, Winged Wonder
+Whoosh!
+Falcon’s Wing Harness
+I Am Iron Man
+Dismissive Denial
+Thriving Isle
+7 Island
+</main-deck>
+</deck-list>
+
+<!--Tricksters-->
+
+<div style="text-align: center;">
+  <cig-card entry="4YyPjybHJD0cl83BIy3UWl">0030_MTGMSH_JSTheme: Tricksters Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Tricksters">
+<main-deck>
+Kid Loki
+Living Lies of Loki
+Ant-Man's Air Force
+Impossible Man
+Ghost, Spectral Saboteur
+Loki, Lord of Misrule
+A.I.M. Scientists
+We Say Thee Nay!
+Quantum Reduction
+Trickster's Stratagem
+Multiversal Recruitment
+The Clone Saga
+Thriving Isle
+7 Island
+</main-deck>
+</deck-list>
+
+<h2 class="strike-through"><span>Black</span></h2>
+
+<!--Armed-->
+
+<div style="text-align: center;">
+  <cig-card entry="1Pmr6QbBLodfEcLhfg1uDF">0031_MTGMSH_JSTheme: Armed Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Armed">
+<main-deck>
+Whiplash, Vengeful Engineer
+Swordsman, Sharp Scoundrel
+Red Room Recruit
+Ronin, Shadow Stalker
+Kingpin's Enforcers
+Armed Assailant
+U.S.Agent, John Walker
+HYDRA Disintegrator
+Stolen Stark Tech
+Voltaic Whip
+Hour of Defeat
+Swordsman's Steel
+Thriving Moor
+7 Swamp
+</main-deck>
+</deck-list>
+
+<!--DOOM-->
+
+<div style="text-align: center;">
+  <cig-card entry="5aeaN0qXRzE1mww2KqtSh5">0032_MTGMSH_JSTheme: DOOM Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="DOOM">
+<main-deck>
+Project Deathlok Soldier
+Common Crook
+Doom's Servo-Guards
+Doombot Harbinger
+Ninja of the Hand
+Doctor Doom, Unrivaled
+Roxxon Brutes
+Dark Ritual
+Doom Blade
+Deadly Dispute
+Doomfall
+Doomsday
+Thriving Moor
+7 Swamp
+</main-deck>
+</deck-list>
+
+<!--HYDRA-->
+
+<div style="text-align: center;">
+  <cig-card entry="4ZVqgrNQSyBvszBqRE82Pl">0033_MTGMSH_JSTheme: HYDRA Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="HYDRA">
+<main-deck>
+Bob, Reluctant HYDRA Agent
+Viper, Cruel Conspirator
+Agents of HYDRA
+HYDRA Troopers
+Baron Strucker, HYDRA Overlord
+Arnim Zola, Bio-Fanatic
+Crossbones, Malicious Mercenary
+HYDRA Disintegrator
+Dark Deed
+Cruel Alliance
+HYDRA Infiltration
+Infernal Rebirth
+Thriving Moor
+7 Swamp
+</main-deck>
+</deck-list>
+
+<!--Lethal-->
+
+<div style="text-align: center;">
+  <cig-card entry="w50lSB1E9qKkQx9wsdy1a">0034_MTGMSH_JSTheme: Lethal Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Lethal">
+<main-deck>
+Red Room Recruit
+White Widow, Yelena Belova
+Ninja of the Hand
+Venomized Cat
+Black Widow, Deadly Hunter
+Titanium Man
+Venom, Evil Unleashed
+Stolen Stark Tech
+Widow's Bite
+Hour of Defeat
+Origin of Black Widow
+Infernal Rebirth
+Thriving Moor
+7 Swamp
+</main-deck>
+</deck-list>
+
+<!--Masters of Evil-->
+
+<div style="text-align: center;">
+  <cig-card entry="yyjco4UPeZksaNEye9o7E">0035_MTGMSH_JSTheme: Master of Evil Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Masters of Evil">
+<main-deck>
+Boomerang, Blade Flinger
+Yellowjacket, Heartless Marauder
+Titania, Rugged Rumbler
+Klaw, Sonic Subjugator
+Crimson Cowl, Master of Evil
+Tiger Shark, Abyssal Hunter
+Radioactive Man
+The Masters of Evil
+Villainous Syndication
+Cruel Alliance
+Visions of Villainy
+Hour of Defeat
+Thriving Moor
+7 Swamp
+</main-deck>
+</deck-list>
+
+<!--Mayhem-->
+
+<div style="text-align: center;">
+  <cig-card entry="2Z9Gdnp74zXcMAJCa50VWB">0036_MTGMSH_JSTheme: Mayhem Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Mayhem">
+<main-deck>
+Project Deathlok Soldier
+Red Room Recruit
+Yellowjacket, Heartless Marauder
+Swarm, Being of Bees
+Inner Demons Gangsters
+Roxxon Brutes
+Green Goblin, Back for More
+Pumpkin Bombardment
+Alien Symbiosis
+Daily Bugle Newspaper
+Rocket-Powered Goblin Glider
+Sadistic Slash
+Thriving Moor
+7 Swamp
+</main-deck>
+</deck-list>
+
+<!--Returned-->
+
+<div style="text-align: center;">
+  <cig-card entry="43ZAM8E7ztuXQifTCgnDLo">0037_MTGMSH_JSTheme: Returned Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Returned">
+<main-deck>
+Project Deathlok Soldier
+Doom's Servo-Guards
+Undead Hand Ninja
+Songbird, Sonic Screamer
+Arnim Zola, Bio-Fanatic
+Grim Reaper, Lethal Legionnaire
+Unliving Legionnaire
+Ultimo, Civilization's End
+Minion Missile
+Grim Reaper's Scythe
+Too Evil to Stay Dead
+Infernal Rebirth
+Thriving Moor
+7 Swamp
+</main-deck>
+</deck-list>
+
+<!--Street Level Villains-->
+
+<div style="text-align: center;">
+  <cig-card entry="1C0XpPQFUf8x9K0Q86Uoih">0038_MTGMSH_JSTheme: Street Level Villains Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Street Level Villains">
+<main-deck>
+Agents of HYDRA
+Common Crook
+Hammerhead, Maggia Boss
+Kingpin's Enforcers
+Tombstone, Career Criminal
+Kingpin, Wilson Fisk
+Madame Masque
+Count Nefaria
+Minion Missile
+Deadly Dispute
+Criminal Enterprise
+The Spot's Portal
+Thriving Moor
+7 Swamp
+</main-deck>
+</deck-list>
+
+<!--Thunderbolts-->
+
+<div style="text-align: center;">
+  <cig-card entry="2G6h1rE9KarxO5a5VCsQTL">0039_MTGMSH_JSTheme: Thunderbolts Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Thunderbolts">
+<main-deck>
+MACH-1, Swooping Scoundrel
+Songbird, Sonic Screamer
+Fixer, Techno Terror
+Valentina Allegra de Fontaine
+Citizen V, Helmut Zemo
+Atlas, Sizable Stooge
+Moonstone, Harsh Mistress
+Roxxon Brutes
+Stolen Stark Tech
+Eerie Gravestone
+Cruel Alliance
+Void Helix
+Thriving Moor
+7 Swamp
+</main-deck>
+</deck-list>
+
+<!--Ultron-->
+
+<div style="text-align: center;">
+  <cig-card entry="7krutoh7ER4k1E243ulRm8">0040_MTGMSH_JSTheme: Ultron Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Ultron">
+<main-deck>
+Project Deathlok Soldier
+Doom's Servo-Guards
+Ultron's Auxiliary
+Doombot Harbinger
+Ultron Drone
+Ultron the Annihilator
+Victor Mancha, Runaway
+Minion Missile
+Stolen Stark Tech
+Eerie Gravestone
+Dark Deed
+Robot Domination
+Thriving Moor
+7 Swamp
+</main-deck>
+</deck-list>
+
+<h2 class="strike-through"><span>Red</span></h2>
+
+<!--Boosted-->
+
+<div style="text-align: center;">
+  <cig-card entry="1S8eYx1BOcXlAkJ1kb9rCH">0041_MTGMSH_JSTheme: Boosted Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Boosted">
+<main-deck>
+Quinjet Technician
+Extremis Elite
+Marvel Boy, Noh-Varr
+Jack of Hearts, Volatile Hero
+Molly Hayes, Runaway
+Human Torch, Johnny Storm
+Abomination, Terrifying Titan
+Wonder Man, Hollywood Hero
+Heroes' Hangout
+Vision of Love
+HULK SMASH!
+Inspired Fire
+Thriving Bluff
+7 Mountain
+</main-deck>
+</deck-list>
+
+<!--Fearless-->
+
+<div style="text-align: center;">
+  <cig-card entry="4IbEqEWhL950bMHds7vSbz">0042_MTGMSH_JSTheme: Fearless Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Fearless">
+<main-deck>
+Unlucky Witness
+Taxi Driver
+Stick, Fearless Mentor
+Daredevil, Fearless Fighter
+Jessica Jones, Private Eye
+Elektra, Femme Fatale
+Stegron the Dinosaur Man
+Blazing Crescendo
+Daredevil's Billy Club
+HULK SMASH!
+Hire a Crew
+Fogwell's Gym
+Thriving Bluff
+7 Mountain
+</main-deck>
+</deck-list>
+
+<!--Heroes for Hire-->
+
+<div style="text-align: center;">
+  <cig-card entry="2zgnSy8ZEAKtVioKEUdZdW">0043_MTGMSH_JSTheme: Heroes for Hire Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Heroes for Hire">
+<main-deck>
+Stark Industries Executive
+K'un-Lun Warrior
+Misty Knight, Hero for Hire
+Iron Fist, Hero for Hire
+Contract Hero
+Jessica Jones, Private Eye
+Luke Cage, Hero for Hire
+Red Hulk
+Bionic Blow
+Big Score
+Heroes for Hire
+Marvelous Melee
+Thriving Bluff
+7 Mountain
+</main-deck>
+</deck-list>
+
+<!--Runaways-->
+
+<div style="text-align: center;">
+  <cig-card entry="6F3TH82aBmShPboTCmPgQX">0044_MTGMSH_JSTheme: Runaways Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Runaways">
+<main-deck>
+Chase Stein, Runaway
+Alex Wilder, Runaway
+Molly Hayes, Runaway
+Gert and Old Lace, Runaways
+Karolina Dean, Runaway
+Nico Minoru, Runaway
+Victor Mancha, Runaway
+Shock
+Blazing Crescendo
+Hex Magic
+Crossover Collaboration
+Marvelous Melee
+Thriving Bluff
+7 Mountain
+</main-deck>
+</deck-list>
+
+<!--Scarlet-->
+
+<div style="text-align: center;">
+  <cig-card entry="EjEGbKBUgNbEGDVu1b5wP">0049_MTGMSH_JSTheme: Scarlet Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Scarlet">
+<main-deck>
+Stark Industries Executive
+Loki Laufeyson
+Speed, Young Avenger
+Molten Lavamancer
+Wiccan, Young Avenger
+The Vision and Scarlet Witch
+Kree Sentinel
+Lightning Bolt
+Vision of Love
+Grapeshot
+Hex Magic
+Wanda's Vision
+Thriving Bluff
+7 Mountain
+</main-deck>
+</deck-list>
+
+<!--Speedy-->
+
+<div style="text-align: center;">
+  <cig-card entry="6LO5gqAsN0I5gfm21nsAtO">0045_MTGMSH_JSTheme: Speedy Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Speedy">
+<main-deck>
+Masked Meower
+Quicksilver, Brash Blur
+Taxi Driver
+Speed, Young Avenger
+Whirlwind, Killer Cyclone
+Volcanic Villain
+The Whizzer, Classic Speedster
+Living Lightning, Charged Up
+Super Speed
+Pick Up the Pace
+Lightning Strike
+Marvelous Melee
+Thriving Bluff
+7 Mountain
+</main-deck>
+</deck-list>
+
+<!--Spider-Verse-->
+
+<div style="text-align: center;">
+  <cig-card entry="49N64Us4Iv5KyAXwTSqyi4">0046_MTGMSH_JSTheme: Spider-Verse Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Spider-Verse">
+<main-deck>
+Masked Meower
+Hobgoblin, Mantled Marauder
+Lady Spider, Maybelle Reilly
+Spider-Gwen, Free Spirit
+Spider-Man, New Champion
+Iceman and Firestar
+Astonishing Spider-Man
+Stegron the Dinosaur Man
+Romantic Rendezvous
+Daily Bugle Newspaper
+Wisecrack
+Marvelous Melee
+Thriving Bluff
+Fogwell's Gym
+6 Mountain
+</main-deck>
+</deck-list>
+
+<!--Thor-->
+
+<div style="text-align: center;">
+  <cig-card entry="3NkPvYOu8nE36gzDgI0YSK">0047_MTGMSH_JSTheme: Thor Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Thor">
+<main-deck>
+K'un-Lun Warrior
+Loki Laufeyson
+Sif's Spearmaster
+Molten Lavamancer
+Crimson Operative
+Thor, Asgard's Avenger
+Kree Sentinel
+Asgardian Inspiration
+Lightning Bolt
+Lightning Strike
+Origin of Thor
+Mjölnir's Might
+Thriving Bluff
+7 Mountain
+</main-deck>
+</deck-list>
+
+<!--Vehicles-->
+
+<div style="text-align: center;">
+  <cig-card entry="5HEUlCSdql4VPhYHVIwksd">0048_MTGMSH_JSTheme: Vehicles Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Vehicles">
+<main-deck>
+Intrepid Ace
+HYDRA Assault Robot
+Extremis Elite
+Taxi Driver
+Machinesmith Automaton
+Bullseye, Death Dealer
+Captain America's Motorcycle
+Big Wheel
+S.H.I.E.L.D. Helicarrier
+Sky Cycle
+The Thanos-Copter
+Truck Toss
+Thriving Bluff
+7 Mountain
+</main-deck>
+</deck-list>
+
+<!--Young Avengers-->
+
+<div style="text-align: center;">
+  <cig-card entry="1oq0M5LEsNt9ej5eNfcNVj">0050_MTGMSH_JSTheme: Young Avengers Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Young Avengers">
+<main-deck>
+Stature, Young Avenger
+Speed, Young Avenger
+Patriot, Young Avenger
+Iron Lad, Young Avenger
+Wiccan, Young Avenger
+Hawkeye, Young Avenger
+Hulkling, Young Avenger
+Hawkeye's Bow
+Team Tactics
+Lightning Strike
+Crossover Collaboration
+Marvelous Melee
+Thriving Bluff
+7 Mountain
+</main-deck>
+</deck-list>
+
+<h2 class="strike-through"><span>Green</span></h2>
+
+<!--Animal-->
+
+<div style="text-align: center;">
+  <cig-card entry="57gflhTze6MJ40QF94j12W">0051_MTGMSH_JSTheme: Animal Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Animal">
+<main-deck>
+Lucky the Pizza Dog
+Guerrilla Gorilla
+Tigra, Feline Fury
+Wakandan Tusker
+Ant-Man's Army
+Tippy-Toe, Terrific Partner
+Pet Avengers
+Savage Land Dinosaur
+Go Nuts!
+Scout the City
+Beast Mode
+Heroic Feast
+Thriving Grove
+7 Forest
+</main-deck>
+</deck-list>
+
+<!--Great Lakes Avengers-->
+
+<div style="text-align: center;">
+  <cig-card entry="5awKc0aRNv8ExilfrfIWrq">0052_MTGMSH_JSTheme: Great Lakes Avengers Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Great Lakes Avengers">
+<main-deck>
+Guerrilla Gorilla
+Doorman
+Mister Immortal
+Tippy-Toe, Terrific Partner
+Flatman
+The Unbeatable Squirrel Girl
+Big Bertha
+Savage Land Dinosaur
+Rapid Rescue
+Go Nuts!
+Beast Mode
+Training Regimen
+Thriving Grove
+7 Forest
+</main-deck>
+</deck-list>
+
+<!--Incredible-->
+
+<div style="text-align: center;">
+  <cig-card entry="3PWKNIa7J4Ovk1o2a2cCW6">0053_MTGMSH_JSTheme: Incredible Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Incredible">
+<main-deck>
+Brawn, Amadeus Cho
+Guerrilla Gorilla
+She-Hulk, Attorney-at-Law
+Hulk, Strongest There Is
+Abomination, Terrifying Titan
+Doc Samson, Super Psychiatrist
+Savage Land Dinosaur
+Giant Growth
+Hulk's Thunderclap
+Origin of the Hulk
+Go Nuts!
+Super Strength
+Thriving Grove
+7 Forest
+</main-deck>
+</deck-list>
+
+<!--Rampaging-->
+
+<div style="text-align: center;">
+  <cig-card entry="4GPGnwz6LA2ykE32rNY4Iv">0054_MTGMSH_JSTheme: Rampaging Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Rampaging">
+<main-deck>
+Serpent Specialist
+Knight of Wundagore
+Bushmaster, Coiled Henchman
+Titania, Rugged Rumbler
+Powerful Broker
+Mister Hyde, Monster Within
+Atlas, Sizable Stooge
+Rhino, Terrible Trampler
+Rhino's Rampage
+Beast Mode
+Colossal Collision
+Claim the Kingdom
+Thriving Grove
+7 Forest
+</main-deck>
+</deck-list>
+
+<!--Savage Lands-->
+
+<div style="text-align: center;">
+  <cig-card entry="7iZBdmeditqLh2AtyFvMwY">0055_MTGMSH_JSTheme: Savage Lands Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Savage Lands">
+<main-deck>
+Reptil, Dinomorpher
+Lurking Lizards
+Moon-Boy, Dino Rider
+Gert and Old Lace, Runaways
+Devil Dinosaur
+Ka-Zar of the Savage Land
+Sauron, Dino Devotee
+Savage Land Dinosaur
+Commune with Dinosaurs
+Go Nuts!
+Accelerated Evolution
+Terrific Team-Up
+Thriving Grove
+Savage Lands
+6 Forest
+</main-deck>
+</deck-list>
+
+<!--Tenacious-->
+
+<div style="text-align: center;">
+  <cig-card entry="7l4mPTPGrpmBfW6xDt1od9">0056_MTGMSH_JSTheme: Tenacious Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Tenacious">
+<main-deck>
+Undercover Skrull
+White Tiger, Amulet Keeper
+Hellcat, Undying Vigilante
+Gert and Old Lace, Runaways
+Voracious Brood
+Pet Avengers
+Savage Land Dinosaur
+Return of the Mole Man
+Scout the City
+Call Damage Control
+Accelerated Evolution
+Punishing Punch
+Thriving Grove
+Terramorphic Expanse
+6 Forest
+</main-deck>
+</deck-list>
+
+<!--Towering-->
+
+<div style="text-align: center;">
+  <cig-card entry="4HDWls8HzR3VYLQu1YHhi9">0057_MTGMSH_JSTheme: Towering Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Towering">
+<main-deck>
+Reptil, Dinomorpher
+Stature, Young Avenger
+Goliath, Mass Manipulator
+Ms. Marvel, Elastic Ally
+Ant-Man, Reformed Rogue
+Atlas, Sizable Stooge
+Giant-Man, Gargantuan Genius
+Spider-Rex, Daring Dino
+Giant Growth
+Rapid Rescue
+Terrific Team-Up
+Colossal Collision
+Thriving Grove
+7 Forest
+</main-deck>
+</deck-list>
+
+<!--Trained-->
+
+<div style="text-align: center;">
+  <cig-card entry="3i2pc67Qa1dmVMd3O8dhxs">0058_MTGMSH_JSTheme: Trained Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Trained">
+<main-deck>
+Serpent Specialist
+White Tiger, Ava Ayala
+Undercover Skrull
+Hercules, Prince of Power
+She-Hulk, Attorney-at-Law
+Pet Avengers
+Shang-Chi, Martial Mentor
+Wakandan Royal Guard
+Advancing the Spirit
+Restorative Technique
+Punishing Punch
+Colossal Collision
+Thriving Grove
+7 Forest
+</main-deck>
+</deck-list>
+
+<!--Uncanny-->
+
+<div style="text-align: center;">
+  <cig-card entry="4BgTgvn85kr0He1VoHOhvR">0059_MTGMSH_JSTheme: Uncanny Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Uncanny">
+<main-deck>
+Black Tom Cassidy
+Darwin, Adaptive Mutant
+Wolfsbane, Highland Hero
+X-23, Deadly Weapon
+Wolverine, Claws Out
+Beast, Erudite Aerialist
+Colossus, Steel Stalwart
+Storm, Shaker of Skies
+Go Nuts!
+Accelerated Evolution
+Colossal Collision
+Training Regimen
+Thriving Grove
+7 Forest
+</main-deck>
+</deck-list>
+
+<!--Wild-->
+
+<div style="text-align: center;">
+  <cig-card entry="jxSGfoAIt8rlmyqCoLt6F">0060_MTGMSH_JSTheme: Wild Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Wild">
+<main-deck>
+Hellcat, Undying Vigilante
+White Tiger, Amulet Keeper
+The Fabulous Frog-Man
+Gert and Old Lace, Runaways
+Mole Man, Moloid Master
+Hit-Monkey
+Ka-Zar of the Savage Land
+Claim the Kingdom
+Accelerated Evolution
+Restorative Technique
+Colossal Collision
+Terramorphic Expanse
+Thriving Grove
+7 Forest
+</main-deck>
+</deck-list>
+
+<h2 class="strike-through"><span>Multicolor</span></h2>
+
+<!--Fantastic-->
+
+<div style="text-align: center;">
+  <cig-card entry="7FxrDLRqHemHOSbsKEEtqr">0061_MTGMSH_JSTheme: Fantastic Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="6w1a9CpQ05lsHXYOjWbCKq" deck-title="Fantastic">
+<main-deck>
+Human Torch, Johnny Storm
+H.E.R.B.I.E. Scout Unit
+Mister Fantastic, Reed Richards
+Invisible Woman, Sue Storm
+The Thing, Ben Grimm
+The Fantastic Four
+Farseek
+Daily Bugle Newspaper
+Wall Off
+Fantastic Bounce
+Inspired Fire
+Thing Swing
+Baxter Building
+Thriving Grove
+Pym Technologies
+Forest
+Plains
+Island
+Mountain
+Terramorphic Expanse
+</main-deck>
+</deck-list>
+
+<hr />
+
+<p>Unleash the Marvel Universe on your collection with Jumpstart Boosters! <i>Magic: The Gathering</i> | <i>Marvel Super Heroes</i> releases on June 26 and is available for preorder now from <a href="https://locator.wizards.com/" target="_blank">your local game store</a>, <a href="https://partner.tcgplayer.com/e1d7gz" target="_blank">TCGplayer</a>, <a href="	https://gtly.ink/bdrkd9WKTp" gtm-event="retailer_cta_click" gtm-link-text="Amazon" gtm-section="Daily Article" target="_blank">Amazon</a>, and elsewhere <i>Magic</i> is sold.</p>

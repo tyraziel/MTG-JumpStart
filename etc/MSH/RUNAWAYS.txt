@@ -1,0 +1,19 @@
+RUNAWAYS
+//Creatures (7)
+1 Chase Stein, Runaway
+1 Alex Wilder, Runaway
+1 Molly Hayes, Runaway
+1 Gert and Old Lace, Runaways
+1 Karolina Dean, Runaway
+1 Nico Minoru, Runaway
+1 Victor Mancha, Runaway
+//Sorceries (1)
+1 Hex Magic
+//Instants (4)
+1 Shock
+1 Blazing Crescendo
+1 Crossover Collaboration
+1 Marvelous Melee
+//Lands (8)
+1 Thriving Bluff
+7 Mountain

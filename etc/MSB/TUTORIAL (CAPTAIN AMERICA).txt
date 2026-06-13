@@ -1,0 +1,18 @@
+TUTORIAL (CAPTAIN AMERICA)
+//Creatures (9)
+1 Hero in Training
+1 Mockingbird, Bobbi Morse
+1 Ant-Man, Scott Lang
+1 Captain America, Steve Rogers
+1 The Falcon, Sam Wilson
+1 Hawkeye, Clint Barton
+1 The Wasp, Janet Van Dyne
+1 Mandroid Squadron
+1 Winter Soldier, Bucky Barnes
+//Sorceries (1)
+1 Hawkeye's Shot
+//Instants (2)
+1 Soldier On
+1 Captain's Defense
+//Lands (8)
+8 Plains

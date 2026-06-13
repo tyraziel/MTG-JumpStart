@@ -1,0 +1,235 @@
+<h2>Magic: The Gathering | Marvel Super Heroes Beginner Box Decklists</h2>
+
+<p>Below, you'll see the contents of each half-deck organized by card type, each with a drop-down that also allows you to sort cards by color, mana cost, or rarity. You can also view these cards in <a href="https://magic.wizards.com/en/products/marvel/marvel-super-heroes/card-image-gallery" target="_blank">the set's card image gallery</a>.</p>
+
+<div style="text-align: center;">
+  <cig-card entry="2EVaGA0fNoGHyLjWd39jH2">0001_MTGMSH_BBTheme: Heroes Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="4FElB31uQ3EjVbMrvG5xHS" deck-title="Heroes">
+<main-deck>
+Agent of Atlas
+Peggy Carter, Secret Agent
+Brave Brawler
+Agents of S.H.I.E.L.D.
+Hero in Training
+Hawkeye, Clint Barton
+Okoye, Dora Milaje Leader
+Valkyrior Skyrider
+Wondrous Revival
+Iconic Shield
+Fall to Earth
+Pacifism
+Thriving Heath
+7 Plains
+</main-deck>
+</deck-list>
+
+<div style="text-align: center;">
+  <cig-card entry="2Q4zkzTc9oeFCkX8xOcoxg">0002_MTGMSH_BBTheme: Tutorial Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="4FElB31uQ3EjVbMrvG5xHS" deck-title="Tutorial (Captain America)">
+<main-deck>
+Hawkeye's Shot
+Hero in Training
+Soldier On
+Mockingbird, Bobbi Morse
+Ant-Man, Scott Lang
+Captain America, Steve Rogers
+Captain's Defense
+The Falcon, Sam Wilson
+Hawkeye, Clint Barton
+The Wasp, Janet Van Dyne
+8 Plains
+Mandroid Squadron
+Winter Soldier, Bucky Barnes
+</main-deck>
+</deck-list>
+
+<div style="text-align: center;">
+  <cig-card entry="4Ny4GwS3qr95mBgkP2rz0Z">0003_MTGMSH_BBTheme: Artifacts Theme</cig-card>
+</div>
+
+<deck-list version="2.0" product="4FElB31uQ3EjVbMrvG5xHS" deck-title="Artifacts">
+<main-deck>
+Aerial Doombot
+Hydraulic Helper
+S.H.I.E.L.D. Deployment Drone
+Ultron Drone
+A.I.M. Bot
+Victor Mancha, Runaway
+War Machine, James Rhodes
+Repulsor Bots
+Vibranium Energy Daggers
+Futurist Forge
+Thirst for Knowledge
+Frozen in Ice
+Thriving Isle
+7 Island
+</main-deck>
+</deck-list>
+
+<div style="text-align: center;">
+  <cig-card entry="1TuoCj1wWD0NBnfwj0VZsE">0004_MTGMSH_BBTheme: Card Draw Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="4FElB31uQ3EjVbMrvG5xHS" deck-title="Card Draw">
+<main-deck>
+A.I.M. Bot
+Brawn, Amadeus Cho
+Bold Biochemist
+Atlantean Cavalry
+Graviton, Fundamental Force
+Blue Marvel, Adam Brashear
+A.I.M. Scientists
+Super Intelligence
+H.E.R.B.I.E. Scout Unit
+Depower
+Trickster's Stratagem
+Stark's Ingenuity
+Thriving Isle
+7 Island
+</main-deck>
+</deck-list>
+
+<div style="text-align: center;">
+  <cig-card entry="7K44z4tE8XmsV9FXd8MX9S">0005_MTGMSH_BBTheme: HYDRA Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="4FElB31uQ3EjVbMrvG5xHS" deck-title="HYDRA">
+<main-deck>
+Project Deathlok Soldier
+Doom's Servo-Guards
+Agents of HYDRA
+HYDRA Troopers
+Kingpin's Enforcers
+Glamorous Grapplers
+Arnim Zola, Bio-Fanatic
+Madame Hydra, Reanimated
+Ultimo, Civilization's End
+Doom Blade
+Infernal Rebirth
+HYDRA Infiltration
+Thriving Moor
+7 Swamp
+</main-deck>
+</deck-list>
+
+<div style="text-align: center;">
+  <cig-card entry="2ePP5oBQyICS6ES3GRGKsM">0006_MTGMSH_BBTheme: Villains Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="4FElB31uQ3EjVbMrvG5xHS" deck-title="Villains">
+<main-deck>
+Red Room Recruit
+Boomerang, Blade Flinger
+Ninja of the Hand
+Baron Strucker, HYDRA Overlord
+Tombstone, Career Criminal
+Crossbones, Malicious Mercenary
+Glamorous Grapplers
+Roxxon Brutes
+Minotaur, Roxxon CEO
+Dark Deed
+Visions of Villainy
+Hour of Defeat
+Thriving Moor
+7 Swamp
+</main-deck>
+</deck-list>
+
+<div style="text-align: center;">
+  <cig-card entry="2R1qCmfb6zl68936SrEy9E">0007_MTGMSH_BBTheme: Tutorial Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="4FElB31uQ3EjVbMrvG5xHS" deck-title="Tutorial (Iron Man)">
+<main-deck>
+8 Mountain
+Smashing Spree
+Concentrated Fire
+Crimson Operative
+Power Boost
+Hulk, Bruce Banner
+Iron Man, Tony Stark
+Spider-Man, Hometown Hero
+Scarlet Witch, Wanda Maximoff
+Repulsor Rays
+Quicksilver, Pietro Maximoff
+Black Widow, Natasha Romanoff
+Happy Hogan, Dauntless Driver
+</main-deck>
+</deck-list>
+
+<div style="text-align: center;">
+  <cig-card entry="5FxLMWwuhKNCtfTCTE6I3w">0008_MTGMSH_BBTheme: Young Avengers Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="4FElB31uQ3EjVbMrvG5xHS" deck-title="Young Avengers">
+<main-deck>
+Speed, Young Avenger
+Stature, Young Avenger
+Patriot, Young Avenger
+Iron Lad, Young Avenger
+Wiccan, Young Avenger
+She-Hulk, Jennifer Walters
+The Immortal Weapons
+Lightning Strike
+Experimental Armor
+Hire a Crew
+Furious Strength
+Marvelous Melee
+Thriving Bluff
+7 Mountain
+</main-deck>
+</deck-list>
+
+<div style="text-align: center;">
+  <cig-card entry="7oo5whiEF2QT3lWU87jpEA">0009_MTGMSH_BBTheme: Counters Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="4FElB31uQ3EjVbMrvG5xHS" deck-title="Counters">
+<main-deck>
+Serpent Specialist
+Knight of Wundagore
+Hellcat, Undying Vigilante
+Gamma Grotesque
+Warriors of Wakanda
+Mister Hyde, Monster Within
+Beast, Erudite Aerialist
+The Thing, Ben Grimm
+Feral Ferocity
+Punishing Punch
+Training Regimen
+Colossal Collision
+Thriving Grove
+7 Forest
+</main-deck>
+</deck-list>
+
+<div style="text-align: center;">
+  <cig-card entry="Qh0AfJleGoGSs4ArQVa2H">0010_MTGMSH_BBTheme: Ramp Theme Card</cig-card>
+</div>
+
+<deck-list version="2.0" product="4FElB31uQ3EjVbMrvG5xHS" deck-title="Ramp">
+<main-deck>
+Undercover Skrull
+Moon-Boy, Dino Rider
+Gert and Old Lace, Runaways
+The Fabulous Frog-Man
+Warriors of Wakanda
+Atlas, Sizable Stooge
+Wakandan Royal Guard
+Savage Land Dinosaur
+Flora Colossus
+Team Transmitter
+Thing Swing
+Colossal Collision
+Thriving Grove
+7 Forest
+</main-deck>
+</deck-list>
+
+<hr />
+
+<p><i>Magic: The Gathering</i> | <i>Marvel Super Heroes</i> releases on June 26, 2026, and is available for preorder now from <a href="https://locator.wizards.com/" target="_blank">your local game store</a>, <a href="https://partner.tcgplayer.com/e1d7gz" target="_blank">TCGplayer</a>, <a href="	https://gtly.ink/bdrkd9WKTp" gtm-event="retailer_cta_click" gtm-link-text="Amazon" gtm-section="Daily Article" target="_blank">Amazon</a>, and elsewhere <i>Magic</i> is sold.</p>

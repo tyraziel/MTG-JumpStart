@@ -1,0 +1,20 @@
+RAMPAGING
+//Creatures (8)
+1 Serpent Specialist
+1 Knight of Wundagore
+1 Bushmaster, Coiled Henchman
+1 Titania, Rugged Rumbler
+1 Powerful Broker
+1 Mister Hyde, Monster Within
+1 Atlas, Sizable Stooge
+1 Rhino, Terrible Trampler
+//Sorceries (2)
+1 Rhino's Rampage
+1 Colossal Collision
+//Instants (1)
+1 Beast Mode
+//Enchantments (1)
+1 Claim the Kingdom
+//Lands (8)
+1 Thriving Grove
+7 Forest

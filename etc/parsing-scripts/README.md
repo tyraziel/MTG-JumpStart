@@ -71,19 +71,19 @@ After the `.txt` deck lists are formatted, run these scripts to generate structu
 ```bash
 cd etc/parsing-scripts
 
-# 1. Backfill token data for any cards missing it in the cache
+# 1. Backfill token data for any cards missing it in the cache  [hits Scryfall API]
 python add_token_data.py
 
-# 2. Backfill keywords/oracle_id for tokens that were cached before those fields existed
+# 2. Backfill keywords/oracle_id for tokens that were cached before those fields existed  [hits Scryfall API]
 python update_token_keywords.py
 
-# 3. Generate individual deck JSON files from the .txt files + cache
-python generate_json_decks.py ../JMP/ ../J22/ ../J25/ ../TLA/ ../ONE/ ../DMU/ ../BRO/ ../MOM/ ../LTR/ ../CLU/ ../FDN/ ../TLB/
+# 3. Generate individual deck JSON files from the .txt files + cache  [no API]
+python generate_json_decks.py ../JMP/ ../J22/ ../J25/ ../TLA/ ../ONE/ ../DMU/ ../BRO/ ../MOM/ ../LTR/ ../CLU/ ../FDN/ ../TLB/ ../MSH/ ../MSB/
 
-# 4. Generate the master combined JSON (all decks + card index)
+# 4. Generate the master combined JSON (all decks + card index)  [no API]
 python generate_combined_json.py
 
-# 5. Generate the consolidated token index
+# 5. Generate the consolidated token index  [no API]
 python generate_token_index.py
 ```
 
@@ -141,13 +141,15 @@ python generate_json_decks.py <set_dir>... [--dry-run]
 python generate_json_decks.py ../TLA/
 
 # All sets at once
-python generate_json_decks.py ../JMP/ ../J22/ ../J25/ ../TLA/ ../ONE/ ../DMU/ ../BRO/ ../MOM/ ../LTR/ ../CLU/ ../FDN/ ../TLB/
+python generate_json_decks.py ../JMP/ ../J22/ ../J25/ ../TLA/ ../ONE/ ../DMU/ ../BRO/ ../MOM/ ../LTR/ ../CLU/ ../FDN/ ../TLB/ ../MSH/ ../MSB/
 
 # Preview without writing
 python generate_json_decks.py ../J25/ --dry-run
 ```
 
 Each output JSON includes `deck_name`, `set`, a top-level `tokens` array (deduplicated), and a `cards` array with full card data (type, mana cost, colors, P/T, tokens produced, etc.).
+
+If any cards in the deck create tokens that have no official printed token card (e.g. Monkey, Banana, Zeppelin), an `unofficial_tokens` array is also added at the deck level and on the individual card entry. These tokens exist in the rules text but cannot be obtained as physical token cards — players need to improvise a substitute.
 
 ### `generate_combined_json.py`
 Generates `etc/jumpstart-decks-combined.json` — a single file with all decks and a card → deck index.
@@ -159,7 +161,7 @@ python generate_combined_json.py
 
 No arguments. Reads all deck JSONs from all 12 set directories and writes the combined file (~3 MB).
 
-Each deck entry includes `deck_name`, `set`, `set_name`, a top-level `tokens` array (with `keywords` and `oracle_id`), and the full `cards` array. A `card_index` at the top level maps every card name to the list of deck keys that contain it.
+Each deck entry includes `deck_name`, `set`, `set_name`, a top-level `tokens` array (with `keywords` and `oracle_id`), an optional `unofficial_tokens` array (tokens with no official printed card), and the full `cards` array. A `card_index` at the top level maps every card name to the list of deck keys that contain it.
 
 ### `add_token_data.py`
 Backfills token data into `card_type_cache.json` for cards that don't yet have a `tokens` key.
@@ -169,7 +171,7 @@ Backfills token data into `card_type_cache.json` for cards that don't yet have a
 python add_token_data.py [options]
 
 Options:
-  --delay MS    Milliseconds between Scryfall API calls (default: 250)
+  --delay MS    Milliseconds between Scryfall API calls (default: 1000)
   --dry-run     Show what would change without writing
   --limit N     Only process first N uncached cards (for testing)
   --verbose     Print every card, not just those with tokens
@@ -185,7 +187,7 @@ Backfills `keywords` and `oracle_id` into token objects for cards that were cach
 python update_token_keywords.py [options]
 
 Options:
-  --delay MS    Milliseconds between Scryfall API calls (default: 250)
+  --delay MS    Milliseconds between Scryfall API calls (default: 1000)
   --dry-run     Show what would change without writing
   --limit N     Only process first N cards (for testing)
   --verbose     Print every card processed
@@ -200,37 +202,38 @@ If `card_type_cache.json` is lost or you need to rebuild it from the existing `.
 ```bash
 cd etc/parsing-scripts
 
-# 1. Format all sets — this queries Scryfall for every unique card and rebuilds the cache
-#    (~2,500 unique cards; at 250ms/call expect ~10-15 min)
+# 1. Format all sets — queries Scryfall for every unique card and rebuilds the cache  [hits Scryfall API]
+#    (~2,500 unique cards; at 1000ms/call expect ~45 min)
 python batch_reformat.py \
   ../JMP/ ../J22/ ../J25/ ../TLA/ \
   ../ONE/ ../DMU/ ../BRO/ ../MOM/ \
   ../LTR/ ../CLU/ ../FDN/ ../TLB/ \
   --load-cache --save-cache
 
-# 2. Backfill token data (which cards produce which tokens)
+# 2. Backfill token data (which cards produce which tokens)  [hits Scryfall API]
 python add_token_data.py
 
-# 3. Backfill keywords and oracle_id into token objects
+# 3. Backfill keywords and oracle_id into token objects  [hits Scryfall API]
 python update_token_keywords.py
 
-# 4. Regenerate all deck JSON files
+# 4. Regenerate all deck JSON files  [no API]
 python generate_json_decks.py \
   ../JMP/ ../J22/ ../J25/ ../TLA/ \
   ../ONE/ ../DMU/ ../BRO/ ../MOM/ \
-  ../LTR/ ../CLU/ ../FDN/ ../TLB/
+  ../LTR/ ../CLU/ ../FDN/ ../TLB/ \
+  ../MSH/ ../MSB/
 
-# 5. Regenerate combined JSON
+# 5. Regenerate combined JSON  [no API]
 python generate_combined_json.py
 
-# 6. Regenerate token index
+# 6. Regenerate token index  [no API]
 python generate_token_index.py
 ```
 
 **Tips:**
 - `batch_reformat.py` uses `--load-cache` + `--save-cache` together so it picks up any partial cache and saves incrementally as it goes.
 - `add_token_data.py` and `update_token_keywords.py` both save every 25 cards, so interrupted runs can be safely resumed.
-- The `--delay` flag on all API scripts defaults to 250ms. Lower it (`--delay 100`) if Scryfall is responsive; raise it (`--delay 500`) if you're seeing errors.
+- The `--delay` flag on all API scripts defaults to 1000ms (double Scryfall's 500ms hard limit for `/cards/named`). Lower it with `--delay 500` if you need speed and are confident you won't hit limits.
 
 ---
 
@@ -292,7 +295,7 @@ Batch reformats deck lists with Scryfall API integration and shared caching.
 - Organizes cards by type (Creatures, Sorceries, Instants, Artifacts, Enchantments, Lands)
 - Normalizes special basic lands ("Above the Clouds Island" → "Island")
 - Handles multi-type cards correctly (Artifact Creature → Creatures)
-- Respects Scryfall rate limiting (100ms between requests)
+- Respects Scryfall rate limiting (1000ms default — double the 500ms hard limit for `/cards/named`)
 
 **Usage:**
 ```bash
@@ -479,25 +482,27 @@ Required packages:
 
 ## Typical Workflow Example
 
-Import and format a new JumpStart set (e.g., Khans):
+> **Tip:** Use the `/process-new-set` Claude skill to run this interactively — it handles format detection, parsing, token backfill, JSON generation, and spot-checking in one guided flow.
+
+Import and format a new JumpStart set (e.g., MSH):
 
 ```bash
-# 1. Save HTML from Wizards page
-curl "https://magic.wizards.com/..." > raw/KHN-HTML-DECKLISTS.txt
+# 1. Save HTML from Wizards page to raw/
+# See raw/README.md for source URLs
 
 # 2. Identify HTML format by checking the file
-head -20 raw/KHN-HTML-DECKLISTS.txt
+head -40 raw/MSH-HTML-DECKLISTS.txt
 
 # 3. Parse using appropriate parser (assume deck-list format)
 cd etc/parsing-scripts
-python parse_deck_list_format.py ../../raw/KHN-HTML-DECKLISTS.txt ../../etc/KHN
+python parse_deck_list_format.py ../../raw/MSH-HTML-DECKLISTS.txt ../../etc/MSH
 
 # 4. Format with Scryfall (use cache from previous runs)
-python batch_reformat.py ../../etc/KHN/ --load-cache --save-cache
+python batch_reformat.py ../MSH/ --load-cache --save-cache
 
 # 5. Verify output
-ls -l ../../etc/KHN/
-head -20 ../../etc/KHN/"THEME NAME (1).txt"
+ls -l ../MSH/
+head -20 "../MSH/THEME NAME (1).txt"
 ```
 
 ## Cache Management
@@ -527,29 +532,36 @@ rm card_type_cache.json
 
 ## Set Status
 
-### Fully Formatted (Standard Format)
+### Complete (Formatted + JSON Generated)
 - **JMP** - JumpStart 2020 (121 decks)
 - **J22** - JumpStart 2022 (121 decks)
-
-### Raw Format (Needs Reformatting)
-Run `batch_reformat.py` on these:
-- **J25** - JumpStart 2025 / Foundations (121 decks)
-- **TLA** - Avatar: The Last Airbender (68 decks)
+- **J25** - JumpStart Foundations (121 decks)
+- **TLA** - Avatar: The Last Airbender (66 decks)
 - **ONE** - Phyrexia: All Will Be One (10 decks)
 - **DMU** - Dominaria United (10 decks)
-- **BRO** - Brothers' War (10 decks)
+- **BRO** - The Brothers' War (10 decks)
 - **MOM** - March of the Machine (10 decks)
-- **LTR** - Lord of the Rings (20 decks)
+- **LTR** - The Lord of the Rings (20 decks)
 - **CLU** - Ravnica: Clue Edition (20 decks)
-- **FDN** - Foundations Beginner Box (8 decks)
+- **FDN** - Foundations Beginner Box (10 decks)
 - **TLB** - Avatar TLA Beginner Box (10 decks)
+
+### Pending (HTML not yet saved)
+Run `/process-new-set` once HTML is saved to `raw/`:
+- **MSH** - Marvel Super Heroes — https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+- **MSB** - Marvel Super Heroes Beginner Box — https://magic.wizards.com/en/news/announcements/marvel-super-heroes-beginner-box-contents
 
 ## Troubleshooting
 
 **Scryfall rate limiting:**
-- Script respects 100ms delay between requests
-- Use cache to minimize API calls
-- Wait if you see connection errors
+
+> ⚠️ Always check the current limits before running API scripts: https://scryfall.com/docs/api/rate-limits
+
+- `/cards/named` hard limit is 2 req/s (500ms). Default delay is **1000ms** — double that for safety.
+- Do not lower `--delay` below 500ms without checking the current limits at the link above.
+- Use cache (`--load-cache`) to minimize API calls — cached cards skip Scryfall entirely.
+- If you see 429 errors, the scripts will auto-retry with backoff. Wait a minute before restarting.
+- Transient errors (400, 429, timeout) are **not** cached — run `manage_unknowns.py --list` after any failed run to check for gaps, then `--remove` to clear them for retry.
 
 **Proxy errors:**
 - Network environment may block Scryfall

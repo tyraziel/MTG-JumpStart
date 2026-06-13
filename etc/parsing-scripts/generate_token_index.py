@@ -23,7 +23,8 @@ BASE_DIR = Path(__file__).parent.parent
 SETS = [
     "JMP", "J22", "J25", "TLA",
     "ONE", "DMU", "BRO", "MOM",
-    "LTR", "CLU", "FDN", "TLB"
+    "LTR", "CLU", "FDN", "TLB",
+    "MSH", "MSB",
 ]
 
 SET_NAMES = {
@@ -39,6 +40,8 @@ SET_NAMES = {
     "CLU": "Ravnica: Clue Edition",
     "FDN": "Foundations Beginner Box",
     "TLB": "Avatar TLA Beginner Box",
+    "MSH": "Marvel Super Heroes",
+    "MSB": "Marvel Super Heroes Beginner Box",
 }
 
 
@@ -156,6 +159,13 @@ def main():
             "total_source_refs": total_source_refs,
             "decks_scanned": total_decks,
             "sets": SETS,
+            "scope": (
+                "Official tokens only — entries require a Scryfall oracle_id, meaning "
+                "WotC has printed a physical token card for them. Tokens created by card "
+                "text that have no official printed token card (e.g. Monkey, Banana, "
+                "Zeppelin) are tracked separately as 'unofficial_tokens' on the "
+                "individual deck JSON files."
+            ),
         },
         "tokens": tokens_sorted,
     }

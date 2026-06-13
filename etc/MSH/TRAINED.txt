@@ -1,0 +1,20 @@
+TRAINED
+//Creatures (8)
+1 Serpent Specialist
+1 White Tiger, Ava Ayala
+1 Undercover Skrull
+1 Hercules, Prince of Power
+1 She-Hulk, Attorney-at-Law
+1 Pet Avengers
+1 Shang-Chi, Martial Mentor
+1 Wakandan Royal Guard
+//Sorceries (2)
+1 Restorative Technique
+1 Colossal Collision
+//Instants (1)
+1 Punishing Punch
+//Enchantments (1)
+1 Advancing the Spirit
+//Lands (8)
+1 Thriving Grove
+7 Forest

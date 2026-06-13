@@ -1,0 +1,20 @@
+ANIMAL
+//Creatures (8)
+1 Lucky the Pizza Dog
+1 Guerrilla Gorilla
+1 Tigra, Feline Fury
+1 Wakandan Tusker
+1 Ant-Man's Army
+1 Tippy-Toe, Terrific Partner
+1 Pet Avengers
+1 Savage Land Dinosaur
+//Sorceries (2)
+1 Go Nuts!
+1 Scout the City
+//Instants (1)
+1 Beast Mode
+//Enchantments (1)
+1 Heroic Feast
+//Lands (8)
+1 Thriving Grove
+7 Forest

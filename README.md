@@ -26,6 +26,10 @@ JumpStart Avatar: The Last Airbender:  https://magic.wizards.com/en/news/announc
 
 JumpStart Avatar: The Last Airbender Beginner Box:  https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-beginner-box-contents
 
+JumpStart Marvel Super Heroes:  https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+
+JumpStart Marvel Super Heroes Beginner Box:  https://magic.wizards.com/en/news/announcements/marvel-super-heroes-beginner-box-contents
+
 ### Resources
 
 https://www.reddit.com/r/magicTCG/comments/hsy47b/jumpstart_packet_checklist/

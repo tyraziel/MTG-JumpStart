@@ -1,0 +1,20 @@
+RETURNED
+//Creatures (8)
+1 Project Deathlok Soldier
+1 Doom's Servo-Guards
+1 Undead Hand Ninja
+1 Songbird, Sonic Screamer
+1 Arnim Zola, Bio-Fanatic
+1 Grim Reaper, Lethal Legionnaire
+1 Unliving Legionnaire
+1 Ultimo, Civilization's End
+//Sorceries (2)
+1 Minion Missile
+1 Too Evil to Stay Dead
+//Instants (1)
+1 Infernal Rebirth
+//Artifacts (1)
+1 Grim Reaper's Scythe
+//Lands (8)
+1 Thriving Moor
+7 Swamp

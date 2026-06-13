@@ -1,0 +1,19 @@
+HYDRA
+//Creatures (9)
+1 Project Deathlok Soldier
+1 Doom's Servo-Guards
+1 Agents of HYDRA
+1 HYDRA Troopers
+1 Kingpin's Enforcers
+1 Glamorous Grapplers
+1 Arnim Zola, Bio-Fanatic
+1 Madame Hydra, Reanimated
+1 Ultimo, Civilization's End
+//Instants (2)
+1 Doom Blade
+1 Infernal Rebirth
+//Enchantments (1)
+1 HYDRA Infiltration
+//Lands (8)
+1 Thriving Moor
+7 Swamp

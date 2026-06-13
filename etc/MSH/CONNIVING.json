@@ -1,0 +1,220 @@
+{
+  "deck_name": "CONNIVING",
+  "set": "MSH",
+  "tokens": [
+    {
+      "name": "Illusion Villain",
+      "type_line": "Token Creature — Illusion Villain",
+      "colors": [
+        "U"
+      ],
+      "power": "3",
+      "toughness": "3"
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Kid Loki",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — God Hero Villain",
+      "mana_cost": "{U}",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Mob Lookout",
+      "type": "Creatures",
+      "type_line": "Creature — Human Rogue Villain",
+      "mana_cost": "{1}{U/B}",
+      "cmc": 2.0,
+      "colors": [
+        "B",
+        "U"
+      ],
+      "rarity": "common",
+      "power": "0",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Flying Octobot",
+      "type": "Creatures",
+      "type_line": "Artifact Creature — Robot Villain",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Graviton, Fundamental Force",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Villain",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Doc Ock's Henchmen",
+      "type": "Creatures",
+      "type_line": "Creature — Human Villain",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Tiger Shark, Abyssal Hunter",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Shark Human Villain",
+      "mana_cost": "{2}{U/B}{U/B}",
+      "cmc": 4.0,
+      "colors": [
+        "B",
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Leader, Super-Genius",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Gamma Scientist Villain",
+      "mana_cost": "{2}{U}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "rare",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Doc Ock, Sinister Scientist",
+      "type": "Creatures",
+      "type_line": "Legendary Creature — Human Scientist Villain",
+      "mana_cost": "{4}{U}",
+      "cmc": 5.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "4",
+      "toughness": "5"
+    },
+    {
+      "quantity": 1,
+      "name": "Trickster's Stratagem",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{3}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Unstable Experiment",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Dismissive Denial",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{U}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Mysterio's Mirage",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "rare",
+      "tokens": [
+        {
+          "name": "Illusion Villain",
+          "type_line": "Token Creature — Illusion Villain",
+          "colors": [
+            "U"
+          ],
+          "power": "3",
+          "toughness": "3"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Villainous Hideout",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 6,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land — Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

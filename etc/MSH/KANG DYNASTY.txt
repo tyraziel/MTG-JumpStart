@@ -1,0 +1,19 @@
+KANG DYNASTY
+//Creatures (7)
+1 Bold Biochemist
+1 TVA Bureaucrat
+1 S.H.I.E.L.D. Deployment Drone
+1 Iron Lad, Young Avenger
+1 Immortus, Master of Eternity
+1 Victor Timely, Wily Tycoon
+1 Pharaoh Rama-Tut
+//Sorceries (2)
+1 Multiversal Recruitment
+1 Time Warp
+//Instants (3)
+1 Think Twice
+1 Depower
+1 Timeline Inquiry
+//Lands (8)
+1 Thriving Isle
+7 Island
