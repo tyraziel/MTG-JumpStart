@@ -71,19 +71,19 @@ After the `.txt` deck lists are formatted, run these scripts to generate structu
 ```bash
 cd etc/parsing-scripts
 
-# 1. Backfill token data for any cards missing it in the cache
+# 1. Backfill token data for any cards missing it in the cache  [hits Scryfall API]
 python add_token_data.py
 
-# 2. Backfill keywords/oracle_id for tokens that were cached before those fields existed
+# 2. Backfill keywords/oracle_id for tokens that were cached before those fields existed  [hits Scryfall API]
 python update_token_keywords.py
 
-# 3. Generate individual deck JSON files from the .txt files + cache
+# 3. Generate individual deck JSON files from the .txt files + cache  [no API]
 python generate_json_decks.py ../JMP/ ../J22/ ../J25/ ../TLA/ ../ONE/ ../DMU/ ../BRO/ ../MOM/ ../LTR/ ../CLU/ ../FDN/ ../TLB/ ../MSH/ ../MSB/
 
-# 4. Generate the master combined JSON (all decks + card index)
+# 4. Generate the master combined JSON (all decks + card index)  [no API]
 python generate_combined_json.py
 
-# 5. Generate the consolidated token index
+# 5. Generate the consolidated token index  [no API]
 python generate_token_index.py
 ```
 
@@ -202,7 +202,7 @@ If `card_type_cache.json` is lost or you need to rebuild it from the existing `.
 ```bash
 cd etc/parsing-scripts
 
-# 1. Format all sets — this queries Scryfall for every unique card and rebuilds the cache
+# 1. Format all sets — queries Scryfall for every unique card and rebuilds the cache  [hits Scryfall API]
 #    (~2,500 unique cards; at 1000ms/call expect ~45 min)
 python batch_reformat.py \
   ../JMP/ ../J22/ ../J25/ ../TLA/ \
@@ -210,23 +210,23 @@ python batch_reformat.py \
   ../LTR/ ../CLU/ ../FDN/ ../TLB/ \
   --load-cache --save-cache
 
-# 2. Backfill token data (which cards produce which tokens)
+# 2. Backfill token data (which cards produce which tokens)  [hits Scryfall API]
 python add_token_data.py
 
-# 3. Backfill keywords and oracle_id into token objects
+# 3. Backfill keywords and oracle_id into token objects  [hits Scryfall API]
 python update_token_keywords.py
 
-# 4. Regenerate all deck JSON files
+# 4. Regenerate all deck JSON files  [no API]
 python generate_json_decks.py \
   ../JMP/ ../J22/ ../J25/ ../TLA/ \
   ../ONE/ ../DMU/ ../BRO/ ../MOM/ \
   ../LTR/ ../CLU/ ../FDN/ ../TLB/ \
   ../MSH/ ../MSB/
 
-# 5. Regenerate combined JSON
+# 5. Regenerate combined JSON  [no API]
 python generate_combined_json.py
 
-# 6. Regenerate token index
+# 6. Regenerate token index  [no API]
 python generate_token_index.py
 ```
 
