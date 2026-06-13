@@ -236,6 +236,29 @@ def classify_card_type(type_line: str) -> str:
         return "Unknown"
 
 
+def scryfall_get(url: str, **kwargs) -> requests.Response:
+    """
+    GET a Scryfall URL with rate-limit delay and automatic 429 backoff.
+
+    Retries up to 4 times on 429, doubling the wait each time starting at 5s.
+    Raises on any other error.
+    """
+    time.sleep(REQUEST_DELAY)
+    backoff = 5
+    for attempt in range(5):
+        response = requests.get(url, headers=HEADERS, timeout=10, **kwargs)
+        if response.status_code != 429:
+            response.raise_for_status()
+            return response
+        retry_after = int(response.headers.get("Retry-After", backoff))
+        wait = max(retry_after, backoff)
+        print(f"  [429] Rate limited — waiting {wait}s before retry {attempt + 1}/4...", file=sys.stderr)
+        time.sleep(wait)
+        backoff *= 2
+    response.raise_for_status()  # exhausted retries
+    return response  # unreachable but satisfies type checkers
+
+
 def fetch_token_details(token_uri: str) -> Dict:
     """
     Fetch P/T and colors for a token card from Scryfall using its URI.
@@ -250,9 +273,7 @@ def fetch_token_details(token_uri: str) -> Dict:
         return token_detail_cache[token_uri]
 
     try:
-        time.sleep(REQUEST_DELAY)
-        response = requests.get(token_uri, headers=HEADERS, timeout=10)
-        response.raise_for_status()
+        response = scryfall_get(token_uri)
         data = response.json()
 
         details: Dict = {"colors": data.get("colors", [])}
@@ -322,9 +343,7 @@ def get_card_data(card_name: str) -> Dict:
 
     # Query Scryfall
     try:
-        time.sleep(REQUEST_DELAY)  # Rate limiting
-        response = requests.get(SCRYFALL_API, params={"exact": card_name}, headers=HEADERS, timeout=10)
-        response.raise_for_status()
+        response = scryfall_get(SCRYFALL_API, params={"exact": card_name})
 
         data = response.json()
 
