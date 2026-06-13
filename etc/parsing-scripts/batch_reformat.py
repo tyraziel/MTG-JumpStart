@@ -39,9 +39,9 @@ HEADERS = {
     "User-Agent": "MTG-JumpStart-DeckTracker/1.0 (github.com/vibecoder-1z3r0/mtg-jumpstart)"
 }
 
-# Rate limiting: 250ms default — well within Scryfall's 50-100ms guideline,
-# giving extra headroom to be a good API citizen. Configurable via --delay.
-REQUEST_DELAY = 250 / 1000  # 250ms between requests
+# Rate limiting: /cards/named has a hard limit of 2 req/s (500ms).
+# Default is 1000ms to stay well within the limit. Configurable via --delay.
+REQUEST_DELAY = 1000 / 1000  # 1000ms between requests
 
 # Card type categories in order
 TYPE_ORDER = [
@@ -616,7 +616,7 @@ def main():
         print("  --dry-run           Preview changes without modifying files", file=sys.stderr)
         print("  --save-cache        Save cache to disk after processing", file=sys.stderr)
         print("  --load-cache        Load existing cache before processing", file=sys.stderr)
-        print("  --delay MS          Milliseconds between Scryfall API calls (default: 250)", file=sys.stderr)
+        print("  --delay MS          Milliseconds between Scryfall API calls (default: 1000)", file=sys.stderr)
         print("\nExamples:", file=sys.stderr)
         print("  # Build cache from all decks:", file=sys.stderr)
         print("  python batch_reformat.py ../../etc/*/ --build-cache-only --save-cache", file=sys.stderr)

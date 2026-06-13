@@ -171,7 +171,7 @@ Backfills token data into `card_type_cache.json` for cards that don't yet have a
 python add_token_data.py [options]
 
 Options:
-  --delay MS    Milliseconds between Scryfall API calls (default: 250)
+  --delay MS    Milliseconds between Scryfall API calls (default: 1000)
   --dry-run     Show what would change without writing
   --limit N     Only process first N uncached cards (for testing)
   --verbose     Print every card, not just those with tokens
@@ -187,7 +187,7 @@ Backfills `keywords` and `oracle_id` into token objects for cards that were cach
 python update_token_keywords.py [options]
 
 Options:
-  --delay MS    Milliseconds between Scryfall API calls (default: 250)
+  --delay MS    Milliseconds between Scryfall API calls (default: 1000)
   --dry-run     Show what would change without writing
   --limit N     Only process first N cards (for testing)
   --verbose     Print every card processed
@@ -203,7 +203,7 @@ If `card_type_cache.json` is lost or you need to rebuild it from the existing `.
 cd etc/parsing-scripts
 
 # 1. Format all sets — this queries Scryfall for every unique card and rebuilds the cache
-#    (~2,500 unique cards; at 250ms/call expect ~10-15 min)
+#    (~2,500 unique cards; at 1000ms/call expect ~45 min)
 python batch_reformat.py \
   ../JMP/ ../J22/ ../J25/ ../TLA/ \
   ../ONE/ ../DMU/ ../BRO/ ../MOM/ \
@@ -233,7 +233,7 @@ python generate_token_index.py
 **Tips:**
 - `batch_reformat.py` uses `--load-cache` + `--save-cache` together so it picks up any partial cache and saves incrementally as it goes.
 - `add_token_data.py` and `update_token_keywords.py` both save every 25 cards, so interrupted runs can be safely resumed.
-- The `--delay` flag on all API scripts defaults to 250ms. Lower it (`--delay 100`) if Scryfall is responsive; raise it (`--delay 500`) if you're seeing errors.
+- The `--delay` flag on all API scripts defaults to 1000ms (double Scryfall's 500ms hard limit for `/cards/named`). Lower it with `--delay 500` if you need speed and are confident you won't hit limits.
 
 ---
 
@@ -295,7 +295,7 @@ Batch reformats deck lists with Scryfall API integration and shared caching.
 - Organizes cards by type (Creatures, Sorceries, Instants, Artifacts, Enchantments, Lands)
 - Normalizes special basic lands ("Above the Clouds Island" → "Island")
 - Handles multi-type cards correctly (Artifact Creature → Creatures)
-- Respects Scryfall rate limiting (100ms between requests)
+- Respects Scryfall rate limiting (1000ms default — double the 500ms hard limit for `/cards/named`)
 
 **Usage:**
 ```bash
@@ -554,9 +554,10 @@ Run `/process-new-set` once HTML is saved to `raw/`:
 ## Troubleshooting
 
 **Scryfall rate limiting:**
-- Default delay is 250ms between requests (adjustable with `--delay MS`)
-- Use cache to minimize API calls
-- Wait if you see connection errors
+- `/cards/named` hard limit is 2 req/s (500ms). Default delay is 1000ms — double that for safety.
+- Use `--delay 500` if you need speed and are confident you won't hit limits.
+- Use cache (`--load-cache`) to minimize API calls — cached cards skip Scryfall entirely.
+- If you see 429 errors, the scripts will auto-retry with backoff. Wait a minute before restarting.
 
 **Proxy errors:**
 - Network environment may block Scryfall

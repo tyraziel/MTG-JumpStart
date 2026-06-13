@@ -14,13 +14,13 @@ Usage:
     python add_token_data.py [options]
 
 Options:
-    --delay MS    Milliseconds between Scryfall API calls (default: 250)
+    --delay MS    Milliseconds between Scryfall API calls (default: 1000)
     --dry-run     Show what would be updated without modifying the cache
     --limit N     Only process first N uncached cards (useful for testing)
     --verbose     Print each card even if it has no tokens
 
 Examples:
-    # Backfill all missing cards with default 250ms delay
+    # Backfill all missing cards with default 1000ms delay
     python add_token_data.py
 
     # Test with first 10 cards at 500ms delay
@@ -40,9 +40,9 @@ from typing import Dict, List
 # Cache file location (same directory as this script)
 CACHE_FILE = Path(__file__).parent / "card_type_cache.json"
 
-# Default rate limit — 250ms between Scryfall API requests.
-# Scryfall asks for 50-100ms minimum; 250ms gives comfortable headroom.
-REQUEST_DELAY = 250 / 1000
+# Default rate limit — 1000ms between Scryfall API requests.
+# /cards/named hard limit is 2/sec (500ms); 1000ms is double that for safety.
+REQUEST_DELAY = 1000 / 1000
 
 # In-memory cache for token details, keyed by Scryfall URI.
 # Prevents fetching the same token more than once per run.
