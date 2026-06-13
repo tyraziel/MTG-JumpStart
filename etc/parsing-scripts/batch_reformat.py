@@ -241,22 +241,31 @@ def scryfall_get(url: str, **kwargs) -> requests.Response:
     GET a Scryfall URL with rate-limit delay and automatic 429 backoff.
 
     Retries up to 4 times on 429, doubling the wait each time starting at 5s.
-    Raises on any other error.
+    Exits with an error message if all retries are exhausted.
+    Raises on any other HTTP error.
     """
     time.sleep(REQUEST_DELAY)
     backoff = 5
     for attempt in range(5):
         response = requests.get(url, headers=HEADERS, timeout=10, **kwargs)
-        if response.status_code != 429:
+        if response.status_code == 429:
+            if attempt == 4:
+                print("\n" + "="*60, file=sys.stderr)
+                print("✗ RATE LIMITED — all retries exhausted.", file=sys.stderr)
+                print("Double-check current Scryfall API rate limits:", file=sys.stderr)
+                print("  https://scryfall.com/docs/api/rate-limits", file=sys.stderr)
+                print("The script has stopped. Lower --delay or wait before retrying.", file=sys.stderr)
+                print("="*60, file=sys.stderr)
+                sys.exit(1)
+            retry_after = int(response.headers.get("Retry-After", backoff))
+            wait = max(retry_after, backoff)
+            print(f"  [429] Rate limited — waiting {wait}s before retry {attempt + 1}/4...", file=sys.stderr)
+            time.sleep(wait)
+            backoff *= 2
+        else:
             response.raise_for_status()
             return response
-        retry_after = int(response.headers.get("Retry-After", backoff))
-        wait = max(retry_after, backoff)
-        print(f"  [429] Rate limited — waiting {wait}s before retry {attempt + 1}/4...", file=sys.stderr)
-        time.sleep(wait)
-        backoff *= 2
-    response.raise_for_status()  # exhausted retries
-    return response  # unreachable but satisfies type checkers
+    sys.exit(1)  # unreachable
 
 
 def fetch_token_details(token_uri: str, token_name: str = "") -> Dict:
