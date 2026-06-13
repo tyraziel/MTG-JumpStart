@@ -16,7 +16,7 @@ Usage:
     python update_token_keywords.py [options]
 
 Options:
-    --delay MS    Milliseconds between Scryfall API calls (default: 250)
+    --delay MS    Milliseconds between Scryfall API calls (default: 1000)
     --dry-run     Show what would be updated without modifying the cache
     --limit N     Only process first N cards needing update (for testing)
     --verbose     Print each token even when no keywords found
@@ -37,8 +37,8 @@ from typing import Dict, List, Optional
 CACHE_FILE = Path(__file__).parent / "card_type_cache.json"
 SCRYFALL_NAMED = "https://api.scryfall.com/cards/named"
 
-# 250ms default — well within Scryfall's guidelines
-REQUEST_DELAY = 250 / 1000
+# 1000ms default — double Scryfall's 500ms hard limit for /cards/named
+REQUEST_DELAY = 1000 / 1000
 
 # In-memory cache keyed by token URI to avoid re-fetching the same token
 # across multiple cards (e.g. many cards create "Soldier" tokens)
