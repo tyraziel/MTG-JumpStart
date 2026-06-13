@@ -482,25 +482,27 @@ Required packages:
 
 ## Typical Workflow Example
 
-Import and format a new JumpStart set (e.g., Khans):
+> **Tip:** Use the `/process-new-set` Claude skill to run this interactively — it handles format detection, parsing, token backfill, JSON generation, and spot-checking in one guided flow.
+
+Import and format a new JumpStart set (e.g., MSH):
 
 ```bash
-# 1. Save HTML from Wizards page
-curl "https://magic.wizards.com/..." > raw/KHN-HTML-DECKLISTS.txt
+# 1. Save HTML from Wizards page to raw/
+# See raw/README.md for source URLs
 
 # 2. Identify HTML format by checking the file
-head -20 raw/KHN-HTML-DECKLISTS.txt
+head -40 raw/MSH-HTML-DECKLISTS.txt
 
 # 3. Parse using appropriate parser (assume deck-list format)
 cd etc/parsing-scripts
-python parse_deck_list_format.py ../../raw/KHN-HTML-DECKLISTS.txt ../../etc/KHN
+python parse_deck_list_format.py ../../raw/MSH-HTML-DECKLISTS.txt ../../etc/MSH
 
 # 4. Format with Scryfall (use cache from previous runs)
-python batch_reformat.py ../../etc/KHN/ --load-cache --save-cache
+python batch_reformat.py ../MSH/ --load-cache --save-cache
 
 # 5. Verify output
-ls -l ../../etc/KHN/
-head -20 ../../etc/KHN/"THEME NAME (1).txt"
+ls -l ../MSH/
+head -20 "../MSH/THEME NAME (1).txt"
 ```
 
 ## Cache Management
@@ -530,27 +532,29 @@ rm card_type_cache.json
 
 ## Set Status
 
-### Fully Formatted (Standard Format)
+### Complete (Formatted + JSON Generated)
 - **JMP** - JumpStart 2020 (121 decks)
 - **J22** - JumpStart 2022 (121 decks)
-
-### Raw Format (Needs Reformatting)
-Run `batch_reformat.py` on these:
-- **J25** - JumpStart 2025 / Foundations (121 decks)
-- **TLA** - Avatar: The Last Airbender (68 decks)
+- **J25** - JumpStart Foundations (121 decks)
+- **TLA** - Avatar: The Last Airbender (66 decks)
 - **ONE** - Phyrexia: All Will Be One (10 decks)
 - **DMU** - Dominaria United (10 decks)
-- **BRO** - Brothers' War (10 decks)
+- **BRO** - The Brothers' War (10 decks)
 - **MOM** - March of the Machine (10 decks)
-- **LTR** - Lord of the Rings (20 decks)
+- **LTR** - The Lord of the Rings (20 decks)
 - **CLU** - Ravnica: Clue Edition (20 decks)
-- **FDN** - Foundations Beginner Box (8 decks)
+- **FDN** - Foundations Beginner Box (10 decks)
 - **TLB** - Avatar TLA Beginner Box (10 decks)
+
+### Pending (HTML not yet saved)
+Run `/process-new-set` once HTML is saved to `raw/`:
+- **MSH** - Marvel Super Heroes — https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+- **MSB** - Marvel Super Heroes Beginner Box — https://magic.wizards.com/en/news/announcements/marvel-super-heroes-beginner-box-contents
 
 ## Troubleshooting
 
 **Scryfall rate limiting:**
-- Script respects 100ms delay between requests
+- Default delay is 250ms between requests (adjustable with `--delay MS`)
 - Use cache to minimize API calls
 - Wait if you see connection errors
 
