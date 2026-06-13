@@ -259,7 +259,7 @@ def scryfall_get(url: str, **kwargs) -> requests.Response:
     return response  # unreachable but satisfies type checkers
 
 
-def fetch_token_details(token_uri: str) -> Dict:
+def fetch_token_details(token_uri: str, token_name: str = "") -> Dict:
     """
     Fetch P/T and colors for a token card from Scryfall using its URI.
 
@@ -273,6 +273,8 @@ def fetch_token_details(token_uri: str) -> Dict:
         return token_detail_cache[token_uri]
 
     try:
+        label = token_name or token_uri.split("/")[-1]
+        print(f"  ⟳ Scryfall (token): {label}", file=sys.stderr)
         response = scryfall_get(token_uri)
         data = response.json()
 
@@ -330,6 +332,7 @@ def get_card_data(card_name: str) -> Dict:
 
     # Check cache first
     if card_name in card_cache:
+        print(f"  [cache] {card_name}", file=sys.stderr)
         return card_cache[card_name]
 
     # Skip special placeholder cards — set skip_reason so future runs don't retry
@@ -341,7 +344,8 @@ def get_card_data(card_name: str) -> Dict:
         print(f"  [skip] '{card_name}' — placeholder_slot", file=sys.stderr)
         return card_data
 
-    # Query Scryfall
+    # Query Scryfall (1000ms delay enforced inside scryfall_get)
+    print(f"  ⟳ Scryfall: {card_name}", file=sys.stderr)
     try:
         response = scryfall_get(SCRYFALL_API, params={"exact": card_name})
 
@@ -380,7 +384,7 @@ def get_card_data(card_name: str) -> Dict:
                 # Fetch P/T and colors from the token's own card object
                 token_uri = part.get("uri", "")
                 if token_uri:
-                    details = fetch_token_details(token_uri)
+                    details = fetch_token_details(token_uri, token_name=token_info["name"])
                     if details.get("colors") is not None:
                         token_info["colors"] = details["colors"]
                     if details.get("power") is not None:
