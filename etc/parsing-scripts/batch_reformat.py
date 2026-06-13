@@ -394,8 +394,11 @@ def get_card_data(card_name: str) -> Dict:
 
         card_cache[card_name] = card_data
 
-        token_note = f" [{len(tokens)} token(s)]" if tokens else ""
-        print(f"✓ {card_name}: {type_line} -> {card_type}{token_note}", file=sys.stderr)
+        print(f"✓ {card_name}: {type_line} -> {card_type}", file=sys.stderr)
+        for token in tokens:
+            colors = "".join(token.get("colors", [])) or "C"
+            pt = f" {token['power']}/{token['toughness']}" if "power" in token else ""
+            print(f"  → token: {token['name']} [{colors}{pt}]", file=sys.stderr)
         return card_data
 
     except requests.exceptions.RequestException as e:
