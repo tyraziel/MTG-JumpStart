@@ -78,7 +78,7 @@ python add_token_data.py
 python update_token_keywords.py
 
 # 3. Generate individual deck JSON files from the .txt files + cache
-python generate_json_decks.py ../JMP/ ../J22/ ../J25/ ../TLA/ ../ONE/ ../DMU/ ../BRO/ ../MOM/ ../LTR/ ../CLU/ ../FDN/ ../TLB/
+python generate_json_decks.py ../JMP/ ../J22/ ../J25/ ../TLA/ ../ONE/ ../DMU/ ../BRO/ ../MOM/ ../LTR/ ../CLU/ ../FDN/ ../TLB/ ../MSH/ ../MSB/
 
 # 4. Generate the master combined JSON (all decks + card index)
 python generate_combined_json.py
@@ -141,7 +141,7 @@ python generate_json_decks.py <set_dir>... [--dry-run]
 python generate_json_decks.py ../TLA/
 
 # All sets at once
-python generate_json_decks.py ../JMP/ ../J22/ ../J25/ ../TLA/ ../ONE/ ../DMU/ ../BRO/ ../MOM/ ../LTR/ ../CLU/ ../FDN/ ../TLB/
+python generate_json_decks.py ../JMP/ ../J22/ ../J25/ ../TLA/ ../ONE/ ../DMU/ ../BRO/ ../MOM/ ../LTR/ ../CLU/ ../FDN/ ../TLB/ ../MSH/ ../MSB/
 
 # Preview without writing
 python generate_json_decks.py ../J25/ --dry-run
@@ -220,7 +220,8 @@ python update_token_keywords.py
 python generate_json_decks.py \
   ../JMP/ ../J22/ ../J25/ ../TLA/ \
   ../ONE/ ../DMU/ ../BRO/ ../MOM/ \
-  ../LTR/ ../CLU/ ../FDN/ ../TLB/
+  ../LTR/ ../CLU/ ../FDN/ ../TLB/ \
+  ../MSH/ ../MSB/
 
 # 5. Regenerate combined JSON
 python generate_combined_json.py
