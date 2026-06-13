@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "generated": "2026-04-27T18:44:49.797424+00:00",
+    "generated": "2026-06-13T12:54:35.366176+00:00",
     "total_decks": 529,
     "total_unique_cards": 2889,
     "sets": [
@@ -16,7 +16,8 @@
       "LTR",
       "CLU",
       "FDN",
-      "TLB"
+      "TLB",
+      "FIN"
     ],
     "set_names": {
       "JMP": "JumpStart 2020",
@@ -30,7 +31,8 @@
       "LTR": "The Lord of the Rings",
       "CLU": "Ravnica: Clue Edition",
       "FDN": "Foundations Beginner Box",
-      "TLB": "Avatar TLA Beginner Box"
+      "TLB": "Avatar TLA Beginner Box",
+      "FIN": "Final Fantasy"
     },
     "deck_counts": {
       "JMP": 121,
@@ -44,7 +46,8 @@
       "LTR": 20,
       "CLU": 20,
       "FDN": 10,
-      "TLB": 10
+      "TLB": 10,
+      "FIN": 0
     }
   },
   "decks": {
