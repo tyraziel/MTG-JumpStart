@@ -34,6 +34,11 @@ from typing import Dict, List, Tuple, Optional
 # Scryfall API endpoint
 SCRYFALL_API = "https://api.scryfall.com/cards/named"
 
+# Scryfall requires a descriptive User-Agent per their API guidelines
+HEADERS = {
+    "User-Agent": "MTG-JumpStart-DeckTracker/1.0 (github.com/vibecoder-1z3r0/mtg-jumpstart)"
+}
+
 # Rate limiting: 250ms default — well within Scryfall's 50-100ms guideline,
 # giving extra headroom to be a good API citizen. Configurable via --delay.
 REQUEST_DELAY = 250 / 1000  # 250ms between requests
@@ -246,7 +251,7 @@ def fetch_token_details(token_uri: str) -> Dict:
 
     try:
         time.sleep(REQUEST_DELAY)
-        response = requests.get(token_uri, timeout=10)
+        response = requests.get(token_uri, headers=HEADERS, timeout=10)
         response.raise_for_status()
         data = response.json()
 
@@ -318,7 +323,7 @@ def get_card_data(card_name: str) -> Dict:
     # Query Scryfall
     try:
         time.sleep(REQUEST_DELAY)  # Rate limiting
-        response = requests.get(SCRYFALL_API, params={"exact": card_name}, timeout=10)
+        response = requests.get(SCRYFALL_API, params={"exact": card_name}, headers=HEADERS, timeout=10)
         response.raise_for_status()
 
         data = response.json()
