@@ -101627,10 +101627,10 @@
         }
       ]
     },
-    "MOM:BROOD 1": {
+    "MOM:BROOD (1)": {
       "set": "MOM",
       "set_name": "March of the Machine",
-      "deck_name": "BROOD 1",
+      "deck_name": "BROOD (1)",
       "tokens": [
         {
           "name": "Incubator // Phyrexian",
@@ -101863,10 +101863,10 @@
         }
       ]
     },
-    "MOM:BROOD 2": {
+    "MOM:BROOD (2)": {
       "set": "MOM",
       "set_name": "March of the Machine",
-      "deck_name": "BROOD 2",
+      "deck_name": "BROOD (2)",
       "tokens": [
         {
           "name": "Incubator // Phyrexian",
@@ -102088,10 +102088,10 @@
         }
       ]
     },
-    "MOM:BUFF 1": {
+    "MOM:BUFF (1)": {
       "set": "MOM",
       "set_name": "March of the Machine",
-      "deck_name": "BUFF 1",
+      "deck_name": "BUFF (1)",
       "tokens": [
         {
           "name": "Incubator // Phyrexian",
@@ -102280,10 +102280,10 @@
         }
       ]
     },
-    "MOM:BUFF 2": {
+    "MOM:BUFF (2)": {
       "set": "MOM",
       "set_name": "March of the Machine",
-      "deck_name": "BUFF 2",
+      "deck_name": "BUFF (2)",
       "tokens": [
         {
           "name": "Incubator // Phyrexian",
@@ -102483,10 +102483,10 @@
         }
       ]
     },
-    "MOM:EXPENDABLE 1": {
+    "MOM:EXPENDABLE (1)": {
       "set": "MOM",
       "set_name": "March of the Machine",
-      "deck_name": "EXPENDABLE 1",
+      "deck_name": "EXPENDABLE (1)",
       "tokens": [
         {
           "name": "Incubator // Phyrexian",
@@ -102700,10 +102700,10 @@
         }
       ]
     },
-    "MOM:EXPENDABLE 2": {
+    "MOM:EXPENDABLE (2)": {
       "set": "MOM",
       "set_name": "March of the Machine",
-      "deck_name": "EXPENDABLE 2",
+      "deck_name": "EXPENDABLE (2)",
       "tokens": [
         {
           "name": "Incubator // Phyrexian",
@@ -102928,10 +102928,10 @@
         }
       ]
     },
-    "MOM:OVERACHIEVER 1": {
+    "MOM:OVERACHIEVER (1)": {
       "set": "MOM",
       "set_name": "March of the Machine",
-      "deck_name": "OVERACHIEVER 1",
+      "deck_name": "OVERACHIEVER (1)",
       "tokens": [
         {
           "name": "Elemental",
@@ -103126,10 +103126,10 @@
         }
       ]
     },
-    "MOM:OVERACHIEVER 2": {
+    "MOM:OVERACHIEVER (2)": {
       "set": "MOM",
       "set_name": "March of the Machine",
-      "deck_name": "OVERACHIEVER 2",
+      "deck_name": "OVERACHIEVER (2)",
       "tokens": [
         {
           "name": "Knight",
@@ -103328,10 +103328,10 @@
         }
       ]
     },
-    "MOM:REINFORCEMENT 1": {
+    "MOM:REINFORCEMENT (1)": {
       "set": "MOM",
       "set_name": "March of the Machine",
-      "deck_name": "REINFORCEMENT 1",
+      "deck_name": "REINFORCEMENT (1)",
       "tokens": [
         {
           "name": "Copy",
@@ -103556,10 +103556,10 @@
         }
       ]
     },
-    "MOM:REINFORCEMENT 2": {
+    "MOM:REINFORCEMENT (2)": {
       "set": "MOM",
       "set_name": "March of the Machine",
-      "deck_name": "REINFORCEMENT 2",
+      "deck_name": "REINFORCEMENT (2)",
       "tokens": [
         {
           "name": "Copy",
