@@ -1,0 +1,22 @@
+GRUUL CLANS (1)
+//Creatures (8)
+1 Gravel-Hide Goblin
+1 Stormblood Berserker
+1 Pyrewild Shaman
+1 Turret Ogre
+1 Furious Spinesplitter
+1 Chainwhip Cyclops
+1 Ripscale Predator
+1 Herald of Ilharg
+//Sorceries (2)
+1 Firespout
+1 Clan Defiance
+//Artifacts (1)
+1 Gruul Signet
+//Enchantments (1)
+1 Shiny Impetus
+//Lands (8)
+1 Thriving Bluff
+1 Gruul Guildgate
+1 Gruul Turf
+5 Mountain

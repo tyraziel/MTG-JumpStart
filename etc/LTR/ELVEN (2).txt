@@ -1,0 +1,20 @@
+ELVEN (2)
+//Creatures (7)
+1 Mirkwood Channeler
+1 Mirkwood Spider
+1 Lothlórien Lookout
+1 Chance-Met Elves
+1 Galadhrim Guide
+1 Celeborn the Wise
+1 Quickbeam, Upstart Ent
+//Sorceries (1)
+1 Revive the Shire
+//Instants (2)
+1 Bombadil's Song
+1 Stew the Coneys
+//Artifacts (1)
+1 Ent-Draught Basin
+//Lands (8)
+8 Forest
+//Special
+1 Rare or mythic rare

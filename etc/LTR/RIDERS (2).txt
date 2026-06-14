@@ -1,0 +1,21 @@
+RIDERS (2)
+//Creatures (6)
+1 Riders of the Mark
+1 Rohirrim Lancer
+1 Haradrim Spearmaster
+1 Relentless Rohirrim
+1 Erkenbrand, Lord of Westfold
+1 Éomer of the Riddermark
+//Sorceries (2)
+1 Rally at the Hornburg
+1 Fear, Fire, Foes!
+//Instants (1)
+1 Smite the Deathless
+//Artifacts (1)
+1 Gimli's Axe
+//Enchantments (1)
+1 Book of Mazarbul
+//Lands (8)
+8 Mountain
+//Special
+1 Rare or mythic rare
