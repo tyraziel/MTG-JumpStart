@@ -1,0 +1,304 @@
+{
+  "deck_name": "SELESNYA CONCLAVE (2)",
+  "set": "CLU",
+  "tokens": [
+    {
+      "name": "Copy",
+      "type_line": "Token",
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
+    },
+    {
+      "name": "Elemental",
+      "type_line": "Token Creature \u2014 Elemental",
+      "colors": [
+        "G",
+        "W"
+      ],
+      "power": "*",
+      "toughness": "*",
+      "keywords": [],
+      "oracle_id": "9f790267-5be9-41aa-be69-f87a8ce5a29e"
+    },
+    {
+      "name": "Saproling",
+      "type_line": "Token Creature \u2014 Saproling",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "2b7dba01-b08c-4218-9fc1-da55559d9155"
+    },
+    {
+      "name": "Spirit",
+      "type_line": "Token Creature \u2014 Spirit",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "dc4e2134-f0c2-49aa-9ea3-ebf83af1445c"
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Transluminant",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Dryad Shaman",
+      "mana_cost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Spirit",
+          "type_line": "Token Creature \u2014 Spirit",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "dc4e2134-f0c2-49aa-9ea3-ebf83af1445c"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Vernadi Shieldmate",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Human Soldier",
+      "mana_cost": "{1}{G/W}",
+      "cmc": 2.0,
+      "colors": [
+        "G",
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Selesnya Guildmage",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Elf Wizard",
+      "mana_cost": "{G/W}{G/W}",
+      "cmc": 2.0,
+      "colors": [
+        "G",
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Saproling",
+          "type_line": "Token Creature \u2014 Saproling",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "2b7dba01-b08c-4218-9fc1-da55559d9155"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Yeva's Forcemage",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Elf Shaman",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Sumala Rumblers",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Wurm",
+      "mana_cost": "{2}{G/W}{G/W}",
+      "cmc": 4.0,
+      "colors": [
+        "G",
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "*",
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Copy",
+          "type_line": "Token",
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Affectionate Indrik",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Beast",
+      "mana_cost": "{5}{G}",
+      "cmc": 6.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Vernal Sovereign",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Elemental Elk",
+      "mana_cost": "{4}{G}{W}",
+      "cmc": 6.0,
+      "colors": [
+        "G",
+        "W"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Elemental",
+          "type_line": "Token Creature \u2014 Elemental",
+          "colors": [
+            "G",
+            "W"
+          ],
+          "power": "*",
+          "toughness": "*",
+          "keywords": [],
+          "oracle_id": "9f790267-5be9-41aa-be69-f87a8ce5a29e"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Beast Whisperer",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Elf Druid",
+      "mana_cost": "{2}{G}{G}",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Overcome",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{3}{G}{G}",
+      "cmc": 5.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Vines of the Recluse",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{G}",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Band Together",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Selesnya Signet",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Grove",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Selesnya Guildgate",
+      "type": "Lands",
+      "type_line": "Land \u2014 Gate",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Selesnya Sanctuary",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 5,
+      "name": "Forest",
+      "type": "Lands",
+      "type_line": "Basic Land \u2014 Forest",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "deck_name": "SELESNYA CONCLAVE (1)",
+  "set": "CLU",
+  "tokens": [
+    {
+      "name": "Angel",
+      "type_line": "Token Creature \u2014 Angel",
+      "colors": [
+        "W"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "40c64f08-ab2f-4933-8e0e-d1a1c729008f"
+    },
+    {
+      "name": "Bird",
+      "type_line": "Token Creature \u2014 Bird",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "b1a2b096-a440-4ef9-ab2a-059c79999297"
+    },
+    {
+      "name": "Copy",
+      "type_line": "Token",
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
+    },
+    {
+      "name": "Saproling",
+      "type_line": "Token Creature \u2014 Saproling",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "keywords": [],
+      "oracle_id": "2b7dba01-b08c-4218-9fc1-da55559d9155"
+    },
+    {
+      "name": "Soldier",
+      "type_line": "Token Creature \u2014 Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "keywords": [
+        "Lifelink"
+      ],
+      "oracle_id": "a5ab7f2d-a434-4342-a178-754bdd0181b6"
+    },
+    {
+      "name": "Spirit",
+      "type_line": "Token Creature \u2014 Spirit",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "dc4e2134-f0c2-49aa-9ea3-ebf83af1445c"
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Doomed Traveler",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Human Soldier",
+      "mana_cost": "{W}",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Spirit",
+          "type_line": "Token Creature \u2014 Spirit",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "dc4e2134-f0c2-49aa-9ea3-ebf83af1445c"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "War Screecher",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Bird",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Selesnya Guildmage",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Elf Wizard",
+      "mana_cost": "{G/W}{G/W}",
+      "cmc": 2.0,
+      "colors": [
+        "G",
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Saproling",
+          "type_line": "Token Creature \u2014 Saproling",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "keywords": [],
+          "oracle_id": "2b7dba01-b08c-4218-9fc1-da55559d9155"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Seller of Songbirds",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Human",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Bird",
+          "type_line": "Token Creature \u2014 Bird",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "b1a2b096-a440-4ef9-ab2a-059c79999297"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Sumala Rumblers",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Wurm",
+      "mana_cost": "{2}{G/W}{G/W}",
+      "cmc": 4.0,
+      "colors": [
+        "G",
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "*",
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Copy",
+          "type_line": "Token",
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Urbis Protector",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Human Cleric",
+      "mana_cost": "{4}{W}{W}",
+      "cmc": 6.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "1",
+      "tokens": [
+        {
+          "name": "Angel",
+          "type_line": "Token Creature \u2014 Angel",
+          "colors": [
+            "W"
+          ],
+          "power": "4",
+          "toughness": "4",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "40c64f08-ab2f-4933-8e0e-d1a1c729008f"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Conclave Evangelist",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Elephant Cleric",
+      "mana_cost": "{3}{G/W}{G/W}",
+      "cmc": 5.0,
+      "colors": [
+        "G",
+        "W"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Copy",
+          "type_line": "Token",
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "88c78601-87f0-45e7-b2e0-e7ffcfb1cb70"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Trostani Discordant",
+      "type": "Creatures",
+      "type_line": "Legendary Creature \u2014 Dryad",
+      "mana_cost": "{3}{G}{W}",
+      "cmc": 5.0,
+      "colors": [
+        "G",
+        "W"
+      ],
+      "rarity": "mythic",
+      "power": "1",
+      "toughness": "4",
+      "tokens": [
+        {
+          "name": "Soldier",
+          "type_line": "Token Creature \u2014 Soldier",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "keywords": [
+            "Lifelink"
+          ],
+          "oracle_id": "a5ab7f2d-a434-4342-a178-754bdd0181b6"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Gods Willing",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{W}",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Rootborn Defenses",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Martial Impetus",
+      "type": "Enchantments",
+      "type_line": "Enchantment \u2014 Aura",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Conclave Tribunal",
+      "type": "Enchantments",
+      "type_line": "Enchantment",
+      "mana_cost": "{3}{W}",
+      "cmc": 4.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Heath",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Selesnya Guildgate",
+      "type": "Lands",
+      "type_line": "Land \u2014 Gate",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Selesnya Sanctuary",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 5,
+      "name": "Plains",
+      "type": "Lands",
+      "type_line": "Basic Land \u2014 Plains",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

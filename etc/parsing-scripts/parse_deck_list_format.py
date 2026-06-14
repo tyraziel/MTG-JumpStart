@@ -72,6 +72,9 @@ def parse_html(html_content, output_dir):
         # Remove apostrophes and normalize spacing
         filename = deck_title.upper().replace("'", '')
 
+        # Normalize "THEME 1" -> "THEME (1)" — some sets use space+number without parens
+        filename = re.sub(r' (\d+)$', r' (\1)', filename)
+
         # Track base theme (without variation numbers)
         base_theme = re.sub(r' \(\d+\)$', '', filename)
         unique_themes.add(base_theme)

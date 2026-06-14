@@ -1,0 +1,278 @@
+{
+  "deck_name": "BOROS LEGION (1)",
+  "set": "CLU",
+  "tokens": [
+    {
+      "name": "Angel",
+      "type_line": "Token Creature \u2014 Angel",
+      "colors": [
+        "W"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "keywords": [
+        "Flying",
+        "Vigilance"
+      ],
+      "oracle_id": "29ff8699-53d8-413b-8a3c-0e3ea1e13ff0"
+    },
+    {
+      "name": "Clue",
+      "type_line": "Token Artifact \u2014 Clue",
+      "colors": [],
+      "keywords": [],
+      "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
+    },
+    {
+      "name": "Soldier",
+      "type_line": "Token Creature \u2014 Soldier",
+      "colors": [
+        "W"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "keywords": [
+        "Vigilance"
+      ],
+      "oracle_id": "01e023e5-38bc-4203-aecb-6b2de54b03ea"
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Novice Inspector",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Human Detective",
+      "mana_cost": "{W}",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "2",
+      "tokens": [
+        {
+          "name": "Clue",
+          "type_line": "Token Artifact \u2014 Clue",
+          "colors": [],
+          "keywords": [],
+          "oracle_id": "496e1083-c792-40a4-adf4-fec1d559cd5e"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Fresh-Faced Recruit",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Human Soldier",
+      "mana_cost": "{1}{R/W}",
+      "cmc": 2.0,
+      "colors": [
+        "R",
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Sunhome Stalwart",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Human Soldier",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Roc Charger",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Bird",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "1",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Parhelion Patrol",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Human Knight",
+      "mana_cost": "{3}{W}",
+      "cmc": 4.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "3"
+    },
+    {
+      "quantity": 1,
+      "name": "Ordruun Mentor",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Minotaur Soldier",
+      "mana_cost": "{2}{R/W}",
+      "cmc": 3.0,
+      "colors": [
+        "R",
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Finale of Glory",
+      "type": "Sorceries",
+      "type_line": "Sorcery",
+      "mana_cost": "{X}{W}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "mythic",
+      "tokens": [
+        {
+          "name": "Soldier",
+          "type_line": "Token Creature \u2014 Soldier",
+          "colors": [
+            "W"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "keywords": [
+            "Vigilance"
+          ],
+          "oracle_id": "01e023e5-38bc-4203-aecb-6b2de54b03ea"
+        },
+        {
+          "name": "Angel",
+          "type_line": "Token Creature \u2014 Angel",
+          "colors": [
+            "W"
+          ],
+          "power": "4",
+          "toughness": "4",
+          "keywords": [
+            "Flying",
+            "Vigilance"
+          ],
+          "oracle_id": "29ff8699-53d8-413b-8a3c-0e3ea1e13ff0"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Integrity",
+      "type": "Instants",
+      "type_line": "Instant // Instant",
+      "mana_cost": "{R/W} // {2}{R}{W}",
+      "cmc": 5.0,
+      "colors": [
+        "R",
+        "W"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Mighty Leap",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Boros Signet",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Aegis of the Legion",
+      "type": "Artifacts",
+      "type_line": "Artifact \u2014 Equipment",
+      "mana_cost": "{R}{W}",
+      "cmc": 2.0,
+      "colors": [
+        "R",
+        "W"
+      ],
+      "rarity": "rare"
+    },
+    {
+      "quantity": 1,
+      "name": "Martial Impetus",
+      "type": "Enchantments",
+      "type_line": "Enchantment \u2014 Aura",
+      "mana_cost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Heath",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Boros Guildgate",
+      "type": "Lands",
+      "type_line": "Land \u2014 Gate",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Boros Garrison",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 5,
+      "name": "Plains",
+      "type": "Lands",
+      "type_line": "Basic Land \u2014 Plains",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}

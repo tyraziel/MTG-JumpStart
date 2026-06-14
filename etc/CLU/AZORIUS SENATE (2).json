@@ -1,0 +1,234 @@
+{
+  "deck_name": "AZORIUS SENATE (2)",
+  "set": "CLU",
+  "tokens": [
+    {
+      "name": "Thopter",
+      "type_line": "Token Artifact Creature \u2014 Thopter",
+      "colors": [],
+      "power": "1",
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ],
+      "oracle_id": "7c0b6b53-4ddb-4bb5-8a26-0041b2006d3f"
+    }
+  ],
+  "cards": [
+    {
+      "quantity": 1,
+      "name": "Owl Familiar",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Bird",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Jeering Homunculus",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Homunculus",
+      "mana_cost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "0",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Cloudkin Seer",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Elemental Wizard",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "common",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "quantity": 1,
+      "name": "Rescuer Sphinx",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Sphinx",
+      "mana_cost": "{2}{U}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Portal Manipulator",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Human Wizard",
+      "mana_cost": "{2}{W/U}{W/U}",
+      "cmc": 4.0,
+      "colors": [
+        "U",
+        "W"
+      ],
+      "rarity": "uncommon",
+      "power": "3",
+      "toughness": "2"
+    },
+    {
+      "quantity": 1,
+      "name": "Suppressor Skyguard",
+      "type": "Creatures",
+      "type_line": "Creature \u2014 Human Knight",
+      "mana_cost": "{2}{W}{U}",
+      "cmc": 4.0,
+      "colors": [
+        "U",
+        "W"
+      ],
+      "rarity": "rare",
+      "power": "2",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Lavinia of the Tenth",
+      "type": "Creatures",
+      "type_line": "Legendary Creature \u2014 Human Soldier",
+      "mana_cost": "{3}{W}{U}",
+      "cmc": 5.0,
+      "colors": [
+        "U",
+        "W"
+      ],
+      "rarity": "rare",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "quantity": 1,
+      "name": "Depose",
+      "type": "Instants",
+      "type_line": "Instant // Instant",
+      "mana_cost": "{1}{W/U} // {2}{W}{U}",
+      "cmc": 6.0,
+      "colors": [
+        "U",
+        "W"
+      ],
+      "rarity": "uncommon",
+      "tokens": [
+        {
+          "name": "Thopter",
+          "type_line": "Token Artifact Creature \u2014 Thopter",
+          "colors": [],
+          "power": "1",
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ],
+          "oracle_id": "7c0b6b53-4ddb-4bb5-8a26-0041b2006d3f"
+        }
+      ]
+    },
+    {
+      "quantity": 1,
+      "name": "Turn to Mist",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{1}{W/U}",
+      "cmc": 2.0,
+      "colors": [
+        "U",
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Code of Constraint",
+      "type": "Instants",
+      "type_line": "Instant",
+      "mana_cost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Azorius Signet",
+      "type": "Artifacts",
+      "type_line": "Artifact",
+      "mana_cost": "{2}",
+      "cmc": 2.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 1,
+      "name": "Curse of Chains",
+      "type": "Enchantments",
+      "type_line": "Enchantment \u2014 Aura",
+      "mana_cost": "{1}{W/U}",
+      "cmc": 2.0,
+      "colors": [
+        "U",
+        "W"
+      ],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Thriving Isle",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Azorius Guildgate",
+      "type": "Lands",
+      "type_line": "Land \u2014 Gate",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    },
+    {
+      "quantity": 1,
+      "name": "Azorius Chancery",
+      "type": "Lands",
+      "type_line": "Land",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "uncommon"
+    },
+    {
+      "quantity": 5,
+      "name": "Island",
+      "type": "Lands",
+      "type_line": "Basic Land \u2014 Island",
+      "mana_cost": "",
+      "cmc": 0.0,
+      "colors": [],
+      "rarity": "common"
+    }
+  ]
+}
