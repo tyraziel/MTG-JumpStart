@@ -19759,10 +19759,10 @@
         }
       ]
     },
-    "JMP:SPELLINGCASTING (1)": {
+    "JMP:SPELLCASTING (1)": {
       "set": "JMP",
       "set_name": "JumpStart 2020",
-      "deck_name": "SPELLINGCASTING (1)",
+      "deck_name": "SPELLCASTING (1)",
       "tokens": [
         {
           "name": "Goblin Wizard",

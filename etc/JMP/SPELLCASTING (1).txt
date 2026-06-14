@@ -1,4 +1,4 @@
-SPELLINGCASTING (1)
+SPELLCASTING (1)
 //Creatures (6)
 1 Thermo-Alchemist
 1 Living Lightning
